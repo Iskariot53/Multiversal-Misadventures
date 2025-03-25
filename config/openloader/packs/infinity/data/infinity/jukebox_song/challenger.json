@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.ivory.challenger"
+	},
+	"length_in_seconds": 174.31511,
+	"description": {
+		"translate": "infinity:subtitles.disc.ivory.challenger"
+	},
+	"comparator_output": 15
+}

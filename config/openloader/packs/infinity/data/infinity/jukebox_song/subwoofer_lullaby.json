@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.subwoofer_lullaby"
+	},
+	"length_in_seconds": 209.18922,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.subwoofer_lullaby"
+	},
+	"comparator_output": 15
+}

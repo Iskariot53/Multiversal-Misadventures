@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.dead_voxel"
+	},
+	"length_in_seconds": 303.7975,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.dead_voxel"
+	},
+	"comparator_output": 15
+}

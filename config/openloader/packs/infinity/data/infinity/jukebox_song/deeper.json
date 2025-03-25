@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.deeper"
+	},
+	"length_in_seconds": 303.44,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.deeper"
+	},
+	"comparator_output": 15
+}

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.dragon_fish"
+	},
+	"length_in_seconds": 177.40045,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.dragon_fish"
+	},
+	"comparator_output": 15
+}

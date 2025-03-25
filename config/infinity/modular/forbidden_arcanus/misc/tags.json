@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:blacksmith_gavel_unaffected"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:hephaestus_forges"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magical_farmland_blacklisted"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:mysterywood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:pedestals"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:rune_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_stones"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.boss"
+	},
+	"length_in_seconds": 344.15097,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.boss"
+	},
+	"comparator_output": 15
+}

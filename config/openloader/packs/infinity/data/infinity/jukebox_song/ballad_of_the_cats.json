@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.ballad_of_the_cats"
+	},
+	"length_in_seconds": 280.0,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.ballad_of_the_cats"
+	},
+	"comparator_output": 15
+}

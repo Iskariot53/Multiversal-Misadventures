@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aureal_mote"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magic_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magic_explosion_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magnetic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soul"
+		}
+	]
+}

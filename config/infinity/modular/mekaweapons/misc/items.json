@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:bow_limb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:bow_riser"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:katana_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:magnetizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:meka_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:meka_tana"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:module_arrowenergy_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:module_attackamplification_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:module_autofire_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:module_drawspeed_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekaweapons:module_gravitydampener_unit"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.concrete_halls"
+	},
+	"length_in_seconds": 259.45947,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.concrete_halls"
+	},
+	"comparator_output": 15
+}

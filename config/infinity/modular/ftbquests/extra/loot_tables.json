@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "ftbquests:blocks/loot_crate_opener"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "ftbquests:blocks/screen_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "ftbquests:blocks/screen_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "ftbquests:blocks/screen_5"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "ftbquests:blocks/screen_7"
+			}
+		}
+	]
+}

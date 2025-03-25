@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10262488,
+				"Name": "arphex:crawling_canopy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10470579,
+				"Name": "arphex:cryptic_complex"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10395047,
+				"Name": "arphex:decadent_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11966392,
+				"Name": "arphex:tormented_tunnels"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6638694,
+				"Name": "arphex:webbed_wasteland"
+			}
+		}
+	]
+}

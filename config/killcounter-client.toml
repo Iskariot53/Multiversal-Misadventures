@@ -1,0 +1,5 @@
+[client]
+	#Display kill streak messages
+	"show Streak Messages" = true
+	#Display death messages
+	"show Death Messages" = true

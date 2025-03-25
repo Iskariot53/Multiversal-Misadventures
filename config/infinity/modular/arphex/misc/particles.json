@@ -1,0 +1,180 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arphex:abyss_destruction"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:abyssal_crystal_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:blood_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:charcoal"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:charred_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:death_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:eternal_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:fire_opal_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:geode_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:ghost_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:glow_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:glow_sense_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:glow_sense_neutral"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:glow_sense_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:glow_sense_tamed"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:golden_opal"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:heavy_purple_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:heavy_red_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:heavy_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:heavy_white_smokes"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:huge_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:infernal_shard_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:locust_swarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:long_heavy_purple_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:purple_glints"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:rope_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:scorch_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:small_time"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:solid_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:solid_red_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:solid_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spider_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spider_blood_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:thin_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:time_splash_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:tiny_moth"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:tiny_spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:torment_spiralling"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:torment_spiralling_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:tormentor_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:white_glow_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:white_particle_short"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:white_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:whitecoal"
+		}
+	]
+}

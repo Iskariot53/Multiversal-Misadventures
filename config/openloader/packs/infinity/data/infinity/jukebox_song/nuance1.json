@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.nuance1"
+	},
+	"length_in_seconds": 180.43335,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.nuance1"
+	},
+	"comparator_output": 15
+}

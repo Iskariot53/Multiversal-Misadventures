@@ -1,0 +1,81 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "apotheosis:blocks/augmenting_table"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "apotheosis:blocks/gem_cutting_table"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "apotheosis:blocks/reforging_table"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "apotheosis:blocks/salvaging_table"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "apotheosis:blocks/simple_reforging_table"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "apotheosis:chests/chest_valuable"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "apotheosis:chests/spawner_brutal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "apotheosis:chests/spawner_swarm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "apotheosis:chests/tome_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "apotheosis:entity/boss_drops"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "apotheosis:entity/treasure_goblin"
+			}
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:biofuel",
+				"Name": "industrialforegoing:biofuel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:essence",
+				"Name": "industrialforegoing:essence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:ether_gas",
+				"Name": "industrialforegoing:ether_gas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:fermented_ore_meat",
+				"Name": "industrialforegoing:fermented_ore_meat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:latex",
+				"Name": "industrialforegoing:latex"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:meat",
+				"Name": "industrialforegoing:meat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:pink_slime",
+				"Name": "industrialforegoing:pink_slime"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:raw_ore_meat",
+				"Name": "industrialforegoing:raw_ore_meat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:sewage",
+				"Name": "industrialforegoing:sewage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "industrialforegoing:sludge",
+				"Name": "industrialforegoing:sludge"
+			}
+		}
+	]
+}

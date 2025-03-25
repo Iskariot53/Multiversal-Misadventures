@@ -1,0 +1,6 @@
+#Spawning dimension
+#Value to be a valid id of a dimension you have in your game.
+#Vanilla values are: "minecraft:overworld", "minecraft:the_nether", and "minecraft:the_end"
+#Cave dimensions like the nether have spawn points generated like the overworld,
+#however, this doesn't make it 100% safe all the time. Even in vanilla you can spawn on top of magma blocks or lava for example (though unlikely).
+spawnDimension = "infinity:library"

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.creative3"
+	},
+	"length_in_seconds": 258.25235,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.creative3"
+	},
+	"comparator_output": 15
+}

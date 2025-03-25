@@ -1,0 +1,110 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "productivemetalworks:white_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:light_gray_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:gray_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:black_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:brown_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:red_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:orange_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:yellow_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:lime_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:green_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:light_blue_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:blue_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:cyan_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:purple_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:magenta_fire_bricks"
+				},
+				{
+					"Name": "productivemetalworks:pink_fire_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "productivemetalworks:white_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:light_gray_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:gray_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:black_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:brown_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:red_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:orange_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:yellow_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:lime_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:green_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:light_blue_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:blue_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:cyan_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:purple_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:magenta_foundry_window"
+				},
+				{
+					"Name": "productivemetalworks:pink_foundry_window"
+				}
+			]
+		}
+	]
+}

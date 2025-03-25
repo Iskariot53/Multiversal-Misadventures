@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.piano3"
+	},
+	"length_in_seconds": 87.376686,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.piano3"
+	},
+	"comparator_output": 15
+}

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.warmth"
+	},
+	"length_in_seconds": 239.46771,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.warmth"
+	},
+	"comparator_output": 15
+}

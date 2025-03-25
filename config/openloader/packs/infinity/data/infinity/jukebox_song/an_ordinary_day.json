@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.an_ordinary_day"
+	},
+	"length_in_seconds": 251.29494,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.an_ordinary_day"
+	},
+	"comparator_output": 15
+}

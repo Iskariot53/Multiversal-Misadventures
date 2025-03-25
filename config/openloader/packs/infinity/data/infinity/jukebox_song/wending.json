@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.wending"
+	},
+	"length_in_seconds": 177.40045,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.wending"
+	},
+	"comparator_output": 15
+}

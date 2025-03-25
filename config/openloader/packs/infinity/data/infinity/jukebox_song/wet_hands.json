@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.wet_hands"
+	},
+	"length_in_seconds": 89.713875,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.wet_hands"
+	},
+	"comparator_output": 15
+}

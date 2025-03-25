@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.biome_fest"
+	},
+	"length_in_seconds": 382.94363,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.biome_fest"
+	},
+	"comparator_output": 15
+}

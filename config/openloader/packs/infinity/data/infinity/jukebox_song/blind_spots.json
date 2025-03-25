@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.blind_spots"
+	},
+	"length_in_seconds": 332.05322,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.blind_spots"
+	},
+	"comparator_output": 15
+}

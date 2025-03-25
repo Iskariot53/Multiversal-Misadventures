@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tombstone:decorative_graves"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:grave_marbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:graves"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:player_graves"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:prayable"
+		}
+	]
+}

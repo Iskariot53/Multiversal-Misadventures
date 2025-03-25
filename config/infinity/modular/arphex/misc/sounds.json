@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arphex:creepy_arthropod"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:creepy_arthropod_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:creepy_arthropod_tiny"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:flyingmoth1"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:flyingmoth2"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:heartbeats"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:hornetbuzzlong"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:hornetbuzzshort"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:horrorcrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:mothchase"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:mothchase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:mothscare"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:mothscream"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:mothscream2"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:rhinobeetlefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spidermothambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spidermothcroak"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spidermothcroak2"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spidermothcroak3"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:spidermothcroak4"
+		},
+		{
+			"weight": 1.0,
+			"key": "arphex:teleportermoth"
+		}
+	]
+}
