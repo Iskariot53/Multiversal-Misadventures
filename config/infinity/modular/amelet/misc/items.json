@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "amelet:box_amuleto"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:box_amuleto_super"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:box_amuleto_ultime"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:eon_e_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:eon_evil_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:eon_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:explosive_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:ferro_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:flash_ban_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:ghastly_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:iron_golem_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:na_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:nutria_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:reviil_evill_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:reviil_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:rotting_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:skeletal_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:stinging_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:teleporting_totem_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "amelet:tentacled_totem_of_undying"
+		}
+	]
+}
