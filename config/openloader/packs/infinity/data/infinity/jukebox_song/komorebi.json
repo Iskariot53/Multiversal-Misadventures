@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.komorebi"
+	},
+	"length_in_seconds": 287.64703,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.komorebi"
+	},
+	"comparator_output": 15
+}

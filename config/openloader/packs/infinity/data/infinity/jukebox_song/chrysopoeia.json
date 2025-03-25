@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.chrysopoeia"
+	},
+	"length_in_seconds": 87.376686,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.chrysopoeia"
+	},
+	"comparator_output": 15
+}

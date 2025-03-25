@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.one_more_day"
+	},
+	"length_in_seconds": 142.94205,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.one_more_day"
+	},
+	"comparator_output": 15
+}

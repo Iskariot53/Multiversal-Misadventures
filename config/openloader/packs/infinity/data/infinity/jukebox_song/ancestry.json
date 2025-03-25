@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.ancestry"
+	},
+	"length_in_seconds": 142.94205,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.ancestry"
+	},
+	"comparator_output": 15
+}

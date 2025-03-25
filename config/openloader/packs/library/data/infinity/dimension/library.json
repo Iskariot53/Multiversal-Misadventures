@@ -1,0 +1,51 @@
+{
+	"generator": {
+		"settings": {
+			"disable_mob_generation": false,
+			"default_fluid": {
+				"Name": "minecraft:air"
+			},
+			"noise_router": {
+				"vein_ridged": "infinity:vein_ridged",
+				"fluid_level_spread": 0.0,
+				"vegetation": "infinity:vegetation",
+				"vein_gap": "infinity:vein_gap",
+				"continents": "minecraft:overworld/continents",
+				"initial_density_without_jaggedness": 1.0,
+				"lava": 0.0,
+				"barrier": 0.0,
+				"depth": 0.0,
+				"ridges": "minecraft:overworld/ridges",
+				"erosion": "minecraft:overworld/erosion",
+				"temperature": "infinity:temperature",
+				"final_density": 1.0,
+				"vein_toggle": "infinity:vein_toggle",
+				"fluid_level_floodedness": 0.0
+			},
+			"legacy_random_source": false,
+			"noise": {
+				"size_horizontal": 2,
+				"size_vertical": 2,
+				"min_y": 0,
+				"height": 96
+			},
+			"sea_level": 0,
+			"ore_veins_enabled": false,
+			"aquifers_enabled": false,
+			"default_block": {
+				"Name": "minecraft:stone"
+			},
+			"spawn_target": [
+			],
+			"surface_rule": {
+				"type": "infinity:library"
+			}
+		},
+		"biome_source": {
+			"biome": "infinity:library",
+			"type": "fixed"
+		},
+		"type": "minecraft:noise"
+	},
+	"type": "infinity:library"
+}

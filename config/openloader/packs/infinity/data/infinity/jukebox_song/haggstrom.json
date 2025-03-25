@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.haggstrom"
+	},
+	"length_in_seconds": 191.05267,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.haggstrom"
+	},
+	"comparator_output": 15
+}

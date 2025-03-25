@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.yakusoku"
+	},
+	"length_in_seconds": 271.00534,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.yakusoku"
+	},
+	"comparator_output": 15
+}

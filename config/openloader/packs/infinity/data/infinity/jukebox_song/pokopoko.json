@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.pokopoko"
+	},
+	"length_in_seconds": 304.55432,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.pokopoko"
+	},
+	"comparator_output": 15
+}

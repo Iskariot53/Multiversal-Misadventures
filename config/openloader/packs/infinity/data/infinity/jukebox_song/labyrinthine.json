@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.labyrinthine"
+	},
+	"length_in_seconds": 67.15211,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.labyrinthine"
+	},
+	"comparator_output": 15
+}

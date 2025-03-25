@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.puzzlebox"
+	},
+	"length_in_seconds": 299.62668,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.puzzlebox"
+	},
+	"comparator_output": 15
+}

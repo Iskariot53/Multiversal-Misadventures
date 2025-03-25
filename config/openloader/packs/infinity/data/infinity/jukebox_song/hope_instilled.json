@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.ivory.hope_instilled"
+	},
+	"length_in_seconds": 320.47287,
+	"description": {
+		"translate": "infinity:subtitles.disc.ivory.hope_instilled"
+	},
+	"comparator_output": 15
+}

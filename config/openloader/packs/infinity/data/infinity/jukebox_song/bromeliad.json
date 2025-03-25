@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.bromeliad"
+	},
+	"length_in_seconds": 205.3805,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.bromeliad"
+	},
+	"comparator_output": 15
+}

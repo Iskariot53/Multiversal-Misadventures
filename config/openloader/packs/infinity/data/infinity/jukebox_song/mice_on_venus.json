@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.mice_on_venus"
+	},
+	"length_in_seconds": 280.89386,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.mice_on_venus"
+	},
+	"comparator_output": 15
+}

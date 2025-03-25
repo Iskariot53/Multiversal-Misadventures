@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.a_familiar_room"
+	},
+	"length_in_seconds": 244.71976,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.a_familiar_room"
+	},
+	"comparator_output": 15
+}

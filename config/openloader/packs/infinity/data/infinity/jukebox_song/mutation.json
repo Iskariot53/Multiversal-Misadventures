@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.mutation"
+	},
+	"length_in_seconds": 194.59462,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.mutation"
+	},
+	"comparator_output": 15
+}

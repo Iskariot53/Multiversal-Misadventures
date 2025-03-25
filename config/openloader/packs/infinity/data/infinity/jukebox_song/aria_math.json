@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.aria_math"
+	},
+	"length_in_seconds": 309.5,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.aria_math"
+	},
+	"comparator_output": 15
+}

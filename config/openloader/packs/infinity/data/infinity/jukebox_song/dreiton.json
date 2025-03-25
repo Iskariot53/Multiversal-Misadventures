@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.dreiton"
+	},
+	"length_in_seconds": 497.0,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.dreiton"
+	},
+	"comparator_output": 15
+}

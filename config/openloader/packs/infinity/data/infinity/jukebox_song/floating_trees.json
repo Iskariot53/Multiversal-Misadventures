@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.floating_trees"
+	},
+	"length_in_seconds": 244.75,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.floating_trees"
+	},
+	"comparator_output": 15
+}

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.haunt_muskie"
+	},
+	"length_in_seconds": 361.67706,
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.haunt_muskie"
+	},
+	"comparator_output": 15
+}
