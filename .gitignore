@@ -22,3 +22,8 @@ patchouli_data.json
 realms_persistence.json
 data/fabricDefaultResourcePacks.dat
 /crash-reports
+/config/fancymenu
+/config/fancymenu
+config/iris.properties
+config/fabric/indigo-renderer.properties
+config/xaerominimap_entities.json
