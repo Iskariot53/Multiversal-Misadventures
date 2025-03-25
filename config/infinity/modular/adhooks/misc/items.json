@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adhooks:prototype_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:prototype_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:pudge_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:pudge_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:spear_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:spear_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:web_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "adhooks:web_launcher"
+		}
+	]
+}
