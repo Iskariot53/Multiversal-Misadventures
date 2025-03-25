@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tombstone:ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:smoke_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:smoke_column"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "replication:chip_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:deepslate_replica_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:disintegrator"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:identification_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:matter_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:matter_network_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:matter_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:memory_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:raw_replica"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:raw_replica_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:replica_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:replica_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:replication_terminal"
+		},
+		{
+			"weight": 1.0,
+			"key": "replication:replicator"
+		}
+	]
+}

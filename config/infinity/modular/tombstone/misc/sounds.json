@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tombstone:ghost01"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:ghost02"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:ghost03"
+		},
+		{
+			"weight": 1.0,
+			"key": "tombstone:magic_use01"
+		}
+	]
+}

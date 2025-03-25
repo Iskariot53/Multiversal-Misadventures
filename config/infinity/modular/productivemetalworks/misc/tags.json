@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_bottom_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_controllers"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_drains"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_tanks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_wall_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_windows"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:heating_coils"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "warp_book:warp_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "warp_book:warp_page_deathly"
+		},
+		{
+			"weight": 1.0,
+			"key": "warp_book:warp_page_location"
+		},
+		{
+			"weight": 1.0,
+			"key": "warp_book:warp_page_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "warp_book:warp_page_unbound"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "sophisticatedbackpacks:blocks/backpack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "sophisticatedbackpacks:blocks/copper_backpack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "sophisticatedbackpacks:blocks/diamond_backpack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "sophisticatedbackpacks:blocks/gold_backpack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "sophisticatedbackpacks:blocks/iron_backpack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "sophisticatedbackpacks:blocks/netherite_backpack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/abandoned_mineshaft"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/bastion_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/desert_pyramid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/end_city_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/nether_bridge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/shipwreck_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/simple_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "sophisticatedbackpacks:inject/chests/woodland_mansion"
+			}
+		}
+	]
+}

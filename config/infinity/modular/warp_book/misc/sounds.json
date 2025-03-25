@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "warp_book:arrive"
+		},
+		{
+			"weight": 1.0,
+			"key": "warp_book:depart"
+		}
+	]
+}
