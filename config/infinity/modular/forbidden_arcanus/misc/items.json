@@ -1,0 +1,972 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:apply_modifier_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aquatic_dragon_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_bone_meal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_dust_speck"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_obelisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_dragon_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_edelwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_edelwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_edelwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:artisan_relic"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aureal_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aureal_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurealic_obsidian_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:bat_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:bat_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:black_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:blacksmith_gavel_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:blood_test_tube"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:blue_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:boom_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:boss_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:brown_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:carved_edelwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:chiseled_arcane_polished_darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:chiseled_polished_darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:clibano_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cooked_tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:corrupt_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:corrupted_arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:corrupted_arcane_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:corrupted_arcane_crystal_obelisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:corrupti_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cracked_obsidian_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cracked_polished_darkstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:crescent_moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:crimson_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cut_soulless_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cut_soulless_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cyan_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:dark_matter"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:dark_nether_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deepslate_arcane_crystal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:diamond_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:divine_pact"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_scepter"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:draco_arcanus_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:dragon_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_lava_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_milk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_oil"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_powder_snow_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_water_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:elementarium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:enchanted_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:ender_pearl_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:essence_utrem_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:eternal_obsidian_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:eternal_stella"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fading_obsidian_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:ferrognetic_mixture"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:forbiddenomicon"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fragmented_obsidian_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:gilded_chiseled_polished_darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:golden_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:golden_dragon_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:gray_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:green_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:growing_edelwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:iron_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:light_blue_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:light_gray_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:lime_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magenta_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magical_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magnetized_darkstone_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:maledictus_pact"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:mortem_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:mortem_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:mortem_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:mortem_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:mundabitur_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:netherite_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:nuggety_aurum_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:obsidian_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:obsidiansteel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:obsidiansteel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:omega_arcoin"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:orange_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:pink_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_soulless_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_soulless_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_soulless_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:purple_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:quantum_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:quantum_injector"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:red_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:reinforced_deorum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:reinforced_deorum_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:reinforced_deorum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:reinforced_deorum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:reinforced_deorum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:reinforced_deorum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:research_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:rune_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_darkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:sea_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:silver_dragon_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:smelter_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soul_binding_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soul_crimson_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soul_extractor"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:spawner_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:spectral_eye_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:splash_aureal_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stella_arcanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stellarite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stellarite_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stone_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stripped_aurum_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stripped_aurum_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:terrastomp_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:test_tube"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tiled_polished_darkstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tyr_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tyr_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tyr_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tyr_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:utrem_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:wax"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:whirlwind_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:white_quantum_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:wooden_blacksmith_gavel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:xpetrified_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:yellow_orchid"
+		},
+		{
+			"weight": 1.0,
+			"key": "forbidden_arcanus:yellow_quantum_catcher"
+		}
+	]
+}

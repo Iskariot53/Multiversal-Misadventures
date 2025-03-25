@@ -1,0 +1,109 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/16m_crafting_storage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/1m_crafting_storage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/256m_crafting_storage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/4m_crafting_storage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/64m_crafting_storage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_crafting_accelerator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_crafting_monitor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_crafting_unit"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_emc_interface"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_energy_cell"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_interface"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/mega_pattern_provider"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/sky_bronze_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/sky_osmium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "megacells:blocks/sky_steel_block"
+			}
+		}
+	]
+}

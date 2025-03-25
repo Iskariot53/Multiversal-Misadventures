@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9583241,
+				"Instant": false,
+				"Name": "hordes:immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 4456450,
+				"Instant": false,
+				"Name": "hordes:infected"
+			}
+		}
+	]
+}
