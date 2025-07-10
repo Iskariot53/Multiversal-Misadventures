@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9715130,
+				"Instant": false,
+				"Name": "artifacts:magnetism"
+			}
+		}
+	]
+}
