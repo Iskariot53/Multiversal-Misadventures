@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.desert_sorceress.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.desert_sorceress.cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.desert_sorceress.celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.desert_sorceress.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.desert_sorceress.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.desert_sorceress.wololo"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.wisp.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.wisp.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.wisp.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:entity.wisp.squirt"
+		}
+	]
+}

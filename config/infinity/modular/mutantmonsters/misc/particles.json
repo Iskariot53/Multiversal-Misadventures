@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mutantmonsters:endersoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "mutantmonsters:skull_spirit"
+		}
+	]
+}
