@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Maximum distance the endersoul hand can be used to travel to.
 #Default Value: 256
 # Default: 256
@@ -9,6 +10,8 @@ endersoul_hand_teleport_distance = 256
 #Default Value: [minecraft:creeper,mutantmonsters:mutant_creeper, minecraft:enderman,mutantmonsters:mutant_enderman, minecraft:skeleton,mutantmonsters:mutant_skeleton, minecraft:snow_golem,mutantmonsters:mutant_snow_golem, minecraft:zombie,mutantmonsters:mutant_zombie, minecraft:pig,mutantmonsters:spider_pig]
 mutant_x_conversions = ["minecraft:creeper,mutantmonsters:mutant_creeper", "minecraft:enderman,mutantmonsters:mutant_enderman", "minecraft:skeleton,mutantmonsters:mutant_skeleton", "minecraft:snow_golem,mutantmonsters:mutant_snow_golem", "minecraft:zombie,mutantmonsters:mutant_zombie", "minecraft:pig,mutantmonsters:spider_pig"]
 =======
+=======
+>>>>>>> Stashed changes
 #Maximum distance the endersoul hand can be used to travel to.
 #Default Value: 256
 # Default: 256
@@ -18,4 +21,7 @@ endersoul_hand_teleport_distance = 256
 #Format for every entry is "<namespace>:<path>,<namespace>:<path>" with the second id representing the mutant. Namespace may be omitted to use "minecraft" by default.
 #Default Value: [minecraft:creeper,mutantmonsters:mutant_creeper, minecraft:enderman,mutantmonsters:mutant_enderman, minecraft:skeleton,mutantmonsters:mutant_skeleton, minecraft:snow_golem,mutantmonsters:mutant_snow_golem, minecraft:zombie,mutantmonsters:mutant_zombie, minecraft:pig,mutantmonsters:spider_pig]
 mutant_x_conversions = ["minecraft:creeper,mutantmonsters:mutant_creeper", "minecraft:enderman,mutantmonsters:mutant_enderman", "minecraft:skeleton,mutantmonsters:mutant_skeleton", "minecraft:snow_golem,mutantmonsters:mutant_snow_golem", "minecraft:zombie,mutantmonsters:mutant_zombie", "minecraft:pig,mutantmonsters:spider_pig"]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

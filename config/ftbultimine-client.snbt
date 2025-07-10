@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Client-specific configuration for FTB Ultimine
 # Modpack defaults should be defined in <instance>/config/ftbultimine-client.snbt
 #   (may be overwritten on modpack update)
@@ -49,6 +50,8 @@
 	}
 }
 =======
+=======
+>>>>>>> Stashed changes
 # Client-specific configuration for FTB Ultimine
 # Modpack defaults should be defined in <instance>/config/ftbultimine-client.snbt
 #   (may be overwritten on modpack update)
@@ -98,4 +101,7 @@
 		render_outline: 256
 	}
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

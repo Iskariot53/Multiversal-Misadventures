@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #General settings
 [general]
 	#Is Enabled?
@@ -39,6 +40,8 @@
 	# Range: > 0
 	absorption_cost = 350
 =======
+=======
+>>>>>>> Stashed changes
 #General settings
 [general]
 	#Is Enabled?
@@ -78,4 +81,7 @@
 	# Default: 350
 	# Range: > 0
 	absorption_cost = 350
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Client Configuration
 [client]
 
@@ -52,6 +53,8 @@
 		#If toast classes are printed when they are shown.
 		print_classes = false
 =======
+=======
+>>>>>>> Stashed changes
 #Client Configuration
 [client]
 
@@ -104,4 +107,7 @@
 	[client.debug]
 		#If toast classes are printed when they are shown.
 		print_classes = false
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

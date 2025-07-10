@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	id: "0FCD146C9BBF5BED"
 	loot_crate: {
@@ -45,6 +46,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	id: "0FCD146C9BBF5BED"
 	loot_crate: {
@@ -90,4 +93,7 @@
 		{ id: "6BFF96243AA52633", item: { count: 1, id: "forbidden_arcanus:stellarite_piece" } }
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

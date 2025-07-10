@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [villager]
 	#If villagers should be able to be picked up by sneaking and right-clicking
 	sneak_pick_up = true
@@ -18,6 +19,8 @@
 	# Range: 1 ~ 256
 	block_render_distance = 32
 =======
+=======
+>>>>>>> Stashed changes
 [villager]
 	#If villagers should be able to be picked up by sneaking and right-clicking
 	sneak_pick_up = true
@@ -36,4 +39,7 @@
 	# Default: 32
 	# Range: 1 ~ 256
 	block_render_distance = 32
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

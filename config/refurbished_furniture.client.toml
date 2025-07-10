@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # If enabled, displays a toast notification when another player rings one of your doorbells.
 # Valid values: true, false
 doorbellNotification = true
@@ -20,6 +21,8 @@ showCuttingBoardHelper = false
 	# Valid values: true, false
 	electricityShadersFix = false
 =======
+=======
+>>>>>>> Stashed changes
 # If enabled, displays a toast notification when another player rings one of your doorbells.
 # Valid values: true, false
 doorbellNotification = true
@@ -40,4 +43,7 @@ showCuttingBoardHelper = false
 	# WARNING: This will break the entity glow effect, this may or may not be a problem for you.
 	# Valid values: true, false
 	electricityShadersFix = false
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

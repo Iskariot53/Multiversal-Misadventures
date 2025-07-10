@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Make sure config changes are duplicated on both Clients and the Server when running a dedicated Server,
 # as the config isnt synced between Clients and Server.
 #General Settings
@@ -186,6 +187,8 @@
 	# Range: 0.0 ~ 3.4028234663852886E38
 	barbed_wire_damage = 2.0
 =======
+=======
+>>>>>>> Stashed changes
 #Make sure config changes are duplicated on both Clients and the Server when running a dedicated Server,
 # as the config isnt synced between Clients and Server.
 #General Settings
@@ -372,4 +375,7 @@
 	# Default: 2.0
 	# Range: 0.0 ~ 3.4028234663852886E38
 	barbed_wire_damage = 2.0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

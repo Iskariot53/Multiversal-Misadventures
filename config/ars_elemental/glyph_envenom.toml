@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #General settings
 [general]
 	#Is Enabled?
@@ -35,6 +36,8 @@
 	# Range: > 0
 	extend_time = 5
 =======
+=======
+>>>>>>> Stashed changes
 #General settings
 [general]
 	#Is Enabled?
@@ -70,4 +73,7 @@
 	# Default: 5
 	# Range: > 0
 	extend_time = 5
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

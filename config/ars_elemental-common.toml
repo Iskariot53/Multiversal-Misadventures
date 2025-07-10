@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Enable iframe skip glyph recipe
 frame_skip_recipe = false
 
@@ -119,6 +120,8 @@ frame_skip_recipe = false
 	#If true, the wandering mages will target players too, unless they wear the focus of the same school.
 	magesAggro = true
 =======
+=======
+>>>>>>> Stashed changes
 #Enable iframe skip glyph recipe
 frame_skip_recipe = false
 
@@ -238,4 +241,7 @@ frame_skip_recipe = false
 [Mobs-Disabled]
 	#If true, the wandering mages will target players too, unless they wear the focus of the same school.
 	magesAggro = true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

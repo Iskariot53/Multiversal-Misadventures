@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #General settings
 [general]
 	#Is Enabled?
@@ -27,6 +28,8 @@
 	#Example entry: "glyph_burst"
 	invalid_combos = []
 =======
+=======
+>>>>>>> Stashed changes
 #General settings
 [general]
 	#Is Enabled?
@@ -54,4 +57,7 @@
 	#Prevents the given glyph from being used in the same spell as the given glyph
 	#Example entry: "glyph_burst"
 	invalid_combos = []
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

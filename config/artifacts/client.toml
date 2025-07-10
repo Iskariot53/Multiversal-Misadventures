@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Location of the artifact cooldown gui element
 #Distance from the hotbar measured in pixels
 #Negative values place the element left of the hotbar
@@ -17,6 +18,8 @@ showTooltips = true
 #Allowed Values: true, false
 useModdedMimicTextures = true
 =======
+=======
+>>>>>>> Stashed changes
 #Location of the artifact cooldown gui element
 #Distance from the hotbar measured in pixels
 #Negative values place the element left of the hotbar
@@ -34,4 +37,7 @@ showTooltips = true
 #Whether mimics can use textures from Lootr or Quark
 #Allowed Values: true, false
 useModdedMimicTextures = true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	# Only show waystones that have been discovered
 	# Default: true
@@ -17,6 +18,8 @@
 	stage_selector: "default"
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	# Only show waystones that have been discovered
 	# Default: true
@@ -34,4 +37,7 @@
 	# Valid values: "default", "vanilla", "kubejs", "gamestages"
 	stage_selector: "default"
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

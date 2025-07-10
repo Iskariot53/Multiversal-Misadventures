@@ -1,6 +1,11 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Conversion rate of LP into player mana
 conversionRate = 10
+=======
+#Conversion rate of LP into player mana
+conversionRate = 10
+>>>>>>> Stashed changes
 =======
 #Conversion rate of LP into player mana
 conversionRate = 10

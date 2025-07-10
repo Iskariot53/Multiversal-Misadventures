@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	default_autoclaim_rewards: "disabled"
 	default_consume_items: false
@@ -23,6 +24,8 @@
 	version: 13
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	default_autoclaim_rewards: "disabled"
 	default_consume_items: false
@@ -46,4 +49,7 @@
 	show_lock_icons: false
 	version: 13
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

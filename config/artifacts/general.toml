@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #The chance that an artifact generates in suspicious sand or gravel
 #Range: 0.0 ~ 1.0
 archaeologyChance = 0.0625
@@ -39,6 +40,8 @@ modifyHurtSounds = true
 	#Allowed Values: true, false
 	useModdedChests = true
 =======
+=======
+>>>>>>> Stashed changes
 #The chance that an artifact generates in suspicious sand or gravel
 #Range: 0.0 ~ 1.0
 archaeologyChance = 0.0625
@@ -78,4 +81,7 @@ modifyHurtSounds = true
 	#Whether to use wooden chests from other mods when generating campsites
 	#Allowed Values: true, false
 	useModdedChests = true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

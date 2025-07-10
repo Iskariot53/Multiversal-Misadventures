@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Client]
 	#Render centrifuge comb inventory on the block.
 	renderCombsInCentrifuge = true
@@ -13,6 +14,8 @@
 	#Render entities inside amber blocks.
 	renderEntitiesInAmber = true
 =======
+=======
+>>>>>>> Stashed changes
 [Client]
 	#Render centrifuge comb inventory on the block.
 	renderCombsInCentrifuge = true
@@ -26,4 +29,7 @@
 	neverChristmas = false
 	#Render entities inside amber blocks.
 	renderEntitiesInAmber = true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

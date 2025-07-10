@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [ammo9mm]
 #Set to `false` to remove the item from the game.
 enabled = true
@@ -588,6 +589,8 @@ enabled = true
 damage = 5.0
 
 =======
+=======
+>>>>>>> Stashed changes
 [ammo9mm]
 #Set to `false` to remove the item from the game.
 enabled = true
@@ -1176,4 +1179,7 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

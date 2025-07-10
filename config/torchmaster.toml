@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [General]
 	#Show additional information in the tooltip of certain items and blocks
 	beginnerTooltips = true
@@ -55,6 +56,8 @@
 	#Configures the spawn check to be more aggressive, effectivly overriding the CheckSpawn results of other mods
 	aggressiveSpawnChecks = false
 =======
+=======
+>>>>>>> Stashed changes
 [General]
 	#Show additional information in the tooltip of certain items and blocks
 	beginnerTooltips = true
@@ -110,4 +113,7 @@
 	frozenPearlDurability = 1024
 	#Configures the spawn check to be more aggressive, effectivly overriding the CheckSpawn results of other mods
 	aggressiveSpawnChecks = false
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

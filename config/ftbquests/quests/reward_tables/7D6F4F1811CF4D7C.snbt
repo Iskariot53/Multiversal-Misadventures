@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	id: "7D6F4F1811CF4D7C"
 	loot_crate: {
@@ -42,6 +43,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	id: "7D6F4F1811CF4D7C"
 	loot_crate: {
@@ -84,4 +87,7 @@
 		{ id: "239462E837629B1C", item: { count: 1, id: "oritech:motor" } }
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

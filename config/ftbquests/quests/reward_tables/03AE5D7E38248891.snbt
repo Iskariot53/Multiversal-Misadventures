@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	id: "03AE5D7E38248891"
 	loot_crate: {
@@ -42,6 +43,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	id: "03AE5D7E38248891"
 	loot_crate: {
@@ -84,4 +87,7 @@
 		{ id: "5EB6FC5150D67DA2", item: { count: 1, id: "industrialforegoing:mob_imprisonment_tool" } }
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

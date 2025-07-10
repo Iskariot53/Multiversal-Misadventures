@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	#All configurations about rendering
 	[waterframes.rendering]
 		#Width limit of displays in blocks
@@ -101,6 +102,8 @@
 			blacklistMode = false
 			urls = ["imgur.com", "gyazo.com", "prntscr.com", "tinypic.com", "puu.sh", "pinimg.com", "photobucket.com", "staticflickr.com", "flic.kr", "tenor.co", "tenor.com", "gfycat.com", "giphy.com", "gph.is", "gifbin.com", "i.redd.it", "media.tumblr.com", "twimg.com", "githubusercontent.com", "googleusercontent.com", "googleapis.com", "wikimedia.org", "ytimg.com", "youtube.com", "youtu.be", "twitch.tv", "twitter.com", "x.com", "soundcloud.com", "kick.com", "streamable.com", "srrapero720.me", "fbcdn.net", "drive.google.com"]
 =======
+=======
+>>>>>>> Stashed changes
 	#All configurations about rendering
 	[waterframes.rendering]
 		#Width limit of displays in blocks
@@ -202,4 +205,7 @@
 			#Moves the whitelist into the darkside
 			blacklistMode = false
 			urls = ["imgur.com", "gyazo.com", "prntscr.com", "tinypic.com", "puu.sh", "pinimg.com", "photobucket.com", "staticflickr.com", "flic.kr", "tenor.co", "tenor.com", "gfycat.com", "giphy.com", "gph.is", "gifbin.com", "i.redd.it", "media.tumblr.com", "twimg.com", "githubusercontent.com", "googleusercontent.com", "googleapis.com", "wikimedia.org", "ytimg.com", "youtube.com", "youtu.be", "twitch.tv", "twitter.com", "x.com", "soundcloud.com", "kick.com", "streamable.com", "srrapero720.me", "fbcdn.net", "drive.google.com"]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

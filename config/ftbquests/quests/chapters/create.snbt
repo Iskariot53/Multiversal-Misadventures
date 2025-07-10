@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	autofocus_id: "2DFAB367F1A7D350"
 	default_hide_dependency_lines: false
@@ -608,6 +609,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	autofocus_id: "2DFAB367F1A7D350"
 	default_hide_dependency_lines: false
@@ -1216,4 +1219,7 @@
 		}
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

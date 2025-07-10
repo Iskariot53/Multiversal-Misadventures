@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #General settings
 [general]
 	#Is Enabled?
@@ -39,6 +40,8 @@
 	# Range: > 0
 	charm_hp_limit = 150
 =======
+=======
+>>>>>>> Stashed changes
 #General settings
 [general]
 	#Is Enabled?
@@ -78,4 +81,7 @@
 	# Default: 150
 	# Range: > 0
 	charm_hp_limit = 150
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

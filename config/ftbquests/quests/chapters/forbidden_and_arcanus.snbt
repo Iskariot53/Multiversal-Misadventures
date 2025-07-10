@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	autofocus_id: "7AAE69A2005BB4B4"
 	default_hide_dependency_lines: false
@@ -1006,6 +1007,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	autofocus_id: "7AAE69A2005BB4B4"
 	default_hide_dependency_lines: false
@@ -2012,4 +2015,7 @@
 		}
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

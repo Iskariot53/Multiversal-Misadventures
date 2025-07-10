@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #TrashSlot will show a hint the first time the trash slot is toggled off or can be enabled on a supported screen. Set to false to disable.
 enableHints = true
 #Not recommended, but this will allow you to use the keybinds for deleting items even if the trash slot itself is hidden.
@@ -10,6 +11,8 @@ instantDeletion = false
 #Set to true if you want the delete keybindings to work in creative as well. Note: Items will be deleted permanently in creative, regardless of instantDeletion setting!
 enableDeleteKeysInCreative = true
 =======
+=======
+>>>>>>> Stashed changes
 #TrashSlot will show a hint the first time the trash slot is toggled off or can be enabled on a supported screen. Set to false to disable.
 enableHints = true
 #Not recommended, but this will allow you to use the keybinds for deleting items even if the trash slot itself is hidden.
@@ -20,4 +23,7 @@ deletionDenyList = []
 instantDeletion = false
 #Set to true if you want the delete keybindings to work in creative as well. Note: Items will be deleted permanently in creative, regardless of instantDeletion setting!
 enableDeleteKeysInCreative = true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

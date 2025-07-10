@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	chapter.064AE5987A6C474D.title: "&aCreate"
 	chapter.08CE67C453CF05CC.title: "&aOritech"
@@ -2624,6 +2625,8 @@
 	task.7F4F8379B669D06F.title: "Acquire a cubee"
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	chapter.064AE5987A6C474D.title: "&aCreate"
 	chapter.08CE67C453CF05CC.title: "&aOritech"
@@ -5248,4 +5251,7 @@
 	task.7ADC2EA595A49858.title: "Find a yellow carpenter bee"
 	task.7F4F8379B669D06F.title: "Acquire a cubee"
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

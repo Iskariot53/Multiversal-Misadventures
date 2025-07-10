@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	chapter_groups: [
 		{ id: "15777B88F460CFED" }
@@ -7,6 +8,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	chapter_groups: [
 		{ id: "15777B88F460CFED" }
@@ -14,4 +17,7 @@
 		{ id: "5DDFA5A8559C4118" }
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

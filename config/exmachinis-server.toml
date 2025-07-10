@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #General balance configs
 #The default calculations for each upgrade are calculated as follows:
 #(ticks per operation * RF per block) * blocks processed = RF per operation
@@ -48,6 +49,8 @@
 	#while single processing will roll for each input.
 	sieveBulkProcessing = true
 =======
+=======
+>>>>>>> Stashed changes
 #General balance configs
 #The default calculations for each upgrade are calculated as follows:
 #(ticks per operation * RF per block) * blocks processed = RF per operation
@@ -96,4 +99,7 @@
 	#Bulk processing will roll once per slot and multiply the output,
 	#while single processing will roll for each input.
 	sieveBulkProcessing = true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

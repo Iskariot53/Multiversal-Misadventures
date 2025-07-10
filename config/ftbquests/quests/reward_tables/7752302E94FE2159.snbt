@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	id: "7752302E94FE2159"
 	loot_crate: {
@@ -43,6 +44,8 @@
 	]
 }
 =======
+=======
+>>>>>>> Stashed changes
 {
 	id: "7752302E94FE2159"
 	loot_crate: {
@@ -86,4 +89,7 @@
 		{ id: "0DA02D6D65845F94", item: { count: 1, id: "ae2:annihilation_core" } }
 	]
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

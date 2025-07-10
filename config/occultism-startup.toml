@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Dimensional Mineshaft Settings
 [dimensional_mineshaft]
 
@@ -89,6 +90,8 @@
 	# Range: 0.0 ~ 1.0
 	usePossibleSpiritNamesChance = 0.0
 =======
+=======
+>>>>>>> Stashed changes
 #Dimensional Mineshaft Settings
 [dimensional_mineshaft]
 
@@ -178,4 +181,7 @@
 	# Default: 0.0
 	# Range: 0.0 ~ 1.0
 	usePossibleSpiritNamesChance = 0.0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

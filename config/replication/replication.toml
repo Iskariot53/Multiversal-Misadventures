@@ -112,4 +112,7 @@
 		# Default: 256000
 		# Range: > 1
 		CAPACITY = 256000
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
