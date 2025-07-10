@@ -1,0 +1,893 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/chiseled_otherstone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/copper_sacrificial_bowl"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/cracked_otherstone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/datura"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/dimensional_mineshaft"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/eldritch_chalice"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/golden_sacrificial_bowl"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/iesnium_anvil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/iesnium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/iesnium_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/iesnium_ore_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/iesnium_sacrificial_bowl"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_black"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_brown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_cyan"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_gray"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_light_gray"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_lime"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_magenta"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_orange"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_pink"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_purple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_white"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/large_candle_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/othercobblestone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/othercobblestone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/othercobblestone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/othercobblestone_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherflower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherflower_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherglass"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherglass_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_button"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_door"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_fence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_fence_gate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_hanging_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_pressure_plate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_trapdoor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_wall_hanging_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherplanks_wall_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_bricks_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_bricks_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_bricks_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_button"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_pedestal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_pedestal_silver"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_pressure_plate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherstone_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_leaves_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_log_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_sapling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_sapling_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/otherworld_wood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/polished_otherstone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/polished_otherstone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/polished_otherstone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/polished_otherstone_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/potted_otherflower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/raw_iesnium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/raw_silver_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/sacrificial_bowl"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/silver_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/silver_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/silver_ore_deepslate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/silver_sacrificial_bowl"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/skeleton_skull_dummy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/spirit_attuned_crystal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/spirit_campfire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/spirit_lantern"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/spirit_torch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/stable_wormhole"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_controller"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_controller_base"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_controller_stabilized"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_stabilizer_tier0"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_stabilizer_tier1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_stabilizer_tier2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_stabilizer_tier3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/storage_stabilizer_tier4"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/stripped_otherworld_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/stripped_otherworld_log_natural"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/stripped_otherworld_wood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/tallow_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "occultism:blocks/wither_skeleton_skull_dummy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/afrit_wild"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/marid_unbound"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/mercy_goat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_bee"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_breeze"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_elder_guardian"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_enderman"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_endermite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_evoker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_ghast"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_hoglin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_phantom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_shulker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_skeleton"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_strong_breeze"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_warden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_weak_breeze"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_weak_shulker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_witch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/possessed_zombie_piglin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/wild_horde_creeper"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/wild_horde_drowned"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/wild_horde_husk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/wild_horde_silverfish"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/wild_hunt_skeleton"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "occultism:entities/wild_hunt_wither_skeleton"
+			}
+		}
+	]
+}

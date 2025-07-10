@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9830913,
+				"Instant": false,
+				"Name": "occultism:bat_lifesteal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 6305299,
+				"Instant": false,
+				"Name": "occultism:beaver_harvest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16776960,
+				"Instant": false,
+				"Name": "occultism:double_jump"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16766720,
+				"Instant": false,
+				"Name": "occultism:dragon_greed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 14997671,
+				"Instant": false,
+				"Name": "occultism:mummy_dodge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 3402751,
+				"Instant": false,
+				"Name": "occultism:step_height"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16776960,
+				"Instant": false,
+				"Name": "occultism:third_eye"
+			}
+		}
+	]
+}
