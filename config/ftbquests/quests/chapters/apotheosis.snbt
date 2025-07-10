@@ -1,0 +1,842 @@
+{
+	autofocus_id: "346A2C276A013F70"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis"
+	group: "5DDFA5A8559C4118"
+	icon: {
+		id: "apotheosis:gem"
+	}
+	id: "6C3D1E20198408D6"
+	images: [{
+		height: 4.0d
+		image: "ftbquests:textures/apotheosis.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: 0.0d
+		y: -3.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["458329839B21BF7B"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "apotheosis:gem"
+			}
+			id: "375EB6ADD26E0668"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A0802EE5A5B0CB7"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "14E40D6CB27E17E1"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["375EB6ADD26E0668"]
+			id: "5DE31936F9212582"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1AD10A9BB7CEC774"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 4L
+				id: "6B4248E67F3D072B"
+				item: { count: 1, id: "apotheosis:gem_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["375EB6ADD26E0668"]
+			id: "1CDD59D36902239A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4355CE154CD75C0E"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3453DE408DA3A5DB"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["375EB6ADD26E0668"]
+			id: "3F9BF303C02FED36"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48799AB43F9C53BE"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0AE08A032D4AD777"
+				item: { count: 1, id: "apotheosis:gem_cutting_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5DE31936F9212582"]
+			id: "346A2C276A013F70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F6B69C1D7A52B29"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "41EFAE0830DB63FE"
+				item: { count: 1, id: "apotheosis:salvaging_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["346A2C276A013F70"]
+			id: "560083D0DC80B320"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C1553DFFEBC9B00"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1F23F44FA00D916B"
+				item: { count: 1, id: "apotheosis:common_material" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["560083D0DC80B320"]
+			id: "2909072EB284F00B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78A43FA309060BB2"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3976CDB717DE853F"
+				item: { count: 1, id: "apotheosis:uncommon_material" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["560083D0DC80B320"]
+			id: "4AFB90C1DBE90000"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25B78A14AC6AB4EC"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "25B99B7571CD9076"
+				item: { count: 1, id: "apotheosis:rare_material" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["560083D0DC80B320"]
+			id: "205BC8F567310DD9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "64E37DB4CAA8BF5F"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "721E66C0BBDA793B"
+				item: { count: 1, id: "apotheosis:epic_material" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["560083D0DC80B320"]
+			id: "1B866D84345402A7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B10519965CA94D8"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "129B3929F35C58FC"
+				item: { count: 1, id: "apotheosis:mythic_material" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["346A2C276A013F70"]
+			id: "2B28CE322D0A3A22"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3BFD3B13E7F1AF35"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "07DF274303BADD2A"
+				item: { count: 1, id: "apotheosis:gem_fused_slate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2B28CE322D0A3A22"]
+			id: "4FC603F5C7AB8683"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3438F9561C093060"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6AEA19BF7F011160"
+				item: { count: 1, id: "apotheosis:sigil_of_withdrawal" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2B28CE322D0A3A22"]
+			id: "30D2BF1E74147B8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A9492B94F4850D7"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2D32DA4643339A0E"
+				item: { count: 1, id: "apotheosis:sigil_of_rebirth" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2B28CE322D0A3A22"]
+			id: "5B44891D07A8DA06"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "773B9F4F395BDD11"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "15D2400CE39BCFDF"
+				item: { count: 1, id: "apotheosis:sigil_of_unnaming" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2B28CE322D0A3A22"]
+			id: "459ED7497729B8B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "702BF19CC7425D10"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "45A6443DF7510E6E"
+				item: { count: 1, id: "apotheosis:sigil_of_enhancement" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2B28CE322D0A3A22"]
+			id: "07B55E94184EA4B9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "530719686C186006"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4099B7C6FBD869BA"
+				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"30D2BF1E74147B8F"
+				"5DE31936F9212582"
+			]
+			id: "3C4B3305FA865E92"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D67D0E09504DAB8"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1B305DF1A8FE8C08"
+				item: { count: 1, id: "apotheosis:simple_reforging_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"30D2BF1E74147B8F"
+				"205BC8F567310DD9"
+				"3C4B3305FA865E92"
+			]
+			id: "101605FF172FD328"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3ACAF720422C7270"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4A05F232CC5EDE24"
+				item: { count: 1, id: "apotheosis:reforging_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"459ED7497729B8B5"
+				"1B866D84345402A7"
+				"101605FF172FD328"
+			]
+			id: "0F12DC69816D9D7F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EDFA9F7F7ADFB78"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "16657472D6E97973"
+				item: { count: 1, id: "apotheosis:augmenting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["375EB6ADD26E0668"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:spawner"
+			}
+			id: "617C3F408AAA1C1B"
+			size: 2.0d
+			tasks: [{
+				id: "3D8B314BD53C1CD9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 13.464285714285715d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "067FA5C289FD4FEF"
+			tasks: [{
+				id: "69B3865DE012722E"
+				item: { count: 1, id: "minecraft:soul_lantern" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "5917DA44D16648CD"
+			tasks: [{
+				id: "0061FA30451DEDD8"
+				item: { count: 1, id: "minecraft:turtle_egg" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "28F81AB617E77D06"
+			tasks: [{
+				id: "215B58E8C40AE590"
+				item: { count: 1, id: "minecraft:echo_shard" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "785543718448CCE7"
+			tasks: [{
+				id: "01C71EADE03967EB"
+				item: { count: 1, id: "minecraft:clock" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "622A49534DFDC1E4"
+			tasks: [{
+				id: "4F25DEE2AE97AFA0"
+				item: { count: 1, id: "minecraft:ghast_tear" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "6F332E6682D5B0B0"
+			tasks: [{
+				id: "3FF97C7FEED03C86"
+				item: { count: 1, id: "minecraft:white_wool" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "1BECBF73E0153C12"
+			tasks: [{
+				id: "63F80205DD2F5D2C"
+				item: { count: 1, id: "minecraft:chorus_fruit" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "148F023E12BF1494"
+			tasks: [{
+				id: "3C9FE972077FA8EB"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "1272996A113663C4"
+			tasks: [{
+				id: "2B60E93A6FD2B0FA"
+				item: { count: 1, id: "minecraft:comparator" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "2A21BF872E30B02B"
+			tasks: [{
+				id: "4F989F74548171C0"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "40F6AE83FEC2D255"
+			tasks: [{
+				id: "0F12E1137DD90E01"
+				item: { count: 1, id: "minecraft:conduit" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "2B1DAACDAD3EDA01"
+			tasks: [{
+				id: "251A5E5F5A462C3F"
+				item: { count: 1, id: "minecraft:prismarine_crystals" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:quartz"
+			}
+			id: "37C05D5F67CA0AA6"
+			tasks: [{
+				id: "233707B6AC9943B8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_visible: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "architects_palette:hazard_sign"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 2.0d
+			id: "0B691F5505AFB4FA"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "4582F5FDB451C4F8"
+					type: "checkmark"
+				}
+				{
+					id: "578BD6DDC3D99A7C"
+					type: "checkmark"
+				}
+				{
+					id: "47F3C1BDA4A049B5"
+					type: "checkmark"
+				}
+			]
+			x: 30.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["375EB6ADD26E0668"]
+			hide_dependency_lines: true
+			id: "6DD809C91507EE22"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68AA9543085E55E1"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 16L
+				id: "739F250BB968FA70"
+				item: { count: 1, id: "apothic_enchanting:seashelf" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6DD809C91507EE22"]
+			id: "3C7B696ED6CF5C8B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "698565642DC168DF"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2DAD2AD582EDA9FF"
+				item: { count: 1, id: "apothic_enchanting:infused_seashelf" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["3C7B696ED6CF5C8B"]
+			id: "3F32DAF61A75DA63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F1C672BF6D23BAF"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 2L
+				id: "304932C8891E6E1E"
+				item: { count: 1, id: "apothic_enchanting:heart_seashelf" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3C7B696ED6CF5C8B"]
+			id: "3F00DCAB35133433"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EC688FA16BC9E1C"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 7L
+				id: "77D68ABC5CCA0F50"
+				item: { count: 1, id: "apothic_enchanting:crystal_seashelf" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3C7B696ED6CF5C8B"]
+			id: "73F084BA44EC7B0C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F6D7F020488731C"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 10L
+				id: "7CB1702D2A0030A5"
+				item: { count: 1, id: "apothic_enchanting:dormant_deepshelf" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"3F32DAF61A75DA63"
+				"73F084BA44EC7B0C"
+				"3F00DCAB35133433"
+			]
+			id: "3D7A479206F8D24C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "453EE2FD8FDC0AA3"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 10L
+				id: "6AFCA7EE20D7A766"
+				item: { count: 1, id: "apothic_enchanting:deepshelf" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["3D7A479206F8D24C"]
+			id: "0CD8B8B4D1AE4BD3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7207652788DE100B"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 5L
+				id: "35CEE188245B9F49"
+				item: { count: 1, id: "apothic_enchanting:soul_touched_deepshelf" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3D7A479206F8D24C"]
+			id: "3C44F06BA2CF0B62"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3355CEABB7C6CBFD"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 5L
+				id: "291C330C651F10FB"
+				item: { count: 1, id: "apothic_enchanting:echoing_deepshelf" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0CD8B8B4D1AE4BD3"]
+			id: "6A878C75D220D219"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D3E1C5E89908F99"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 5L
+				id: "715C02E86035F306"
+				item: { count: 1, id: "apothic_enchanting:soul_touched_sculkshelf" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["3C44F06BA2CF0B62"]
+			id: "0FBD251910CA4BE7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E17FDF756AB3402"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 5L
+				id: "49A2E1FC2AE28217"
+				item: { count: 1, id: "apothic_enchanting:echoing_sculkshelf" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["3D7A479206F8D24C"]
+			id: "5F291621E68E7A43"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F771B587705B028"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 10L
+				id: "2D2B391898DC7AA9"
+				item: { count: 1, id: "apothic_enchanting:melonshelf" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"5F291621E68E7A43"
+				"0FBD251910CA4BE7"
+				"6A878C75D220D219"
+			]
+			id: "3F6CC4E79ED9AC5A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2733A8C2A1BE7353"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5C763839AFECCC18"
+				item: { count: 1, id: "apothic_enchanting:infused_breath" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 16.5d
+		}
+		{
+			dependencies: [
+				"3F6CC4E79ED9AC5A"
+				"0FBD251910CA4BE7"
+				"6A878C75D220D219"
+			]
+			id: "163E233F09160049"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "771767341DC7BD8D"
+				table_id: 2659211693981253467L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2DE8E6C614EEBC90"
+				item: { count: 1, id: "apothic_enchanting:draconic_endshelf" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "0FFB2E323EEBF1EC"
+			tasks: [{
+				id: "3552D0ADB74786F3"
+				item: { count: 1, id: "minecraft:piston" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "510C2B134D148D48"
+			tasks: [{
+				id: "1146BC2C10172064"
+				item: { count: 1, id: "minecraft:fermented_spider_eye" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "79E407976734A253"
+			tasks: [{
+				id: "4EE4C7A7F9E6AF16"
+				item: { count: 1, id: "minecraft:pointed_dripstone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["617C3F408AAA1C1B"]
+			id: "4E37D051BB2C753B"
+			tasks: [{
+				id: "1C58EFA0D35A046C"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.5d
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	id: "2714ADE5FDD733E8"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "bees"
+	}
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			count: 16
+			id: "76E94C4036910A6E"
+			item: {
+				count: 1
+				id: "productivebees:honey_treat"
+			}
+		}
+		{
+			count: 3
+			id: "72DF132E8DD7373D"
+			item: {
+				count: 1
+				id: "productivebees:bee_cage"
+			}
+		}
+		{
+			id: "73B15328C2A3773F"
+			item: {
+				count: 1
+				id: "productivelib:upgrade_time"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "3CA083597D8AF1D2"
+			item: {
+				count: 1
+				id: "productivelib:upgrade_productivity"
+			}
+			weight: 0.2f
+		}
+		{
+			count: 16
+			id: "0F7B4A709735129F"
+			item: {
+				count: 1
+				id: "minecraft:honeycomb_block"
+			}
+		}
+	]
+}

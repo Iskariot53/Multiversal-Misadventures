@@ -1,0 +1,42 @@
+{
+	id: "7D6F4F1811CF4D7C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "oritech"
+	}
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 12
+			id: "57E9A1AD6EC8662D"
+			item: {
+				count: 1
+				id: "oritech:nickel_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "778681D589810C10"
+			item: {
+				count: 1
+				id: "oritech:platinum_ingot"
+			}
+		}
+		{
+			count: 16
+			id: "0F6B61B75719EEA7"
+			item: {
+				count: 1
+				id: "oritech:insulated_wire"
+			}
+		}
+		{ id: "418E5491513892D9", item: { count: 1, id: "oritech:basic_battery" } }
+		{ id: "239462E837629B1C", item: { count: 1, id: "oritech:motor" } }
+	]
+}

@@ -1,0 +1,416 @@
+{
+	autofocus_id: "352705B16602E408"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "iron_chests"
+	group: "010D48DD05987800"
+	hide_quest_until_deps_visible: true
+	icon: {
+		components: {
+			"minecraft:custom_name": "{\"extra\":[{\"color\":\"yellow\",\"text\":\"R\"},{\"color\":\"green\",\"text\":\"a\"},{\"color\":\"green\",\"text\":\"i\"},{\"color\":\"aqua\",\"text\":\"n\"},{\"color\":\"green\",\"text\":\"b\"},{\"color\":\"green\",\"text\":\"o\"},{\"color\":\"light_purple\",\"text\":\"w\"},{\"color\":\"blue\",\"text\":\" \"},{\"color\":\"red\",\"text\":\"F\"},{\"color\":\"blue\",\"text\":\"u\"},{\"color\":\"aqua\",\"text\":\"r\"},{\"color\":\"aqua\",\"text\":\"n\"},{\"color\":\"blue\",\"text\":\"a\"},{\"color\":\"yellow\",\"text\":\"c\"},{\"color\":\"light_purple\",\"text\":\"e\"}],\"text\":\"\"}"
+		}
+		id: "ironfurnaces:million_furnace"
+	}
+	id: "5200A7E0422864C0"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["458329839B21BF7B"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "ironfurnaces:iron_furnace"
+			}
+			icon_scale: 1.4d
+			id: "0C57273BB6B64DA7"
+			size: 1.5d
+			tasks: [{
+				id: "35EF4F7D38C5B33B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "57242FDB35BA61CD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1EE36103454D4259"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "743A4232773329CA"
+				item: { count: 1, id: "ironfurnaces:copper_furnace" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"57242FDB35BA61CD"
+				"0C57273BB6B64DA7"
+			]
+			dependency_requirement: "one_completed"
+			id: "3F10690BDA2332BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00523A0C0C9723E9"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6AC2BE6B905131E7"
+				item: { count: 1, id: "ironfurnaces:iron_furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3F10690BDA2332BF"]
+			id: "51E386DA6AE069B8"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "639CC4A03DF2C4BD"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "10A45805F116F03D"
+				item: { count: 1, id: "ironfurnaces:silver_furnace" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3F10690BDA2332BF"]
+			id: "4EF7A0BE96242393"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5088030DB0146329"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1E198F0D9A820A74"
+				item: { count: 1, id: "ironfurnaces:gold_furnace" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4EF7A0BE96242393"]
+			id: "00CE19DE85547103"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07E9743D565C33CF"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "25254DA37E15CD58"
+				item: { count: 1, id: "ironfurnaces:diamond_furnace" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["00CE19DE85547103"]
+			id: "5C725D0B1B56CF39"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D9F4CD41DB1A9F2"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "47841B059B4BCD63"
+				item: { count: 1, id: "ironfurnaces:emerald_furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["00CE19DE85547103"]
+			id: "6A41826ACB906240"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D0487E9E3156BF3"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "382B1FB3DD616191"
+				item: { count: 1, id: "ironfurnaces:crystal_furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"5C725D0B1B56CF39"
+				"6A41826ACB906240"
+			]
+			dependency_requirement: "one_completed"
+			id: "56E6FC26FDF8983C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04CCDC86B38595E5"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "343639D1394C7D21"
+				item: { count: 1, id: "ironfurnaces:obsidian_furnace" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["56E6FC26FDF8983C"]
+			id: "4F3D79BF92A7FA4F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BD2C13893374FA7"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "064778949A71D66D"
+				item: { count: 1, id: "ironfurnaces:netherite_furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"4F3D79BF92A7FA4F"
+				"4C5FEEEBE56D5107"
+				"69D7A70BAC877E4A"
+			]
+			id: "1541A536E20F90F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A24B8FF7AAE0DC8"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "45F6A8E3401E7C30"
+				item: { count: 1, id: "ironfurnaces:million_furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4F3D79BF92A7FA4F"]
+			id: "69D7A70BAC877E4A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "678CE7663ABD0145"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "319BF9464C1E0DB8"
+				item: { count: 1, id: "ironfurnaces:rainbow_core" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"57242FDB35BA61CD"
+				"3F10690BDA2332BF"
+				"51E386DA6AE069B8"
+				"4EF7A0BE96242393"
+				"00CE19DE85547103"
+				"5C725D0B1B56CF39"
+				"6A41826ACB906240"
+				"56E6FC26FDF8983C"
+			]
+			hide_dependency_lines: true
+			id: "4C5FEEEBE56D5107"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E241871D1E0406C"
+				table_id: 3495205936007569252L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0A79F2044EDCC35E"
+				item: { count: 1, id: "ironfurnaces:rainbow_plating" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "050E39AB44425D5B"
+			tasks: [{
+				id: "230EE66102D14849"
+				item: { count: 1, id: "ironfurnaces:augment_blasting" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "37575356A64D4420"
+			tasks: [{
+				id: "1053120A2CB506EE"
+				item: { count: 1, id: "ironfurnaces:augment_smoking" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "709F9B5034C70482"
+			tasks: [{
+				id: "4A3557E4A5EB69E3"
+				item: { count: 1, id: "ironfurnaces:augment_fuel" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "2BED6C43652B3BBC"
+			tasks: [{
+				id: "33EAE1F2FE384957"
+				item: { count: 1, id: "ironfurnaces:augment_speed" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "49F4395191FFFBBD"
+			tasks: [{
+				id: "3DA279900651EF39"
+				item: { count: 1, id: "ironfurnaces:augment_factory" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "6397AA8A64CD103F"
+			tasks: [{
+				id: "696733B0149B9F08"
+				item: { count: 1, id: "ironfurnaces:item_copy" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			hide_dependency_lines: true
+			id: "3E3145F6B2F14BF1"
+			tasks: [
+				{
+					id: "3C90CA07CA3D0626"
+					item: { count: 1, id: "ironfurnaces:item_heater" }
+					type: "item"
+				}
+				{
+					id: "3C7ADBD3EC2B46F0"
+					item: { count: 1, id: "ironfurnaces:heater" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_visible: true
+			id: "352705B16602E408"
+			invisible: true
+			optional: true
+			size: 0.5d
+			tasks: [{
+				count: 999L
+				id: "75674A5DA2F62F5F"
+				item: { }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_visible: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "architects_palette:hazard_sign"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 2.0d
+			id: "3B5C4DAA0AB28DE8"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "767DC7937D49CECF"
+					type: "checkmark"
+				}
+				{
+					id: "77F46F01FF88CD46"
+					type: "checkmark"
+				}
+				{
+					id: "18E42CAEEB852A0F"
+					type: "checkmark"
+				}
+			]
+			x: 30.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["0C57273BB6B64DA7"]
+			id: "3260E15546EC5EAA"
+			tasks: [{
+				id: "2B189444CE0E42E4"
+				item: { count: 1, id: "ironfurnaces:augment_generator" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+	]
+}
