@@ -17,14 +17,14 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"fluidName": "create:tea",
+				"fluidName": "create:potion",
 				"Name": "minecraft:air"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"fluidName": "create:potion",
+				"fluidName": "create:tea",
 				"Name": "minecraft:air"
 			}
 		}

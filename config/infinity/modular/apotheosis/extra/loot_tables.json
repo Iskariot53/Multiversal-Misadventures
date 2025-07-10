@@ -74,6 +74,13 @@
 			"weight": 1.0,
 			"key": {
 				"Type": "entity",
+				"Name": "apotheosis:entity/rare_boss_drops"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
 				"Name": "apotheosis:entity/treasure_goblin"
 			}
 		}

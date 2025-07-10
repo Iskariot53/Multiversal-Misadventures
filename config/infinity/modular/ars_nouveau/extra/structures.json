@@ -11,14 +11,14 @@
 							{
 								"weight": 5,
 								"minCount": 3,
-								"type": "ars_nouveau:wilden_stalker",
+								"type": "ars_nouveau:wilden_hunter",
 								"maxCount": 3
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "ars_nouveau:stalker_wilden_den"
+				"id": "ars_nouveau:hunter_wilden_den"
 			}
 		},
 		{
@@ -32,14 +32,14 @@
 							{
 								"weight": 5,
 								"minCount": 3,
-								"type": "ars_nouveau:wilden_hunter",
+								"type": "ars_nouveau:wilden_stalker",
 								"maxCount": 3
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "ars_nouveau:hunter_wilden_den"
+				"id": "ars_nouveau:stalker_wilden_den"
 			}
 		},
 		{

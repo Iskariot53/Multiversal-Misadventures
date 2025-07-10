@@ -22,7 +22,7 @@
   "disabledDimensions": ["ant", "bash", "checkerboard",
     "missing", "notes", "perfection", "terminal"],
   "portalKey": "",
-  "salt": "",
+  "salt": "42",
   "rootChances": {
     "dimension_type": {
       "ultrawarm": 0.5,

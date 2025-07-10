@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	id: "2D81944984C0C846"
 	loot_crate: {
@@ -102,3 +103,109 @@
 		}
 	]
 }
+=======
+{
+	id: "2D81944984C0C846"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ars"
+	}
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 8
+			id: "686722CA43EE2AEA"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+		}
+		{
+			id: "3BD43ECF74434F32"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_jar"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 4
+			id: "488FC3D5A695F1E9"
+			item: {
+				count: 1
+				id: "ars_nouveau:abjuration_essence"
+			}
+		}
+		{
+			count: 4
+			id: "57924EB2466DAB54"
+			item: {
+				count: 1
+				id: "ars_nouveau:conjuration_essence"
+			}
+		}
+		{
+			count: 4
+			id: "360FAD92DCF5F445"
+			item: {
+				count: 1
+				id: "ars_nouveau:air_essence"
+			}
+		}
+		{
+			count: 4
+			id: "7D2BCD458FDE362F"
+			item: {
+				count: 1
+				id: "ars_nouveau:earth_essence"
+			}
+		}
+		{
+			count: 4
+			id: "2B06D3A508DF3994"
+			item: {
+				count: 1
+				id: "ars_nouveau:fire_essence"
+			}
+		}
+		{
+			count: 4
+			id: "3523DB9777A4D628"
+			item: {
+				count: 1
+				id: "ars_nouveau:manipulation_essence"
+			}
+		}
+		{
+			count: 4
+			id: "257100275A3CB772"
+			item: {
+				count: 1
+				id: "ars_nouveau:water_essence"
+			}
+		}
+		{
+			count: 4
+			id: "55A90A3CE4D9EA93"
+			item: {
+				count: 1
+				id: "ars_elemental:anima_essence"
+			}
+		}
+		{
+			id: "4BCB2851D60FFDC1"
+			item: {
+				count: 1
+				id: "ars_nouveau:blank_thread"
+			}
+			weight: 0.5f
+		}
+	]
+}
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	autofocus_id: "276806024BA21F30"
 	default_hide_dependency_lines: false
@@ -652,3 +653,659 @@
 		}
 	]
 }
+=======
+{
+	autofocus_id: "276806024BA21F30"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_blockheads_guide_to_the_galaxy"
+	group: "15777B88F460CFED"
+	icon: {
+		id: "arphex:crawling_compass"
+	}
+	id: "2DFE8C1B57381947"
+	images: [
+		{
+			height: 8.0d
+			image: "stellaris:textures/gui/tablet/images/rocket_station.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 11.839285714285722d
+			y: 3.75d
+		}
+		{
+			height: 2.0d
+			image: "arphex:block/crawling_portal_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.5d
+			y: 12.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2E970BDC60CEAADD"]
+			hide_until_deps_complete: true
+			id: "76437099916646FB"
+			rewards: [{
+				count: 3
+				id: "24059DD4A7A57E0A"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5BF87B4FF6AF1B6E"
+				item: { count: 1, id: "replication:disintegrator" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2BDAF6D7BFD2E441"]
+			hide_until_deps_complete: true
+			id: "3368F0162D2E8B19"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: {
+					id: "minecraft:dragon_head"
+				}
+				id: "05FF38C515B1CF77"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2E970BDC60CEAADD"]
+			hide_until_deps_complete: true
+			id: "24D3CD116C92A9DF"
+			rewards: [{
+				count: 3
+				id: "697D178EE6F060B5"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "2A95091ED71486DA"
+				item: { count: 3, id: "replication:matter_network_pipe" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2E970BDC60CEAADD"]
+			hide_until_deps_complete: true
+			id: "34D3B8EEDDFB66BB"
+			rewards: [{
+				count: 3
+				id: "5DA9B7861A49C5DB"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2FDE30768E8FB534"
+				item: { count: 1, id: "replication:matter_tank" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2E970BDC60CEAADD"]
+			hide_until_deps_complete: true
+			id: "351F184E542BC4E1"
+			rewards: [{
+				count: 3
+				id: "2594BDD8D75AEE25"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "11B931C68A1179A7"
+				item: { count: 1, id: "replication:identification_chamber" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["219ACCA7DD59FE25"]
+			id: "43C899522B8BB269"
+			rewards: [{
+				count: 3
+				id: "403E468CEADDD545"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "070AF2B18436AE20"
+				item: { count: 1, id: "replication:chip_storage" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["351F184E542BC4E1"]
+			id: "219ACCA7DD59FE25"
+			rewards: [{
+				count: 3
+				id: "439A3C5963E5CB20"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F96FB673320FD7D"
+				item: { count: 1, id: "replication:memory_chip" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"219ACCA7DD59FE25"
+				"76437099916646FB"
+				"34D3B8EEDDFB66BB"
+				"24D3CD116C92A9DF"
+				"57DD85C29D560A66"
+			]
+			id: "1B2462BD83665F64"
+			rewards: [{
+				count: 3
+				id: "34C90CE8B7457702"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "303DFC01E218563A"
+				item: { count: 1, id: "replication:replicator" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2E970BDC60CEAADD"]
+			hide_until_deps_complete: true
+			id: "57DD85C29D560A66"
+			rewards: [{
+				count: 3
+				id: "3DC543A8C74F2F0C"
+				item: {
+					count: 1
+					id: "replication:replica_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "52F0FE901AFF71F2"
+				item: { count: 1, id: "replication:replication_terminal" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3368F0162D2E8B19"]
+			hide_until_deps_complete: true
+			id: "679BCEEEC6E1925A"
+			tasks: [{
+				id: "27C8B9442A825807"
+				item: { count: 1, id: "stellaris:cosmo_coffee" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["679BCEEEC6E1925A"]
+			hide_until_deps_complete: true
+			id: "2DBDA7525E7A514E"
+			tasks: [{
+				id: "6E886129151D1DA5"
+				item: { count: 1, id: "arphex:core_of_eternal_suffering" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3368F0162D2E8B19"]
+			id: "57015BCC483B1585"
+			rewards: [{
+				id: "3A35CAC89A155253"
+				item: {
+					count: 1
+					id: "stellaris:fuel_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C63E942A19D2857"
+				item: { count: 1, id: "stellaris:rocket_station" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3368F0162D2E8B19"]
+			id: "5673B0840B371D33"
+			rewards: [{
+				id: "6E67394756C6A90E"
+				item: {
+					count: 1
+					id: "stellaris:fuel_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 9L
+				id: "286C59E94C16AD04"
+				item: { count: 9, id: "stellaris:rocket_launch_pad" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3368F0162D2E8B19"]
+			id: "276806024BA21F30"
+			rewards: [{
+				id: "780A6B7DC5183D88"
+				item: {
+					count: 1
+					id: "stellaris:fuel_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C5C7CB74FC3134A"
+				item: { count: 1, id: "stellaris:rocket_nose_cone" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3368F0162D2E8B19"]
+			id: "5E1AF83DFF3F1F9C"
+			rewards: [{
+				id: "7A5D6BD9098148B8"
+				item: {
+					count: 1
+					id: "stellaris:fuel_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "713A21ACB7AA0199"
+				item: { count: 4, id: "stellaris:rocket_fin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3368F0162D2E8B19"]
+			id: "3C0FD37C292776FF"
+			rewards: [{
+				id: "3E61842E3F015063"
+				item: {
+					count: 1
+					id: "stellaris:fuel_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A191BE365626B26"
+				item: { count: 1, id: "stellaris:rocket_engine" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"5673B0840B371D33"
+				"5E1AF83DFF3F1F9C"
+				"276806024BA21F30"
+				"3C0FD37C292776FF"
+			]
+			id: "32B2D73DF2ECF260"
+			rewards: [{
+				id: "217E49991B5776F1"
+				item: {
+					count: 1
+					id: "replication:raw_replica_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0908C55887F37681"
+				item: { count: 1, id: "stellaris:neptunium_ingot" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"5673B0840B371D33"
+				"5E1AF83DFF3F1F9C"
+				"276806024BA21F30"
+				"3C0FD37C292776FF"
+			]
+			id: "650582C9AC9C1467"
+			rewards: [{
+				id: "5D4BA0F8FFBC3F62"
+				item: {
+					count: 1
+					id: "replication:raw_replica_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "34A09E5807E00B6F"
+				item: { count: 1, id: "stellaris:moon_fruit" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"5673B0840B371D33"
+				"5E1AF83DFF3F1F9C"
+				"276806024BA21F30"
+				"3C0FD37C292776FF"
+			]
+			id: "75B7055FFEC03F56"
+			rewards: [{
+				id: "77A006192E6D54BB"
+				item: {
+					count: 1
+					id: "replication:raw_replica_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C4311FB06B0D0BC"
+				item: { count: 1, id: "stellaris:mars_fruit" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"32B2D73DF2ECF260"
+				"650582C9AC9C1467"
+				"75B7055FFEC03F56"
+			]
+			id: "251C9C344937FDC8"
+			tasks: [{
+				id: "70C820C5B3E04C99"
+				item: { count: 1, id: "telepastries:custom_cake" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "712B92970C4C085C"
+			tasks: [{
+				id: "5238B58EF009549F"
+				item: { count: 1, id: "arphex:bane_of_the_darkness" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "6D35ABEA9AD3E086"
+			tasks: [{
+				id: "665CD0880B4671ED"
+				item: { count: 1, id: "arphex:mantle_of_vitality" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "12FD4B0CBDFA271E"
+			tasks: [{
+				id: "6A561BAD2BAFA46E"
+				item: { count: 1, id: "arphex:warp_staff" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "6D374A6D33A3CA55"
+			tasks: [{
+				id: "0C2ED9AB3B610510"
+				item: { count: 1, id: "arphex:staff_of_vitality" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "00A06AEF6BEB775F"
+			tasks: [{
+				id: "42B204DABF1D922D"
+				item: { count: 1, id: "arphex:ethereal_staff" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "0A1CDE9B06586F1F"
+			tasks: [{
+				id: "6782C01E5888B9FB"
+				item: { count: 1, id: "arphex:ascendant_staff" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "20B84C6E88E329F1"
+			tasks: [{
+				id: "402455D555FB6B09"
+				item: { count: 1, id: "arphex:ascended_cube" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "7E8F3F6140105F43"
+			tasks: [{
+				id: "72504F0BCE99420B"
+				item: { count: 1, id: "arphex:tormented_wrath" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "527E79ECF5C1573F"
+			tasks: [{
+				id: "3B0AD0633ED602BA"
+				item: { count: 1, id: "arphex:abyssal_axe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "7143E22C1B517D42"
+			tasks: [{
+				id: "46167C08C7A0D678"
+				item: { count: 1, id: "arphex:ant_commander" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "1264E3792F083BCD"
+			tasks: [{
+				id: "686A8FAEFB3B0857"
+				item: { count: 1, id: "arphex:abyssal_blade" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "489923C9FC4CE032"
+			tasks: [{
+				id: "27FC449E5C302290"
+				item: { count: 1, id: "arphex:abyss_atomiser" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "11B2F9A987F13EE1"
+			tasks: [{
+				id: "1C16192E52F72A84"
+				item: { count: 1, id: "arphex:abyssal_pickaxe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["251C9C344937FDC8"]
+			id: "1427C5FB052ED072"
+			tasks: [{
+				id: "6FABF629032CC6A1"
+				item: { count: 1, id: "arphex:abyssal_dagger" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 16.0d
+		}
+		{
+			dependencies: [
+				"2BDAF6D7BFD2E441"
+				"2E970BDC60CEAADD"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			id: "096B6973DC9B1B13"
+			tasks: [{
+				id: "6F0A16BE3958E415"
+				item: { count: 1, id: "tempad:knowledge_projector" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["215090D9A64FB34F"]
+			id: "133AF298DA4ABF3B"
+			tasks: [{
+				id: "2BE4CCA76D0D0FDE"
+				item: { count: 1, id: "tempad:chronon_battery" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["096B6973DC9B1B13"]
+			id: "215090D9A64FB34F"
+			tasks: [{
+				id: "5C9F2E31E08A8043"
+				item: { count: 1, id: "tempad:chronon_cell" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["67E6306D8145814A"]
+			id: "514072D79FCB329E"
+			tasks: [{
+				id: "315F91D03F44C6FD"
+				item: { count: 1, id: "tempad:card_wallet" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["096B6973DC9B1B13"]
+			id: "67E6306D8145814A"
+			tasks: [{
+				id: "42B05B18EA363538"
+				item: { count: 1, id: "tempad:location_card" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["133AF298DA4ABF3B"]
+			id: "102B5D6B8FFA17D9"
+			tasks: [{
+				id: "048A83BBC5A9722D"
+				item: { count: 1, id: "tempad:tempad" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 2.0d
+		}
+	]
+}
+>>>>>>> Stashed changes

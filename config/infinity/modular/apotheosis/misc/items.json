@@ -14,6 +14,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "apotheosis:diamond_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
 			"key": "apotheosis:epic_material"
 		},
 		{
@@ -31,6 +35,14 @@
 		{
 			"weight": 1.0,
 			"key": "apotheosis:gem_fused_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gold_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:iron_upgrade_smithing_template"
 		},
 		{
 			"weight": 1.0,
@@ -55,6 +67,10 @@
 		{
 			"weight": 1.0,
 			"key": "apotheosis:sigil_of_enhancement"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_malice"
 		},
 		{
 			"weight": 1.0,

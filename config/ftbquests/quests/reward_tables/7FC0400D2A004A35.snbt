@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	id: "7FC0400D2A004A35"
 	loot_crate: {
@@ -41,3 +42,48 @@
 		}
 	]
 }
+=======
+{
+	id: "7FC0400D2A004A35"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "occultism"
+	}
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 6
+			id: "4E18505D21C861CC"
+			item: {
+				count: 1
+				id: "occultism:silver_ingot"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 4
+			id: "7AEA1C22D1908FC8"
+			item: {
+				count: 1
+				id: "occultism:tallow"
+			}
+			weight: 2.0f
+		}
+		{ id: "453D58E84EC6CF79", item: { count: 1, id: "occultism:book_of_binding_empty" } }
+		{
+			id: "49EDE9345E7FA21E"
+			item: {
+				count: 1
+				id: "occultism:iesnium_ingot"
+			}
+			weight: 0.5f
+		}
+	]
+}
+>>>>>>> Stashed changes

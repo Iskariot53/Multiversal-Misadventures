@@ -1,0 +1,4 @@
+// Compost colors for zoniex. You may add your own colors, change existing ones, or remove colors that aren't needed.
+deathly_heart, #735b5a
+deathly_onyx, #2d2826
+distorted_vertebrae, #dccdab

@@ -1,5 +1,5 @@
 #Max internal volume of the foundry multiblock
-# Default: 200
+# Default: 1024
 # Range: > 1
 foundryMaxVolume = 200
 #Max circumference of the foundry multiblock
@@ -22,3 +22,5 @@ foundryCollectItems = true
 # Default: 4.0
 # Range: 1.0 ~ 2.147483647E9
 foundryCoolingModifier = 4.0
+#Should an active foundry render its inventory inside the multiblock
+foundryRenderInventory = true

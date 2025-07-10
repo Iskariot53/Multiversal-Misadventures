@@ -1,0 +1,1 @@
+craftingTable.remove(<item:exdeorum:end_cake>);

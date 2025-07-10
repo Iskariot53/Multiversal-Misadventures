@@ -339,34 +339,6 @@
 				}
 			},
 			{
-				"chance": 0.03846154,
-				"feature": {
-					"feature": "mgames_scps_last_foundation:scp_899_tree",
-					"placement": [
-						{
-							"count": 1,
-							"type": "minecraft:count_on_every_layer"
-						},
-						{
-							"type": "minecraft:surface_water_depth_filter",
-							"max_water_depth": 8
-						},
-						{
-							"predicate": {
-								"offset": [
-									0,
-									-1,
-									0
-								],
-								"blocks": "minecraft:grass_block",
-								"type": "minecraft:matching_blocks"
-							},
-							"type": "minecraft:block_predicate_filter"
-						}
-					]
-				}
-			},
-			{
 				"chance": 0.04,
 				"feature": {
 					"feature": "minecraft:acacia",

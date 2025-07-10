@@ -1,0 +1,103 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 8080895,
+				"Instant": false,
+				"Name": "ars_elemental:enderference"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 0,
+				"Instant": false,
+				"Name": "ars_elemental:enthralled"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "ars_elemental:frozen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 14981690,
+				"Instant": false,
+				"Name": "ars_elemental:hellfire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "ars_elemental:hymn_of_order"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 1,
+				"Instant": false,
+				"Name": "ars_elemental:life_link"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 47359,
+				"Instant": false,
+				"Name": "ars_elemental:mana_shield"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 16776960,
+				"Instant": false,
+				"Name": "ars_elemental:repel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16776960,
+				"Instant": false,
+				"Name": "ars_elemental:static_charged"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 8889187,
+				"Instant": false,
+				"Name": "ars_elemental:venom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 47359,
+				"Instant": false,
+				"Name": "ars_elemental:watery_grave"
+			}
+		}
+	]
+}

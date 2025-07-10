@@ -26,7 +26,7 @@
 	#Whether or not Hostile Mobs should be stopped from spawning
 	stop_hostile_spawns = true
 	#Whether or not the Mod will create backups on world load
-	create_backups = true
+	create_backups = false
 
 [console_messages]
 	#Whether this mod will print [INFO] messages to the console/log

@@ -46,6 +46,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "apothic_enchanting:ender_lead"
+		},
+		{
+			"weight": 1.0,
 			"key": "apothic_enchanting:ender_library"
 		},
 		{
@@ -63,6 +67,10 @@
 		{
 			"weight": 1.0,
 			"key": "apothic_enchanting:fishing_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "apothic_enchanting:flimsy_ender_lead"
 		},
 		{
 			"weight": 1.0,
@@ -115,6 +123,10 @@
 		{
 			"weight": 1.0,
 			"key": "apothic_enchanting:melonshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "apothic_enchanting:occult_ender_lead"
 		},
 		{
 			"weight": 1.0,

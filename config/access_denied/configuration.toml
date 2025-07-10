@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 # A list of registry ids of dimensions players cannot travel to at all.
 disabledDimensions = ["minecraft:the_end"]
 #
 # Whether to push the player back or not when not meeting the requirements to access a dimension.
 pushBackPlayer = false
+=======
+# A list of registry ids of dimensions players cannot travel to at all.
+disabledDimensions = ["minecraft:the_end"]
+#
+# Whether to push the player back or not when not meeting the requirements to access a dimension.
+pushBackPlayer = false
+>>>>>>> Stashed changes

@@ -246,6 +246,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:mushroom_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:mushrooms"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:netherracks"
 		},
 		{
@@ -302,6 +310,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/desh"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/diamond"
 		},
 		{
@@ -318,6 +330,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/iesnium"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/iron"
 		},
 		{
@@ -330,6 +346,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/neptunium"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/netherite_scrap"
 		},
 		{
@@ -339,6 +359,10 @@
 		{
 			"weight": 1.0,
 			"key": "c:ores/osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/ostrum"
 		},
 		{
 			"weight": 1.0,
@@ -359,6 +383,14 @@
 		{
 			"weight": 1.0,
 			"key": "c:ores/runic"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/steel"
 		},
 		{
 			"weight": 1.0,
@@ -411,6 +443,22 @@
 		{
 			"weight": 1.0,
 			"key": "c:player_workstations/furnaces"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:pumpkins"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:pumpkins/carved"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:pumpkins/jack_o_lanterns"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:pumpkins/normal"
 		},
 		{
 			"weight": 1.0,
@@ -486,11 +534,31 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/amethyst"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/andesite_alloy"
 		},
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/bio"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/biomass"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/blutonium"
 		},
 		{
 			"weight": 1.0,
@@ -522,6 +590,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/chromium"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/coal"
 		},
 		{
@@ -546,7 +618,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/electrum"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/enderium"
 		},
 		{
 			"weight": 1.0,
@@ -555,6 +635,18 @@
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/honeycombs"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/iesnium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/iridium"
 		},
 		{
 			"weight": 1.0,
@@ -598,6 +690,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/raw_iesnium"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/raw_iron"
 		},
 		{
@@ -611,6 +707,10 @@
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/raw_replica"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_silver"
 		},
 		{
 			"weight": 1.0,
@@ -642,6 +742,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/silver"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/sky_bronze"
 		},
 		{
@@ -670,7 +778,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/sulfur"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/titanium"
 		},
 		{
 			"weight": 1.0,
@@ -679,6 +795,10 @@
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/wax"
 		},
 		{
 			"weight": 1.0,

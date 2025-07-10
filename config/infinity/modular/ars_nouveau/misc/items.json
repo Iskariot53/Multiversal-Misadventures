@@ -290,6 +290,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_nouveau:enchanters_fishing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_nouveau:enchanters_gauntlet"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_nouveau:enchanters_mirror"
 		},
 		{
@@ -959,6 +967,10 @@
 		{
 			"weight": 1.0,
 			"key": "ars_nouveau:repository"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_nouveau:repository_controller"
 		},
 		{
 			"weight": 1.0,

@@ -21,7 +21,7 @@ advWirelessRange = 64
 #Value of -1 disables this feature entirely
 # Default: 1
 # Range: -1 ~ 4
-wirelessTermBeaconLvl = 1
+wirelessTermBeaconLvl = 3
 #Adv Wireless terminal requied beacon level for cross dimensional access
 #Value of 0 only requires a single beacon block nearby
 #Value of -1 disables this feature entirely
@@ -44,12 +44,12 @@ invLinkBeaconRange = 4096
 #Value of -1 disables this feature entirely
 # Default: 1
 # Range: -1 ~ 4
-invLinkBeaconLvlSameDim = 1
+invLinkBeaconLvlSameDim = 2
 #Inventory Cable Connector requied beacon level for cross dimensional access
 #Value of 0 only requires a single beacon block
 #Value of -1 disables this feature entirely
 # Default: 2
 # Range: -1 ~ 4
-invLinkBeaconLvlCrossDim = 2
+invLinkBeaconLvlCrossDim = 3
 #Use multithreading to improve performance
 runMultithreaded = true

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	id: "30817747C8915F64"
 	loot_crate: {
@@ -58,3 +59,65 @@
 		}
 	]
 }
+=======
+{
+	id: "30817747C8915F64"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "basic"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "7ED43302EDF2886B", item: { count: 1, id: "minecraft:redstone_block" } }
+		{
+			id: "47CBEA5E2D5052E3"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "0EDE894097265342"
+			item: {
+				count: 1
+				id: "minecraft:emerald_block"
+			}
+			weight: 0.5f
+		}
+		{ id: "3756948E952D0E3E", item: { count: 1, id: "minecraft:iron_block" } }
+		{
+			count: 3
+			id: "39AE71EA690B689C"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			weight: 0.4f
+		}
+		{
+			count: 2
+			id: "5FA0C5BD99A5BA45"
+			item: {
+				count: 1
+				id: "minecraft:netherite_scrap"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 8
+			id: "13592A8676149B6A"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+		}
+	]
+}
+>>>>>>> Stashed changes

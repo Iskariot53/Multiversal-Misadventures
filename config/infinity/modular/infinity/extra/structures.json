@@ -3,11 +3,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "infinity:missing"
+				"id": "infinity:isolation"
 			}
 		},
 		{
@@ -17,7 +17,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "infinity:terminal"
+				"id": "infinity:indevhouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "infinity:missing"
 			}
 		},
 		{
@@ -33,11 +43,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "infinity:isolation"
+				"id": "infinity:terminal"
 			}
 		},
 		{
@@ -48,16 +58,6 @@
 				},
 				"step": "surface_structures",
 				"id": "infinity:content"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "infinity:indevhouse"
 			}
 		}
 	]

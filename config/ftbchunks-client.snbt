@@ -132,7 +132,58 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: { }
+		entity_icon: {
+			"minecraft:cat": true
+			"minecraft:tropical_fish": false
+			"minecraft:giant": true
+			"minecraft:squid": true
+			"ars_nouveau:alakarkinos": true
+			"minecraft:spider": true
+			"artifacts:mimic": true
+			"minecraft:sheep": true
+			"arphex:maggot_larvae": true
+			"minecraft:fox": true
+			"minecraft:skeleton": true
+			"arphex:dungeon_trigger": true
+			"minecraft:piglin_brute": true
+			"minecraft:glow_squid": true
+			"productivebees:blue_banded_bee": true
+			"monsterplus:spectral_skull": true
+			"infinity:bishop": true
+			"productivebees:creeper_bee": true
+			"minecraft:iron_golem": true
+			"minecraft:hoglin": true
+			"minecraft:witch": true
+			"minecraft:piglin": true
+			"minecraft:sniffer": true
+			"minecraft:armadillo": true
+			"minecraft:zombie": true
+			"minecraft:slime": true
+			"ars_nouveau:whirlisprig": true
+			"minecraft:bat": true
+			"monsterplus:demon_eye": true
+			"minecraft:allay": true
+			"minecraft:salmon": false
+			"minecraft:zombified_piglin": true
+			"ars_nouveau:starbuncle": true
+			"ars_nouveau:drygmy": true
+			"ars_nouveau:gift_starby": true
+			"productivebees:neon_cuckoo_bee": true
+			"arphex:spider_jump": true
+			"forbidden_arcanus:lost_soul": true
+			"minecraft:villager": true
+			"minecraft:creeper": true
+			"minecraft:shulker": true
+			"arphex:ant_arsonist": true
+			"minecraft:horse": true
+			"minecraft:chicken": true
+			"minecraft:pig": true
+			"minecraft:zombie_villager": true
+			"arphex:spider_goliath": true
+			"minecraft:axolotl": true
+			"minecraft:wolf": true
+			"infinity:ant": true
+		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5

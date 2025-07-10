@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
@@ -69,3 +70,76 @@
 		}
 	]
 }
+=======
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "productive_metalworks"
+	group: "010D48DD05987800"
+	icon: {
+		id: "minecraft:blast_furnace"
+	}
+	id: "6594504242CFDEF0"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["458329839B21BF7B"]
+			id: "606DE715CCDAF062"
+			size: 1.5d
+			tasks: [{
+				count: 32L
+				id: "669D50CEDF975AF1"
+				item: { count: 1, id: "productivemetalworks:fire_brick" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["606DE715CCDAF062"]
+			id: "0A58850F467C24D3"
+			tasks: [{
+				id: "13921A759138F61A"
+				item: { count: 1, id: "productivemetalworks:black_fire_bricks" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["606DE715CCDAF062"]
+			id: "3EF3C4CACC3DA9B7"
+			tasks: [{
+				id: "34B6257DE852F25E"
+				item: { count: 1, id: "productivemetalworks:black_foundry_controller" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["606DE715CCDAF062"]
+			id: "6C6579D63B189C33"
+			tasks: [{
+				id: "3E9D6F8010B0840A"
+				item: { count: 1, id: "productivemetalworks:black_foundry_window" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["606DE715CCDAF062"]
+			id: "7099C904C071BE71"
+			tasks: [{
+				id: "7408041C78B4421C"
+				item: { count: 1, id: "productivemetalworks:black_foundry_drain" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+	]
+}
+>>>>>>> Stashed changes

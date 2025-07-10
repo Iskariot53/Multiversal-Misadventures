@@ -188,6 +188,27 @@
 				"Type": "block",
 				"Name": "apothic_enchanting:blocks/treasure_shelf"
 			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "hit_block",
+				"Name": "apothic_enchanting:boon_deepslate_drops"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "hit_block",
+				"Name": "apothic_enchanting:boon_netherrack_drops"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "hit_block",
+				"Name": "apothic_enchanting:boon_stone_drops"
+			}
 		}
 	]
 }

@@ -37,7 +37,7 @@
   },
   "printDragonPhases": {
     "desc:": "Prints the dragon phase in chat if enabled: default:false",
-    "printDragonPhases": false
+    "printDragonPhases": true
   },
   "disableDragonAreaSpawns": {
     "desc:": "Disables mob spawning on the Dragon island during the fight: default:true",

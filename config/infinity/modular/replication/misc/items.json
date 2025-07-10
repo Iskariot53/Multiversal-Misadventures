@@ -6,6 +6,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "replication:creative_memory_chip"
+		},
+		{
+			"weight": 1.0,
 			"key": "replication:deepslate_replica_ore"
 		},
 		{

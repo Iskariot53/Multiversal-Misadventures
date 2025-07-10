@@ -14,6 +14,8 @@
 	#What time of day does the horde event start? eg 18000 is midnight with default day length.
 	hordeStartTime = 18000
 	#Amount of days between horde spawns.
+	# Default: 10
+	# Range: > 1
 	hordeSpawnDays = 10
 	#Amount of days a horde event can be randomly delayed by
 	hordeSpawnVariation = 0
@@ -28,7 +30,7 @@
 	#Set to true to enable the horde spawning on the first day. (Game day 0)
 	spawnFirstDay = false
 	#Set to false to disable the use of beds during a horde event.
-	canSleepDuringHorde = false
+	canSleepDuringHorde = true
 	#How much should the size of each horde scale down by when multiple players are near each other?
 	hordeMultiplayerScaling = 0.8
 	#Do the daylight cycle (and active horde events get paused while there are no players online.).
@@ -39,12 +41,16 @@
 	hordeStartBuffer = 1200
 	#How many attempts should horde events make to avoid spawning mobs in light areas or outside their spawn type.
 	hordeSpawnChecks = 25
+	#Does a scheduled horde for an online player prevent other players sleeping?
+	hordePreventsOtherPlayersSleeping = true
+	#How far away should hordes attempt to spawn?
+	hordeSpawnDistance = 75.0
 
 [Infection]
 	#Set to false to completely disable mob infection and anything related to it.
 	enableMobInfection = true
 	#Can players be infected.
-	infectPlayers = true
+	infectPlayers = false
 	#Whether later levels of infected should slightly slow movement speed? 
 	infectSlowness = true
 	#Whether later levels of infected should deplete hunger quicker? 

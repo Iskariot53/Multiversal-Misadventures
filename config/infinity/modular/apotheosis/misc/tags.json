@@ -2,6 +2,14 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "apotheosis:gardening_candidates"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:leafforming_candidates"
+		},
+		{
+			"weight": 1.0,
 			"key": "apotheosis:rogue_spawner_covers"
 		},
 		{

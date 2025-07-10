@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	id: "7752302E94FE2159"
 	loot_crate: {
@@ -41,3 +42,48 @@
 		{ id: "0DA02D6D65845F94", item: { count: 1, id: "ae2:annihilation_core" } }
 	]
 }
+=======
+{
+	id: "7752302E94FE2159"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ae2"
+	}
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 6
+			id: "5C98712604CA4057"
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+		}
+		{
+			count: 4
+			id: "76DB46348A5D3764"
+			item: {
+				count: 1
+				id: "ae2:ender_dust"
+			}
+		}
+		{ id: "1220119995424574", item: { count: 1, id: "ae2:cell_component_1k" } }
+		{
+			count: 16
+			id: "225BF6EF4868902C"
+			item: {
+				count: 1
+				id: "ae2:quartz_fiber"
+			}
+		}
+		{ id: "6376372F5B6BBDF1", item: { count: 1, id: "ae2:formation_core" } }
+		{ id: "0DA02D6D65845F94", item: { count: 1, id: "ae2:annihilation_core" } }
+	]
+}
+>>>>>>> Stashed changes

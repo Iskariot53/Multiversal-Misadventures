@@ -1,4 +1,4 @@
-["Vault Filters Server Config"]
+["Create Filters Anywhere Server Config"]
 	#
 	#How long till an unused cache entry gets cleared
 	#in minutes
@@ -24,9 +24,13 @@
 	#Default:true
 	"AE2 Compatibility" = true
 	#
-	#Enable compatibility for list and attribute filters inside Tom's filtered inventory connector
+	#Enable compatibility for list and attribute filters inside Tom's basic filter item
 	#Default:true
 	"Tom's Simple Storage Compatibility" = true
+	#
+	#Enable compatibility for list and attribute filters inside LaserIO's Basic Filter card.
+	#Default:true
+	"LaserIO Compatibility" = true
 	#
 	#Delete old cache entries from items when they're filtered through
 	#Default:false

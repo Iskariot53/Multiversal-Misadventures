@@ -446,7 +446,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:needs_diamond_tools"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:needs_iron_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:needs_iron_tools"
 		},
 		{
 			"weight": 1.0,
@@ -691,6 +699,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:wart_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:water"
 		},
 		{
 			"weight": 1.0,

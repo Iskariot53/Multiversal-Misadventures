@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12679744,
+				"Name": "ars_elemental:blazing_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2210437,
+				"Name": "ars_elemental:cascading_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 13084948,
+				"Name": "ars_elemental:flashing_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 30464,
+				"Name": "ars_elemental:flourishing_forest"
+			}
+		}
+	]
+}

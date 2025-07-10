@@ -15,7 +15,7 @@
 	#Allows to fill an existing grave instead of creating a new one [false/true|default:true]
 	allow_to_fill_existing_grave = true
 	#Caps the duration of Ghostly Shape effect to 10 seconds when teleporting with a Grave's Key [false/true|default:true]
-	nerf_ghostly_shape_teleport_with_key = true
+	nerf_ghostly_shape_teleport_with_key = false
 	#The radius in which items should be collected when a grave is spawned [1..10|default:5]
 	# Default: 5
 	# Range: 1 ~ 10
@@ -27,7 +27,7 @@
 	#Percent of stolen experience by killing a player when PvP mode is enabled [0..100|default:30]
 	# Default: 30
 	# Range: 0 ~ 100
-	pvp_stolen_xp = 30
+	pvp_stolen_xp = 80
 	#The chance that some items are lost on death [0..100|default:0]
 	# Default: 0
 	# Range: 0 ~ 100
@@ -57,14 +57,6 @@
 	# Default: -20
 	# Range: -500 ~ 0
 	points_zombify_villager = -20
-	#Points for killing a villager [-500..0|default:-15]
-	# Default: -15
-	# Range: -500 ~ 0
-	points_kill_villager = -15
-	#Points for killing a raider [0..500|default:5]
-	# Default: 5
-	# Range: 0 ~ 500
-	points_kill_raider = 5
 	#Points for tablet of cupidity [-500..0|default:-10]
 	# Default: -10
 	# Range: -500 ~ 0
@@ -81,6 +73,14 @@
 	# Default: -10
 	# Range: -500 ~ 0
 	points_kill_tamed_creature = -10
+	#Points for killing some entities decreasing alignment [-500..0|default:-10]
+	# Default: -10
+	# Range: -500 ~ 0
+	points_kill_decreasing_alignment = -10
+	#Points for killing some entities increasing alignment [0..500|default:10]
+	# Default: 10
+	# Range: 0 ~ 500
+	points_kill_increasing_alignment = 10
 
 #Miscellaneous options
 [general]
@@ -95,15 +95,11 @@
 	#Cooldown in minutes to use the command tbrequestteleport [-1..1440|default:-1]
 	# Default: -1
 	# Range: -1 ~ 1440
-	cooldown_request_teleport = -1
+	cooldown_request_teleport = 10
 	#Cooldown in minutes to use the command tbteleportdeath [-1..1440|default:-1]
 	# Default: -1
 	# Range: -1 ~ 1440
-	cooldown_teleport_death = -1
-	#Rarity for Easter Eggs to spawn during Easter [1000..100000|default:5000]
-	# Default: 5000
-	# Range: 1000 ~ 100000
-	easter_egg_spawn_rarity = 5000
+	cooldown_teleport_death = 3
 	#Beneficial effects that can't used by certain features such as ankh of prayer, lollipop, scroll of preservation, alchemy perk and magic siphon enchantment
 	unhandled_beneficial_effects = ["minecraft:hero_of_the_village"]
 	#Harmful effects that can't used by certain features such as tablet of cupidity and the enchantment plague bringer
@@ -149,15 +145,15 @@
 	#The items that can't be recycled by the Book of Recycling
 	denied_item_to_recycle = []
 	#Allows to disenchant enchanted books with the Book of Disenchantment
-	can_disenchant_enchanted_book = false
+	can_disenchant_enchanted_book = true
 	#Allows lost tablets to find locations outside the current world [false/true|default:true]
-	lost_tablet_search_outside_world = true
+	lost_tablet_search_outside_world = false
 	#Allows lost tablets to find modded structures [false/true|default:true]
 	lost_tablet_modded_structure = true
 	#The structures that can't be discovered by lost tablets
 	lost_tablet_denied_structures = []
 	#The worlds that can't be discovered by lost tablets
-	lost_tablet_denied_worlds = []
+	lost_tablet_denied_worlds = ["miecraft:overworld", "minecraft:the_end", "arphex:the_crawling"]
 
 #For settings related to decorative tombs and magic items
 [decorative_grave]
@@ -181,10 +177,6 @@
 	# Default: 100
 	# Range: 0 ~ 1000
 	chance_soul = 100
-	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:30]
-	# Default: 30
-	# Range: 0 ~ 100
-	chance_pray_reward = 30
 
 #Options related to the command recovery and auto-save of players
 [recovery]
@@ -208,13 +200,31 @@
 	#Maximum xp rewarded with a Lost Page of Erdös [100..200000|default:2000]
 	# Default: 2000
 	# Range: 100 ~ 200000
-	max_xp_lost_page = 2000
+	max_xp_lost_page = 5000
+	#Denied mods for equipment drops
+	denied_modid_for_equipment = ["tombstone"]
+	#Only vanilla drops for equipment [false/true|default:false]
+	only_vanilla_for_equipment = false
 
 #Allows to enable some features related to others mods
 [compatibility]
 	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
 	curio_auto_equip = true
 	#Keeps the cosmetic armor when you die [false/true|default:true]
-	keep_cosmetic_armor = true
+	keep_cosmetic_armor = false
 	#Ensure the potion effects to stay on the player after returning from end conquered [false/true|default:true]
 	preserve_effects_on_return_end_conquered = true
+
+#Allows to enable special events
+[special_events]
+	#Allows Halloween [false/true|default:true]
+	allow_halloween = true
+	#Allows Christmas [false/true|default:true]
+	allow_christmas = true
+	#Allows Spring Bloom [false/true|default:true]
+	allow_spring_bloom = true
+	#Allows April Fools [false/true|default:true]
+	allow_april_fools = true
+	#Allows you to set a Special Event as permanent [NONE/APRIL_FOOLS/HALLOWEEN/CHRISTMAS/SPRING_BLOOM|default:NONE]
+	#Allowed Values: NONE, APRIL_FOOLS, HALLOWEEN, CHRISTMAS, SPRING_BLOOM
+	force_special_event = "NONE"

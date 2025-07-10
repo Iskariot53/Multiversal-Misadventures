@@ -11,14 +11,14 @@
 							{
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:witch",
-								"maxCount": 2
+								"type": "minecraft:guardian",
+								"maxCount": 1
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "tombstone:abandoned_grave_land"
+				"id": "tombstone:abandoned_grave_ocean"
 			}
 		},
 		{
@@ -32,14 +32,14 @@
 							{
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:guardian",
-								"maxCount": 1
+								"type": "minecraft:witch",
+								"maxCount": 2
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "tombstone:abandoned_grave_ocean"
+				"id": "tombstone:abandoned_grave_land"
 			}
 		}
 	]

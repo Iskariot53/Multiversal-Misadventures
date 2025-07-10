@@ -9,7 +9,7 @@
 	# Range: > 5
 	dynamicGuiTickSendRateOfGUIUpdates = 10
 	#If enabled, only sends the initial image of a players gui, does not constantly update after it's been opened.
-	dynamicGuiDontSendConstantGUIUpdates = false
+	dynamicGuiDontSendConstantGUIUpdates = true
 	#Blur is used to prevent nasty aliasing/flicker artifacts at the cost of clarity
 	# Default: 1
 	# Range: 0 ~ 2

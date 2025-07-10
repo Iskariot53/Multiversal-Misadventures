@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
 	id: "6D2F75ACADD5B9C8"
 	loot_crate: {
@@ -72,3 +73,79 @@
 		{ id: "251AA4FDD2F3E83B", item: { count: 1, id: "mekanism:upgrade_energy" } }
 	]
 }
+=======
+{
+	id: "6D2F75ACADD5B9C8"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "mekanism"
+	}
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			count: 8
+			id: "04022CC336A743B1"
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+		}
+		{
+			count: 4
+			id: "7FFF833D4346B7C1"
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+		}
+		{
+			count: 2
+			id: "4A82FF6BEADE1BAF"
+			item: {
+				count: 1
+				id: "mekanism:alloy_atomic"
+			}
+		}
+		{
+			count: 8
+			id: "119CD51AA8F20C25"
+			item: {
+				count: 1
+				id: "mekanism:basic_control_circuit"
+			}
+		}
+		{
+			count: 6
+			id: "3763894A5D1D18CB"
+			item: {
+				count: 1
+				id: "mekanism:advanced_control_circuit"
+			}
+		}
+		{
+			count: 4
+			id: "304E29416685D06E"
+			item: {
+				count: 1
+				id: "mekanism:elite_control_circuit"
+			}
+		}
+		{
+			count: 2
+			id: "18C1C9423F24F5E8"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_control_circuit"
+			}
+		}
+		{ id: "1146F3D6D270706B", item: { count: 1, id: "mekanism:upgrade_speed" } }
+		{ id: "251AA4FDD2F3E83B", item: { count: 1, id: "mekanism:upgrade_energy" } }
+	]
+}
+>>>>>>> Stashed changes

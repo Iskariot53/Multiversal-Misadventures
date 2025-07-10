@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 [piglin]
 	#If piglins should make sounds while in the players inventory
 	inventory_sounds = true
+=======
+[piglin]
+	#If piglins should make sounds while in the players inventory
+	inventory_sounds = true
+>>>>>>> Stashed changes

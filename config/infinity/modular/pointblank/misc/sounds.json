@@ -1,0 +1,876 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pointblank:aa12"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:aa12_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:aa12_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak12"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak12_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak47"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak47_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak74"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak74_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak_actionback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak_actionforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ak_safety"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:an94"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ar57"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:at4"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:at4_cover"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:at4_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:attachment_added"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:attachment_removed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:aug"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:aug_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ballista"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ballista_boltback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ballista_boltforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ballista_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ballista_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ballista_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:boltback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:boltforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:bulletinsert"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:c14"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:citoricxs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:click"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:crafting_completed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:crafting_in_progress"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:crafting_item_selected"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:dbshotgun_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:dbshotgun_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:deagle_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:deagle_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:deagle_slide"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:deserteagle"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:deserteagle_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:foley_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:foley_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g3"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g36c"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g36k"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g3_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g3_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g3_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g41"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:g41_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:glock17"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:glock_suppressed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:gm6lynx"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:gm6lynx_actionback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:gm6lynx_actionforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:gm6lynx_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:gm6lynx_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:gm6lynx_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:grenade20mm"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:hit_headshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:hit_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:hit_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:hk416"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:hk416_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:hs12"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ignite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:inspect_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:inspect_foley"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:inspect_turn"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:inspect_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:l96a1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:l96a1_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:lamg"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:laser_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:laser_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:laser_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:laser_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:laser_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:launcher_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:launcher_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:launcher_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:launcher_reloadend"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:launcher_reloadstart"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:lmg_bulletchain"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:lmg_coverdown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:lmg_coverup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:lmg_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:lmg_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:locked"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:locking"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m134minigun"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m16a1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m16a1_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m1911_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m1911a1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m249"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_actionback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_actionforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_maghit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_magout_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_magout_throw2"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4a1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4a1_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4sopmodii"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m4sopmodii_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m590"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m870"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m9"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m950"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m950_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:m9_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mgl_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mgl_load"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mgl_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mgl_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mgl_unload"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:minigun_foley"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:minigun_load"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:minigun_unload"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:minigunchargeup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:minigunwinddown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mk14ebr"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mk14ebr_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mk48"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_actionback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_actionslap"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_actionup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_boltclose"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp5_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp7"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:mp7a2devgru"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:p30l"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:p30l_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:p90"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:p90_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:p90_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:p90_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_inspectdown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_inspectfoley"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_inspectturn"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_inspectup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_magout_fast"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pistol_slide"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:printer_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:printer_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pump1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:pump2"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:revolver_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:revolver_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:revolver_shellsout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:revolver_speedloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:rhino"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:rhino_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:rifle_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:rifle_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ro635"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ro635_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:scarl"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:scarl_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:scarl_unsilenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:shell_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:shotgun_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:shotgun_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:sl8"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:sl8_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:smaw_load"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:smaw_turn"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:smaw_unload"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:spas12"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:spas12_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:star15"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:tmp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:tmp_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:uar10"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:uar10_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ump45"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:ump45_unsilenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:vector"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:vector_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:vector_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:vector_silenced"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:wa2000"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:wa2000_actionback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:wa2000_actionforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm29"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm29_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm3"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7_chargeback"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7_chargeforward"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7_magin"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7_magout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7_magoutfast"
+		},
+		{
+			"weight": 1.0,
+			"key": "pointblank:xm7_unsilenced"
+		}
+	]
+}

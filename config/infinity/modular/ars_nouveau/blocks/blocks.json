@@ -981,6 +981,16 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Name": "ars_nouveau:repository_controller",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
 				"Name": "ars_nouveau:ritual_brazier",
 				"full": false
 			}
@@ -1685,7 +1695,7 @@
 				"laggy": true,
 				"float": true,
 				"Name": "ars_nouveau:storage_lectern",
-				"full": true
+				"full": false
 			}
 		},
 		{

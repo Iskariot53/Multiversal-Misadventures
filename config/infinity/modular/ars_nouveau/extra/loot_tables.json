@@ -634,6 +634,13 @@
 			"weight": 1.0,
 			"key": {
 				"Type": "block",
+				"Name": "ars_nouveau:blocks/repository_controller"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
 				"Name": "ars_nouveau:blocks/ritual_brazier"
 			}
 		},

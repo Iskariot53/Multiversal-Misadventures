@@ -1,0 +1,17 @@
+// Compost colors for tempad. You may add your own colors, change existing ones, or remove colors that aren't needed.
+card_wallet, #e07028
+chronometer, #a06640
+chronon_battery, #a57865
+chronon_cell, #788780
+chronon_generator, #7a9380
+creative_chronometer, #69617f
+knowledge_projector, #7f5033
+knowledge_repository_upgrade, #756e64
+location_broadcaster, #bc8d90
+location_card, #ffe7b9
+new_location_upgrade, #78695e
+player_teleport_upgrade, #6f6962
+screening_device, #936143
+tempad, #9d7d5f
+time_steel, #fad2a4
+time_twister, #9e7f64
