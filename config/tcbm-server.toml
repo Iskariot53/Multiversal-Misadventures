@@ -1,9 +1,0 @@
-[General]
-	#Only use Cardboard Box on tile entities (Furnaces, Chests, Spawners, modded Machines).  Default: false
-	isTilesOnly = false
-	#When removed, place Cardboard Box directly into Player inventory.  Default: false
-	instaCrate = false
-
-[Holidays]
-	#Allow festive models for Cardboard Box.  Default: true
-	allowFestive = true
