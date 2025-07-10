@@ -1,0 +1,14 @@
+// Compost colors for swplanets. You may add your own colors, change existing ones, or remove colors that aren't needed.
+beskar, #8d8e9b
+beskar_armor_boots, #3d444b
+beskar_armor_chestplate, #5a5154
+beskar_armor_helmet, #555e68
+beskar_armor_leggings, #434a52
+blaster_explosion_upgrade, #725c65
+blaster_zoom_upgrade, #7f5155
+kyber_crystal, #aad6ff
+plastic_plate, #ffffff
+stormtrooper_boots, #87847f
+stormtrooper_chestplate, #c6c0b4
+stormtrooper_leggings, #96918c
+stormtrooper_mask, #b2aea5

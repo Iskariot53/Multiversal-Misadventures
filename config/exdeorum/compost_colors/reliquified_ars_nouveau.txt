@@ -1,0 +1,19 @@
+// Compost colors for reliquified_ars_nouveau. You may add your own colors, change existing ones, or remove colors that aren't needed.
+architects_staff, #cc765a
+archmage_glove, #c95f6f
+cloak_of_concealment, #3cb1d9
+emblem_of_assault, #ffc386
+emblem_of_defense, #ffd493
+emblem_of_devotion, #f2949d
+flaming_bracer, #e49137
+horn_of_the_wild_hunter, #d2c2be
+illusionists_mantle, #835191
+mana_ring, #ffab80
+quantum_bubble, #28aeb8
+ring_of_last_will, #c987bf
+ring_of_the_spectral_walker, #6498c9
+ring_of_thrift, #ff9872
+spiked_cloak, #ae898d
+whirling_broom, #84ee55
+whirlisprig_petals, #8aee2a
+wing_of_the_wild_stalker, #543736

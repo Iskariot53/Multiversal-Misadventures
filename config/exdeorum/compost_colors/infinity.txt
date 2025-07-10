@@ -1,0 +1,15 @@
+// Compost colors for infinity. You may add your own colors, change existing ones, or remove colors that aren't needed.
+biome_bottle, #cfe0ff
+black_matter, #1f2a37
+chromatic_matter, #ffffff
+chromatic_potion, #cab9c3
+disc, #ffffff
+f4, #160f26
+fine_item, #ffffff
+footprint, #b5b5b5
+iridescence_bucket, #aeaeae
+iridescent_potion, #c6d0e4
+iridescent_star, #b4b4b4
+key, #eeab91
+star_of_lang, #c9c9c9
+white_matter, #ffffff

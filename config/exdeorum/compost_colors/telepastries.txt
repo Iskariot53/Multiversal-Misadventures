@@ -1,0 +1,9 @@
+// Compost colors for telepastries. You may add your own colors, change existing ones, or remove colors that aren't needed.
+custom_cake, #cccacc
+custom_cake2, #cccacc
+custom_cake3, #cccacc
+end_cake, #eaeac6
+lost_city_cake, #ccaea5
+nether_cake, #c55e5b
+overworld_cake, #c3dc82
+twilight_cake, #bfc28d
