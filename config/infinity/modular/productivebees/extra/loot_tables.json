@@ -1,0 +1,1502 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/acacia_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_acacia_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_acacia_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_aspen_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_bamboo_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_bamboo_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_dead_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_fir_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_hellbark_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_jacaranda_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_magic_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_mahogany_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_palm_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_redwood_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_umbran_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_biomesoplenty_willow_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_birch_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_birch_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_cherry_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_cherry_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_comb_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_concrete_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_crimson_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_crimson_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_dark_oak_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_dark_oak_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_dead_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_driftwood_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_fir_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_grimwood_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_hellbark_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_jacaranda_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_jungle_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_jungle_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_kousa_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_magic_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_mahogany_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_mangrove_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_mangrove_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_maple_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_oak_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_oak_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_palm_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_redwood_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_baobab_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_blackwood_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_blue_bioshroom_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_cobalt_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_cypress_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_dead_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_eucalyptus_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_green_bioshroom_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_joshua_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_kapok_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_larch_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_magnolia_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_maple_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_mauve_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_palm_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_pine_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_pink_bioshroom_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_redwood_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_socotra_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_willow_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_regions_unexplored_yellow_bioshroom_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_river_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_rosewood_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_snake_block_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_snake_block_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_spruce_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_spruce_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_umbran_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_warped_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_warped_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_willow_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_wisteria_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/advanced_yucca_canvas_beehive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/amber"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/bamboo_hive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/birch_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/black_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/blue_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/bottler"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/breeding_chamber"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/brown_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/bumble_bee_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/catcher"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/centrifuge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/cherry_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/coarse_dirt_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/comb_ghostly"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/comb_milky"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/comb_powdery"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/configurable_comb"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/cyan_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/dark_oak_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/dragon_egg_hive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/end_stone_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_acacia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_acacia_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_aspen_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_bamboo"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_bamboo_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_dead"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_fir"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_hellbark"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_jacaranda"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_magic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_mahogany"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_palm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_redwood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_umbran"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_biomesoplenty_willow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_birch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_birch_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_cherry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_cherry_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_comb_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_concrete_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_crimson"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_crimson_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_dark_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_dark_oak_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_dead_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_driftwood_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_fir_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_grimwood_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_hellbark_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_jacaranda_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_jungle_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_kousa_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_magic_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_mahogany_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_mangrove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_mangrove_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_maple_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_oak_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_palm_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_redwood_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_baobab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_blackwood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_blue_bioshroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_cobalt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_cypress"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_dead"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_eucalyptus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_green_bioshroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_joshua"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_kapok"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_larch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_magnolia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_maple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_mauve"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_palm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_pine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_pink_bioshroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_redwood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_socotra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_willow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_regions_unexplored_yellow_bioshroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_river_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_rosewood_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_snake_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_snake_block_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_spruce"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_spruce_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_umbran_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_warped"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_warped_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_willow_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_wisteria_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/expansion_box_yucca_canvas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/feeder"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/gene_indexer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/glowstone_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/gravel_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/gray_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/green_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/heated_centrifuge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/honey_generator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/inactive_dragon_egg"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/incubator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/jar_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/jungle_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/light_blue_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/light_gray_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/lime_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/magenta_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/mangrove_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/nether_brick_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/nether_gold_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/nether_quartz_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/oak_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/obsidian_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/orange_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/pink_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/powered_centrifuge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/purple_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/quartz_netherrack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/red_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/sand_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/slimy_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/snow_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/soul_sand_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/spruce_wood_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/stone_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/sugar_cane_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/wax_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/white_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "productivebees:blocks/yellow_petrified_honey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "gift",
+				"Name": "productivebees:gameplay/hero_of_the_village/beekeeper_gifts"
+			}
+		}
+	]
+}
