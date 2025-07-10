@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [anglers_hat]
 	#The amount of extra levels of luck of the sea that are granted by the Angler's Hat
 	#Range: 0 ~ 100
@@ -381,6 +382,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [anglers_hat]
 	#The amount of extra levels of luck of the sea that are granted by the Angler's Hat
 	#Range: 0 ~ 100
@@ -760,6 +763,9 @@
 	#Range: 0 ~ 256
 	witherLevel = 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

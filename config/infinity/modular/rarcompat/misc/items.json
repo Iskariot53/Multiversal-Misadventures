@@ -3,6 +3,7 @@
 		{
 			"weight": 1.0,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:config/infinity/modular/rarcompat/misc/items.json
 			"key": "rarcompat:mimi_dust"
 ========
@@ -18,3 +19,9 @@
 		}
 	]
 }
+=======
+			"key": "rarcompat:mimi_dust"
+		}
+	]
+}
+>>>>>>> Stashed changes

@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #If true, a cow can be squished into a Milk Jar by dropping an anvil on top.
 cowJarEnabled = true
 #The amount of milk the cow in a jar generates per tick.
@@ -27,6 +28,8 @@ excludedRecipes = []
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #If true, a cow can be squished into a Milk Jar by dropping an anvil on top.
 cowJarEnabled = true
 #The amount of milk the cow in a jar generates per tick.
@@ -52,6 +55,9 @@ allowVeryToastedBread = true
 #List of recipe ids that should be excluded from the recipe book.
 excludedRecipes = []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

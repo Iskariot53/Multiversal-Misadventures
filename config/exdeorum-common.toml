@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Common configuration for Ex Deorum
 [common]
 	#Whether the Void World type is set as the default world preset in world creation screen and server.properties.
@@ -44,6 +45,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Common configuration for Ex Deorum
 [common]
 	#Whether the Void World type is set as the default world preset in world creation screen and server.properties.
@@ -86,6 +89,9 @@
 		#The ID of the item to use for Ex Deorum recipes that craft into Boron Ore. Leave as air for default preference, which chooses alphabetically by mod name.
 		preferred_boron_ore = "minecraft:air"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

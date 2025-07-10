@@ -3,6 +3,7 @@
 		{
 			"weight": 1.0,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:config/infinity/modular/solcarrot/misc/items.json
 			"key": "solcarrot:food_book"
 ========
@@ -18,3 +19,13 @@
 		}
 	]
 }
+=======
+<<<<<<<< Updated upstream:config/infinity/modular/ars_creo/misc/items.json
+			"key": "ars_creo:starbuncle_wheel"
+========
+			"key": "solcarrot:food_book"
+>>>>>>>> Stashed changes:config/infinity/modular/solcarrot/misc/items.json
+		}
+	]
+}
+>>>>>>> Stashed changes

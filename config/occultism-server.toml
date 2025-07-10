@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Storage Settings
 [storage]
 	#The amount of additional slots the storage stabilizer tier 1 provides. 1 Slot holds one item type.
@@ -222,6 +223,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Storage Settings
 [storage]
 	#The amount of additional slots the storage stabilizer tier 1 provides. 1 Slot holds one item type.
@@ -442,6 +445,9 @@
 	#Don't damage chalks on use
 	unbreakableChalks = false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

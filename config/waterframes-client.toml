@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	#Configurations to override server config
 	[waterframes.overrideConfig]
 		#Enables the option
@@ -21,6 +22,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 	#Configurations to override server config
 	[waterframes.overrideConfig]
 		#Enables the option
@@ -40,6 +43,9 @@
 		#Let those modders test waterframes x incompatible mods (i see you stellarity owner)
 		forceDevMode = false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

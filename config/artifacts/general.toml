@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #The chance that an artifact generates in suspicious sand or gravel
 #Range: 0.0 ~ 1.0
 archaeologyChance = 0.0625
@@ -42,6 +43,8 @@ modifyHurtSounds = true
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #The chance that an artifact generates in suspicious sand or gravel
 #Range: 0.0 ~ 1.0
 archaeologyChance = 0.0625
@@ -82,6 +85,9 @@ modifyHurtSounds = true
 	#Allowed Values: true, false
 	useModdedChests = true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

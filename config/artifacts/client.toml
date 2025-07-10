@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Location of the artifact cooldown gui element
 #Distance from the hotbar measured in pixels
 #Negative values place the element left of the hotbar
@@ -20,6 +21,8 @@ useModdedMimicTextures = true
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Location of the artifact cooldown gui element
 #Distance from the hotbar measured in pixels
 #Negative values place the element left of the hotbar
@@ -38,6 +41,9 @@ showTooltips = true
 #Allowed Values: true, false
 useModdedMimicTextures = true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

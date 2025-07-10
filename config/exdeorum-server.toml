@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Server configuration for Ex Deorum
 [server]
 	#Whether players in a void world start out with a torch or not.
@@ -63,6 +64,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Server configuration for Ex Deorum
 [server]
 	#Whether players in a void world start out with a torch or not.
@@ -124,6 +127,9 @@
 	#Whether wooden crucibles fill up with rain water while it is raining and the barrel is exposed to the sky.
 	crucibles_collect_rain_water = true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

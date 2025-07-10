@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Server-specific configuration for FTB Ultimine
 # Modpack defaults should be defined in <instance>/config/ftbultimine-server.snbt
 #   (may be overwritten on modpack update)
@@ -80,6 +81,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 # Server-specific configuration for FTB Ultimine
 # Modpack defaults should be defined in <instance>/config/ftbultimine-server.snbt
 #   (may be overwritten on modpack update)
@@ -158,6 +161,9 @@
 	}
 }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

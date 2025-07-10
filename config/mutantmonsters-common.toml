@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Weight for mutant enderman spawns as a percentage of the vanilla creeper spawn weight.
 #Mutants can spawn in every biome and dimension where their vanilla counterparts can be found.
 #Default Value: 0.05
@@ -27,6 +28,8 @@ mutant_creeper_spawn_weight = 0.05
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Weight for mutant enderman spawns as a percentage of the vanilla creeper spawn weight.
 #Mutants can spawn in every biome and dimension where their vanilla counterparts can be found.
 #Default Value: 0.05
@@ -52,6 +55,9 @@ mutant_skeleton_spawn_weight = 0.05
 # Range: 0.0 ~ 20.0
 mutant_creeper_spawn_weight = 0.05
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

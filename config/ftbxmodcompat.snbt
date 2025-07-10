@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
 	# Only show waystones that have been discovered
 	# Default: true
@@ -20,6 +21,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 {
 	# Only show waystones that have been discovered
 	# Default: true
@@ -38,6 +41,9 @@
 	stage_selector: "default"
 }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

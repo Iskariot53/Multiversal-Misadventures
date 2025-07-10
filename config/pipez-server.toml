@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	[item_pipe.speed]
 		#The speed at which items are transferred
 		#A value of 1 means every tick
@@ -122,6 +123,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 	[item_pipe.speed]
 		#The speed at which items are transferred
 		#A value of 1 means every tick
@@ -242,6 +245,9 @@
 		# Range: > 1
 		ultimate = 40000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

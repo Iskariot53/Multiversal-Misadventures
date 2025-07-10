@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	[ReplicationConfig.RecipeCalculation]
 		#Setting this to 0 will disable the recipe calculation
 		# Default: 11
@@ -59,6 +60,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 	[ReplicationConfig.RecipeCalculation]
 		#Setting this to 0 will disable the recipe calculation
 		# Default: 11
@@ -116,6 +119,9 @@
 		# Range: > 1
 		CAPACITY = 256000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

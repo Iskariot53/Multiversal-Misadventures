@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # If enabled, displays a toast notification when another player rings one of your doorbells.
 # Valid values: true, false
 doorbellNotification = true
@@ -23,6 +24,8 @@ showCuttingBoardHelper = false
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 # If enabled, displays a toast notification when another player rings one of your doorbells.
 # Valid values: true, false
 doorbellNotification = true
@@ -44,6 +47,9 @@ showCuttingBoardHelper = false
 	# Valid values: true, false
 	electricityShadersFix = false
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

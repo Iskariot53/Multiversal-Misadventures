@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [breeder]
 	#The time in ticks the breeder takes to create a new villager
 	# Default: 1200
@@ -71,6 +72,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [breeder]
 	#The time in ticks the breeder takes to create a new villager
 	# Default: 1200
@@ -140,6 +143,9 @@
 	# Range: 1 ~ 1024
 	speed = 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

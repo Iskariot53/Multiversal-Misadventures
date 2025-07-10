@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #General settings
 [General]
 	#Defines if the pastries should be immune to explosions [default: false]
@@ -102,6 +103,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #General settings
 [General]
 	#Defines if the pastries should be immune to explosions [default: false]
@@ -202,6 +205,9 @@
 	# Range: 1 ~ 256
 	customCake3MaxY = 254
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

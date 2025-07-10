@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Maximum distance the endersoul hand can be used to travel to.
 #Default Value: 256
 # Default: 256
@@ -12,6 +13,8 @@ mutant_x_conversions = ["minecraft:creeper,mutantmonsters:mutant_creeper", "mine
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Maximum distance the endersoul hand can be used to travel to.
 #Default Value: 256
 # Default: 256
@@ -22,6 +25,9 @@ endersoul_hand_teleport_distance = 256
 #Default Value: [minecraft:creeper,mutantmonsters:mutant_creeper, minecraft:enderman,mutantmonsters:mutant_enderman, minecraft:skeleton,mutantmonsters:mutant_skeleton, minecraft:snow_golem,mutantmonsters:mutant_snow_golem, minecraft:zombie,mutantmonsters:mutant_zombie, minecraft:pig,mutantmonsters:spider_pig]
 mutant_x_conversions = ["minecraft:creeper,mutantmonsters:mutant_creeper", "minecraft:enderman,mutantmonsters:mutant_enderman", "minecraft:skeleton,mutantmonsters:mutant_skeleton", "minecraft:snow_golem,mutantmonsters:mutant_snow_golem", "minecraft:zombie,mutantmonsters:mutant_zombie", "minecraft:pig,mutantmonsters:spider_pig"]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

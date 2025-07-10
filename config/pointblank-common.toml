@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Enables auto-reloading of guns
 #Allowed Values: CREATIVE, SURVIVAL, ENABLED, DISABLED
 autoReloadEnabled = "CREATIVE"
@@ -79,6 +80,8 @@ thirdPersonAnimationsEnabled = true
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Enables auto-reloading of guns
 #Allowed Values: CREATIVE, SURVIVAL, ENABLED, DISABLED
 autoReloadEnabled = "CREATIVE"
@@ -156,6 +159,9 @@ firstPersonAnimationsEnabled = true
 #Enables advanced third person animations
 thirdPersonAnimationsEnabled = true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #Visual Settings
 [visual]
 	#Shows all tags an item has in the tooltip on hover if advanced tooltips (F3+H) are enabled.
@@ -132,6 +133,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 #Visual Settings
 [visual]
 	#Shows all tags an item has in the tooltip on hover if advanced tooltips (F3+H) are enabled.
@@ -262,6 +265,9 @@
 	# Range: > 1
 	pentagramInBowlInfoTicks = 40
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

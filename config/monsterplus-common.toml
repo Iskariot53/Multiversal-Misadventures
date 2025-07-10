@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [spawnconfig]
 	#Spawn configs:
 	#Will the Abyssologer affect players with Darkness?
@@ -37,6 +38,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [spawnconfig]
 	#Spawn configs:
 	#Will the Abyssologer affect players with Darkness?
@@ -72,6 +75,9 @@
 	#Will the Desert Sorceress spawn?
 	spawn_desert_sorceress = true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

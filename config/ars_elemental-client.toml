@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["Visual Configs"]
 	#Enables the rendering of the spell focus while equipped
 	"Enable SpellFocusRender" = true
@@ -8,12 +9,17 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 ["Visual Configs"]
 	#Enables the rendering of the spell focus while equipped
 	"Enable SpellFocusRender" = true
 	#Enables the black texture of the spell book while upgraded
 	"Enable BlackBookTexture" = true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

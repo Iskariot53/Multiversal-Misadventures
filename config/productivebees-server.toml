@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [General]
 	#How often a hive should attempt special events like spawning undead bees. Default 500.
 	# Default: 1500
@@ -248,6 +249,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [General]
 	#How often a hive should attempt special events like spawning undead bees. Default 500.
 	# Default: 1500
@@ -494,6 +497,9 @@
 	# Range: 0.0 ~ 1.0
 	samplerChance = 0.05
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Mailing related properties
 [mailing]
 	# The maximum amount of items that can be queued for delivery to a mailbox. Items become
@@ -162,6 +163,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 # Mailing related properties
 [mailing]
 	# The maximum amount of items that can be queued for delivery to a mailbox. Items become
@@ -322,6 +325,9 @@
 	# Valid range: 0 to 64 (inclusive)
 	maxBounceHeight = 8.0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
