@@ -1,0 +1,1271 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cable"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cable_t2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cable_t3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cheese_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/chiseled_mars_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/chiseled_mercury_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/chiseled_moon_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/chiseled_venus_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/coal_generator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/conglomorate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/conglomorate_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/conglomorate_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cracked_mars_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cracked_mercury_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cracked_moon_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cracked_venus_sandstone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/cracked_venus_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/deepslate_steel_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/desh_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/desh_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/desh_plating_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/desh_plating_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/desh_plating_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/fuel_refinery"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/heavy_metal_casing"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/heavy_metal_plate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/heavy_metal_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/heavy_metal_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/iron_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/iron_plating_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/iron_plating_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/iron_plating_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_cobblestone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_crop"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_diamond_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_ice_shard_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_iron_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_ostrum_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_plutonium_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_polished_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_polished_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_sand"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_stone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_stone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mars_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_cobblestone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_iron_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_polished_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_polished_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/mercury_uranium_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/meteorite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_cobblestone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_crop"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_deepslate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_desh_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_ice_shard_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_iron_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_polished_stone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_polished_stone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_sand"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_steel_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_dust"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/moon_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/neptunium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/oxygen_distributor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/pipe_t1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/pipe_t2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/pipe_t3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/plutonium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_conglomorate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_conglomorate_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_conglomorate_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_mars_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_mercury_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_moon_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/polished_venus_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/pumpjack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/radioactive_generator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/raw_desh_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/raw_steel_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/raw_uranium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/rocket_launch_pad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/rocket_station"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/solar_panel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_planting_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_planting_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_planting_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/steel_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/uranium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vacuumator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_coal_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_cobblestone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_diamond_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_gold_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_neptunium_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_polished_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_polished_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_sand"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_sandstone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_sandstone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_sandstone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_sandstone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_smooth_sandstone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_smooth_sandstone_brick"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_smooth_sandstone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_smooth_sandstone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_smooth_sandstone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_smooth_sandstone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_stone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_stone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_stone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_stone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/venus_stone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_desh_plating_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_desh_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_heavy_metal_plate_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_iron_plating_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_mars_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_mercury_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_moon_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_steel_plating_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_steel_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/vertical_venus_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/water_pump"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "stellaris:blocks/water_separator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/earth_operation_base"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/earth_satellite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mars_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mars_dungeon_boss"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mars_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mars_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mars_vault"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_castle_big_throne"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_city"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_factory"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_mines"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_quarry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/mercury_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/meteor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_destroyed_space_station"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_dungeon_boss"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_mines"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_space_station"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_sphere"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/moon_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/venus_city"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/venus_crash_site_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/venus_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/venus_flying_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/venus_hill"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/venus_outpost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "stellaris:chests/venus_plaza"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/venus_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "stellaris:chests/venus_towers"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "stellaris:entities/alien_zombie"
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stellaris:energy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:incorrect_for_steel_tools"
+		}
+	]
+}

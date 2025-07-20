@@ -1,0 +1,984 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stellaris:alien_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:alien_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:auto_feeder_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:base_module_tier_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:base_module_tier_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_blue_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_fuel_tank_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_green_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_oxygen_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_purple_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_red_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_rocket_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:big_yellow_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cable_t2"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cable_t3"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cheese_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:chiseled_mars_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:chiseled_mercury_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:chiseled_moon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:chiseled_venus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:coal_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:coal_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:coal_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:coffee_cup"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:conglomorate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:conglomorate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:conglomorate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cosmo_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cosmo_coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cracked_mars_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cracked_mercury_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cracked_moon_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cracked_venus_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:cracked_venus_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:deepslate_steel_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:desh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:desh_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:desh_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:desh_plating_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:desh_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:desh_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:earth_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:engine_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:fuel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:fuel_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:fuel_refinery"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:gravity_normalizer_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:heavy_metal_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:heavy_metal_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:heavy_metal_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:heavy_metal_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:heavy_metal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:heavy_metal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:hydrogen_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:hydrogen_motor"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:ice_shard_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:iron_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:iron_plating_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:iron_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:iron_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:jet_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:jet_suit_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:jet_suit_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:jet_suit_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:jet_suit_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:marcury_polished_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:marcury_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_ice_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_ostrum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_plutonium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_polished_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_polished_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mars_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:martian_raptor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_polished_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mercury_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:meteorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:mogler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_desh_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_ice_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_polished_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_polished_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_steel_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:moon_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:neptunium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:neptunium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:neptunium_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:normal_rocket_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:oil_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:oil_finder"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:oil_finder_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:oxygen_distributor"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:oxygen_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pipe_t1"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pipe_t2"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pipe_t3"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:plutonium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:plutonium_grain"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:plutonium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:plutonium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:plutonium_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_conglomorate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_conglomorate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_conglomorate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_mars_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_mercury_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_moon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:polished_venus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pumpjack"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pumpjack_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pygro_brute_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:pygro_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:radioactive_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:radioactive_motor"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_desh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_desh_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_neptunium"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:raw_uranium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket_launch_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket_nose_cone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rover"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:skin_frozy"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:skin_galaxy"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:skin_military"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:skin_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:skin_rusty"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_blue_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_green_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_purple_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_red_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_rocket_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_yellow_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:solar_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:space_suit_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:space_suit_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:space_suit_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:space_suit_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:speed_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:star_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_plating_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:steel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:tiny_rocket_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:upgrade_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:uranium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:uranium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vacuumator"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_neptunium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_polished_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_polished_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_smooth_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_smooth_sandstone_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_smooth_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_smooth_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_smooth_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_smooth_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_desh_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_desh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_heavy_metal_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_iron_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_mars_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_mercury_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_moon_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_steel_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_steel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:vertical_venus_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:water_pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:water_separator"
+		}
+	]
+}

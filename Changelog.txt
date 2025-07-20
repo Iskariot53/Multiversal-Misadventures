@@ -1,89 +1,30 @@
-Multiversal Misadventures 1.1.1 Change Log
+Multiversal Misadventures 1.1.2 Change Log
 
 
-Updated to NeoForge 21.1.186
+
 
  
 
 Mods Updated
 
 
-- Access Denied
-- Advanced Hook Launchers
-- AE2: Crafting Tree
-- AE2 Universal Press
-- Apotheosis
-- Apothic Attributes
-- Apothic Enchanting
-- Apothic Spawners
+- Almost Unified
 - Applied Energistics 2
-- Applied Flux
-- Ars Elemental
 - Ars Nouveau
-- Ars Technica
-- Artifacts
-- Athena
 - Balm
-- Bookshelf
 - BucketLib
-- Cobblegen Galore
-- Comforts
-- Cooking for Blockheads
-- Corail Tombstone
-- Create
-- Create: Filters Anywhere
-- CreativeCore
-- Curios API
-- Ex Deorum
-- Forbidden and Arcanus
-- ForgeEndertech
-- Forgified Fabric API
-- Framework
-- FTB Chunks
-- FTB Filter System
-- FTB Library
-- FTB Quests
-- FTB Ultimine
-- FTB XMod Compat
 - FancyMenu
-- GeckoLib
-- GuideME
-- ImmediatelyFast
-- Immersive Aircraft
-- Iris Shaders
-- Jade
-- Kotlin for Forge
-- LibX
-- MEGA Cells
-- ModernFix
-- Modonomicon
-- MrCrayfish's Furniture Mod: Refurbished
-- Occultism
-- Open Loader
-- Oritech
-- oωo
-- Potentials
-- Prickle
+- Fusion (Connected Textures)
+- Just Enough Items (JEI)
 - Productive Bees
-- Productive Metalworks
 - SmartBrainLib
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
-- Sophisticated Storage Create Integration
 - Stellaris
-- Star Wars Planet Stellaris
-- Tempad
 - Tesseract API
 - The Hordes
-- Time in a bottle
-- Tom's Simple Storage Mod
-- WATERFrAMES: Multimedia Displays
-- WATERMeDIA: Multimedia API
 - Waystones
-- Xaero's Minimap
-- Xaero's World Map
-
 
 
 Changes

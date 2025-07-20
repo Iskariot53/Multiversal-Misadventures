@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 {
 	chapter_groups: [
 		{ id: "15777B88F460CFED" }
@@ -8,22 +5,3 @@
 		{ id: "5DDFA5A8559C4118" }
 	]
 }
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-{
-	chapter_groups: [
-		{ id: "15777B88F460CFED" }
-		{ id: "010D48DD05987800" }
-		{ id: "5DDFA5A8559C4118" }
-	]
-}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes

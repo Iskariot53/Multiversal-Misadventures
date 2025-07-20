@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stellaris:beep"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:radioactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:rocket_fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:wind"
+		}
+	]
+}

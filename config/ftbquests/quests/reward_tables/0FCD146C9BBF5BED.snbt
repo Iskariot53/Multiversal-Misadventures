@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 {
 	id: "0FCD146C9BBF5BED"
 	loot_crate: {
@@ -46,60 +43,3 @@
 		{ id: "6BFF96243AA52633", item: { count: 1, id: "forbidden_arcanus:stellarite_piece" } }
 	]
 }
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-{
-	id: "0FCD146C9BBF5BED"
-	loot_crate: {
-		color: 16777215
-		drops: {
-			boss: 0
-			monster: 0
-			passive: 0
-		}
-		string_id: "forbidden"
-	}
-	loot_size: 1
-	order_index: 8
-	rewards: [
-		{
-			count: 6
-			id: "0CD6461EB2B61B21"
-			item: {
-				count: 1
-				id: "forbidden_arcanus:arcane_crystal"
-			}
-			weight: 3.0f
-		}
-		{
-			count: 4
-			id: "194F92F76134F720"
-			item: {
-				count: 1
-				id: "forbidden_arcanus:rune"
-			}
-			weight: 2.0f
-		}
-		{
-			count: 2
-			id: "699332599447F00B"
-			item: {
-				count: 1
-				id: "forbidden_arcanus:deorum_ingot"
-			}
-		}
-		{ id: "78197DBEEB867D76", item: { components: { "forbidden_arcanus:essence_storage": { data: { amount: 3000, type: "blood" }, limit: 3000 } }, count: 1, id: "forbidden_arcanus:blood_test_tube" } }
-		{ id: "0DEE5599E60A93BE", item: { count: 1, id: "forbidden_arcanus:xpetrified_orb" } }
-		{ id: "6BFF96243AA52633", item: { count: 1, id: "forbidden_arcanus:stellarite_piece" } }
-	]
-}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes

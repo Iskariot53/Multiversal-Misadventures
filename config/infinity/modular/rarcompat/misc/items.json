@@ -2,26 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<<< Updated upstream:config/infinity/modular/rarcompat/misc/items.json
-			"key": "rarcompat:mimi_dust"
-========
-			"key": "solcarrot:food_book"
->>>>>>>> Stashed changes:config/infinity/modular/solcarrot/misc/items.json
-=======
-<<<<<<<< Updated upstream:config/infinity/modular/solcarrot/misc/items.json
-			"key": "solcarrot:food_book"
-========
-			"key": "rarcompat:mimi_dust"
->>>>>>>> Stashed changes:config/infinity/modular/rarcompat/misc/items.json
->>>>>>> Stashed changes
-		}
-	]
-}
-=======
 			"key": "rarcompat:mimi_dust"
 		}
 	]
 }
->>>>>>> Stashed changes
