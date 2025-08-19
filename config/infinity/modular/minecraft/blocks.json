@@ -3492,7 +3492,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:dragon_egg"
 		},
 		{

@@ -7,8 +7,9 @@ Updated to NeoForge 21.1.194
 
 Mods Removed
 
-
+- Advanced Hook Launchers
 - Corail Tombstone
+- Forge Endertech
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
@@ -34,6 +35,7 @@ Mods Added
 - Create Stock Bridge
 - Create Train Utilities
 - E4MC
+- Inventory Tweaks - ReFoxed
  
 
 Mods Updated
