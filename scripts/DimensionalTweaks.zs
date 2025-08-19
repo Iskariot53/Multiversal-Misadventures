@@ -93,7 +93,7 @@ craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
             "item": "dimensionalpocketsii:block_dimensional_metal"
         },
         "B": {
-            "item": "dimensionalpocketsii:block_dimensional_gem"
+            "item": "dimensionalpocketsii:dimensional_gem"
         },
 		"C": {
             "item": "minecraft:diamond_block"
@@ -104,29 +104,3 @@ craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
         "id": "dimensionalpocketsii:block_dimensional_core"
     }
 });
-craftingTable.remove(<item:dimensionalpocketsii:block_dimensional_core>);
-craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
-{
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "ABA",
-        "BCB",
-        "ABA"
-    ],
-    "key": {
-        "A": {
-            "item": "dimensionalpocketsii:block_dimensional_metal"
-        },
-        "B": {
-            "tag": "dimensionalpocketsii:block_dimensional_gem"
-        },
-		"C": {
-            "item": "minecraft:diamond_block"
-        }
-    },
-    "result": {
-        "count": 1,
-        "id": "dimensionalpocketsii:block_dimensional_core"
-    }
-});
-
