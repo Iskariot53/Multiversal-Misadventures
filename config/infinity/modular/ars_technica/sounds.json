@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ars_technica:click"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:fuse_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:fuse_failed"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:fuse_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:fuse_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:obliterate_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:obliterate_charge_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:obliterate_shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:obliterate_smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:obliterate_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:pocket_factory"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:source_motor_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:source_motor_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:spy_monocle_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:whirl_haunt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:whirl_none"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:whirl_process_affect_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:whirl_process_affect_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:whirl_smelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_technica:whirl_splash"
+		}
+	]
+}

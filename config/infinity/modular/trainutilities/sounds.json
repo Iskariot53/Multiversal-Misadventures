@@ -1,0 +1,172 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_1996_stock_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_1996_stock_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_caf_urbos_3_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_caf_urbos_3_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_350_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_350_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_390_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_390_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_450_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_450_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_elev_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_elev_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_flirt_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_flirt_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ic2_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ic2_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ic_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ic_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_modern_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_modern_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_1973_stock_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_1973_stock_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_overground_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_overground_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_s7_stock_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_s7_stock_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_pkp_ic_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_pkp_ic_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_railjet_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_railjet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_rrx_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_rrx_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sbahn_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sbahn_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_subway_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_subway_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sw_nyc_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sw_nyc_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_talent_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_talent_open"
+		}
+	]
+}

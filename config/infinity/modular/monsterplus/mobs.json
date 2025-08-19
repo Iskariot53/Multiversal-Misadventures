@@ -1,0 +1,130 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:abyssologer"
+		},
+		{
+			"data": {
+				"Category": "monsterplus:wraith"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:ancient_hero"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:ancient_hero_skull"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:crystal_zombie"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:demon_eye"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:desert_acolyte"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:desert_sorceress"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:ender_eye"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:glow_skeleton"
+		},
+		{
+			"data": {
+				"Category": "monsterplus:lava_squid"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:lava_squid"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:mother_lava_squid"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:opalescent_eye"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:overgrown_skeleton"
+		},
+		{
+			"data": {
+				"Category": "monsterplus:wisp"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:soul"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:spectral_skeleton"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:spectral_skull"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:swamp_zombie"
+		},
+		{
+			"data": {
+				"Category": "monsterplus:wisp"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:wisp"
+		}
+	]
+}

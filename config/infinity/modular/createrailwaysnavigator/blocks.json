@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display_half_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display_sloped"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:advanced_display_small"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:navigator_lectern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createrailwaysnavigator:train_station_clock"
+		}
+	]
+}

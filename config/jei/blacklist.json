@@ -31,5 +31,6 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivemetalworks:molten_platinum_bucket"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivemetalworks:molten_signalum_bucket"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivemetalworks:molten_signalum"},"type":"fluid_stack"}},
-  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:creative_fluid_tank","components":{"mekanism:fluids":{"fluid_tanks":[{"id":"productivemetalworks:molten_signalum","amount":2147483647}]}}},"type":"item_stack"}}
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:creative_fluid_tank","components":{"mekanism:fluids":{"fluid_tanks":[{"id":"productivemetalworks:molten_signalum","amount":2147483647}]}}},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"dimensionalpocketsii:nether_star_shard"},"type":"item_stack"}}
 ]

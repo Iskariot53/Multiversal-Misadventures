@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "pointblank:blocks/printer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "pointblank:blocks/workstation"
+		}
+	]
+}

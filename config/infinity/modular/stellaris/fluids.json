@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "stellaris:diesel"
+			},
+			"weight": 1.0,
+			"key": "stellaris:diesel"
+		},
+		{
+			"data": {
+				"fluidName": "stellaris:fuel"
+			},
+			"weight": 1.0,
+			"key": "stellaris:fuel"
+		},
+		{
+			"data": {
+				"fluidName": "stellaris:hydrogen"
+			},
+			"weight": 1.0,
+			"key": "stellaris:hydrogen"
+		},
+		{
+			"data": {
+				"fluidName": "stellaris:oil"
+			},
+			"weight": 1.0,
+			"key": "stellaris:oil"
+		},
+		{
+			"data": {
+				"fluidName": "stellaris:oxygen"
+			},
+			"weight": 1.0,
+			"key": "stellaris:oxygen"
+		}
+	]
+}

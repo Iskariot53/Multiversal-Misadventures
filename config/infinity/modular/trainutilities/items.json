@@ -1,0 +1,304 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trainutilities:bottom_redline_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:budapest_block_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:budapest_block_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:ch_platform_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:cis_amendorf_block_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:cis_amendorf_block_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:de_platform_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_1996_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_andesite_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_andesite_alloy_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_caf_urbos_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_cis_amendorf_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_cis_amendorf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_350"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_390"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_class_450"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_elev_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_elev_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_flirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_flirt_vias"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_goahead_desiro"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ic"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ic2"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_modern"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_modern_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ice_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_industrial_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_industrial_iron_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_iron_clean"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_iron_rusty"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_1973_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_el"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_overground"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_london_s7_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_pkp_ic_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_pkp_ic_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_railjet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_rrx"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sbahn_cologne"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sbahn_vrr"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_stripped_spruce"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_sw_nyc"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_talent1"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_talent2"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_talent3"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_ungarian_flirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:door_warsaw_tram"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:frameless_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:frameless_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:incomplete_processing_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:incomplete_prototype_door_db"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:incomplete_prototype_door_sf"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:incomplete_sound_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:iso_wall_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:iso_wall_block_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:leftsloped_redline_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:nl_platform_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_block_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_block_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_ic_bottom_blue_line_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_ic_bottom_green_line_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_ic_bottom_yellow_line_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_ic_top_blue_line_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_ic_top_green_line_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:pkp_ic_top_yellow_line_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:processing_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:prototype_door_db"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:prototype_door_sf"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:rightsloped_redline_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:rubber_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:sound_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:speaker_membrane"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:top_redline_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:transistor"
+		}
+	]
+}

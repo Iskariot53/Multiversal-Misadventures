@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "toolbelt:belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "toolbelt:pouch"
+		}
+	]
+}

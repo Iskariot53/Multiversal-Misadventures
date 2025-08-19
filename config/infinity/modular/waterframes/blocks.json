@@ -1,0 +1,54 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "waterframes:big_tv"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "waterframes:frame"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "waterframes:projector"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "waterframes:tv"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "waterframes:tv_box"
+		}
+	]
+}

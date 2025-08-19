@@ -1,0 +1,445 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/acacia_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/andesite_casing_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/bamboo_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/birch_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/blaze_ballon"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_brick_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_brick_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_bricks"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_casing_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_speaker"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_sticky_launcher"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_tiles"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_tiles_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/brass_tiles_stair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/card_press"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/card_reader"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/card_reader_on"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/cherry_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/chorus_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/copper_casing_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/crimson_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/dark_oak_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing_1"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing_2"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing_3"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing_4"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing_5"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/green_sing_6"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/jaboticaba_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/jungle_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/mangrove_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/neon_tube_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/oak_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/powdered_obsidian_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/ramboutan_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/redsing"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/redsing_1"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/redsing_2"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/speed_100"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/speed_25"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/speed_50"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/speed_75"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/sprinkler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/sprinkleron"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/spruce_sail"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/sticky_launcher"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/sturdy_sheet_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/sturdy_sheet_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/sturdy_sheet_slab_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_buffer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_2"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_3"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_4"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_5"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_yellow_1"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_yellow_2"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_yellow_3"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_yellow_4"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_sing_yellow_5"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/train_stop"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:blocks/warped_sail"
+		}
+	]
+}

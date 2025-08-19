@@ -1,0 +1,1103 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:anger_bones"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:anger_goblin"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:angler"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:antlion_swarmer"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:arms_dealer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:base_bones"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:big_anger_bones"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:big_bones"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:big_helmet_anger_bones"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:big_muscle_anger_bones"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:bird"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:black_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blood_crawler"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blood_tumors"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blood_zombie"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:bloody_spore"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blue_jay"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blue_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:boom_bunny"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:brain_fake"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:brain_of_cthulhu"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:bunny"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:butterfly"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:cardinal"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:cave_bat"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:chester"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:clothier"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:corrupt_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:crab"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:crimson_kemera"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:crimson_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:cursed_skull"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:dark_caster"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:decayeder"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:demolitionist"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:demon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:demon_eye"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:desert_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:devourer"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:dragonfly"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:drippler"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:dryad"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:duck"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:dungeon_guardian"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:dungeon_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:dye_trader"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:eater_of_souls"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:eater_of_worlds"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:eater_of_worlds_segment"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:evil_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:eye_of_cthulhu"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:face_monster"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:fairy"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:fealing"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:female_angler"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:finch_baby"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:fire_imp"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:flying_fish"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:ghost"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:giant_antlion_swarmer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:giant_shelly"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:giant_worm"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:glowing_snail"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_archer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_peon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_scout"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_sorcerer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_thief"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_tinkerer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:goblin_warrior"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:golden_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:granite_elemental"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:grasshopper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:green_dumpling_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:green_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:grubby"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:guide"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:harpy"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hat_spore_zombie"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hell_bat"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hell_butterfly"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:honey_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hornet"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hornet_baby"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:i_32_iron_golem"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:ice_bat"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:ice_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:jewel_bunny"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:jewel_squirrel"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:jungle_bat"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:jungle_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:king_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:ladybug"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:lava_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:leech"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:little_hornet"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:luminous_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:maggot"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:magma_snail"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:man_eater"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:mechanic"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:merchant"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:nurse"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:nymph"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:old_man"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:painter"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:party_girl"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:piggy_bank"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:pink_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:piranha"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:pixie"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:purple_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:queen_bee"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:red_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:rideable_bee"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:rideable_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:scorpion"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:sculk_wisp"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:short_bones"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:skeletron"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:skeletron_hand"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:slime_baby"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:sluggy"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:snail"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:snatcher"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:snow_flinx"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spore_bat"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spore_skeleton"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spore_zombie"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:squirrel"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_diamond_sword"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_golden_sword"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_imp"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_iron_sword"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_netherite_sword"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_snow_flinx"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_stone_sword"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:summon_wooden_sword"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:swamp_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:terraprisma"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:the_hungry"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:tomb_crawler"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:traveling_merchant"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:tropic_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:truffle"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:undead_viking"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:visual_neuron"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:voodoo_demon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:wall_of_flesh"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:wall_of_flesh_eye"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "terra_entity:wall_of_flesh_mouth"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:wandering_eye_fish"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:witch_doctor"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:worm"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:wyvern"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:yellow_slime"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:yoyos_projectile"
+		}
+	]
+}

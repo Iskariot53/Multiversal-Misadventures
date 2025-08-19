@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:hypertube_entrance_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:hypertube_entrance_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:suction"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:traveling"
+		}
+	]
+}

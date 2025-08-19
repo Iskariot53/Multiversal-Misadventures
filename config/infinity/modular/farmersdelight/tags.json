@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:heat_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:mineable/knife"
+		}
+	]
+}

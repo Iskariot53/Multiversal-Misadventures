@@ -60,6 +60,11 @@
     "workstation": true,
     "timedoor": true
   },
+  "confluence": {
+    "jade_tombstone_info": true,
+    "jade_ponder_component": true,
+    "jade_network_component": true
+  },
   "apothic_spawners": {
     "spawner": true
   },
@@ -68,6 +73,9 @@
     "barrel": true,
     "crucible": true,
     "sieve": true
+  },
+  "ftbquests": {
+    "barrier": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -131,9 +139,6 @@
   "replication": {
     "matter_tank": true
   },
-  "tombstone": {
-    "graves": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -175,5 +180,8 @@
   "toms_storage": {
     "inventory_config": true,
     "inventory_connector": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }

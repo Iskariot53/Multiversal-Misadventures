@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "swplanets:blaster_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "swplanets:light_saber_sound_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "swplanets:light_saber_sound_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "swplanets:light_saber_sound_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "swplanets:saber_attack_sound"
+		}
+	]
+}

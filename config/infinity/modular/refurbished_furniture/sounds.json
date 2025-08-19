@@ -1,0 +1,236 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.cabinet.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.cabinet.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.ceiling_fan.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.chair.slide"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.cooler.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.cooler.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.cutting_board.place_ingredient"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.doorbell.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.drawer.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.drawer.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.electricity_generator.engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.freezer.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.freezer.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.fridge.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.fridge.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.frying_pan.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.frying_pan.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.frying_pan.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.frying_pan.place_ingredient"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.frying_pan.sizzling"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.frying_pan.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.kitchen_drawer.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.kitchen_drawer.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.kitchen_sink.fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.lightswitch.flick"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.microwave.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.microwave.fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.microwave.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.recycle_bin.engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.storage_jar.insert_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.stove.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.stove.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.blocky_game"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.chirp_song"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.colour_test"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.ocean_sunset"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.retro_song"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.villager_news"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.television.channel.white_noise"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.toaster.down"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.toaster.insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.toaster.pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.trampoline.bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.trampoline.super_bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:block.workbench.craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.knife.chop"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.package.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.spatula.scoop"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.wrench.connected_link"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.wrench.hover_link"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.wrench.remove_link"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:item.wrench.selected_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:ui.paddle_ball.retro_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:ui.paddle_ball.retro_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:ui.paddle_ball.retro_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:ui.paddle_ball.retro_lose"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:ui.paddle_ball.retro_success"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:ui.paddle_ball.retro_win"
+		}
+	]
+}

@@ -1,0 +1,165 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/advanced_prism"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/air_turret"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/air_upstream"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/earth_turret"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/everfull_urn"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/fire_turret"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/flashpine_pod"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/magma_upstream"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/manipulation_turret"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/mermaid_rock"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/potted_sparkflower"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/potted_yellow_archwood_sapling"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/sparkflower"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/spell_mirror"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/spore_blossom_up"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/stripped_yellow_archwood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/stripped_yellow_archwood_log"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/water_turret"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/water_upstream"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/yellow_archwood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/yellow_archwood_leaves"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/yellow_archwood_log"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/yellow_archwood_sapling"
+		}
+	]
+}

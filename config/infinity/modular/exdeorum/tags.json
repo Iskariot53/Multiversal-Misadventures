@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "exdeorum:mineable/hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:watering_can_tickable"
+		}
+	]
+}

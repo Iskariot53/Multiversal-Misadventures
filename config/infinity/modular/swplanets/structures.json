@@ -1,0 +1,114 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:at_act"
+			},
+			"weight": 1.0,
+			"key": "swplanets:at_act"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:at_at"
+			},
+			"weight": 1.0,
+			"key": "swplanets:at_at"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:at_st"
+			},
+			"weight": 1.0,
+			"key": "swplanets:at_st"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:endor_outpost"
+			},
+			"weight": 1.0,
+			"key": "swplanets:endor_outpost"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:endor_trees"
+			},
+			"weight": 1.0,
+			"key": "swplanets:endor_trees"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 2,
+								"minCount": 3,
+								"type": "swplanets:jawa",
+								"maxCount": 10
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "swplanets:jawa_crawler"
+			},
+			"weight": 1.0,
+			"key": "swplanets:jawa_crawler"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:tatooine_houses"
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_houses"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:tatooine_village"
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_village"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "swplanets:tie_fighter"
+			},
+			"weight": 1.0,
+			"key": "swplanets:tie_fighter"
+		}
+	]
+}

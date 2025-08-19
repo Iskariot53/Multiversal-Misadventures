@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stellaris:large_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:large_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:small_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellaris:venus_rain"
+		}
+	]
+}

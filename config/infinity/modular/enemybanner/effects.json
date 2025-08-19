@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16777215,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "enemybanner:enemybanner_effect"
+		}
+	]
+}

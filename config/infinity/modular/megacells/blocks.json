@@ -1,0 +1,154 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:16m_crafting_storage"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:1m_crafting_storage"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:256m_crafting_storage"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:4m_crafting_storage"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:64m_crafting_storage"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_crafting_accelerator"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_crafting_monitor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_crafting_unit"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_emc_interface"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_energy_cell"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_interface"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:mega_pattern_provider"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:sky_bronze_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:sky_osmium_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "megacells:sky_steel_block"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:aquarium_bonus"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:logs/flashing_archwood"
+		}
+	]
+}

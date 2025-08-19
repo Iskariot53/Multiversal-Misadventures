@@ -1,0 +1,9 @@
+// Compost colors for enemybanner. You may add your own colors, change existing ones, or remove colors that aren't needed.
+basic_silks, #9a9794
+damage_silks, #574132
+inhibit_silks, #1e73bb
+loot_silks, #805c6f
+pull_silks, #b1613e
+push_silks, #8eabac
+range_silks, #50252f
+resist_silks, #fedc94

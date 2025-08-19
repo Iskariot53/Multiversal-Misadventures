@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "infinity:alphatree"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "infinity:neoforge-alphatree"
+		}
+	]
+}

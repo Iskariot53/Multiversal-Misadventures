@@ -1,0 +1,81 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:infernal_venus_barrens"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:jupiter"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:mars_desert"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:mars_ice_spikes"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:mars_rocky_plains"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:mercury"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:mercury_fire_land"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:moon_caves"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:moon_desert"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:space"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "stellaris:venus_desert"
+		}
+	]
+}

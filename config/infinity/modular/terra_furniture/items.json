@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_bathtub"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_candelabras"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_brick_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:fish_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_bathtub"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_candelabras"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_kiln"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:gold_fish_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:ice_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:lava_serpent_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:living_loom"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:plastic_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:pupfish_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:trash_can"
+		}
+	]
+}

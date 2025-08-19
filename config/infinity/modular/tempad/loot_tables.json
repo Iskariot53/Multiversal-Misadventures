@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "tempad:blocks/chronomark"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "tempad:blocks/metronome"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "tempad:blocks/timedoor_marker"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "tempad:blocks/timedoor_projector"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "tempad:blocks/workstation"
+		}
+	]
+}

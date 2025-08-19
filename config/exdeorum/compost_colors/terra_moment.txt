@@ -1,0 +1,4 @@
+// Compost colors for terra_moment. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blood_tear, #9a4652
+goblin_battle_standard, #9a76bb
+slime_rain, #7cb172

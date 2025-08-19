@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:$_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:$_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:$_stool"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:$_trampoline"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "swplanets:beskar_ore_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "swplanets:blaster_upgrader"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "swplanets:kyber_crystal_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "swplanets:kyber_crystal_ore_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "swplanets:mustafar_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_stone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_stone_stairs"
+		}
+	]
+}

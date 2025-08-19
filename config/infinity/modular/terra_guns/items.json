@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_guns:blowgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:boomstick"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:chlorophyte_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:crystal_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:cursed_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:empty_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:endless_musket_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:exploding_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:flintlock_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:golden_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:hand_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:high_velocity_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:ichor_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:luminite_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:meteor_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:minishark"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:musket"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:musket_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:nano_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:party_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:silver_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:snowball_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:tactical_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:the_undertaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:tungsten_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:venom_bullet"
+		}
+	]
+}

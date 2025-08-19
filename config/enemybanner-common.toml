@@ -1,0 +1,14 @@
+#每兑换一个旗帜所需要的击杀数
+# Default: 50
+# Range: > 1
+basicKills = 50
+
+[monsterIds]
+	added = []
+	excluded = []
+	only = []
+
+[special]
+	#特定怪物兑换一个旗帜所需的击杀数
+	#例如："minecraft:zombie = 5"
+	basicKills = []

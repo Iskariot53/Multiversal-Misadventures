@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blood_crawler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blood_crawler_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blood_crawler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bloody_spore_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bloody_spore_fuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bloody_spore_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:decayeder_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:decayeder_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:decayeder_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:decayeder_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dig_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:drippler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:drippler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:face_hoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_shelly_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_shelly_free_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_shelly_free_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_shelly_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hurried_roaring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:metal_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:metal_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:routine_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:routine_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:routine_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_hornet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_imp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:tr_skeleton_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:tr_zombie_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:use_mounts"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:visual_neuron_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:visual_neuron_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:waving"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:whip_attack"
+		}
+	]
+}

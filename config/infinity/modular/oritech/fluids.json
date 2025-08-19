@@ -1,0 +1,123 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "oritech:still_biofuel"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_biofuel_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_diesel"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_diesel_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_fuel"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_fuel_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_heavy_oil"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_heavy_oil_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_mineral_slurry"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_mineral_slurry_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_molten_adamant"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_molten_adamant_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_molten_biosteel"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_molten_biosteel_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_molten_duratium"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_molten_duratium_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_molten_energite"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_molten_energite_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_molten_fluxite"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_molten_fluxite_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_naphtha"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_naphtha_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_oil"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_oil_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_sheol_fire"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_sheol_fire_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_silicon_wash"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_silicon_wash_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_steam"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_steam_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_strange_matter"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_strange_matter_block"
+		},
+		{
+			"data": {
+				"fluidName": "oritech:still_sulfuric_acid"
+			},
+			"weight": 1.0,
+			"key": "oritech:still_sulfuric_acid_block"
+		}
+	]
+}

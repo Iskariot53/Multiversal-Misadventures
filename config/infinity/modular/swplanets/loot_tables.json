@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "swplanets:blocks/beskar_ore_sandstone"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "swplanets:blocks/kyber_crystal_ore"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "swplanets:blocks/kyber_crystal_ore_sandstone"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "swplanets:blocks/tatooine_stone"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "swplanets:blocks/tatooine_stone_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "swplanets:blocks/tatooine_stone_stairs"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "swplanets:chests/empire_chest"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "swplanets:chests/jawa_chest"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "swplanets:entities/jawa"
+		}
+	]
+}

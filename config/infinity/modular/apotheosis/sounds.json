@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:malice"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:reforge"
+		}
+	]
+}

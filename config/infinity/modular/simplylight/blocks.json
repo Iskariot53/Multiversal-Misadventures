@@ -1,0 +1,1604 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_top_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:edge_light_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_black_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_black_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_blue_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_blue_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_brown_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_brown_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_cyan_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_cyan_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_gray_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_gray_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_green_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_green_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_light_blue_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_light_blue_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_light_gray_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_light_gray_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_lime_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_lime_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_magenta_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_magenta_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_orange_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_orange_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_panel_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_pink_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_pink_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_purple_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_purple_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_red_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_red_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_slab_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_yellow_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "simplylight:illuminant_yellow_block_on"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lamp_post_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:lightbulb_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:rodlamp_yellow"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_black"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_brown"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_cyan"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_green"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_light_blue"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_light_gray"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_lime"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_magenta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_orange"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_pink"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_purple"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_red"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "simplylight:wall_lamp_yellow"
+		}
+	]
+}

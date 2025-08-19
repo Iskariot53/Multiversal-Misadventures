@@ -1,0 +1,237 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:advanced_prism"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:air_turret"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:air_upstream"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:earth_turret"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:everfull_urn"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:fire_turret"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:flashpine_pod"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:magma_upstream"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:manipulation_turret"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:mermaid_rock"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:potted_sparkflower"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:potted_yellow_archwood_sapling"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:sparkflower"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:spell_mirror"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:spore_blossom_up"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:stripped_yellow_archwood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:stripped_yellow_archwood_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:water_turret"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:water_upstream"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:yellow_archwood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"persistent": "true"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:yellow_archwood_leaves"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:yellow_archwood_log"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:yellow_archwood_sapling"
+		}
+	]
+}

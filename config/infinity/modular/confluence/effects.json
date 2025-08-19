@@ -1,0 +1,535 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 2263842,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:acid_venom"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 1153297,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:ammo_box"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 12298752,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:archery"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 14527027,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:bewitched"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 10824234,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:bleeding"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16711680,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:blood_butchered"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 3342472,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:broken_armor"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 9136404,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:builder"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 7372944,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:choking"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 10066431,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:clairvoyance"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 15610675,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:cozy_fire"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 14191423,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:crate"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 5197647,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:cursed"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 2263842,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:cursed_inferno"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16756655,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:danger_sense"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 11141273,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:delicious"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 7372944,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:endurance"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16776960,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:exquisitely_stuffed"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 49151,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:fishing"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 136,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:flipper"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 3786171,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:frostbite"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 6737151,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:frozen"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 11141273,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:heart_reach"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 8947967,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:holy_protection"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 11141273,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:hunger_delayed"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16762880,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:hunter"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16766720,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:ichor"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16729344,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:inferno"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 99573,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:iron_skin"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16761035,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:life_force"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 15597568,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:love"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 3786171,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:luck"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 13369548,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:magic_power"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 6684876,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:mana_regeneration"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 255,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:mana_sickness"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16755200,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:midas"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 6684774,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:obsidian_skin"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 11141120,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:potion_sickness"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16729344,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:rage"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 10027161,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:shadowflame"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 14540253,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:sharpened"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 16750335,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:shimmer"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16777062,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:shine"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16775930,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:silenced"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16776960,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:spelunker"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 10092288,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:stinky"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 10066329,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:stoned"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 8947848,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:summoning"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16711680,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:tentacle_spikes"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:the_bast_defense"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 65280,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:thorns"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 12303104,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:tipsy"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 13808780,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:titan"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 7829367,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:titanium_barrier"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 187,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:water_walking"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 12298752,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:weapon_imbue_fire"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16755200,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:weapon_imbue_gold"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 14741216,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:withered_armor"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16747520,
+				"Instant": false
+			},
+			"weight": 0.0,
+			"key": "confluence:wrath"
+		}
+	]
+}

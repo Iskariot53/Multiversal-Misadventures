@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:$_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:$_foundry_window"
+		}
+	]
+}

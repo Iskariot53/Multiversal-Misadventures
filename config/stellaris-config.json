@@ -2,6 +2,7 @@
   "oxygenDamage": 2.0,
   "dieselGeneratorFuelTime": 20,
   "orbitTeleportationYCoord": -10.0,
+  "radiationCheckInterval": 100,
   "rocketTpHeight": 600,
   "oilConfig": {
     "chunkOilChance": 16,

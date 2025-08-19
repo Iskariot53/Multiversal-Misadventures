@@ -1,0 +1,1749 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:accelerator_controller"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:accelerator_motor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:accelerator_ring"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:accelerator_sensor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:adamant_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:addon_indicator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:advanced_augment_station"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:arcane_augment_station"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:assembler_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:atomic_forge_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:augment_application_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:basic_generator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:big_solar_panel_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:bio_generator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:biomass_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:biosteel_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:black_hole_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:black_hole_inner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:black_hole_middle"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:black_hole_outer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:block_destroyer_head"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:block_fertilizer_head"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:block_placer_head"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:capacitor_addon_extender"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:carbon_plating_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:carbon_plating_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:carbon_plating_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:carbon_plating_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:ceiling_light"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:ceiling_light_hanging"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:centrifuge_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:charger_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:cooler_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:creative_storage_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:creative_tank_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:creative_tank_item_model"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:crop_filter_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:deep_drill_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:deepslate_nickel_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:deepslate_platinum_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:deepslate_uranium_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:destroyer_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:drone_port_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:duratium_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:electrum_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:enchanter_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:enchantment_catalyst_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:endstone_platinum_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:energite_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:fertilizer_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:fluxite_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:foundry_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:fragment_forge_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:frame_gantry_arm"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:framed_superconductor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:framed_superconductor_connection"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:fuel_generator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:industrial_glass_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:iron_plating_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:iron_plating_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:iron_plating_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:iron_plating_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:item_filter_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:large_storage_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:laser_arm_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:lava_generator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:low_yield_nuke"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_acceptor_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_capacitor_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_1"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_2"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_3"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_4"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_5"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_6"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_7"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_core_hidden"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_efficiency_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_extender"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_fluid_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_frame_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_hunter_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_inventory_proxy_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_plating_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_plating_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_plating_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_plating_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_processing_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_redstone_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_silk_touch_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_speed_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_ultimate_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_yield_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:metal_beam_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:nickel_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:nickel_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:nickel_plating_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:nickel_plating_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:nickel_plating_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:nickel_plating_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:nuke"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:particle_collector_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:placer_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:plastic_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:platinum_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:powered_furnace_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:pulverizer_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:pump_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:pump_trunk_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:quarry_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:quarry_beam_inner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:quarry_beam_ring"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:quarry_beam_target"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:raw_nickel_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:raw_platinum_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_absorber_port"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_cold_indicator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_condenser"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_controller"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_double_rod"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_energy_port"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_explosion_large"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_explosion_medium"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_explosion_small"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_fuel_port"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_hot_indicator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_medium_indicator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_quad_rod"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_redstone_port"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_reflector"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_rod"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_vent"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:reactor_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:refinery_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:refinery_module_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_coal"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_diamond"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_emerald"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_gold"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_iron"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_lapis"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_nickel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_platinum"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_redstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:resource_node_uranium"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:silicon_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:simple_augment_station"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:small_storage_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:small_tank_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:spawner_cage_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:spawner_controller_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:steam_boiler_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:steam_engine_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:steel_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:superconductor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:superconductor_connection"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:superconductor_duct_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:tank_item_model"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:tech_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:tech_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:tech_door_hinge"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:tech_lever"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:treefeller_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:unstable_container"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:uranium_crystal"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:wither_crop_block"
+		}
+	]
+}

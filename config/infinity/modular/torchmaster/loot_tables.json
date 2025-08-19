@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "torchmaster:blocks/dreadlamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "torchmaster:blocks/feral_flare_lantern"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "torchmaster:blocks/megatorch"
+		}
+	]
+}

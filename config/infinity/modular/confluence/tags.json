@@ -1,0 +1,324 @@
+{
+	"elements": [
+		{
+			"weight": 0.0,
+			"key": "confluence:ash_log_branches_attachable"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:bloodthirst_crystall_base_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:coins"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:cold_crystal_ore_replacement"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corroded_worm_roots_base_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corrupted_desert_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corrupted_tundra_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_dirt"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_hardened_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_jungle_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_moist_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_packed_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_sand"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_sandstone"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:corruption_conversion_short_grass"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_dirt"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_hardened_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_jungle_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_moist_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_packed_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_sand"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_sandstone"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_conversion_short_grass"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_desert_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:crimson_tundra_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:cursed_flame_base_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:decompose_the_source_extract_base_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:desert_fossil_replacement"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:drooping_vine_can_survive"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:easy_crash"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:gelstone_ore_replacement"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_hardened_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_moist_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_packed_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_sand"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_sandstone"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_conversion_short_grass"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_desert_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:hallow_tundra_blocks"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:jewellery_branches_attachable"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:marine_gravel_replacement"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:mineable_with_hamaxe"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:mineable_with_hammer"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:mineable_with_hoe_shovel"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:mineable_with_pickaxe_axe"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_1_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_2_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_3_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_4_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_5_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_6_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_7_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_8_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:needs_9_level"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:opal_ore_replacement"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_hardened_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_jungle_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_moist_sand_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_packed_ice"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_sand"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_sandstone"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:pure_conversion_short_grass"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:rope"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:slush_replacement"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:spreadable_grass_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:tombstone"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:unbreakable"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:unbreakable_if_cannot_harvest"
+		},
+		{
+			"weight": 0.0,
+			"key": "confluence:vines"
+		}
+	]
+}

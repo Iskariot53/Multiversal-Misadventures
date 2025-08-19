@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 0.0,
+			"key": "relics:amphibian_boot"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:aqua_walker"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:bastion_ring"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:blazing_flask"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:chorus_inhibitor"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:drowned_belt"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:elytra_booster"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:enders_hand"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:holy_locket"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:hunter_belt"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:ice_breaker"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:ice_skates"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:infinity_ham"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:jellyfish_necklace"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:leafy_ring"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:leather_belt"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:magic_mirror"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:magma_walker"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:midnight_robe"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:phantom_block"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:phantom_boot"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:rage_glove"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:reflection_necklace"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:relic_experience_bottle"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:researching_table"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:roller_skates"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:shadow_glaive"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:solid_snowball"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:space_dissector"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:spore_sack"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:springy_boot"
+		},
+		{
+			"weight": 0.0,
+			"key": "relics:wool_mitten"
+		}
+	]
+}

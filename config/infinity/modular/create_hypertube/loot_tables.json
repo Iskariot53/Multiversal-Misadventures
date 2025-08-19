@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_hypertube:blocks/hypertube"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_hypertube:blocks/hypertube_accelerator"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "create_hypertube:blocks/hypertube_entrance"
+		}
+	]
+}

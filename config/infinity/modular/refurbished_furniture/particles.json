@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:steam"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:super_bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "refurbished_furniture:tap_water"
+		}
+	]
+}

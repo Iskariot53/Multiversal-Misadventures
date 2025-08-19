@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trainutilities:db_doors"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:isowall_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:line_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:platform_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:sf_door_crafting_approved"
+		},
+		{
+			"weight": 1.0,
+			"key": "trainutilities:sf_doors"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farmingforblockheads:fertilized_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmingforblockheads:healthy_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmingforblockheads:rich_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmingforblockheads:stable_farmland"
+		}
+	]
+}

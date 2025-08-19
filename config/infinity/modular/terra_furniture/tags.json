@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:dungeon_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:glass_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:sinks"
+		}
+	]
+}

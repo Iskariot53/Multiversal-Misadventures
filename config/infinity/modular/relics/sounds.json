@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "relics:ability_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:ability_cooldown"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:ability_locked"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:arrow_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:connect_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:disconnect_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:finish_research"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:leap"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:powered_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:ricochet"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:spring_boing"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:spurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:table_reroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:table_reset"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:table_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "relics:throw"
+		}
+	]
+}

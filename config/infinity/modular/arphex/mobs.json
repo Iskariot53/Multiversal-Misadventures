@@ -1,0 +1,879 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ai_controller"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ai_to_ride"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ant_arsonist"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ant_arsonist_alate_queen"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ant_arsonist_drone"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ant_arsonist_soldier"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ant_arsonist_worker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:any_dimension_spawner"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:arthropleura_abomination"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:ascend_sphere_anim"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:beetle_bulwark"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:beetle_tick_mite"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:blood_worm"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:butterfly_bewitcher"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:butterfly_bewitcher_giant"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:cave_web"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:centipede_evictor"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:centipede_evictor_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:centipede_stalker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:crab_constrictor"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:crab_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:crawling_random"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:draconic_clone"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:draconic_fly_stalk"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:draconic_voidlasher"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:dragonfly_dreadnought"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:dungeon_trigger"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:dweller_sleep_spawner"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:enormous_spider_hallucination"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:fly_festerer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:flytrap"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 0.0,
+			"key": "arphex:giant_enemy_spider"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:giant_web"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:hornet_harbinger"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:hornet_harbinger_giant"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:hornet_projectile"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:insane_mode_spawns"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:invisible_stalker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:locust_landscourge"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:long_legs"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:long_legs_fly"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:long_legs_tiny"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:maggot_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:mantis_mutilator"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:millipede_marauder"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:mosquito_morbidity"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:moth_moontracker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:moth_shadow_clone"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:pure_stalking"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:random_ar_ph_ex"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:random_termite"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:repellant"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:roach_riverspawn"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:rush_scare"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scarab_summon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpioid_bloodluster"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpioid_chaser_hallucination"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpioid_clone"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpioid_initial"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpioid_shadow_clone"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpion_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:scorpion_striker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:segmented_body"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:silverfish_spectre"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:sky_stalker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:slow_look_test"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:small_torment_sphere"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:small_web"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:solifuge_skulker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:sphere_anim"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_ambusher"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_brood"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_chaser_hallucination"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_chaser_hallucination_2"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_chaser_hallucination_3"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_flat"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_funnel"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_goliath"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_infestor"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_jump"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_larvae_tiny"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_lunger"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_lurker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_moth"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_moth_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_moth_summon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_moth_summon_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_obstructer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_prowler"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_reaper"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_recluse"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:spider_snatcher"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:stick_bug"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:summon_sun_blast"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tamed_tarantula"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:teleport_ghost"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:termite_tunneler_alate"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:termite_tunneler_king"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:termite_tunneler_queen"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:termite_tunneler_soldier"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:termite_tunneler_worker"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tiny_centipede_breacher"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_caterpillar"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_flash_anim"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_initial"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_larvae"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_laser"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_low_display"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_low_display_anim"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_moth_summon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_scorpioid_summon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_sphere"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_summon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_tendril"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_test"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:tormentor_voidlasher_summon"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:venus_flytrap"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:voidlasher_shadow_clone"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:warp_staff_direction"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:wasp_nemesis"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:web_funnel"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:web_harness"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 0.0,
+			"key": "arphex:web_harness_down"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "farmingforblockheads:chicken_nest"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "farmingforblockheads:feeding_trough"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:fertilized_farmland_healthy"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:fertilized_farmland_healthy_stable"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:fertilized_farmland_rich"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:fertilized_farmland_rich_stable"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:fertilized_farmland_stable"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "farmingforblockheads:market"
+		}
+	]
+}

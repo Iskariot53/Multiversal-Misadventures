@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:flashing_tree_sapling"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:natural_flashing_tree"
+		}
+	]
+}

@@ -1,0 +1,378 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "stellaris:earth_operation_base"
+			},
+			"weight": 0.0,
+			"key": "stellaris:earth_operation_base"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:earth_satellite"
+			},
+			"weight": 0.0,
+			"key": "stellaris:earth_satellite"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mars_main_temple"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mars_main_temple"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "stellaris:mars_maze"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mars_maze"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mars_ruins"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mars_ruins"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mars_temple"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mars_temple"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mars_tower"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mars_tower"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_big_castle"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_big_castle"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_factory"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_factory"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "stellaris:mercury_lava_mines"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_lava_mines"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_mining_ship"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_mining_ship"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_quarry"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_quarry"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_small_castle"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_small_castle"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_temple"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_temple"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:mercury_volcano"
+			},
+			"weight": 0.0,
+			"key": "stellaris:mercury_volcano"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:meteor"
+			},
+			"weight": 0.0,
+			"key": "stellaris:meteor"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_destroyed_spaceship"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_destroyed_spaceship"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_destroyed_village"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_destroyed_village"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "stellaris:moon_dungeon"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_dungeon"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_first_landing"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_first_landing"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_launchpad"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_launchpad"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_space_base"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_space_base"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_sphere"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_sphere"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "stellaris:alien",
+								"maxCount": 8
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "stellaris:moon_village"
+			},
+			"weight": 0.0,
+			"key": "stellaris:moon_village"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "stellaris:small_moon_dungeon"
+			},
+			"weight": 0.0,
+			"key": "stellaris:small_moon_dungeon"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_catacombs"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_catacombs"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_crash_site"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_crash_site"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_lava_outpost"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_lava_outpost"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_outpost"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_outpost"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_outpost_dungeon"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_outpost_dungeon"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_plaza"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_plaza"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_ruins"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_ruins"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellaris:venus_tower"
+			},
+			"weight": 0.0,
+			"key": "stellaris:venus_tower"
+		}
+	]
+}

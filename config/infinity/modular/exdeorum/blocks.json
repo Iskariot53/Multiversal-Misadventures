@@ -1,0 +1,1647 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:acacia_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:acacia_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:acacia_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:acacia_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:archwood_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:archwood_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bamboo_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bamboo_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bamboo_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bamboo_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:birch_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:birch_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:birch_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:birch_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:blue_archwood_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:blue_archwood_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bluebright_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bluebright_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bluebright_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:bluebright_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:cherry_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:cherry_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:cherry_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:cherry_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:comet_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:comet_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:comet_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:comet_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_andesite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_blackstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_cobbled_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_cobblestone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_crushed_blackstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_crushed_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_crushed_end_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_crushed_netherrack"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_diorite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_dirt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_dust"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_end_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_granite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_gravel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_moss_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_netherrack"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_red_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:compressed_soul_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crimson_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crimson_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crimson_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crimson_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crushed_blackstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crushed_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crushed_end_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crushed_netherrack"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crystallized_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crystallized_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crystallized_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:crystallized_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dark_oak_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dark_oak_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dark_oak_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dark_oak_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dead_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dead_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dead_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dead_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dusk_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dusk_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dusk_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dusk_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:dust"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:end_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:fir_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:fir_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:fir_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:fir_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:frostbright_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:frostbright_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:frostbright_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:frostbright_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:golden_oak_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:golden_oak_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:green_archwood_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:green_archwood_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:hellbark_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:hellbark_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:hellbark_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:hellbark_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"persistent": "true"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:infested_leaves"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jacaranda_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jacaranda_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jacaranda_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jacaranda_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jungle_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jungle_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jungle_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:jungle_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:lunar_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:lunar_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:lunar_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:lunar_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:magic_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:magic_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:magic_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:magic_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mahogany_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mahogany_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mahogany_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mahogany_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mangrove_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mangrove_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mangrove_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mangrove_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:maple_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:maple_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:maple_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:maple_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mechanical_hammer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:mechanical_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:oak_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:oak_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:oak_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:oak_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:palm_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:palm_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:palm_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:palm_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:porcelain_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:purple_archwood_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:purple_archwood_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:red_archwood_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:red_archwood_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:redwood_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:redwood_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:redwood_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:redwood_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:skyroot_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:skyroot_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:skyroot_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:skyroot_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:spruce_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:spruce_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:spruce_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:spruce_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:starlit_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:starlit_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:starlit_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:starlit_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:stone_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:umbran_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:umbran_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:umbran_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:umbran_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:unfired_porcelain_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:warped_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:warped_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:warped_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:warped_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:willow_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:willow_compressed_sieve"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:willow_crucible"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "exdeorum:willow_sieve"
+		}
+	]
+}

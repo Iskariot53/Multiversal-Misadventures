@@ -1,0 +1,340 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_deepslate_dimensional_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_dimensional_core"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_dimensional_core_enhanced"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_dimensional_focus"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_gem"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_metal"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_metal_enhanced"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_ore_end"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_ore_nether"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_dimensional_stair"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_pocket"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_pocket_enhanced"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_anvil"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_armour_workbench"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_blast_furnace"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_charger"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_connector"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_crafter"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_creative_energy"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_creative_fluid"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_edge"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_energy_display"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_fluid_display"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_furnace"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_generator"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_smithing_table"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "dimensionalpocketsii:block_wall_upgrade_station"
+		}
+	]
+}

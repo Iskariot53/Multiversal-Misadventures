@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "exmachinis:blocks/flux_compactor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "exmachinis:blocks/flux_hammer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "exmachinis:blocks/flux_sieve"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "exmachinis:blocks/item_buffer"
+		}
+	]
+}

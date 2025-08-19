@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/chicken_nest"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/feeding_trough"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/fertilized_farmland_healthy"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/fertilized_farmland_healthy_stable"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/fertilized_farmland_rich"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/fertilized_farmland_rich_stable"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/fertilized_farmland_stable"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "farmingforblockheads:blocks/market"
+		}
+	]
+}

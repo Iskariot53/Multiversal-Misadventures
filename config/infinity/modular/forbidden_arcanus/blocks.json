@@ -1,0 +1,1482 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:arcane_crystal_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_obelisk"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_crystal_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:arcane_dragon_egg"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:arcane_edelwood_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_edelwood_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:arcane_edelwood_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_pillar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:arcane_polished_darkstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:aurealic_obsidian_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:aurealic_obsidian_wall_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"persistent": "true"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_leaves"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_pressure_plate"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_sapling"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:aurum_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:black_hole"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:carved_edelwood_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:chiseled_arcane_polished_darkstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:chiseled_polished_darkstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:clibano_center"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:clibano_core"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:clibano_corner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:clibano_main_part"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:clibano_side_horizontal"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:clibano_side_vertical"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:corrupted_arcane_crystal_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:corrupted_arcane_crystal_obelisk"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:cracked_obsidian_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:cracked_obsidian_wall_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cracked_polished_darkstone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cut_soulless_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:cut_soulless_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_pedestal"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:darkstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deepslate_arcane_crystal_ore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_chain"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_lantern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_soul_lantern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:deorum_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:desk"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_branch"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_fence_gate"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_ladder"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:edelwood_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:essence_utrem_jar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:eternal_obsidian_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:eternal_obsidian_wall_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:fading_obsidian_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:fading_obsidian_wall_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:forbiddenomicon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:fragmented_obsidian_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:fragmented_obsidian_wall_skull"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_hyphae"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_stem"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:fungyss_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:gilded_chiseled_polished_darkstone"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:growing_edelwood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_1"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_2"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_3"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_4"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:hephaestus_forge_tier_5"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:magical_farmland"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:magnetized_darkstone_pedestal"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:mortar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"persistent": "true"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:nuggety_aurum_leaves"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:obsidian_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:obsidian_wall_skull"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:obsidiansteel_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_darkstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_soulless_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_soulless_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:polished_soulless_sandstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:potted_aurum_sapling"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:potted_fungyss"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:potted_growing_edelwood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:potted_yellow_orchid"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:quantum_core"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:quantum_injector"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:research_desk"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:rune_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_darkstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:runic_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:soulless_sandstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stella_arcanum"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stellarite_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stripped_aurum_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:stripped_aurum_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:tiled_polished_darkstone_bricks"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:upwind"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:utrem_jar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:whirlwind"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "forbidden_arcanus:yellow_orchid"
+		}
+	]
+}

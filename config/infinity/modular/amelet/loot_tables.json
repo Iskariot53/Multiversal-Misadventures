@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "amelet:arch"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "amelet:arch2"
+		}
+	]
+}

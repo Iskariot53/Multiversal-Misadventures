@@ -1,0 +1,3147 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/acacia_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/andesite_stepping_stones"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/azalea_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/birch_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/black_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/blue_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/brown_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cherry_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/computer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/crimson_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/cyan_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_ceiling_light"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_electricity_generator"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_freezer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_fridge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_lightswitch"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_microwave"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_oak_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_range_hood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_stove"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/dark_toaster"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/deepslate_stepping_stones"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/diorite_stepping_stones"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/door_mat"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/doorbell"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/frying_pan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/granite_stepping_stones"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/gray_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/green_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/jungle_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_blue_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_ceiling_light"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_electricity_generator"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_freezer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_fridge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_gray_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_lightswitch"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_microwave"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_range_hood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_stove"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/light_toaster"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/lime_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/magenta_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/mangrove_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/oak_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/orange_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/pink_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/plate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/post_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/purple_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/recycle_bin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/red_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_hedge"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/spruce_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/stone_stepping_stones"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/television"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_chair"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_crate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_cutting_board"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_dark_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_desk"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_lattice_fence"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_lattice_fence_gate"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_light_ceiling_fan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_mail_box"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_storage_jar"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_table"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/warped_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/white_trampoline"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/workbench"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_basin"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_bath"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_cooler"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_grill"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_kitchen_cabinetry"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_kitchen_drawer"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_kitchen_sink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_kitchen_storage_cabinet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_lamp"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_sofa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_stool"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_toilet"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "refurbished_furniture:blocks/yellow_trampoline"
+		}
+	]
+}

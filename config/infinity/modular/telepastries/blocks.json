@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:custom_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:custom_cake2"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:custom_cake3"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:end_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:lost_city_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:nether_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:overworld_cake"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "telepastries:twilight_cake"
+		}
+	]
+}

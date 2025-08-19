@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mutantmonsters:endersoul_hand_holdable_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "mutantmonsters:mutant_enderman_holdable_immune"
+		}
+	]
+}

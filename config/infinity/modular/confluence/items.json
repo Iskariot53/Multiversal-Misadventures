@@ -1,0 +1,8712 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "confluence:a_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:abeemination"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_headgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adamantite_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:adhesive_bandage"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:advanced_combat_techniques"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:advanced_combat_techniques_volume_two"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aegis_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aetherium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aetherium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aetherium_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aetherium_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aetherium_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:alchemy_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ale"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amanita_fungifin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amber_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ambrosia"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:amethyst_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ammo_reservation_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:andesite_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:angel_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:angelfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:angler_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:angler_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:angler_tackle_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:angler_vest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:announcement_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:anti_gravity_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:antlion_mandible"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:anvil_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:apple_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:apple_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:apprentice_bait"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:apprentices_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:apricot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:aqua_scepter"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:arcane_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:archaeologists_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:archaeologists_jacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:archaeologists_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:archaeologists_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:archery_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:argon_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:argon_moss_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:armed_zombie_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:armor_bracing"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:armor_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:armor_polish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:armor_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:armored_cave_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:artisan_loaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_grass_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_hellstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_wood_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_wood_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_wood_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ash_wood_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:asphalt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:atlantic_cod"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:axe_of_regrowth"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:axe_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:azure_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:b_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:banana_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:band_of_starpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:baobab_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:base_chest_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bast_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bat_bat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bat_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bat_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:batfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bbq_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_keeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bee_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:beenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:beetle_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:beetle_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:betsys_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bewitching_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:big_desert_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:binoculars"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:black_scorpion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blackcurrant"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blade_of_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blend_o_matic"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blinking_royal_shimmerlily"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blinkroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blinkroot_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blocks_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blood_butcherer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blood_clot_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blood_lust_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blood_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blood_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bloodstained_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bloodthirst_crystallized_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bloody_manowar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bloody_moscato"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bloody_piranhas"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bloody_spine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_brick_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_gel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_ice_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_ice_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_ice_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:blue_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bomb_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bomb_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_skeleton_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_throwing_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bone_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bonefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:boomerang_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:boot_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:boreal_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:boredoms_pact_falling_resolve"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bottled_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bottomless_honey_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bottomless_lava_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bottomless_shimmer_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bottomless_water_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:boulder_3x_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:boulder_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bouncy_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bouncy_cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bouncy_dynamite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bouncy_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bow_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bowl_of_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:brain_of_cthulhu_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bramble_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:breathing_reed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_blue_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_cyan_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_green_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_lime_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_orange_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_pink_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_purple_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_red_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_sky_blue_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_teal_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_violet_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bright_yellow_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:broken_sweet_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:brown_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:brown_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:brown_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:brown_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bug_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:buggy"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:builder_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bumblebee_tuna"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bunny_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bunny_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bunnyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:burger"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:butterfly_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:c_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cactus_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cactus_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cactus_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cactus_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cactus_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cactus_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:can_of_worms"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:candy_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:candy_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:candy_cane_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:candy_cane_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:candy_cane_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cap_tunabeard"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:carton_of_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:catfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cavern_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:celestial_cuffs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:celestial_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:celestial_magnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chaos_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chaos_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:charm_of_myths"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chicken_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:china_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:china_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chipped_lead_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_ash_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_baobab_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_ebony_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_glowing_mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_living_mahogany_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_living_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_obsidian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_pearl_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_shadow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chiseled_yellow_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_extractinator"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_greataxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_jackhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chlorophyte_warhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chocolate_chip_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:christmas_gift"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:christmas_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:christmas_pudding"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chromatic_cloak"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:chum_caster"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clam"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clothier_voodoo_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clothiers_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clothiers_jacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clothiers_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clothiers_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloud_block_trampoline"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloud_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloud_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloudfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloudweaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cloudweaver_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:clownfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_naginata"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobalt_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobbled_crimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobbled_ebonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cobbled_pearlstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coffin_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coin_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cold_crystal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:colorful_mineral_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cook_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_baobab_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_duck"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_fluttering_lamb_chops"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_marshmallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_shrimp"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooked_squirrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooking_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:copper_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corroded_worm_roots_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_drooping_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_jungle_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupt_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corrupted_ovaries_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_amethyst_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_crimtane_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_demonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_jade_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_thorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:corruption_tungsten_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:countercurse_mantra"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cracked_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cracked_green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cracked_marble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cracked_pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crate_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cream_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsandstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsandstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimsandstone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_drooping_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_jungle_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_thorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimson_venus_flytrap_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimtane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimtane_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimtane_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimtane_ore_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimtane_ore_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crimtane_ore_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crispy_honey_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cross_grave_marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cross_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crowbar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_assassin_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_assassin_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_assassin_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_assassin_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:crystal_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cultivator"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cursed_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cursed_flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cursedfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cyan_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cyan_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cyan_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:d_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:daedalus_storm_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:damaged_lead_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:damsel_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dangersense_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dark_aetherium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dark_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dart_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:daybloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:daybloom_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dead_mans_seater"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:death_chest_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:death_golden_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:death_wooden_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deathbringer_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deathweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deathweed_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:decompose_the_source_extract_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_blue_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_cyan_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_green_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_lime_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_orange_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_pink_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_purple_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_red_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_sky_blue_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_teal_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_violet_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deep_yellow_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_adamantite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_amethyst_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_cobalt_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_crimtane_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_dart_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_demonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_jade_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_mythril_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_orichalcum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_palladium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_pressure_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_titanium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deepslate_tungsten_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:defiled_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:deluxe_package"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demon_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demon_conch"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demon_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demon_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonic_hellcart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonic_hellfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonite_ore_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonite_ore_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:demonite_ore_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:derpfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:desert_tapered_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:detonator"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dev_bug_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:developer_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:developer_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:developer_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diamond_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:diatomaceous"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:digging_molecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dirt_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dirtfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:disc_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:discount_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:divine_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dongdongs_flatbread"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dragon_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:drax"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:drippler_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dry_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dual_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dungeon_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dungeon_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dungeon_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dungeon_demon_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dungeon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dungeon_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dynamite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:dynamite_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:e_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:eater_of_plankton"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:eater_of_worlds_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsandstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsandstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonsandstone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonwood_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonwood_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonwood_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebonwood_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_koi"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ebony_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:echo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:echo_coating"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:egg_yolk_mooncakes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:egg_yolk_mooncakes_chunks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:eggnog"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:elderberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:emerald_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:empress_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:empty_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_fragile_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_fragile_green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_fragile_pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_nightcrawler"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:enchanted_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:encumbering_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:endurance_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:entity_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:escargot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:evaporative_cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ever_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:exclamation_mark_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:exotic_scimitar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:explode_boulder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:extractinator"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:eye_of_cthulhu_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:eyeball_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:eyedropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:f_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:failed_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fairy_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fake_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:falcon_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fallen_starfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:falling_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:familiar_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:familiar_shirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:familiar_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:familiar_wig"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fart_kart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:featherfall_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fertile_singularity"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fertilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:festive_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fiberglass_fishing_pole"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:filamentous_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fin_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fireblossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fireblossom_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fish_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fisher_of_souls"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fishing_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fishotron"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fishron"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fishron_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flame_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flame_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flaming_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flashfin_koi"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flask_of_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flask_of_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fledgling_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flesh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flesh_grinder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshcatcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_amethyst_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_crimtane_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_demonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_jade_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fleshification_tungsten_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flinx_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flinx_fur_coat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flipper_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:floating_wheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:floating_wheat_bale"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:floating_wheat_heads"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:floating_wheat_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flower_of_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:flower_of_frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fluttering_lamb_chops"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fly_fish_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:follower_boulder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:forest_drooping_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:forest_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:forest_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fossil_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fragile_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fragile_green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fragile_pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fragile_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fried_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fries"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:froggle_bunwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frost_daggerfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frostburn_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frosty_minnow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_banana_daiquiri"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_gel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fruit_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:fruit_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:g_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:galaxy_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gargoyle_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gelstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gelstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gelstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:geyser_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:giant_harpy_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gilded_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gills_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gingerbread_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gladiator_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gladiator_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gladiator_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gladiator_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gladius"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gloom_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_indusium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_pileus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_stem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_mushroom_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:glowing_snail"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_grasshopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_ladybug"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_warm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gold_water_strider"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_bug_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_carp"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_cross_grave_marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_delight"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_dungeon_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_fishing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_grave_marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_headstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_lock_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:golden_tombstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:goldfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:goodie_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:granite_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grape"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grape_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grape_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grappling_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grass_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grasshopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grave_marker"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gravitation_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gravitation_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gray_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gray_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gray_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:greater_healing_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:greater_luck_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:greater_mana_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:greedy_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_brick_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_candy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_dumpling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:green_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grilled_squirrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grub_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:grubby"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:guide_to_plant_fiber_cordage"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:guide_voodoo_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:guide_voodoo_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:gummy_worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:h_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:haemorrhaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallow_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallow_drooping_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallow_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallow_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallow_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_headgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hallowed_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hammer_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hammush"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hardened_crimsand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hardened_ebonsand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hardened_pearlsand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hardened_red_sand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hardened_sand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hardmode_convertor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:harpy_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:harpy_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:harpyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:headstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:healing_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heart_reach_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heart_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heavy_work_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heim"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heim_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heim_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heim_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heim_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:helium_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:helium_moss_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hell_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellfire_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellforge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellstone_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellstone_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hellwing_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hematic_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:herb_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hercules_beetle"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heros_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heros_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heros_shirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:heros_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:high_test_fishing_line"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hive_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:holy_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honey_absorbant_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honey_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honey_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honey_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honey_mooncakes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honey_mooncakes_chunks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:honeyfin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hook_of_dissonance"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hotdog"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hotline_fishing_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hoverboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hungerfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hunter_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hunting_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:huntresss_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:i_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ice_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ice_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ice_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ice_tofu_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ichor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ichorfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:illuminant_coating"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:illuminant_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:infected_scabbardfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:inferno_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:instantaneous_explosion_tnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:insulated_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:insulated_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:invisibility_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:iron_skin_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ivy_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ivy_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:j_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jade_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:javelin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jetpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jewelfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:joja_cola"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:journeyman_bait"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:julia_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_cattails"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_drooping_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_grass_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_hive_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:jungle_thorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:k_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:keg"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:kind_miside_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:king_slime_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:krypton_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:krypton_moss_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:l_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ladybug"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ladybug_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:land_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:larva"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lava_absorbant_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lava_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lava_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lava_moss_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lavafly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lavaproof_fishing_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lavaproof_tackle_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lead_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:leaf_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:leaf_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lemonade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lesion_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lesser_healing_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lesser_luck_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lesser_mana_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_campfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_mushroom_indusium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_mushroom_pileus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_mushroom_stem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lifeforce_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:light_blue_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:light_gray_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lightning_bug"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lights_bane"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lihzahrd_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lihzahrd_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lihzahrd_guardian_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lihzahrd_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lihzahrd_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lihzahrd_watcher_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lime_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lime_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lime_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_mahogany_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_wood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:living_wood_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lobster_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lock_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:longevity_noodles"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:loose_honey_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lost_paper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:love_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:luck_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lucky_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lucy_the_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:luminite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:luminite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lunar_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:m_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magenta_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:maggot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_conch"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_cuffs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_honey_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_lava_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_power_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_sand_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magic_water_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magma_snail"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:magnet_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:man_eater_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_cloak"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_regeneration_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_regeneration_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mandible_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mango"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marble_cave_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marble_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marble_small_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marine_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:marshmallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:master_bait"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:material_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meat_grinder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meat_stuffed_zongzi"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanic_safe_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanic_safe_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanical_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanical_fragile_obsidian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanical_fragile_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanical_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanical_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mechanics_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:medicated_bandage"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:megaphone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:melee_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meowmere"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_hoe_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteorite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteorite_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteorite_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteorite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:meteorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mime_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:minecarp"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:minecart_upgrade_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:miner"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mining_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mining_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mining_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mining_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mining_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mirage_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mirage_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mirror_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moistened_crimsand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moistened_ebonsand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moistened_pearlsand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moistened_red_sand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moistened_sand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_fury"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_hoe_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:molten_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:monarch_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:monks_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:monster_lasagna"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moonglow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:moonglow_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mothron_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mottled_oilfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mud_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mudfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mug"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mural_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:muramasa"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mushroom_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mushroom_grass_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mushroom_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mushroom_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mutant_flinxfin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mysterious_note"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mysterious_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mystic_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mythril_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n0_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n1_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n2_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n3_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n4_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n5_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n6_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n7_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n8_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n9_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:n_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nachos"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nature_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:natures_gift"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nazar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nebula_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nebula_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nebula_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nebula_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:necro_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:necro_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:necro_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:necro_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:necromantic_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:negative_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:neon_grease_carp"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:neon_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:neon_moss_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:night_owl_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nightmare_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:nights_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ninja_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ninja_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ninja_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ninja_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:normal_boulder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:npc_invitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:o_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:oak_log_boulder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:oasis_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obelisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_bricks_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_lock_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_skin_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:obsidian_small_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ocean_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ocean_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ocean_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ocean_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ocean_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:opal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:opal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:opal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orange_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orange_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orange_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orange_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orange_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_headgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichalcum_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:orichlcum_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:p_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:packed_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:packed_ice_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:packed_ice_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:packed_ice_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pad_thai"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:paint_roller"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:paint_scraper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:paint_sprayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:paintbrush"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_headgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palladium_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:papyrus_scarab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:paradox_interactive_medal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:partial_mouth_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:party_wagon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:peach_sangria"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearl_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsandstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsandstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlsandstone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlwood_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlwood_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlwood_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pearlwood_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:peddlers_satchel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:peeled_sugar_tangerine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pengfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:period_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:perplexed_cat_medal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:philosophers_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pho"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pickaxe_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pickaxe_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:picksaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:piggy_bank"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:piglin_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pigron_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pillar_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pina_colada"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pineapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_brick_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_cola"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_gel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_insulated_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_insulated_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_packed_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_snow_caps"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pink_snow_suits"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pisces_fin_cod"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pixie_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pixiefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plank_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plank_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plank_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plank_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plantera_thorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:platinum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:player_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plum"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plumbers_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plumbers_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plumbers_shirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:plumbers_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pneumatic_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pocket_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:polished_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:polished_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pomegranate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:poo"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pot_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:potato_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:potion_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:potion_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:precious_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:princess_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:prismatic_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pulsar"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pumpkin_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pumpkin_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pumpkin_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pumpkin_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purification_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_clubberfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_emperor_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_packed_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:purple_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pwnhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pygmy_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:pyramid_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:q_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:queen_bee_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:question_mark_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:r_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:radio_thing"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rage_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rain_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rain_cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rainbow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raincoat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rambutan"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:random_teleport_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_adamantite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_adamantite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_chlorophyte"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_chlorophyte_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_cobalt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_crimtane"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_crimtane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_demonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_demonite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_duck"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_hellstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_hellstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_lead_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_luminite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_luminite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_meteorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_meteorite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_mythril"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_mythril_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_orichalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_orichalcum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_palladium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_squirrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_tin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_titanium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:raw_tungsten_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:reaper_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:reaver_shark_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:recall_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_admiral_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_candy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_envelope"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_packed_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sand_amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sandstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sandstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sandstone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_snapper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:reflective_shades"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:regeneration_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:reinforced_fishing_pole"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:remains_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:remote_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:restoration_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rich_mahogany_leaf_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:roasted_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:roasted_duck"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:robot_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rock_lobster"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rockfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rolling_cactus_boulder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rope"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rope_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rotten_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rotten_bone_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rotten_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:royal_wax"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ruby_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:rust_iron_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:s_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:safe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sake"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_amethyst_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_crimtane_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_demonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_jade_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sanctification_tungsten_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sandstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sandstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sandstone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sandstone_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sapphire_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sashimi"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sauteed_frog_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:savanna_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sawmill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:scarab_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:scarab_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:scarab_fishing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:scarlet_tiger_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:scorpio_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:scorpion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sculk_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sea_bass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:seafood_dinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:seaside_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadewood_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadewood_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadewood_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadewood_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_plank_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_plank_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_plank_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_plank_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shadow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shark_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sharpening_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shield_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_crystals_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shine_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shiverthorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shiverthorn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shrimp"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shrimp_po_boy"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shroom_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shroomite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shroomite_digging_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shroomite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shucked_oyster"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:signal_adapter"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silk_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silk_rope"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silk_rope_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silly_balloon_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:silver_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sitting_ducks_fishing_pole"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:skeleton_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:skeletron_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:skeletron_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sky_blue_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sky_blue_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sky_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sky_mill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:skyware_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:skyware_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:skyware_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:slime_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:slime_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:slime_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:slimefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sluggy"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:slush"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:small_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:small_desert_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:smoke_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:smooth_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:smoothie_of_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snail"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_caps"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow_suits"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:solar_flare_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:solar_flare_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:solar_flare_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:solar_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:solidifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_of_flight"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_of_fright"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_of_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_of_might"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_of_night"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:soul_of_sight"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:space_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spaghetti"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spear_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spear_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spectre_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spectre_goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spectre_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spectre_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spectre_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spectre_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spell_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spelunker_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spicy_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spider_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spider_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spider_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spider_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spider_nest_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spiderfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spiky_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spiky_ball_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spooky_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spore_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spore_root_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spore_root_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spore_root_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spore_root_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:spore_root_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:squires_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:staff_of_regrowth"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stardust"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stardust_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stardust_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stardust_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:starfury"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:static_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:steampunk_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:steampunk_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stellar_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stellar_blossom_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sticky_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sticky_dirt_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sticky_dynamite"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sticky_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stink_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stinkbug"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stinky_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stockade_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stone_dart_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stone_pressure_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stony_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:strange_brew"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:streamstrike_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_ash_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_ash_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_baobab_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_ebony_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_ebony_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_living_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_living_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_living_mahogany_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_living_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_pearl_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_pearl_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_shadow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_shadow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_spooky_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_spooky_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_yellow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stripped_yellow_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sturdy_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sturdy_fossil_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:stylish_scissors"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sugar_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sugar_plum"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sugar_tangerine"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sulphur_butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:summer_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:summon_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:summoner_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:summoning_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sun_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sun_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sun_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sunflower_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sunflower_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:super_absorbant_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:super_dart_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:super_healing_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:super_mana_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:surper_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:suspicious_looking_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sweet_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:swiftness_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:switch"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sword_in_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sword_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:t_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tackle_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:target_dummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tattered_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tattered_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:teacup"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:teal_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:teal_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:team_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:temple_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tendon_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tendon_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tentacle_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:terra_fart_kart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:terragrim"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_bees_knees"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_doctors_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_doctors_shirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_doctors_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_dutchman"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_fish_of_cthulhu"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:the_rotted_fork"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:thin_honey_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:thin_ice_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:thorn_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:thorns_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:throwing_knive"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:thunder_zapper"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tilapia"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:timers_1_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:timers_1_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:timers_1_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:timers_3_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:timers_5_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tin_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tissue_sample"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titan_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_headgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:titanium_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tokyo_teddy_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tombstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tools_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:top_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:topaz_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tragic_umbrella"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tree_holes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tree_numph_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tree_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tropical_barracuda"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tropical_smoothie"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:trout"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:truffle_worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tuna"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tundra_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tundra_trout"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tungsten_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tuxedo_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tuxedo_shirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:tuxedo_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:u_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ultra_absorbant_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:ulysses_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:umbrella"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:underground_desert_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:underworld_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:unholy_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:unholy_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:unicorn_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:universal_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:universe_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:universe_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:v_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vertebra"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vicious_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vicious_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:viking_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vile_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vile_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vilethron"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vine_rope"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vine_rope_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:violet_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:violet_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vital_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:volcano"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vortex_booster"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vortex_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vortex_hamaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:vortex_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:w_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wall_of_flesh_treasure_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wand_of_frosting"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wand_of_sparking"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:war_axe_of_the_night"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:water_bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:water_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:water_strider"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:water_walking_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:waterleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:waterleaf_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:weather_pain"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:weather_vane"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:weaving_cloud_cotton"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:web_rope"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:web_rope_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:web_slinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wet_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:white_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:white_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:white_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:whoopie_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wild_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:winter_marrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:winter_marrow_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wire_cutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wizard_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:women_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wood_fishing_pole"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wood_stone_slatted_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wooden_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wooden_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wooden_short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wooden_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:worm_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:worm_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:worm_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wormhole_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wrath_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:wyverntail"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:x_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:xenon_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:xenon_moss_fishing_bobber"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:y_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_dragonfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_eel"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_phaseblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_pure_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_drooping_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:z_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:zebra_swallowtail_butterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:zombie_arm"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:zombie_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:zongzi"
+		}
+	]
+}

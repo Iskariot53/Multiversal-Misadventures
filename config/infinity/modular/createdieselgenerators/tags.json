@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:oil_deposit"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:pumpjack_pipe"
+		}
+	]
+}

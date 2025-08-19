@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display_half_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display_sloped"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:advanced_display_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:navigator"
+		},
+		{
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:train_station_clock"
+		}
+	]
+}

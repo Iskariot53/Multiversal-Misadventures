@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_deepslate_dimensional_ore"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_gem"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_metal"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_metal_enhanced"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_ore"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_ore_end"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_ore_nether"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:blocks/block_dimensional_stair"
+		}
+	]
+}

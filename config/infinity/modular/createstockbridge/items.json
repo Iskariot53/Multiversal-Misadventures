@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createstockbridge:ae_bridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "createstockbridge:request_pattern"
+		}
+	]
+}

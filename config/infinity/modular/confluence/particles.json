@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "confluence:leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lights_bane"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lights_bane_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lights_bane_fade"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:red_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:yellow_willow"
+		}
+	]
+}

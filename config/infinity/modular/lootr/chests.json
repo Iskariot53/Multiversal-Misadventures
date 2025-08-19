@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 0.0,
+			"key": "lootr:lootr_barrel"
+		},
+		{
+			"weight": 0.0,
+			"key": "lootr:lootr_chest"
+		},
+		{
+			"weight": 0.0,
+			"key": "lootr:lootr_inventory"
+		},
+		{
+			"weight": 0.0,
+			"key": "lootr:lootr_shulker"
+		},
+		{
+			"weight": 0.0,
+			"key": "lootr:lootr_trapped_chest"
+		}
+	]
+}

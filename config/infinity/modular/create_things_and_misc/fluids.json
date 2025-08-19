@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "create_things_and_misc:diluted_bonemeal"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:diluted_bonemeal"
+		},
+		{
+			"data": {
+				"fluidName": "create_things_and_misc:slime"
+			},
+			"weight": 1.0,
+			"key": "create_things_and_misc:slime"
+		}
+	]
+}

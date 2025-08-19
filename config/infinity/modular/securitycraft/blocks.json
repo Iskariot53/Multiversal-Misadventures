@@ -1,0 +1,6620 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:alarm"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:ancient_debris_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:blast_furnace_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:block_change_detector"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:block_pocket_manager"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:block_pocket_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:bouncing_betty"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:cage_trap"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:chiseled_crystal_quartz"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:claymore"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:coal_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:cobbled_deepslate_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:cobblestone_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:copper_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_pillar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:crystal_quartz_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_coal_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_copper_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_diamond_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_emerald_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_gold_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_iron_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_lapis_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:deepslate_redstone_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:diamond_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:dirt_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:display_case"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:electrified_iron_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:emerald_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:end_stone_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:floor_trap"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:furnace_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:gilded_blackstone_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:glow_display_case"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:gold_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:gravel_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:horizontal_reinforced_iron_bars"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:ims"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:inventory_scanner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:inventory_scanner_field"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:iron_door_reinforced"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:iron_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:key_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keycard_lock"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keycard_reader"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_blast_furnace"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_chest"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_frame"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_furnace"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_smoker"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:keypad_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:lapis_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:laser"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:laser_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:mine"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:motion_activated_light"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:nether_gold_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:netherrack_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:panic_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:portable_radar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:projector"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:protecto"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:quartz_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:redstone_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_acacia_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_amethyst_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_andesite_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_mosaic"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_mosaic_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_mosaic_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bamboo_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_basalt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_birch_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_black_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blackstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_ice"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_blue_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bone_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bookshelf"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_brown_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_calcite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cauldron"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chain"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cherry_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_bookshelf"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_crystal_quartz_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_nether_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_polished_blackstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_quartz_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_red_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_stone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_tuff"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_chiseled_tuff_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_clay"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_coal_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_coarse_dirt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobbled_deepslate_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobblestone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cobweb"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_copper_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_copper_bulb"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_copper_grate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_deepslate_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_deepslate_tiles"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_nether_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_polished_blackstone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cracked_stone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_hyphae"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_nylium"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crimson_stem"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crying_obsidian"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_pillar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_crystal_quartz_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_copper_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_copper_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_red_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_red_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cut_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_cyan_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_oak_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_prismarine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_prismarine_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dark_prismarine_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tile_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tile_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tile_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_deepslate_tiles"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diamond_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_diorite_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dirt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dispenser"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dripstone_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_dropper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_emerald_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_rod"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_end_stone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_chiseled_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_copper_bulb"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_copper_grate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_cut_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_cut_copper_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_exposed_cut_copper_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_glowstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gold_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_granite_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_grass_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_grass_path"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gravel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_gray_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_green_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_hardened_clay"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_hopper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_ice"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_iron_bars"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_iron_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_iron_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_jungle_wood"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_ladder"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lantern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lapis_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lava_cauldron"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lectern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lever"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_blue_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_light_gray_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_lime_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magenta_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_magma_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mangrove_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_moss_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_moss_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_cobblestone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mossy_stone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_moving_piston"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mud_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_mycelium"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_nether_wart_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_netherite_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_netherrack"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_normal_stone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oak_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_observer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_obsidian"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_ochre_froglight"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_orange_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_chiseled_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_copper_bulb"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_copper_grate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_cut_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_cut_copper_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_oxidized_cut_copper_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_packed_ice"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_packed_mud"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pearlescent_froglight"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_pink_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_piston"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_piston_head"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_podzol"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_andesite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_andesite_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_andesite_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_basalt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_blackstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_deepslate_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_diorite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_diorite_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_diorite_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_granite"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_granite_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_granite_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_polished_tuff_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_powder_snow_cauldron"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_prismarine_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purple_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_pillar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_purpur_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_pillar"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_quartz_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_raw_copper_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_raw_gold_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_raw_iron_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_nether_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_sandstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_red_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_redstone_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_redstone_lamp"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_rooted_dirt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sandstone_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_scaffolding"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sea_lantern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_shroomlight"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_basalt"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_crystal_quartz"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_crystal_quartz_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_crystal_quartz_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_quartz"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_quartz_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_quartz_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_red_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_red_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_red_sandstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_sandstone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_sandstone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_sandstone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_smooth_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_snow_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_soul_lantern"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_soul_sand"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_soul_soil"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_spruce_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_sticky_piston"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stone_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_acacia_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_acacia_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_bamboo_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_birch_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_birch_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_cherry_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_cherry_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_crimson_hyphae"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_crimson_stem"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_dark_oak_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_dark_oak_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_jungle_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_jungle_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_mangrove_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_mangrove_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_oak_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_oak_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_spruce_log"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_spruce_wood"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_warped_hyphae"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_stripped_warped_stem"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tinted_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_brick_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_brick_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_brick_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_tuff_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_verdant_froglight"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_hyphae"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_nylium"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_planks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_stem"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_warped_wart_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_water_cauldron"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_chiseled_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_copper_bulb"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_copper_grate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_cut_copper"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_cut_copper_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_weathered_cut_copper_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_white_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_carpet"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_concrete"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_glazed_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_stained_glass"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_stained_glass_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_terracotta"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:reinforced_yellow_wool"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:retinal_scanner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:rift_stabilizer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:sand_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:scanner_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:scanner_trapdoor"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_acacia_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_acacia_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_acacia_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_acacia_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_bamboo_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_bamboo_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_bamboo_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_bamboo_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_birch_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_birch_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_birch_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_birch_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_cherry_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_cherry_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_cherry_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_cherry_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_crimson_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_crimson_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_crimson_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_crimson_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_dark_oak_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_dark_oak_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_dark_oak_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_dark_oak_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_jungle_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_jungle_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_jungle_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_jungle_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_mangrove_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_mangrove_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_mangrove_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_mangrove_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_oak_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_oak_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_sign_wall"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_spruce_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_spruce_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_spruce_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_spruce_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_warped_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_warped_sign_standing"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_warped_sign_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secret_warped_wall_hanging_sign"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:secure_redstone_interface"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:security_camera"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:sentry_disguise"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:smoker_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:smooth_crystal_quartz"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:smooth_crystal_quartz_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:smooth_crystal_quartz_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:sonic_security_system"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:stone_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:suspicious_gravel_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:suspicious_sand_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:track_mine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "securitycraft:trophy_system"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "securitycraft:username_logger"
+		}
+	]
+}

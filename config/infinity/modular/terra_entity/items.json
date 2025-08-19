@@ -1,0 +1,708 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_entity:amazon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:amber_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:amethyst_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:anger_bones_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:anger_goblin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:angler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:antlion_swarmer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:arms_dealer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:artery"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bei_dou_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:big_anger_bones_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:big_bones_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:big_helmet_anger_bones_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:big_muscle_anger_bones_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bird_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:black_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blood_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blood_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bloody_spore_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blue_jay_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blue_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:boom_bunny_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:brain_of_cthulhu_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bunny_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:butterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:cardinal_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:cascade"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:cave_bat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:chester_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:clothier_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:code_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:combat_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:corrupt_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:crap_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:crimslime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:crimson_kemera_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:cthulhu_eye_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:cursed_skull_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dark_caster_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:debug_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:decayeder_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:demolitionist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:demon_eye_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:demon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:desert_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:developer_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:devourer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:diamond_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dragonfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:drippler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dryad_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:duck_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dungeon_guardian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dungeon_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dye_trader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:eater_of_souls_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:eater_of_world_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:enchanted_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:evil_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:face_monster_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:fairy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:fealing_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:figure"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:figure2"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:figure3"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:finch_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:fire_imp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:flamarang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:flying_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ghost_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_antlion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_shelly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:giant_worm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:glowing_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_archer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_peon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_scout_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_sorcerer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_thief_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_tinkerer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:goblin_warrior_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:golden_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:grantite_elemental_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:grasshopper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:green_dumpling_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:green_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:grubby_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:guide_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:harpy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hat_spore_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hell_bat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hell_butterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hive_five"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:honey_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:honeyed_goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hornet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hornet_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:house_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ice_bat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ice_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ice_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:imp_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:iron_golem_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jade_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jewel_bunny_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jewel_squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jungle_bat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jungle_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:king_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ladybug_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:lava_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:leather_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:maggot_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:magma_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:malaise"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:man_eater_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:mechanic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:merchant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:nurse_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:nymph_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:old_man_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:painter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:party_girl_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:pink_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:piranha_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:pixie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:purple_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:queen_bee_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:rally"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:red_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ruby_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:sapphire_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:scorpion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:sculk_wisp_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:short_bones_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:shroomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:skeletron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:slime_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:slimy_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:slub_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:sluggy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:snatcher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:snow_flinx_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:snow_flinx_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spore_bat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spore_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spore_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_diamond_sword_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_golden_sword_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_iron_sword_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_netherite_sword_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_stone_sword_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:summon_wooden_sword_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:swamp_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:swamp_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:terraprisma"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:tomb_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:topaz_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:traveling_merchant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:trimarang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:tropic_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:truffle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:undead_viking_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:valor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:voodoo_demon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wall_of_flesh_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wallet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wandering_eye_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:witch_doctor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wood_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wooden_yoyo"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:worm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wyvern_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:yellow_slime_spawn_egg"
+		}
+	]
+}

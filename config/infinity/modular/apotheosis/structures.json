@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "apotheosis:tower_leaf"
+			},
+			"weight": 1.0,
+			"key": "apotheosis:tower_leaf"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "apotheosis:tower_main"
+			},
+			"weight": 1.0,
+			"key": "apotheosis:tower_main"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "apotheosis:tower_sand"
+			},
+			"weight": 1.0,
+			"key": "apotheosis:tower_sand"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "apotheosis:tower_spruce"
+			},
+			"weight": 1.0,
+			"key": "apotheosis:tower_spruce"
+		}
+	]
+}

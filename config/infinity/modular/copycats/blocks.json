@@ -1,0 +1,470 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_base"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_beam"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_board"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_byte"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_byte_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_cogwheel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_corner_slice"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_fence"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_fence_gate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_flat_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_folding_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_ghost_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_glass_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_half_layer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_half_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_heavy_weighted_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_iron_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_iron_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_ladder"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_large_cogwheel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_layer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_light_weighted_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_pane"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_shaft"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_slice"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_sliding_door"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_slope"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_slope_layer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_stacked_half_layer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_stone_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_stone_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_trapdoor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_vertical_half_layer"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_vertical_slice"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_vertical_slope"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_vertical_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_vertical_step"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_wooden_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "copycats:copycat_wooden_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "copycats:wrapped_copycat"
+		}
+	]
+}

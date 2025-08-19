@@ -1,0 +1,298 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/andesite_girder"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/andesite_girder_encased_shaft"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/asphalt_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/asphalt_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/asphalt_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/basin_lid"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/black_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/blue_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/brown_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/bulk_fermenter"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/burner"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/canister"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/chemical_turret"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/chip_wood_beam"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/chip_wood_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/chip_wood_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/chip_wood_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/cyan_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/diesel_engine"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/distillation_tank"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/gray_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/green_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/huge_diesel_engine"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/large_diesel_engine"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/light_blue_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/light_gray_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/lime_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/magenta_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/oil_barrel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/orange_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/pink_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/powered_engine_shaft"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/pumpjack_bearing"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/pumpjack_bearing_b"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/pumpjack_crank"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/pumpjack_head"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/pumpjack_hole"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/purple_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/red_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/sheet_metal_panel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/white_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blocks/yellow_concrete_encased_fluid_pipe"
+		}
+	]
+}

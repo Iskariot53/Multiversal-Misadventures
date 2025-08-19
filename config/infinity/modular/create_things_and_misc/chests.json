@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 0.0,
+			"key": "create_things_and_misc:brass_speaker"
+		},
+		{
+			"weight": 0.0,
+			"key": "create_things_and_misc:card_press"
+		},
+		{
+			"weight": 0.0,
+			"key": "create_things_and_misc:card_reader"
+		},
+		{
+			"weight": 0.0,
+			"key": "create_things_and_misc:card_reader_on"
+		},
+		{
+			"weight": 0.0,
+			"key": "create_things_and_misc:sprinkler"
+		},
+		{
+			"weight": 0.0,
+			"key": "create_things_and_misc:sprinkleron"
+		}
+	]
+}

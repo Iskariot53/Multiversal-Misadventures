@@ -1,0 +1,17 @@
+// Compost colors for terra_guns. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chlorophyte_bullet, #649037
+crystal_bullet, #5158a7
+cursed_bullet, #7ad728
+endless_musket_pouch, #9e7f66
+exploding_bullet, #7a6678
+golden_bullet, #c8bc72
+high_velocity_bullet, #948c6e
+ichor_bullet, #ffcd62
+luminite_bullet, #7fb99a
+meteor_shot, #795768
+musket_bullet, #5f5551
+nano_bullet, #40d6f7
+party_bullet, #5f6e51
+silver_bullet, #a7a5bb
+tungsten_bullet, #82a886
+venom_bullet, #795e9d

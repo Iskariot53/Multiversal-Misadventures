@@ -1,0 +1,158 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:biodiesel"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:biodiesel"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:black_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:black_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:blue_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:blue_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:brown_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:brown_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:crude_oil"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:crude_oil"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:cyan_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:cyan_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:diesel"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:diesel"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:ethanol"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:ethanol"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:gasoline"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:gasoline"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:gray_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:gray_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:green_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:green_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:light_blue_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:light_blue_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:light_gray_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:light_gray_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:lime_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:lime_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:magenta_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:magenta_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:orange_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:orange_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:pink_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:pink_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:plant_oil"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:plant_oil"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:purple_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:purple_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:red_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:red_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:white_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:white_cement"
+		},
+		{
+			"data": {
+				"fluidName": "createdieselgenerators:yellow_cement"
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:yellow_cement"
+		}
+	]
+}

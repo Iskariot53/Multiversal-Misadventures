@@ -1,0 +1,53 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Color": -9919137
+			},
+			"weight": 1.0,
+			"key": "swplanets:endor_taiga"
+		},
+		{
+			"data": {
+				"Color": 16777215
+			},
+			"weight": 1.0,
+			"key": "swplanets:hot_desert"
+		},
+		{
+			"data": {
+				"Color": 16777215
+			},
+			"weight": 1.0,
+			"key": "swplanets:hoth_frozen_desert"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "swplanets:mandalore_vestige"
+		},
+		{
+			"data": {
+				"Color": 7842607
+			},
+			"weight": 1.0,
+			"key": "swplanets:mustafar_hill"
+		},
+		{
+			"data": {
+				"Color": -5331926
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_desert"
+		},
+		{
+			"data": {
+				"Color": -5331926
+			},
+			"weight": 1.0,
+			"key": "swplanets:tatooine_rocky_desert"
+		}
+	]
+}

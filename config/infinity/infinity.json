@@ -1,7 +1,7 @@
 {
-  "infinity_version": 2004004,
+  "infinity_version": 2005000,
   "gameRules": {
-    "runtimeGenerationEnabled": true,
+    "safeMode": false,
     "longArithmeticEnabled": false,
     "forceSolidSurface": false,
     "chaosMobsEnabled": true,
@@ -10,19 +10,20 @@
     "pawnsCanDropIllegalItems": false,
     "useSoundSyncPackets": true,
     "enforceModLoadedChecks": true,
+    "forceLowercase": false,
+    "iridSafeMode": false,
     "maxBiomeCount": 6,
+    "maxStructureCount": 4,
     "maxDimensionScale": 0,
     "avgDimensionHeight": 256,
     "iridescenceContactLevel": 0,
     "iridescencePotionLevel": 4,
-    "iridescenceCooldownDuration": 168,
-    "afterglowDuration": 24,
     "resetChargeCooldown": 6000
   },
   "disabledDimensions": ["ant", "bash", "checkerboard",
     "missing", "notes", "perfection", "terminal"],
   "portalKey": "",
-  "salt": "42",
+  "salt": "",
   "rootChances": {
     "dimension_type": {
       "ultrawarm": 0.5,
@@ -66,17 +67,20 @@
       "geode": 0.5,
       "rock": 0.33,
       "dungeon": 1.0,
+      "fossil": 0.2,
       "end_spikes": 0.2,
       "end_gateway": 0.05,
       "delta": 0.2,
       "columns": 0.2,
-      "crops": 0.2,
+      "springs": 0.5,
       "blobs": 0.33,
+      "well": 0.2,
       "ceiling_blobs": 0.5,
       "vegetation": 1.0,
       "surface_patch": 0.5,
       "floating_patch": 0.1,
-      "random_flowers": 1.0
+      "water_plants": 0.75,
+      "bonus_chest": 0.2
     },
     "features_rules": {
       "generate_vanilla_features": 0.5,
@@ -88,7 +92,7 @@
       "scatter_ores": 0.2,
       "scatter_end_spikes": 0.67,
       "cage_crystals": 0.2,
-      "exact_gateways": 0.2,
+      "gateways_random_block": 0.5,
       "colourful_shapes": 0.5,
       "banded_shapes": 0.5
     },

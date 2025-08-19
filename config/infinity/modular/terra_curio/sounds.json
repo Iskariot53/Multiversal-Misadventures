@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_curio:double_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_curio:fart_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_curio:rocket_boots_boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_curio:rocket_boots_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_curio:shoes_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_curio:transmission"
+		}
+	]
+}

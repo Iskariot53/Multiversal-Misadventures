@@ -1,0 +1,109 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:blocks/mutant_skeleton_skull"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/creeper_minion"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/endersoul_clone"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_creeper"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_enderman"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_enderman_continuous"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_skeleton"
+		},
+		{
+			"data": {
+				"Type": "body_part"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_skeleton/limb"
+		},
+		{
+			"data": {
+				"Type": "body_part"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_skeleton/pelvis"
+		},
+		{
+			"data": {
+				"Type": "body_part"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_skeleton/rib"
+		},
+		{
+			"data": {
+				"Type": "body_part"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_skeleton/shoulder_pad"
+		},
+		{
+			"data": {
+				"Type": "body_part"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_skeleton/skull"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_snow_golem"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/mutant_zombie"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "mutantmonsters:entities/spider_pig"
+		}
+	]
+}

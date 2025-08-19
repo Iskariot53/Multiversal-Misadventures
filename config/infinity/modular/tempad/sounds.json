@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tempad:block.workstation.upgrade.installing"
+		},
+		{
+			"weight": 1.0,
+			"key": "tempad:block.workstation.upgrade.place.mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "tempad:block.workstation.upgrade.place.stereo"
+		},
+		{
+			"weight": 1.0,
+			"key": "tempad:entity.timedoor.enter.mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "tempad:entity.timedoor.enter.stereo"
+		},
+		{
+			"weight": 1.0,
+			"key": "tempad:entity.timedoor.open"
+		}
+	]
+}

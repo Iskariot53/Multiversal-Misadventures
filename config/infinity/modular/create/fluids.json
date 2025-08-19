@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "create:chocolate"
+			},
+			"weight": 1.0,
+			"key": "create:chocolate"
+		},
+		{
+			"data": {
+				"fluidName": "create:honey"
+			},
+			"weight": 1.0,
+			"key": "create:honey"
+		},
+		{
+			"data": {
+				"fluidName": "create:tea"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		},
+		{
+			"data": {
+				"fluidName": "create:potion"
+			},
+			"weight": 1.0,
+			"key": "minecraft:air"
+		}
+	]
+}

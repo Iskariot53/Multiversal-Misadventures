@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "securitycraft:fake_lava"
+			},
+			"weight": 1.0,
+			"key": "securitycraft:fake_lava_block"
+		},
+		{
+			"data": {
+				"fluidName": "securitycraft:fake_water"
+			},
+			"weight": 1.0,
+			"key": "securitycraft:fake_water_block"
+		}
+	]
+}

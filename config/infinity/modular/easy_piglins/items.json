@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "easy_piglins:barterer"
+		},
+		{
+			"weight": 1.0,
+			"key": "easy_piglins:piglin"
+		}
+	]
+}

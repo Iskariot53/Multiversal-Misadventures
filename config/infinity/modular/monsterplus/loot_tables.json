@@ -1,0 +1,116 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/abyssologer"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/ancient_hero"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/ancient_hero_skull"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/crystal_zombie"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/demon_eye"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/desert_acolyte"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/desert_sorceress"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/ender_eye"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/glow_skeleton"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/lava_squid"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/mother_lava_squid"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/overgrown_skeleton"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/soul"
+		},
+		{
+			"data": {
+				"Type": "generic"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/spectral_skull"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/swamp_zombie"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "monsterplus:entities/wisp"
+		}
+	]
+}

@@ -1,0 +1,636 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:black_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:black_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:black_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:black_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:black_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:black_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:blue_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:blue_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:blue_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:blue_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:blue_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:blue_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:brown_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:brown_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:brown_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:brown_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:brown_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:brown_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:casting_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:casting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:cyan_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:cyan_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:cyan_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:cyan_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:cyan_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:cyan_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:fire_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:fire_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:foundry_tap"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gear_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gem_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gray_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gray_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gray_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gray_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gray_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:gray_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:green_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:green_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:green_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:green_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:green_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:green_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:high_powered_heating_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:ingot_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_blue_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_blue_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_blue_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_blue_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_blue_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_blue_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_gray_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_gray_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_gray_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_gray_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_gray_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:light_gray_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:lime_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:lime_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:lime_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:lime_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:lime_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:lime_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:liquid_heating_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:magenta_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:magenta_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:magenta_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:magenta_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:magenta_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:magenta_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:meat_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:meat_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:meat_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:meat_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_aluminum_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_amethyst_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_ancient_debris_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_blaze_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_brass_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_bronze_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_carbon_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_constantan_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_copper_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_diamond_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_electrum_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_emerald_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_ender_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_enderium_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_glass_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_glowstone_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_gold_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_heavy_core_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_invar_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_iridium_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_iron_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_lapis_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_lead_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_lumium_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_magma_cream_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_netherite_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_nickel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_obsidian_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_osmium_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_platinum_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_quartz_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_redstone_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_refined_glowstone_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_refined_obsidian_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_shulker_shell_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_signalum_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_silver_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_slime_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_steel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_tin_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_uranium_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_wax_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_zinc_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:nugget_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:orange_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:orange_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:orange_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:orange_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:orange_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:orange_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:pink_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:pink_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:pink_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:pink_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:pink_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:pink_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:plate_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:powered_heating_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:purple_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:purple_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:purple_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:purple_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:purple_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:purple_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:red_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:red_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:red_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:red_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:red_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:red_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:rod_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:shiny_meat_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:white_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:white_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:white_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:white_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:white_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:white_foundry_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:yellow_fire_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:yellow_foundry_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:yellow_foundry_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:yellow_foundry_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:yellow_foundry_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "productivemetalworks:yellow_foundry_window"
+		}
+	]
+}

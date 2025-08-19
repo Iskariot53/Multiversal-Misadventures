@@ -1,0 +1,380 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:acacia_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:andesite_casing_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:bamboo_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:birch_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:blaze_ballon"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:blaze_ballon_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_casing_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_speaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_sticky_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:brass_tiles_stair"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:card"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:card_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:card_reader"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:card_reader_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:cherry_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:chorus_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:copper_casing_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:copper_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:crimson_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:crushed_magma"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:dark_oak_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:empty_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:empty_ticket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:experience_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:glue_packaging"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:green_sing_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:incomplete_mending_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:incomplete_vibration_mechanism"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:jaboticaba_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:jungle_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:magnifying_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:mangrove_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:mending_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:neon_tube"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:neon_tube_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:netherite_portable_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:oak_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:portable_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:powdered_obsidian_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:radar"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:ramboutan_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:redsing"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:redsing_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:redsing_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:rose_quartz_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:slime_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:slime_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:speed_100"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:speed_25"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:speed_50"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:speed_75"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:spout_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:spout_gun_chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:spout_gun_honey"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:spout_gun_lava"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:spout_gun_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sprinkler"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sprinkler_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sprinkleron"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:spruce_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sticky_boots_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sticky_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:stoup_gun_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sturdy_sheet_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sturdy_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:sturdy_sheet_slab_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:ticket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_buffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_yellow_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_yellow_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_yellow_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_yellow_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_sing_yellow_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:train_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:vibration_mechanism"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:warped_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:zinc_knife"
+		}
+	]
+}

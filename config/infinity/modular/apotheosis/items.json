@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:augmenting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:boss_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:common_material"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:diamond_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:epic_material"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_cutting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_fused_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gold_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:iron_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:mythic_material"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:potion_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:rare_material"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:reforging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:salvaging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_enhancement"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_malice"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_rebirth"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_socketing"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_unnaming"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:sigil_of_withdrawal"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:simple_reforging_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:uncommon_material"
+		}
+	]
+}

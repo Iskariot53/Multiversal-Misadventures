@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "exdeorum:barrel_add_compost"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:barrel_compost_finish"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:barrel_fluid_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:barrel_mixing"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:grass_seeds_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:sculk_core_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:silk_worm_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:silk_worm_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:silk_worm_infest"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:watering_can_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "exdeorum:watering_can_use"
+		}
+	]
+}

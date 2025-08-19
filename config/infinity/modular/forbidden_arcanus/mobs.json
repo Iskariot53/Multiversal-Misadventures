@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:corrupt_lost_soul"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:dark_trader"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:enchanted_lost_soul"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:lost_soul"
+		}
+	]
+}

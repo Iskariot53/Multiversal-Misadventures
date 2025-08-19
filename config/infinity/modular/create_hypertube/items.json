@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:hypertube"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:hypertube_accelerator"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_hypertube:hypertube_entrance"
+		}
+	]
+}

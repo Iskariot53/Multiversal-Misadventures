@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "ambient"
+			},
+			"weight": 1.0,
+			"key": "swplanets:bantha"
+		},
+		{
+			"data": {
+				"Category": "ambient"
+			},
+			"weight": 1.0,
+			"key": "swplanets:jawa"
+		}
+	]
+}

@@ -1,0 +1,427 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:andesite_girder"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:andesite_girder_encased_shaft"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:asphalt_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:asphalt_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:asphalt_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:basin_lid"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:black_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:blue_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:brown_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:bulk_fermenter"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:burner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:canister"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:chemical_turret"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_beam"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:cyan_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:diesel_engine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:distillation_tank"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:gray_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:green_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:huge_diesel_engine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:large_diesel_engine"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:light_blue_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:light_gray_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:lime_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:magenta_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:oil_barrel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:orange_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:pink_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:powered_engine_shaft"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:pumpjack_bearing"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:pumpjack_bearing_b"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:pumpjack_crank"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:pumpjack_head"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:pumpjack_hole"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:purple_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:red_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:sheet_metal_panel"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:white_concrete_encased_fluid_pipe"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 0.0,
+			"key": "createdieselgenerators:yellow_concrete_encased_fluid_pipe"
+		}
+	]
+}

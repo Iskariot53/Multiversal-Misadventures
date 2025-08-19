@@ -78,3 +78,55 @@ craftingTable.addJsonRecipe("misadventures.crawling_cake",
         "id": "telepastries:custom_cake"
     }
 });
+craftingTable.remove(<item:dimensionalpocketsii:nether_star_shard>);
+craftingTable.remove(<item:dimensionalpocketsii:block_dimensional_core>);
+craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "BCB",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "dimensionalpocketsii:block_dimensional_metal"
+        },
+        "B": {
+            "tag": "dimensionalpocketsii:block_dimensional_gem"
+        },
+		"C": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "dimensionalpocketsii:block_dimensional_core"
+    }
+});
+craftingTable.remove(<item:dimensionalpocketsii:block_dimensional_core>);
+craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "BCB",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "dimensionalpocketsii:block_dimensional_metal"
+        },
+        "B": {
+            "tag": "dimensionalpocketsii:block_dimensional_gem"
+        },
+		"C": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "dimensionalpocketsii:block_dimensional_core"
+    }
+});
+

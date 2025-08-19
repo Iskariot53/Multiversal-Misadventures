@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "confluence:achievements"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:bow_cooldown_recovery"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coins"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coins_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coins_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:coins_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:cooldown_recovery"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:decoupling"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:frozen_broken"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hook_attach"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:hook_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:life_crystal_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:lightsaber_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:mana_star_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:regular_staff_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:regular_staff_shoot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_detachment"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_evolution"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_immersion"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:shimmer_item_interactions"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:star_lands"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:terra_operation"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:transmission"
+		},
+		{
+			"weight": 1.0,
+			"key": "confluence:transmutation_use"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "lootr:blocks/lootr_barrel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "lootr:blocks/lootr_chest"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "lootr:blocks/lootr_inventory"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "lootr:blocks/lootr_shulker"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "lootr:blocks/lootr_trapped_chest"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "lootr:blocks/trophy"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "lootr:chests/elytra"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "lootr:reward/trophy"
+		}
+	]
+}

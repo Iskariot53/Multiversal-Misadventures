@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "monsterplus:curseflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:small_curseflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "monsterplus:small_soulflame"
+		}
+	]
+}

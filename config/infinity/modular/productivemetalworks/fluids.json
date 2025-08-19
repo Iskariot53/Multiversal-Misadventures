@@ -1,0 +1,312 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "productivemetalworks:meat"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:meat"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_aluminum"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_aluminum"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_amethyst"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_amethyst"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_ancient_debris"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_ancient_debris"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_blaze"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_blaze"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_brass"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_brass"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_bronze"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_bronze"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_carbon"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_carbon"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_constantan"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_constantan"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_copper"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_copper"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_diamond"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_diamond"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_electrum"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_electrum"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_emerald"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_emerald"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_ender"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_ender"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_enderium"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_enderium"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_glass"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_glass"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_glowstone"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_glowstone"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_gold"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_gold"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_heavy_core"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_heavy_core"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_invar"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_invar"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_iridium"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_iridium"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_iron"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_iron"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_lapis"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_lapis"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_lead"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_lead"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_lumium"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_lumium"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_magma_cream"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_magma_cream"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_netherite"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_netherite"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_nickel"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_nickel"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_obsidian"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_obsidian"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_osmium"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_osmium"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_platinum"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_platinum"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_quartz"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_quartz"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_redstone"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_redstone"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_refined_glowstone"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_refined_glowstone"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_refined_obsidian"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_refined_obsidian"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_shulker_shell"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_shulker_shell"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_signalum"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_signalum"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_silver"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_silver"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_slime"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_slime"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_steel"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_steel"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_tin"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_tin"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_uranium"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_uranium"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_wax"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_wax"
+		},
+		{
+			"data": {
+				"fluidName": "productivemetalworks:molten_zinc"
+			},
+			"weight": 1.0,
+			"key": "productivemetalworks:molten_zinc"
+		}
+	]
+}

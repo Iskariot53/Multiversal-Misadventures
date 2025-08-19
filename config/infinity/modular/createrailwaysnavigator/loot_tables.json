@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display_half_panel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display_panel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display_sloped"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/advanced_display_small"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/navigator_lectern"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "createrailwaysnavigator:blocks/train_station_clock"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 745784,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "forbidden_arcanus:spectral_vision"
+		}
+	]
+}

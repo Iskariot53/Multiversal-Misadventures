@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terra_guns:blowgun_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_auto"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_flamethrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_generic"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_highpower"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_nail"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_space"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:gun_toxic"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:pistol_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:rifle_burst"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:rifle_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:shotgun_alien"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:shotgun_alien_proj"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:shotgun_multi"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_guns:shotgun_tactical"
+		}
+	]
+}

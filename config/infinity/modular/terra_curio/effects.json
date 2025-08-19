@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 16754821,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "terra_curio:cerebral_mindtrick"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 9109643,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "terra_curio:confused"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 11141290,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "terra_curio:gravitation"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16776960,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "terra_curio:honey"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 6710886,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "terra_curio:paladins_shield"
+		}
+	]
+}

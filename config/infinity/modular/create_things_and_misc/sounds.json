@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:announcement_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:klaxon"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:netherite_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_things_and_misc:portable_whistle"
+		}
+	]
+}
