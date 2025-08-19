@@ -107,3 +107,7 @@ Mods Updated
 
 
 Changes
+
+
+- Changed starter kit
+- Changed dimensional core recipes to make pockets accessible earlier.

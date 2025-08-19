@@ -93,7 +93,7 @@ craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
             "item": "dimensionalpocketsii:block_dimensional_metal"
         },
         "B": {
-            "tag": "dimensionalpocketsii:block_dimensional_gem"
+            "item": "dimensionalpocketsii:block_dimensional_gem"
         },
 		"C": {
             "item": "minecraft:diamond_block"
