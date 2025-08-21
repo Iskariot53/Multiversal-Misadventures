@@ -28,17 +28,6 @@
 				id: "oritech:platinum_ingot"
 			}
 		}
-		{
-			count: 16
-			id: "0F6B61B75719EEA7"
-			item: {
-				components: {
-					"ftbquests:missing_item": "oritech:insulated_wire"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-		}
 		{ id: "418E5491513892D9", item: { count: 1, id: "oritech:basic_battery" } }
 		{ id: "239462E837629B1C", item: { count: 1, id: "oritech:motor" } }
 	]

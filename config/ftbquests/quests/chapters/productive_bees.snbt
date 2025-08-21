@@ -52,6 +52,15 @@
 				id: "minecraft:bee_nest"
 			}
 			id: "374D27B6E8DB7066"
+			rewards: [{
+				count: 2
+				id: "03C5E04E2DAAFA75"
+				item: {
+					count: 1
+					id: "productivebees:sturdy_bee_cage"
+				}
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "43EF9DD0BE50803A"

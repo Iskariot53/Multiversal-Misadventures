@@ -39,7 +39,6 @@ Mods Added
 - Create Train Utilities
 - E4MC
 - Inventory Tweaks - ReFoxed
-- Map Wormhole
  
 
 Mods Updated
@@ -118,4 +117,7 @@ Changes
 - Changed dimensional core recipes to make pockets accessible earlier.
 - Removed crawling dimension and arthropods replaced with confluence and the "Otherworld" dimension. 
 - Ars Nouveau and Confluence source/mana are now compatible and work for each others purposes.
-- Added recipes for Time in a Bottle, Creative motor and Creative Blaze Cake
+- Added recipes for Time in a Bottle, Creative motor and Creative Blaze Cake.
+- Increased the internal height of dimensional pockets to 25 and 255 for basic and advanced respectively.
+- Increased the internal capacity of create tanks and item vaults.
+- Buffed the ender dragon.

@@ -31,7 +31,7 @@
 		}
 		{ id: "3756948E952D0E3E", item: { count: 1, id: "minecraft:iron_block" } }
 		{
-			count: 3
+			count: 2
 			id: "39AE71EA690B689C"
 			item: {
 				count: 1
@@ -40,7 +40,6 @@
 			weight: 0.4f
 		}
 		{
-			count: 2
 			id: "5FA0C5BD99A5BA45"
 			item: {
 				count: 1
@@ -49,7 +48,7 @@
 			weight: 0.3f
 		}
 		{
-			count: 8
+			count: 3
 			id: "13592A8676149B6A"
 			item: {
 				count: 1
