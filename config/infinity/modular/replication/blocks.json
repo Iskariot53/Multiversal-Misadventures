@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:chip_storage"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:disintegrator"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:identification_chamber"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:matter_network_pipe"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:matter_tank"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:replication_terminal"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:replicator"
 		}
 	]

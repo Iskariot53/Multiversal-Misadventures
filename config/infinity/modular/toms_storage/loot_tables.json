@@ -4,105 +4,105 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/basic_inventory_hopper"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/crafting_terminal"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/filing_cabinet"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_cable"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_cable_connector"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_cable_connector_framed"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_cable_framed"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_connector"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_interface"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/inventory_proxy"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/level_emitter"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/open_crate"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/painted_trim"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/storage_terminal"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "toms_storage:blocks/trim"
 		}
 	]

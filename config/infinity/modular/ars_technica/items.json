@@ -61,47 +61,47 @@
 			"key": "ars_technica:glyph_whirl"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:mark_of_technomancy"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:pocket_factory"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:runic_spanner"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:source_motor"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:spy_monocle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:technomancer_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:technomancer_chestplate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:technomancer_helmet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:technomancer_leggings"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:thread_pressure"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_technica:transmutation_focus"
 		}
 	]

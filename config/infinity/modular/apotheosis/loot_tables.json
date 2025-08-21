@@ -4,56 +4,56 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:blocks/augmenting_table"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:blocks/gem_cutting_table"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:blocks/reforging_table"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:blocks/salvaging_table"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:blocks/simple_reforging_table"
 		},
 		{
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:chests/chest_valuable"
 		},
 		{
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:chests/spawner_brutal"
 		},
 		{
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:chests/spawner_swarm"
 		},
 		{

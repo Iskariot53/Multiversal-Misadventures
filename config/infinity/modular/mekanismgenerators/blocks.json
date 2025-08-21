@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:advanced_solar_generator"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:bio_generator"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:control_rod_assembly"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:electromagnetic_coil"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fission_fuel_assembly"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fission_reactor_casing"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fission_reactor_logic_adapter"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fission_reactor_port"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fusion_reactor_controller"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fusion_reactor_frame"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fusion_reactor_logic_adapter"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:fusion_reactor_port"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:gas_burning_generator"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:heat_generator"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:laser_focus_matrix"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:reactor_glass"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:rotational_complex"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:saturating_condenser"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:solar_generator"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:turbine_casing"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:turbine_rotor"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:turbine_valve"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:turbine_vent"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanismgenerators:wind_generator"
 		}
 	]

@@ -1,727 +1,727 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:aglet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:amber_horseshoe_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:ambhipian_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:ancient_chisel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:angler_earring"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:ankh_charm"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:ankh_shield"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:anklet_of_the_wind"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:architect_gizmo_pack"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:arctic_diving_gear"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:avenger_emblem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:balloon_pufferfish"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:band_of_regeneration"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:base_point"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:bee_cloak"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:berserkers_glove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:bezoar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:black_belt"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:blindfold"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:blizzard_in_a_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:blizzard_in_a_bottle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:blue_horseshoe_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:bone_glove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:brain_of_confusion"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:brick_layer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:bundle_of_balloons"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:bundle_of_horseshoe_balloons"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:celestial_shell"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:celestial_starboard"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:celestial_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:cell_phone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:climbing_claws"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:cloud_in_a_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:cloud_in_a_bottle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:cobalt_shield"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:compass"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:copper_watch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:cross_necklace"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:demon_heart"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:depth_meter"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:destroyer_emblem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:detoxification_capsule"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:diving_gear"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:diving_helmet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:dps_meter"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:dunerider_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:energy_bar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:everlasting"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:explorers_equipment"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:extendo_grip"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:eye_of_the_golem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fairy_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fart_in_a_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fart_in_a_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fast_clock"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:feral_claws"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fire_gauntlet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fish_finder"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:fishermans_pocket_guide"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:flashlight"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:flesh_knuckles"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:flipper"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:flower_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:flurry_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:flying_carpet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frog_flipper"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frog_gear"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frog_leg"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frog_webbing"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frostspark_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frozen_shield"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:frozen_turtle_shell"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:goblin_tech"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:gold_watch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:gps"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:gravity_globe"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:green_horseshoe_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:hand_drill"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:hand_of_creation"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:hand_warmer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:hermes_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:hero_shield"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:hive_pack"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:holy_water"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:honey_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:honey_comb"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:ice_skates"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:icon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:inner_tube"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:jellyfish_diving_gear"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:jellyfish_necklace"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:lava_charm"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:lava_waders"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:life_form_analyzer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:lightning_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:lucky_horseshoe"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:magic_mirror"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:magic_quiver"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:magiluminescence"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:magma_skull"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:magma_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:master_ninja_gear"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:mechanical_glove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:metal_detector"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:molten_charm"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:molten_quiver"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:molten_skull_rose"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:moon_charm"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:moon_shell"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:moon_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:neptunes_shell"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:nutrient_solution"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:obsidian_horseshoe"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:obsidian_rose"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:obsidian_shield"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:obsidian_skull"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:obsidian_skull_rose"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:obsidian_water_walking_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:paladins_shield"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:panic_necklace"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:pda"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:pink_horseshoe_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:platinum_watch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:portable_cement_mixer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:power_glove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:putrid_scent"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:radar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:ranger_emblem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:recon_scope"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:rek_3000"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:rifle_scope"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:rocket_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:royal_gel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sailfish_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sandstorm_in_a_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sandstorm_in_a_bottle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:searchlight"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sextant"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shackle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shark_tooth_necklace"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sharkron_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shield_of_cthulhu"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shiny_red_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shiny_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shoe_spikes"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:shot_put"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:silver_watch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sniper_scope"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:soaring_insignia"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sorcerer_emblem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:spectre_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:stalkers_quiver"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:star"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:star_cloak"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:star_veil"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:step_stool"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:stinger_necklace"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:stopwatch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sun_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:sweetheart_necklace"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:tabi"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:tally_counter"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:terraspark_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:the_plan"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:tiger_climbing_gear"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:tin_watch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:titan_glove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:toolbelt"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:toolbox"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:treasure_magnet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:trifold_map"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:tsunami_in_a_bottle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:tungsten_watch"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:vitamins"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:warrior_emblem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:water_walking_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:weather_radio"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:white_horseshoe_balloon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:workshop"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:worm_scarf"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_curio:yellow_horseshoe_balloon"
 		}
 	]

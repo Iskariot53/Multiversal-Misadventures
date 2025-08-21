@@ -10,7 +10,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:alarm"
 		},
 		{
@@ -20,7 +20,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:ancient_debris_mine"
 		},
 		{
@@ -30,7 +30,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:blast_furnace_mine"
 		},
 		{
@@ -43,7 +43,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:block_change_detector"
 		},
 		{
@@ -53,7 +53,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:block_pocket_manager"
 		},
 		{
@@ -63,7 +63,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:block_pocket_wall"
 		},
 		{
@@ -73,7 +73,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:bouncing_betty"
 		},
 		{
@@ -83,7 +83,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:cage_trap"
 		},
 		{
@@ -93,7 +93,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:chiseled_crystal_quartz"
 		},
 		{
@@ -103,7 +103,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:claymore"
 		},
 		{
@@ -113,7 +113,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:coal_mine"
 		},
 		{
@@ -123,7 +123,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:cobbled_deepslate_mine"
 		},
 		{
@@ -133,7 +133,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:cobblestone_mine"
 		},
 		{
@@ -143,7 +143,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:copper_mine"
 		},
 		{
@@ -153,7 +153,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:crystal_quartz"
 		},
 		{
@@ -163,7 +163,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:crystal_quartz_bricks"
 		},
 		{
@@ -173,7 +173,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:crystal_quartz_pillar"
 		},
 		{
@@ -183,7 +183,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:crystal_quartz_slab"
 		},
 		{
@@ -193,7 +193,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:crystal_quartz_stairs"
 		},
 		{
@@ -203,7 +203,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_coal_mine"
 		},
 		{
@@ -213,7 +213,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_copper_mine"
 		},
 		{
@@ -223,7 +223,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_diamond_mine"
 		},
 		{
@@ -233,7 +233,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_emerald_mine"
 		},
 		{
@@ -243,7 +243,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_gold_mine"
 		},
 		{
@@ -253,7 +253,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_iron_mine"
 		},
 		{
@@ -263,7 +263,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_lapis_mine"
 		},
 		{
@@ -273,7 +273,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_mine"
 		},
 		{
@@ -286,7 +286,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:deepslate_redstone_mine"
 		},
 		{
@@ -296,7 +296,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:diamond_mine"
 		},
 		{
@@ -306,7 +306,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:dirt_mine"
 		},
 		{
@@ -319,7 +319,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:display_case"
 		},
 		{
@@ -329,7 +329,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:electrified_iron_fence"
 		},
 		{
@@ -339,7 +339,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:emerald_mine"
 		},
 		{
@@ -349,7 +349,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:end_stone_mine"
 		},
 		{
@@ -359,7 +359,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:floor_trap"
 		},
 		{
@@ -369,7 +369,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:furnace_mine"
 		},
 		{
@@ -379,7 +379,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:gilded_blackstone_mine"
 		},
 		{
@@ -392,7 +392,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:glow_display_case"
 		},
 		{
@@ -402,7 +402,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:gold_mine"
 		},
 		{
@@ -412,7 +412,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:gravel_mine"
 		},
 		{
@@ -422,7 +422,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:horizontal_reinforced_iron_bars"
 		},
 		{
@@ -432,7 +432,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:ims"
 		},
 		{
@@ -442,7 +442,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:inventory_scanner"
 		},
 		{
@@ -452,7 +452,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:inventory_scanner_field"
 		},
 		{
@@ -462,7 +462,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:iron_door_reinforced"
 		},
 		{
@@ -472,7 +472,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:iron_mine"
 		},
 		{
@@ -485,7 +485,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:key_panel"
 		},
 		{
@@ -498,7 +498,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keycard_lock"
 		},
 		{
@@ -508,7 +508,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keycard_reader"
 		},
 		{
@@ -518,7 +518,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad"
 		},
 		{
@@ -528,7 +528,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_barrel"
 		},
 		{
@@ -541,7 +541,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_blast_furnace"
 		},
 		{
@@ -551,7 +551,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_chest"
 		},
 		{
@@ -561,7 +561,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_door"
 		},
 		{
@@ -571,7 +571,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_frame"
 		},
 		{
@@ -584,7 +584,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_furnace"
 		},
 		{
@@ -597,7 +597,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_smoker"
 		},
 		{
@@ -607,7 +607,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_trapdoor"
 		},
 		{
@@ -617,7 +617,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:lapis_mine"
 		},
 		{
@@ -627,7 +627,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:laser"
 		},
 		{
@@ -637,7 +637,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:laser_block"
 		},
 		{
@@ -647,7 +647,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:mine"
 		},
 		{
@@ -660,7 +660,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:motion_activated_light"
 		},
 		{
@@ -670,7 +670,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:nether_gold_mine"
 		},
 		{
@@ -680,7 +680,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:netherrack_mine"
 		},
 		{
@@ -693,7 +693,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:panic_button"
 		},
 		{
@@ -703,7 +703,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:portable_radar"
 		},
 		{
@@ -713,7 +713,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:projector"
 		},
 		{
@@ -723,7 +723,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:protecto"
 		},
 		{
@@ -733,7 +733,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:quartz_mine"
 		},
 		{
@@ -746,7 +746,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:redstone_mine"
 		},
 		{
@@ -759,7 +759,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_button"
 		},
 		{
@@ -769,7 +769,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_fence"
 		},
 		{
@@ -779,7 +779,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_fence_gate"
 		},
 		{
@@ -789,7 +789,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_log"
 		},
 		{
@@ -799,7 +799,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_planks"
 		},
 		{
@@ -809,7 +809,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_pressure_plate"
 		},
 		{
@@ -819,7 +819,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_slab"
 		},
 		{
@@ -829,7 +829,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_stairs"
 		},
 		{
@@ -839,7 +839,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_acacia_wood"
 		},
 		{
@@ -849,7 +849,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_amethyst_block"
 		},
 		{
@@ -859,7 +859,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_andesite"
 		},
 		{
@@ -869,7 +869,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_andesite_slab"
 		},
 		{
@@ -879,7 +879,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_andesite_stairs"
 		},
 		{
@@ -889,7 +889,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_andesite_wall"
 		},
 		{
@@ -899,7 +899,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_block"
 		},
 		{
@@ -912,7 +912,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_button"
 		},
 		{
@@ -922,7 +922,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_fence"
 		},
 		{
@@ -932,7 +932,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_fence_gate"
 		},
 		{
@@ -942,7 +942,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_mosaic"
 		},
 		{
@@ -952,7 +952,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_mosaic_slab"
 		},
 		{
@@ -962,7 +962,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_mosaic_stairs"
 		},
 		{
@@ -972,7 +972,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_planks"
 		},
 		{
@@ -982,7 +982,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_pressure_plate"
 		},
 		{
@@ -992,7 +992,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_slab"
 		},
 		{
@@ -1002,7 +1002,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bamboo_stairs"
 		},
 		{
@@ -1012,7 +1012,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_basalt"
 		},
 		{
@@ -1025,7 +1025,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_button"
 		},
 		{
@@ -1035,7 +1035,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_fence"
 		},
 		{
@@ -1045,7 +1045,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_fence_gate"
 		},
 		{
@@ -1055,7 +1055,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_log"
 		},
 		{
@@ -1065,7 +1065,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_planks"
 		},
 		{
@@ -1075,7 +1075,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_pressure_plate"
 		},
 		{
@@ -1085,7 +1085,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_slab"
 		},
 		{
@@ -1095,7 +1095,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_stairs"
 		},
 		{
@@ -1105,7 +1105,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_birch_wood"
 		},
 		{
@@ -1115,7 +1115,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_carpet"
 		},
 		{
@@ -1125,7 +1125,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_concrete"
 		},
 		{
@@ -1135,7 +1135,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_glazed_terracotta"
 		},
 		{
@@ -1145,7 +1145,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_stained_glass"
 		},
 		{
@@ -1155,7 +1155,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_stained_glass_pane"
 		},
 		{
@@ -1165,7 +1165,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_terracotta"
 		},
 		{
@@ -1175,7 +1175,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_black_wool"
 		},
 		{
@@ -1185,7 +1185,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blackstone"
 		},
 		{
@@ -1195,7 +1195,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blackstone_slab"
 		},
 		{
@@ -1205,7 +1205,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blackstone_stairs"
 		},
 		{
@@ -1215,7 +1215,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blackstone_wall"
 		},
 		{
@@ -1225,7 +1225,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_carpet"
 		},
 		{
@@ -1235,7 +1235,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_concrete"
 		},
 		{
@@ -1245,7 +1245,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_glazed_terracotta"
 		},
 		{
@@ -1255,7 +1255,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_ice"
 		},
 		{
@@ -1265,7 +1265,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_stained_glass"
 		},
 		{
@@ -1275,7 +1275,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_stained_glass_pane"
 		},
 		{
@@ -1285,7 +1285,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_terracotta"
 		},
 		{
@@ -1295,7 +1295,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_blue_wool"
 		},
 		{
@@ -1305,7 +1305,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bone_block"
 		},
 		{
@@ -1315,7 +1315,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bookshelf"
 		},
 		{
@@ -1325,7 +1325,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brick_slab"
 		},
 		{
@@ -1335,7 +1335,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brick_stairs"
 		},
 		{
@@ -1345,7 +1345,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brick_wall"
 		},
 		{
@@ -1355,7 +1355,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_bricks"
 		},
 		{
@@ -1365,7 +1365,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_carpet"
 		},
 		{
@@ -1375,7 +1375,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_concrete"
 		},
 		{
@@ -1385,7 +1385,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_glazed_terracotta"
 		},
 		{
@@ -1395,7 +1395,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_stained_glass"
 		},
 		{
@@ -1405,7 +1405,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_stained_glass_pane"
 		},
 		{
@@ -1415,7 +1415,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_terracotta"
 		},
 		{
@@ -1425,7 +1425,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_brown_wool"
 		},
 		{
@@ -1435,7 +1435,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_calcite"
 		},
 		{
@@ -1445,7 +1445,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cauldron"
 		},
 		{
@@ -1455,7 +1455,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chain"
 		},
 		{
@@ -1468,7 +1468,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_button"
 		},
 		{
@@ -1478,7 +1478,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_fence"
 		},
 		{
@@ -1488,7 +1488,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_fence_gate"
 		},
 		{
@@ -1498,7 +1498,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_log"
 		},
 		{
@@ -1508,7 +1508,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_planks"
 		},
 		{
@@ -1518,7 +1518,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_pressure_plate"
 		},
 		{
@@ -1528,7 +1528,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_slab"
 		},
 		{
@@ -1538,7 +1538,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_stairs"
 		},
 		{
@@ -1548,7 +1548,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cherry_wood"
 		},
 		{
@@ -1558,7 +1558,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_bookshelf"
 		},
 		{
@@ -1568,7 +1568,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_copper"
 		},
 		{
@@ -1578,7 +1578,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_crystal_quartz_block"
 		},
 		{
@@ -1588,7 +1588,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_deepslate"
 		},
 		{
@@ -1598,7 +1598,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_nether_bricks"
 		},
 		{
@@ -1608,7 +1608,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_polished_blackstone"
 		},
 		{
@@ -1618,7 +1618,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_quartz_block"
 		},
 		{
@@ -1628,7 +1628,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_red_sandstone"
 		},
 		{
@@ -1638,7 +1638,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_sandstone"
 		},
 		{
@@ -1648,7 +1648,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_stone_bricks"
 		},
 		{
@@ -1658,7 +1658,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_tuff"
 		},
 		{
@@ -1668,7 +1668,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_chiseled_tuff_bricks"
 		},
 		{
@@ -1678,7 +1678,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_clay"
 		},
 		{
@@ -1688,7 +1688,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_coal_block"
 		},
 		{
@@ -1698,7 +1698,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_coarse_dirt"
 		},
 		{
@@ -1708,7 +1708,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobbled_deepslate"
 		},
 		{
@@ -1718,7 +1718,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobbled_deepslate_slab"
 		},
 		{
@@ -1728,7 +1728,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobbled_deepslate_stairs"
 		},
 		{
@@ -1738,7 +1738,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobbled_deepslate_wall"
 		},
 		{
@@ -1748,7 +1748,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobblestone"
 		},
 		{
@@ -1758,7 +1758,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobblestone_slab"
 		},
 		{
@@ -1768,7 +1768,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobblestone_stairs"
 		},
 		{
@@ -1778,7 +1778,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobblestone_wall"
 		},
 		{
@@ -1788,7 +1788,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cobweb"
 		},
 		{
@@ -1798,7 +1798,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_copper_block"
 		},
 		{
@@ -1811,7 +1811,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_copper_bulb"
 		},
 		{
@@ -1821,7 +1821,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_copper_grate"
 		},
 		{
@@ -1831,7 +1831,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cracked_deepslate_bricks"
 		},
 		{
@@ -1841,7 +1841,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cracked_deepslate_tiles"
 		},
 		{
@@ -1851,7 +1851,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cracked_nether_bricks"
 		},
 		{
@@ -1861,7 +1861,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cracked_polished_blackstone_bricks"
 		},
 		{
@@ -1871,7 +1871,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cracked_stone_bricks"
 		},
 		{
@@ -1884,7 +1884,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_button"
 		},
 		{
@@ -1894,7 +1894,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_fence"
 		},
 		{
@@ -1904,7 +1904,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_fence_gate"
 		},
 		{
@@ -1914,7 +1914,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_hyphae"
 		},
 		{
@@ -1924,7 +1924,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_nylium"
 		},
 		{
@@ -1934,7 +1934,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_planks"
 		},
 		{
@@ -1944,7 +1944,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_pressure_plate"
 		},
 		{
@@ -1954,7 +1954,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_slab"
 		},
 		{
@@ -1964,7 +1964,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_stairs"
 		},
 		{
@@ -1974,7 +1974,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crimson_stem"
 		},
 		{
@@ -1984,7 +1984,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crying_obsidian"
 		},
 		{
@@ -1994,7 +1994,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crystal_quartz_block"
 		},
 		{
@@ -2004,7 +2004,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crystal_quartz_bricks"
 		},
 		{
@@ -2014,7 +2014,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crystal_quartz_pillar"
 		},
 		{
@@ -2024,7 +2024,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crystal_quartz_slab"
 		},
 		{
@@ -2034,7 +2034,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_crystal_quartz_stairs"
 		},
 		{
@@ -2044,7 +2044,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_copper"
 		},
 		{
@@ -2054,7 +2054,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_copper_slab"
 		},
 		{
@@ -2064,7 +2064,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_copper_stairs"
 		},
 		{
@@ -2074,7 +2074,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_red_sandstone"
 		},
 		{
@@ -2084,7 +2084,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_red_sandstone_slab"
 		},
 		{
@@ -2094,7 +2094,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_sandstone"
 		},
 		{
@@ -2104,7 +2104,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cut_sandstone_slab"
 		},
 		{
@@ -2114,7 +2114,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_carpet"
 		},
 		{
@@ -2124,7 +2124,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_concrete"
 		},
 		{
@@ -2134,7 +2134,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_glazed_terracotta"
 		},
 		{
@@ -2144,7 +2144,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_stained_glass"
 		},
 		{
@@ -2154,7 +2154,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_stained_glass_pane"
 		},
 		{
@@ -2164,7 +2164,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_terracotta"
 		},
 		{
@@ -2174,7 +2174,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_cyan_wool"
 		},
 		{
@@ -2187,7 +2187,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_button"
 		},
 		{
@@ -2197,7 +2197,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_fence"
 		},
 		{
@@ -2207,7 +2207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_fence_gate"
 		},
 		{
@@ -2217,7 +2217,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_log"
 		},
 		{
@@ -2227,7 +2227,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_planks"
 		},
 		{
@@ -2237,7 +2237,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_pressure_plate"
 		},
 		{
@@ -2247,7 +2247,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_slab"
 		},
 		{
@@ -2257,7 +2257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_stairs"
 		},
 		{
@@ -2267,7 +2267,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_oak_wood"
 		},
 		{
@@ -2277,7 +2277,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_prismarine"
 		},
 		{
@@ -2287,7 +2287,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_prismarine_slab"
 		},
 		{
@@ -2297,7 +2297,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dark_prismarine_stairs"
 		},
 		{
@@ -2307,7 +2307,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate"
 		},
 		{
@@ -2317,7 +2317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_brick_slab"
 		},
 		{
@@ -2327,7 +2327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_brick_stairs"
 		},
 		{
@@ -2337,7 +2337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_brick_wall"
 		},
 		{
@@ -2347,7 +2347,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_bricks"
 		},
 		{
@@ -2357,7 +2357,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_tile_slab"
 		},
 		{
@@ -2367,7 +2367,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_tile_stairs"
 		},
 		{
@@ -2377,7 +2377,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_tile_wall"
 		},
 		{
@@ -2387,7 +2387,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_deepslate_tiles"
 		},
 		{
@@ -2397,7 +2397,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_diamond_block"
 		},
 		{
@@ -2407,7 +2407,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_diorite"
 		},
 		{
@@ -2417,7 +2417,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_diorite_slab"
 		},
 		{
@@ -2427,7 +2427,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_diorite_stairs"
 		},
 		{
@@ -2437,7 +2437,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_diorite_wall"
 		},
 		{
@@ -2447,7 +2447,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dirt"
 		},
 		{
@@ -2457,7 +2457,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dispenser"
 		},
 		{
@@ -2467,7 +2467,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dripstone_block"
 		},
 		{
@@ -2477,7 +2477,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dropper"
 		},
 		{
@@ -2487,7 +2487,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_emerald_block"
 		},
 		{
@@ -2497,7 +2497,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_end_rod"
 		},
 		{
@@ -2507,7 +2507,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_end_stone"
 		},
 		{
@@ -2517,7 +2517,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_end_stone_brick_slab"
 		},
 		{
@@ -2527,7 +2527,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_end_stone_brick_stairs"
 		},
 		{
@@ -2537,7 +2537,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_end_stone_brick_wall"
 		},
 		{
@@ -2547,7 +2547,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_end_stone_bricks"
 		},
 		{
@@ -2557,7 +2557,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_chiseled_copper"
 		},
 		{
@@ -2567,7 +2567,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_copper"
 		},
 		{
@@ -2580,7 +2580,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_copper_bulb"
 		},
 		{
@@ -2590,7 +2590,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_copper_grate"
 		},
 		{
@@ -2600,7 +2600,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_cut_copper"
 		},
 		{
@@ -2610,7 +2610,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_cut_copper_slab"
 		},
 		{
@@ -2620,7 +2620,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_exposed_cut_copper_stairs"
 		},
 		{
@@ -2630,7 +2630,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_fence_gate"
 		},
 		{
@@ -2640,7 +2640,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_glass"
 		},
 		{
@@ -2650,7 +2650,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_glass_pane"
 		},
 		{
@@ -2660,7 +2660,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_glowstone"
 		},
 		{
@@ -2670,7 +2670,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gold_block"
 		},
 		{
@@ -2680,7 +2680,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_granite"
 		},
 		{
@@ -2690,7 +2690,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_granite_slab"
 		},
 		{
@@ -2700,7 +2700,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_granite_stairs"
 		},
 		{
@@ -2710,7 +2710,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_granite_wall"
 		},
 		{
@@ -2720,7 +2720,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_grass_block"
 		},
 		{
@@ -2730,7 +2730,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_grass_path"
 		},
 		{
@@ -2740,7 +2740,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gravel"
 		},
 		{
@@ -2750,7 +2750,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_carpet"
 		},
 		{
@@ -2760,7 +2760,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_concrete"
 		},
 		{
@@ -2770,7 +2770,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_glazed_terracotta"
 		},
 		{
@@ -2780,7 +2780,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_stained_glass"
 		},
 		{
@@ -2790,7 +2790,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_stained_glass_pane"
 		},
 		{
@@ -2800,7 +2800,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_terracotta"
 		},
 		{
@@ -2810,7 +2810,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_gray_wool"
 		},
 		{
@@ -2820,7 +2820,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_carpet"
 		},
 		{
@@ -2830,7 +2830,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_concrete"
 		},
 		{
@@ -2840,7 +2840,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_glazed_terracotta"
 		},
 		{
@@ -2850,7 +2850,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_stained_glass"
 		},
 		{
@@ -2860,7 +2860,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_stained_glass_pane"
 		},
 		{
@@ -2870,7 +2870,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_terracotta"
 		},
 		{
@@ -2880,7 +2880,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_green_wool"
 		},
 		{
@@ -2890,7 +2890,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_hardened_clay"
 		},
 		{
@@ -2900,7 +2900,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_hopper"
 		},
 		{
@@ -2910,7 +2910,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_ice"
 		},
 		{
@@ -2920,7 +2920,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_iron_bars"
 		},
 		{
@@ -2930,7 +2930,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_iron_block"
 		},
 		{
@@ -2940,7 +2940,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_iron_trapdoor"
 		},
 		{
@@ -2953,7 +2953,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_button"
 		},
 		{
@@ -2963,7 +2963,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_fence"
 		},
 		{
@@ -2973,7 +2973,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_fence_gate"
 		},
 		{
@@ -2983,7 +2983,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_log"
 		},
 		{
@@ -2993,7 +2993,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_planks"
 		},
 		{
@@ -3003,7 +3003,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_pressure_plate"
 		},
 		{
@@ -3013,7 +3013,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_slab"
 		},
 		{
@@ -3023,7 +3023,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_stairs"
 		},
 		{
@@ -3033,7 +3033,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_jungle_wood"
 		},
 		{
@@ -3043,7 +3043,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_ladder"
 		},
 		{
@@ -3053,7 +3053,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lantern"
 		},
 		{
@@ -3063,7 +3063,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lapis_block"
 		},
 		{
@@ -3073,7 +3073,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lava_cauldron"
 		},
 		{
@@ -3083,7 +3083,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lectern"
 		},
 		{
@@ -3096,7 +3096,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lever"
 		},
 		{
@@ -3106,7 +3106,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_carpet"
 		},
 		{
@@ -3116,7 +3116,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_concrete"
 		},
 		{
@@ -3126,7 +3126,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_glazed_terracotta"
 		},
 		{
@@ -3136,7 +3136,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_stained_glass"
 		},
 		{
@@ -3146,7 +3146,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_stained_glass_pane"
 		},
 		{
@@ -3156,7 +3156,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_terracotta"
 		},
 		{
@@ -3166,7 +3166,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_blue_wool"
 		},
 		{
@@ -3176,7 +3176,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_carpet"
 		},
 		{
@@ -3186,7 +3186,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_concrete"
 		},
 		{
@@ -3196,7 +3196,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_glazed_terracotta"
 		},
 		{
@@ -3206,7 +3206,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_stained_glass"
 		},
 		{
@@ -3216,7 +3216,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_stained_glass_pane"
 		},
 		{
@@ -3226,7 +3226,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_terracotta"
 		},
 		{
@@ -3236,7 +3236,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_light_gray_wool"
 		},
 		{
@@ -3246,7 +3246,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_carpet"
 		},
 		{
@@ -3256,7 +3256,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_concrete"
 		},
 		{
@@ -3266,7 +3266,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_glazed_terracotta"
 		},
 		{
@@ -3276,7 +3276,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_stained_glass"
 		},
 		{
@@ -3286,7 +3286,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_stained_glass_pane"
 		},
 		{
@@ -3296,7 +3296,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_terracotta"
 		},
 		{
@@ -3306,7 +3306,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_lime_wool"
 		},
 		{
@@ -3316,7 +3316,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_carpet"
 		},
 		{
@@ -3326,7 +3326,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_concrete"
 		},
 		{
@@ -3336,7 +3336,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_glazed_terracotta"
 		},
 		{
@@ -3346,7 +3346,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_stained_glass"
 		},
 		{
@@ -3356,7 +3356,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_stained_glass_pane"
 		},
 		{
@@ -3366,7 +3366,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_terracotta"
 		},
 		{
@@ -3376,7 +3376,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magenta_wool"
 		},
 		{
@@ -3386,7 +3386,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_magma_block"
 		},
 		{
@@ -3399,7 +3399,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_button"
 		},
 		{
@@ -3409,7 +3409,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_fence"
 		},
 		{
@@ -3419,7 +3419,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_fence_gate"
 		},
 		{
@@ -3429,7 +3429,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_log"
 		},
 		{
@@ -3439,7 +3439,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_planks"
 		},
 		{
@@ -3449,7 +3449,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_pressure_plate"
 		},
 		{
@@ -3459,7 +3459,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_slab"
 		},
 		{
@@ -3469,7 +3469,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_stairs"
 		},
 		{
@@ -3479,7 +3479,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mangrove_wood"
 		},
 		{
@@ -3489,7 +3489,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_moss_block"
 		},
 		{
@@ -3499,7 +3499,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_moss_carpet"
 		},
 		{
@@ -3509,7 +3509,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_cobblestone"
 		},
 		{
@@ -3519,7 +3519,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_cobblestone_slab"
 		},
 		{
@@ -3529,7 +3529,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_cobblestone_stairs"
 		},
 		{
@@ -3539,7 +3539,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_cobblestone_wall"
 		},
 		{
@@ -3549,7 +3549,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_stone_brick_slab"
 		},
 		{
@@ -3559,7 +3559,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_stone_brick_stairs"
 		},
 		{
@@ -3569,7 +3569,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_stone_brick_wall"
 		},
 		{
@@ -3579,7 +3579,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mossy_stone_bricks"
 		},
 		{
@@ -3589,7 +3589,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_moving_piston"
 		},
 		{
@@ -3599,7 +3599,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mud"
 		},
 		{
@@ -3609,7 +3609,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mud_brick_slab"
 		},
 		{
@@ -3619,7 +3619,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mud_brick_stairs"
 		},
 		{
@@ -3629,7 +3629,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mud_brick_wall"
 		},
 		{
@@ -3639,7 +3639,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mud_bricks"
 		},
 		{
@@ -3649,7 +3649,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_mycelium"
 		},
 		{
@@ -3659,7 +3659,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_nether_brick_fence"
 		},
 		{
@@ -3669,7 +3669,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_nether_brick_slab"
 		},
 		{
@@ -3679,7 +3679,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_nether_brick_stairs"
 		},
 		{
@@ -3689,7 +3689,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_nether_brick_wall"
 		},
 		{
@@ -3699,7 +3699,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_nether_bricks"
 		},
 		{
@@ -3709,7 +3709,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_nether_wart_block"
 		},
 		{
@@ -3719,7 +3719,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_netherite_block"
 		},
 		{
@@ -3729,7 +3729,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_netherrack"
 		},
 		{
@@ -3739,7 +3739,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_normal_stone_slab"
 		},
 		{
@@ -3752,7 +3752,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_button"
 		},
 		{
@@ -3762,7 +3762,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_fence"
 		},
 		{
@@ -3772,7 +3772,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_fence_gate"
 		},
 		{
@@ -3782,7 +3782,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_log"
 		},
 		{
@@ -3792,7 +3792,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_planks"
 		},
 		{
@@ -3802,7 +3802,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_pressure_plate"
 		},
 		{
@@ -3812,7 +3812,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_slab"
 		},
 		{
@@ -3822,7 +3822,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_stairs"
 		},
 		{
@@ -3832,7 +3832,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oak_wood"
 		},
 		{
@@ -3842,7 +3842,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_observer"
 		},
 		{
@@ -3852,7 +3852,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_obsidian"
 		},
 		{
@@ -3862,7 +3862,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_ochre_froglight"
 		},
 		{
@@ -3872,7 +3872,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_carpet"
 		},
 		{
@@ -3882,7 +3882,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_concrete"
 		},
 		{
@@ -3892,7 +3892,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_glazed_terracotta"
 		},
 		{
@@ -3902,7 +3902,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_stained_glass"
 		},
 		{
@@ -3912,7 +3912,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_stained_glass_pane"
 		},
 		{
@@ -3922,7 +3922,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_terracotta"
 		},
 		{
@@ -3932,7 +3932,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_orange_wool"
 		},
 		{
@@ -3942,7 +3942,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_chiseled_copper"
 		},
 		{
@@ -3952,7 +3952,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_copper"
 		},
 		{
@@ -3965,7 +3965,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_copper_bulb"
 		},
 		{
@@ -3975,7 +3975,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_copper_grate"
 		},
 		{
@@ -3985,7 +3985,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_cut_copper"
 		},
 		{
@@ -3995,7 +3995,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_cut_copper_slab"
 		},
 		{
@@ -4005,7 +4005,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_oxidized_cut_copper_stairs"
 		},
 		{
@@ -4015,7 +4015,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_packed_ice"
 		},
 		{
@@ -4025,7 +4025,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_packed_mud"
 		},
 		{
@@ -4035,7 +4035,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pearlescent_froglight"
 		},
 		{
@@ -4045,7 +4045,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_carpet"
 		},
 		{
@@ -4055,7 +4055,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_concrete"
 		},
 		{
@@ -4065,7 +4065,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_glazed_terracotta"
 		},
 		{
@@ -4075,7 +4075,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_stained_glass"
 		},
 		{
@@ -4085,7 +4085,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_stained_glass_pane"
 		},
 		{
@@ -4095,7 +4095,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_terracotta"
 		},
 		{
@@ -4105,7 +4105,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_pink_wool"
 		},
 		{
@@ -4115,7 +4115,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_piston"
 		},
 		{
@@ -4125,7 +4125,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_piston_head"
 		},
 		{
@@ -4135,7 +4135,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_podzol"
 		},
 		{
@@ -4145,7 +4145,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_andesite"
 		},
 		{
@@ -4155,7 +4155,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_andesite_slab"
 		},
 		{
@@ -4165,7 +4165,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_andesite_stairs"
 		},
 		{
@@ -4175,7 +4175,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_basalt"
 		},
 		{
@@ -4185,7 +4185,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone"
 		},
 		{
@@ -4195,7 +4195,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_brick_slab"
 		},
 		{
@@ -4205,7 +4205,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_brick_stairs"
 		},
 		{
@@ -4215,7 +4215,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_brick_wall"
 		},
 		{
@@ -4225,7 +4225,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_bricks"
 		},
 		{
@@ -4238,7 +4238,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_button"
 		},
 		{
@@ -4248,7 +4248,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_pressure_plate"
 		},
 		{
@@ -4258,7 +4258,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_slab"
 		},
 		{
@@ -4268,7 +4268,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_stairs"
 		},
 		{
@@ -4278,7 +4278,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_blackstone_wall"
 		},
 		{
@@ -4288,7 +4288,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_deepslate"
 		},
 		{
@@ -4298,7 +4298,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_deepslate_slab"
 		},
 		{
@@ -4308,7 +4308,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_deepslate_stairs"
 		},
 		{
@@ -4318,7 +4318,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_deepslate_wall"
 		},
 		{
@@ -4328,7 +4328,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_diorite"
 		},
 		{
@@ -4338,7 +4338,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_diorite_slab"
 		},
 		{
@@ -4348,7 +4348,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_diorite_stairs"
 		},
 		{
@@ -4358,7 +4358,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_granite"
 		},
 		{
@@ -4368,7 +4368,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_granite_slab"
 		},
 		{
@@ -4378,7 +4378,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_granite_stairs"
 		},
 		{
@@ -4388,7 +4388,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_tuff"
 		},
 		{
@@ -4398,7 +4398,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_tuff_slab"
 		},
 		{
@@ -4408,7 +4408,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_tuff_stairs"
 		},
 		{
@@ -4418,7 +4418,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_polished_tuff_wall"
 		},
 		{
@@ -4428,7 +4428,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_powder_snow_cauldron"
 		},
 		{
@@ -4438,7 +4438,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine"
 		},
 		{
@@ -4448,7 +4448,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine_brick_slab"
 		},
 		{
@@ -4458,7 +4458,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine_brick_stairs"
 		},
 		{
@@ -4468,7 +4468,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine_bricks"
 		},
 		{
@@ -4478,7 +4478,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine_slab"
 		},
 		{
@@ -4488,7 +4488,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine_stairs"
 		},
 		{
@@ -4498,7 +4498,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_prismarine_wall"
 		},
 		{
@@ -4508,7 +4508,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_carpet"
 		},
 		{
@@ -4518,7 +4518,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_concrete"
 		},
 		{
@@ -4528,7 +4528,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_glazed_terracotta"
 		},
 		{
@@ -4538,7 +4538,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_stained_glass"
 		},
 		{
@@ -4548,7 +4548,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_stained_glass_pane"
 		},
 		{
@@ -4558,7 +4558,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_terracotta"
 		},
 		{
@@ -4568,7 +4568,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purple_wool"
 		},
 		{
@@ -4578,7 +4578,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purpur_block"
 		},
 		{
@@ -4588,7 +4588,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purpur_pillar"
 		},
 		{
@@ -4598,7 +4598,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purpur_slab"
 		},
 		{
@@ -4608,7 +4608,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_purpur_stairs"
 		},
 		{
@@ -4618,7 +4618,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_quartz_block"
 		},
 		{
@@ -4628,7 +4628,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_quartz_bricks"
 		},
 		{
@@ -4638,7 +4638,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_quartz_pillar"
 		},
 		{
@@ -4648,7 +4648,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_quartz_slab"
 		},
 		{
@@ -4658,7 +4658,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_quartz_stairs"
 		},
 		{
@@ -4668,7 +4668,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_raw_copper_block"
 		},
 		{
@@ -4678,7 +4678,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_raw_gold_block"
 		},
 		{
@@ -4688,7 +4688,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_raw_iron_block"
 		},
 		{
@@ -4698,7 +4698,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_carpet"
 		},
 		{
@@ -4708,7 +4708,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_concrete"
 		},
 		{
@@ -4718,7 +4718,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_glazed_terracotta"
 		},
 		{
@@ -4728,7 +4728,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_nether_brick_slab"
 		},
 		{
@@ -4738,7 +4738,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_nether_brick_stairs"
 		},
 		{
@@ -4748,7 +4748,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_nether_brick_wall"
 		},
 		{
@@ -4758,7 +4758,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_nether_bricks"
 		},
 		{
@@ -4768,7 +4768,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_sand"
 		},
 		{
@@ -4778,7 +4778,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_sandstone"
 		},
 		{
@@ -4788,7 +4788,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_sandstone_slab"
 		},
 		{
@@ -4798,7 +4798,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_sandstone_stairs"
 		},
 		{
@@ -4808,7 +4808,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_sandstone_wall"
 		},
 		{
@@ -4818,7 +4818,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_stained_glass"
 		},
 		{
@@ -4828,7 +4828,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_stained_glass_pane"
 		},
 		{
@@ -4838,7 +4838,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_terracotta"
 		},
 		{
@@ -4848,7 +4848,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_red_wool"
 		},
 		{
@@ -4858,7 +4858,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_redstone_block"
 		},
 		{
@@ -4871,7 +4871,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_redstone_lamp"
 		},
 		{
@@ -4881,7 +4881,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_rooted_dirt"
 		},
 		{
@@ -4891,7 +4891,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sand"
 		},
 		{
@@ -4901,7 +4901,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sandstone"
 		},
 		{
@@ -4911,7 +4911,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sandstone_slab"
 		},
 		{
@@ -4921,7 +4921,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sandstone_stairs"
 		},
 		{
@@ -4931,7 +4931,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sandstone_wall"
 		},
 		{
@@ -4941,7 +4941,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_scaffolding"
 		},
 		{
@@ -4951,7 +4951,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sea_lantern"
 		},
 		{
@@ -4961,7 +4961,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_shroomlight"
 		},
 		{
@@ -4971,7 +4971,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_basalt"
 		},
 		{
@@ -4981,7 +4981,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_crystal_quartz"
 		},
 		{
@@ -4991,7 +4991,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_crystal_quartz_slab"
 		},
 		{
@@ -5001,7 +5001,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_crystal_quartz_stairs"
 		},
 		{
@@ -5011,7 +5011,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_quartz"
 		},
 		{
@@ -5021,7 +5021,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_quartz_slab"
 		},
 		{
@@ -5031,7 +5031,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_quartz_stairs"
 		},
 		{
@@ -5041,7 +5041,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_red_sandstone"
 		},
 		{
@@ -5051,7 +5051,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_red_sandstone_slab"
 		},
 		{
@@ -5061,7 +5061,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_red_sandstone_stairs"
 		},
 		{
@@ -5071,7 +5071,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_sandstone"
 		},
 		{
@@ -5081,7 +5081,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_sandstone_slab"
 		},
 		{
@@ -5091,7 +5091,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_sandstone_stairs"
 		},
 		{
@@ -5101,7 +5101,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_smooth_stone"
 		},
 		{
@@ -5111,7 +5111,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_snow_block"
 		},
 		{
@@ -5121,7 +5121,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_soul_lantern"
 		},
 		{
@@ -5131,7 +5131,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_soul_sand"
 		},
 		{
@@ -5141,7 +5141,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_soul_soil"
 		},
 		{
@@ -5154,7 +5154,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_button"
 		},
 		{
@@ -5164,7 +5164,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_fence"
 		},
 		{
@@ -5174,7 +5174,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_fence_gate"
 		},
 		{
@@ -5184,7 +5184,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_log"
 		},
 		{
@@ -5194,7 +5194,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_planks"
 		},
 		{
@@ -5204,7 +5204,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_pressure_plate"
 		},
 		{
@@ -5214,7 +5214,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_slab"
 		},
 		{
@@ -5224,7 +5224,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_stairs"
 		},
 		{
@@ -5234,7 +5234,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_spruce_wood"
 		},
 		{
@@ -5244,7 +5244,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_sticky_piston"
 		},
 		{
@@ -5254,7 +5254,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone"
 		},
 		{
@@ -5264,7 +5264,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_brick_slab"
 		},
 		{
@@ -5274,7 +5274,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_brick_stairs"
 		},
 		{
@@ -5284,7 +5284,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_brick_wall"
 		},
 		{
@@ -5294,7 +5294,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_bricks"
 		},
 		{
@@ -5307,7 +5307,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_button"
 		},
 		{
@@ -5317,7 +5317,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_pressure_plate"
 		},
 		{
@@ -5327,7 +5327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_slab"
 		},
 		{
@@ -5337,7 +5337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stone_stairs"
 		},
 		{
@@ -5347,7 +5347,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_acacia_log"
 		},
 		{
@@ -5357,7 +5357,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_acacia_wood"
 		},
 		{
@@ -5367,7 +5367,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_bamboo_block"
 		},
 		{
@@ -5377,7 +5377,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_birch_log"
 		},
 		{
@@ -5387,7 +5387,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_birch_wood"
 		},
 		{
@@ -5397,7 +5397,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_cherry_log"
 		},
 		{
@@ -5407,7 +5407,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_cherry_wood"
 		},
 		{
@@ -5417,7 +5417,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_crimson_hyphae"
 		},
 		{
@@ -5427,7 +5427,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_crimson_stem"
 		},
 		{
@@ -5437,7 +5437,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_dark_oak_log"
 		},
 		{
@@ -5447,7 +5447,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_dark_oak_wood"
 		},
 		{
@@ -5457,7 +5457,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_jungle_log"
 		},
 		{
@@ -5467,7 +5467,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_jungle_wood"
 		},
 		{
@@ -5477,7 +5477,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_mangrove_log"
 		},
 		{
@@ -5487,7 +5487,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_mangrove_wood"
 		},
 		{
@@ -5497,7 +5497,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_oak_log"
 		},
 		{
@@ -5507,7 +5507,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_oak_wood"
 		},
 		{
@@ -5517,7 +5517,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_spruce_log"
 		},
 		{
@@ -5527,7 +5527,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_spruce_wood"
 		},
 		{
@@ -5537,7 +5537,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_warped_hyphae"
 		},
 		{
@@ -5547,7 +5547,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_stripped_warped_stem"
 		},
 		{
@@ -5557,7 +5557,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tinted_glass"
 		},
 		{
@@ -5567,7 +5567,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff"
 		},
 		{
@@ -5577,7 +5577,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_brick_slab"
 		},
 		{
@@ -5587,7 +5587,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_brick_stairs"
 		},
 		{
@@ -5597,7 +5597,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_brick_wall"
 		},
 		{
@@ -5607,7 +5607,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_bricks"
 		},
 		{
@@ -5617,7 +5617,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_slab"
 		},
 		{
@@ -5627,7 +5627,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_stairs"
 		},
 		{
@@ -5637,7 +5637,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_tuff_wall"
 		},
 		{
@@ -5647,7 +5647,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_verdant_froglight"
 		},
 		{
@@ -5660,7 +5660,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_button"
 		},
 		{
@@ -5670,7 +5670,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_fence"
 		},
 		{
@@ -5680,7 +5680,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_fence_gate"
 		},
 		{
@@ -5690,7 +5690,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_hyphae"
 		},
 		{
@@ -5700,7 +5700,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_nylium"
 		},
 		{
@@ -5710,7 +5710,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_planks"
 		},
 		{
@@ -5720,7 +5720,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_pressure_plate"
 		},
 		{
@@ -5730,7 +5730,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_slab"
 		},
 		{
@@ -5740,7 +5740,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_stairs"
 		},
 		{
@@ -5750,7 +5750,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_stem"
 		},
 		{
@@ -5760,7 +5760,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_warped_wart_block"
 		},
 		{
@@ -5770,7 +5770,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_water_cauldron"
 		},
 		{
@@ -5780,7 +5780,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_chiseled_copper"
 		},
 		{
@@ -5790,7 +5790,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_copper"
 		},
 		{
@@ -5803,7 +5803,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_copper_bulb"
 		},
 		{
@@ -5813,7 +5813,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_copper_grate"
 		},
 		{
@@ -5823,7 +5823,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_cut_copper"
 		},
 		{
@@ -5833,7 +5833,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_cut_copper_slab"
 		},
 		{
@@ -5843,7 +5843,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_weathered_cut_copper_stairs"
 		},
 		{
@@ -5853,7 +5853,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_carpet"
 		},
 		{
@@ -5863,7 +5863,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_concrete"
 		},
 		{
@@ -5873,7 +5873,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_glazed_terracotta"
 		},
 		{
@@ -5883,7 +5883,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_stained_glass"
 		},
 		{
@@ -5893,7 +5893,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_stained_glass_pane"
 		},
 		{
@@ -5903,7 +5903,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_terracotta"
 		},
 		{
@@ -5913,7 +5913,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_white_wool"
 		},
 		{
@@ -5923,7 +5923,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_carpet"
 		},
 		{
@@ -5933,7 +5933,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_concrete"
 		},
 		{
@@ -5943,7 +5943,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_glazed_terracotta"
 		},
 		{
@@ -5953,7 +5953,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_stained_glass"
 		},
 		{
@@ -5963,7 +5963,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_stained_glass_pane"
 		},
 		{
@@ -5973,7 +5973,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_terracotta"
 		},
 		{
@@ -5983,7 +5983,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_yellow_wool"
 		},
 		{
@@ -5993,7 +5993,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:retinal_scanner"
 		},
 		{
@@ -6003,7 +6003,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:rift_stabilizer"
 		},
 		{
@@ -6013,7 +6013,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:sand_mine"
 		},
 		{
@@ -6023,7 +6023,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:scanner_door"
 		},
 		{
@@ -6033,7 +6033,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:scanner_trapdoor"
 		},
 		{
@@ -6043,7 +6043,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_acacia_hanging_sign"
 		},
 		{
@@ -6053,7 +6053,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_acacia_sign_standing"
 		},
 		{
@@ -6063,7 +6063,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_acacia_sign_wall"
 		},
 		{
@@ -6073,7 +6073,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_acacia_wall_hanging_sign"
 		},
 		{
@@ -6083,7 +6083,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_bamboo_hanging_sign"
 		},
 		{
@@ -6093,7 +6093,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_bamboo_sign_standing"
 		},
 		{
@@ -6103,7 +6103,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_bamboo_sign_wall"
 		},
 		{
@@ -6113,7 +6113,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_bamboo_wall_hanging_sign"
 		},
 		{
@@ -6123,7 +6123,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_birch_hanging_sign"
 		},
 		{
@@ -6133,7 +6133,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_birch_sign_standing"
 		},
 		{
@@ -6143,7 +6143,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_birch_sign_wall"
 		},
 		{
@@ -6153,7 +6153,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_birch_wall_hanging_sign"
 		},
 		{
@@ -6163,7 +6163,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_cherry_hanging_sign"
 		},
 		{
@@ -6173,7 +6173,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_cherry_sign_standing"
 		},
 		{
@@ -6183,7 +6183,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_cherry_sign_wall"
 		},
 		{
@@ -6193,7 +6193,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_cherry_wall_hanging_sign"
 		},
 		{
@@ -6203,7 +6203,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_crimson_hanging_sign"
 		},
 		{
@@ -6213,7 +6213,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_crimson_sign_standing"
 		},
 		{
@@ -6223,7 +6223,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_crimson_sign_wall"
 		},
 		{
@@ -6233,7 +6233,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_crimson_wall_hanging_sign"
 		},
 		{
@@ -6243,7 +6243,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_dark_oak_hanging_sign"
 		},
 		{
@@ -6253,7 +6253,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_dark_oak_sign_standing"
 		},
 		{
@@ -6263,7 +6263,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_dark_oak_sign_wall"
 		},
 		{
@@ -6273,7 +6273,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_dark_oak_wall_hanging_sign"
 		},
 		{
@@ -6283,7 +6283,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_jungle_hanging_sign"
 		},
 		{
@@ -6293,7 +6293,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_jungle_sign_standing"
 		},
 		{
@@ -6303,7 +6303,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_jungle_sign_wall"
 		},
 		{
@@ -6313,7 +6313,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_jungle_wall_hanging_sign"
 		},
 		{
@@ -6323,7 +6323,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_mangrove_hanging_sign"
 		},
 		{
@@ -6333,7 +6333,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_mangrove_sign_standing"
 		},
 		{
@@ -6343,7 +6343,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_mangrove_sign_wall"
 		},
 		{
@@ -6353,7 +6353,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_mangrove_wall_hanging_sign"
 		},
 		{
@@ -6363,7 +6363,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_oak_hanging_sign"
 		},
 		{
@@ -6373,7 +6373,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_oak_wall_hanging_sign"
 		},
 		{
@@ -6383,7 +6383,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_sign_standing"
 		},
 		{
@@ -6393,7 +6393,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_sign_wall"
 		},
 		{
@@ -6403,7 +6403,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_spruce_hanging_sign"
 		},
 		{
@@ -6413,7 +6413,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_spruce_sign_standing"
 		},
 		{
@@ -6423,7 +6423,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_spruce_sign_wall"
 		},
 		{
@@ -6433,7 +6433,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_spruce_wall_hanging_sign"
 		},
 		{
@@ -6443,7 +6443,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_warped_hanging_sign"
 		},
 		{
@@ -6453,7 +6453,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_warped_sign_standing"
 		},
 		{
@@ -6463,7 +6463,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_warped_sign_wall"
 		},
 		{
@@ -6473,7 +6473,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secret_warped_wall_hanging_sign"
 		},
 		{
@@ -6483,7 +6483,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:secure_redstone_interface"
 		},
 		{
@@ -6493,7 +6493,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:security_camera"
 		},
 		{
@@ -6503,7 +6503,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:sentry_disguise"
 		},
 		{
@@ -6513,7 +6513,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:smoker_mine"
 		},
 		{
@@ -6523,7 +6523,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:smooth_crystal_quartz"
 		},
 		{
@@ -6533,7 +6533,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:smooth_crystal_quartz_slab"
 		},
 		{
@@ -6543,7 +6543,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:smooth_crystal_quartz_stairs"
 		},
 		{
@@ -6553,7 +6553,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:sonic_security_system"
 		},
 		{
@@ -6563,7 +6563,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:stone_mine"
 		},
 		{
@@ -6573,7 +6573,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:suspicious_gravel_mine"
 		},
 		{
@@ -6583,7 +6583,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:suspicious_sand_mine"
 		},
 		{
@@ -6593,7 +6593,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:track_mine"
 		},
 		{
@@ -6603,7 +6603,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:trophy_system"
 		},
 		{
@@ -6613,7 +6613,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:username_logger"
 		}
 	]

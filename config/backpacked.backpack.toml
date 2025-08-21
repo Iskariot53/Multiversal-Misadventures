@@ -4,11 +4,11 @@
 	# keepInventory game rule), otherwise backpacks will simply drop on the ground like
 	# regular items.
 	# Valid values: true, false
-	keepOnDeath = false
+	keepOnDeath = true
 	# The maximum amount of backpacks that can be equipped by a player. This will determine
 	# how many slots will appear when opening the "Equipped Backpacks" menu.
 	# Valid range: 1 to 9 (inclusive)
-	maxEquipable = 5
+	maxEquipable = 3
 	# If set to true, all equipable slots will be unlocked by default.
 	# WARNING: Reverting the option from true to false will cause backpacks to be dropped
 	# into the world if the slot they are in is now locked. You have been warned.

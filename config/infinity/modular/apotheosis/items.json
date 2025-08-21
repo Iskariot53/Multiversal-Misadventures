@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:augmenting_table"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:boss_summoner"
 		},
 		{
@@ -49,7 +49,7 @@
 			"key": "apotheosis:mythic_material"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:potion_charm"
 		},
 		{
@@ -57,11 +57,11 @@
 			"key": "apotheosis:rare_material"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:reforging_table"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:salvaging_table"
 		},
 		{
@@ -89,7 +89,7 @@
 			"key": "apotheosis:sigil_of_withdrawal"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apotheosis:simple_reforging_table"
 		},
 		{

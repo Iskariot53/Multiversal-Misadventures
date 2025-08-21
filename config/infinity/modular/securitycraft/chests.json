@@ -1,27 +1,27 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:keypad_chest"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dispenser"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_dropper"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_hopper"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "securitycraft:reinforced_moving_piston"
 		}
 	]

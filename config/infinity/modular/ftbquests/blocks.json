@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:aux_task_screen"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:barrier"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:detector"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:loot_crate_opener"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_1"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_3"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_5"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_7"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:stage_barrier"
 		}
 	]

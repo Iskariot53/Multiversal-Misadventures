@@ -1,6 +1,6 @@
 #Enables auto-reloading of guns
 #Allowed Values: CREATIVE, SURVIVAL, ENABLED, DISABLED
-autoReloadEnabled = "CREATIVE"
+autoReloadEnabled = "DISABLED"
 #Adjusts mouse sensitivity when using scopes
 # Default: 0.4
 # Range: 0.01 ~ 0.9

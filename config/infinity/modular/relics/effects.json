@@ -15,7 +15,7 @@
 				"Color": 6829738,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "relics:bleeding"
 		},
 		{
@@ -42,7 +42,7 @@
 				"Color": 6829738,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "relics:paralysis"
 		},
 		{
@@ -51,7 +51,7 @@
 				"Color": 6829738,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "relics:stun"
 		},
 		{

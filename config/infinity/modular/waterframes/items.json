@@ -1,27 +1,27 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "waterframes:big_tv"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "waterframes:frame"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "waterframes:projector"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "waterframes:remote"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "waterframes:tv"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "waterframes:tv_box"
 		}
 	]

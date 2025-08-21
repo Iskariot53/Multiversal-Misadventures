@@ -1,7 +1,7 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:barrier"
 		},
 		{
@@ -9,7 +9,7 @@
 			"key": "ftbquests:book"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:custom_icon"
 		},
 		{
@@ -21,31 +21,31 @@
 			"key": "ftbquests:loot_crate_opener"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:lootcrate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:missing_item"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_1"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_3"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_5"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:screen_7"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ftbquests:stage_barrier"
 		},
 		{

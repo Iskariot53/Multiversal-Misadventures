@@ -5,7 +5,7 @@
 			"key": "hostilenetworks:blank_data_model"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "hostilenetworks:data_model"
 		},
 		{
@@ -17,7 +17,7 @@
 			"key": "hostilenetworks:end_prediction"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "hostilenetworks:fab_directive"
 		},
 		{
@@ -33,7 +33,7 @@
 			"key": "hostilenetworks:overworld_prediction"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "hostilenetworks:prediction"
 		},
 		{
@@ -45,7 +45,7 @@
 			"key": "hostilenetworks:sim_chamber"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "hostilenetworks:twilight_prediction"
 		}
 	]

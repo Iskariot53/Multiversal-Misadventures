@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:advanced_prism"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:air_turret"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:air_upstream"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:earth_turret"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:everfull_urn"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:fire_turret"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:magma_upstream"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:manipulation_turret"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:mermaid_rock"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:water_turret"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:water_upstream"
 		},
 		{

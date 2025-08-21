@@ -17,7 +17,7 @@
 		x: 0.0d
 		y: -8.0d
 	}]
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -2070,7 +2070,10 @@
 			hide_dependent_lines: true
 			hide_until_deps_visible: true
 			icon: {
-				id: "tombstone:grave_dust"
+				components: {
+					"ftbquests:missing_item": "tombstone:grave_dust"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "1D514E8FB2246A4A"
 			min_required_dependencies: 2

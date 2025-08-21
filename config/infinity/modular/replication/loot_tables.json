@@ -4,70 +4,70 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/chip_storage"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/deepslate_replica_ore"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/disintegrator"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/identification_chamber"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/matter_network_pipe"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/matter_tank"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/raw_replica_block"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/replica_block"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/replication_terminal"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "replication:blocks/replicator"
 		}
 	]

@@ -4,21 +4,21 @@
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "perspatium:chests/stone_fortress_generic"
 		},
 		{
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "perspatium:chests/stone_fortress_summit"
 		},
 		{
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "perspatium:chests/venera_lander"
 		}
 	]

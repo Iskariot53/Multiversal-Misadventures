@@ -117,11 +117,11 @@
 			"key": "dimensionalpocketsii:block_wall_crafter"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "dimensionalpocketsii:block_wall_creative_energy"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "dimensionalpocketsii:block_wall_creative_fluid"
 		},
 		{
@@ -357,11 +357,11 @@
 			"key": "dimensionalpocketsii:module_crafter"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "dimensionalpocketsii:module_creative_energy"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "dimensionalpocketsii:module_creative_fluid"
 		},
 		{

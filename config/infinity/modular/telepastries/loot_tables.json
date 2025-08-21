@@ -4,56 +4,56 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/custom_cake"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/custom_cake2"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/custom_cake3"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/end_cake"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/lost_city_cake"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/nether_cake"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/overworld_cake"
 		},
 		{
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:blocks/twilight_cake"
 		}
 	]

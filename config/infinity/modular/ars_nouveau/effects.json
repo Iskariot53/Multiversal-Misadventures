@@ -6,7 +6,7 @@
 				"Color": 16384000,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:blasting"
 		},
 		{
@@ -33,7 +33,7 @@
 				"Color": 250,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:freezing"
 		},
 		{
@@ -60,7 +60,7 @@
 				"Color": 8080895,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:hex"
 		},
 		{
@@ -69,7 +69,7 @@
 				"Color": 16384000,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:immolate"
 		},
 		{
@@ -114,7 +114,7 @@
 				"Color": 2039587,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:scrying"
 		},
 		{
@@ -132,7 +132,7 @@
 				"Color": 2039587,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:shocked"
 		},
 		{
@@ -141,7 +141,7 @@
 				"Color": 2039587,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:snared"
 		},
 		{
@@ -159,7 +159,7 @@
 				"Color": 2017480,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:spell_damage"
 		},
 		{
@@ -168,7 +168,7 @@
 				"Color": 2039587,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:summoning_sickness"
 		}
 	]

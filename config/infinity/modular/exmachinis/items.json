@@ -1,35 +1,35 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:comparator_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:diamond_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:flux_compactor"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:flux_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:flux_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:gold_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:item_buffer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exmachinis:netherite_upgrade"
 		}
 	]

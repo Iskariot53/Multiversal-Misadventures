@@ -1,7 +1,6 @@
 {
 	chapter.064AE5987A6C474D.title: "&aCreate"
 	chapter.08CE67C453CF05CC.title: "&aOritech"
-	chapter.0C40BEA2F3B1B245.title: "&aSophisticated Backpacks"
 	chapter.0D98B33203B576DF.title: "&aMekanism"
 	chapter.1306F40255CE5D4B.title: "Oritech"
 	chapter.13F76A76CD1F421B.title: "Applied Energistics 2"
@@ -295,7 +294,13 @@
 	quest.101605FF172FD328.quest_desc: ["The standard reforging table, when provided with sigils of rebirth, can be used to reforge affixes up to &o&6mythic&r&r. "]
 	quest.101605FF172FD328.quest_subtitle: "&eMythic reforging"
 	quest.101605FF172FD328.title: "&6&lReforging Table"
-	quest.10649ACB46CEB786.quest_desc: ["Having a Dark Gem in your inventory will unlock The Nether."]
+	quest.10649ACB46CEB786.quest_desc: [
+		"Having an F4 in your inventory will unlock access to The Nether."
+		""
+		"F4 is a very useful item allowing you to place and break portals on the fly, can be charged by combining it with obsidian using a crafting grid, and its charges will then update on use. "
+		""
+		"Throw it into any portal to set it to that portals destination."
+	]
 	quest.10649ACB46CEB786.quest_subtitle: "How to unlock The Nether"
 	quest.10858AECE0E9835F.quest_desc: [
 		"Use a &dshulker shell&r on a collector bee to convert it into a hoarder bee."
@@ -758,13 +763,7 @@
 	quest.2B71D9DF50615899.title: "&e&lCards"
 	quest.2BCFB50726B68517.title: "&dArchmage Spell Book"
 	quest.2BDAF6D7BFD2E441.quest_desc: [
-		"The Nether Star it drops being in your inventory is what unlocks The End dimension."
-		""
-		"It's worth noting that The Wither in this pack has advanced stats and AI, more closely parodying the Bedrock Wither. "
-		""
-		""
-		"{@pagebreak}"
-		"For those that are unsure what this means... In short, The Wither is no longer the push over you are used to. It wants to kill you and everything you love, as usual, but is &n&omuch&r&r better at it now. "
+		"The Nether Star it drops being in your inventory is what unlocks The End dimension. "
 		""
 		"Have fun with that. <3"
 	]
@@ -1233,11 +1232,13 @@
 	quest.458329839B21BF7B.quest_desc: [
 		"You are in one of over 2 billion possible dimensions you can find yourself stuck deali... Misadventuring through, that's where!"
 		""
-		"Welcome to The Library to be specific. While some believe it to be the famed collection of Babel itself, this no one can be certain of. Nor exactly how we got here, honestly... Really, the only thing we can be certain of is 1 thing:"
+		"Welcome to The Library to be specific. While some believe it to be the famed collection itself, this you'll have to discover on your own. For now? &oExactly&r where we are and &oexaclty&r how we got here are mysteries that will have to be sovled at a later date, honestly... "
+		""
+		"Really, the only thing we can be certain of is 1 thing:"
 		""
 		"&oThat's a lot of books.&r"
 		""
-		"You will probably never get any answers to any questions beyond that, but who knows?"
+		"You will probably never get any answers (that make sense) to any questions (worth asking) beyond that, but who knows?"
 		""
 		"Anyways... "
 		""
@@ -1252,13 +1253,13 @@
 		""
 		"As for now, to get started and a taste of what you're in for. Try constructing a &dnether portal&r within the library.  "
 		""
-		"&6Shift + R click&r any one of the limitless shelves to choose from around you to recieve a book. &6Throw that book into the portal&r to generate any one of billions of possible destinations. You can eventually find and gather almost anything you need this way or you will find that there are also alterior means of getting the resources necessary to move forward with your goals. Leaving you to find and choose your own methods for getting a handle on things is an integral part of game play."
+		"&6Shift + R click&r any one of the limitless shelves to choose from around you to receive a book. &6Throw that book into the portal&r to generate any one of billions of possible destinations. You can eventually find and gather almost anything you need this way or you will find that there are also alterior means of getting the resources necessary to move forward with your goals. Leaving you to find and choose your own methods for getting a handle on things is an integral part of game play."
 		""
 		"{@pagebreak}"
 		""
-		"you will encounter problematic dimensions, however, anything that proves too problematic can be easily removed by removing the corresponding dimensions datapack. This is unavoidable given the nature of the way the pack works and sheer scale of possible dimension combinations. (over 2 billion) "
+		"you will encounter problematic dimensions, however, anything that proves too problematic can be easily removed by removing the corresponding dimensions datapack. This is unavoidable given the nature of the way the pack works and sheer scale of possible dimension combinations. (Again, over 2 billion) "
 		""
-		"This has been planned and accounted for as best as possible and will continue to be improved upon as the pack is developed. If a dimension requires removal, any players who were in that dimension will be sent to a fail safe dimension. "
+		"This has been planned and accounted for as best as possible and will continue to be improved upon as the pack is developed. If a dimension requires removal, any players who were in that dimension will be sent to a fail safe dimension."
 		""
 		"Somewhere... \"fun\"."
 	]
@@ -1303,7 +1304,6 @@
 		""
 		"Meaning if you so choose, theres nothing stopping you from \"bringing the library with you.\" As long as you have a shelf and a means to make a portal, you have access to limitless dimensional possibilities, you do not need to return to the library, although using a section of it as an early game \"base of operations\" is a good idea."
 	]
-	quest.47F09DCB2C327B65.quest_desc: ["A very useful item allowing you to place and break portals on the fly, can be charged by combining it with obsidian using a crafting grid, its charges will update on use. Throw it into any portal to set it to that portals destination."]
 	quest.47F1D527F27D77EF.quest_desc: ["Use a honey treat on a &6spruce&r nest to spawn a resin bee if you cannot find one."]
 	quest.47F1D527F27D77EF.quest_subtitle: "&eSpruce nests"
 	quest.47F1D527F27D77EF.title: "&6&lResin Bee"

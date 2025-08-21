@@ -55,41 +55,14 @@
 	quests: [
 		{
 			id: "458329839B21BF7B"
-			rewards: [
-				{
-					id: "4890E5123FC2AE23"
-					item: {
-						count: 1
-						id: "minecraft:wheat_seeds"
-					}
-					type: "item"
+			rewards: [{
+				id: "2B459FF6EDE8127C"
+				item: {
+					count: 1
+					id: "minecraft:water_bucket"
 				}
-				{
-					count: 2
-					id: "2DE38AD8D862291D"
-					item: {
-						count: 1
-						id: "minecraft:dirt"
-					}
-					type: "item"
-				}
-				{
-					id: "2B459FF6EDE8127C"
-					item: {
-						count: 1
-						id: "minecraft:water_bucket"
-					}
-					type: "item"
-				}
-				{
-					id: "0470FE171E1867A1"
-					item: {
-						count: 1
-						id: "minecraft:oak_sapling"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "036F57122D593FF1"
 				type: "checkmark"
@@ -639,7 +612,10 @@
 			y: -7.0d
 		}
 		{
-			dependencies: ["458329839B21BF7B"]
+			dependencies: [
+				"458329839B21BF7B"
+				"0EA26A98DCF1F119"
+			]
 			id: "10649ACB46CEB786"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -649,7 +625,7 @@
 			}]
 			tasks: [{
 				id: "0D762CB480A194C3"
-				item: { count: 1, id: "monsterplus:dark_gem" }
+				item: { count: 1, id: "infinity:f4" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -681,7 +657,6 @@
 			id: "5EC99BDB558E38F6"
 			min_width: 24
 			rewards: [{
-				count: 3
 				id: "7ADB24035EBD767A"
 				item: {
 					count: 1
@@ -944,63 +919,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: -6.5d
-		}
-		{
-			dependencies: ["0EA26A98DCF1F119"]
-			id: "47F09DCB2C327B65"
-			rewards: [{
-				id: "3F6EE13F873610AE"
-				item: {
-					components: {
-						"relics:data": {
-							abilities: {
-								abilities: {
-									teleport: {
-										extender: {
-											cooldown: 0
-											cooldownCap: 0
-											ticking: 0b
-										}
-										lock: {
-											breaks: 5
-										}
-										points: 0
-										research: {
-											links: { }
-											researched: 0b
-										}
-										stats: {
-											cooldown: {
-												initialValue: 89.01134d
-											}
-											distance: {
-												initialValue: 6.99457d
-											}
-										}
-									}
-								}
-							}
-							leveling: {
-								experience: 0
-								level: 0
-								luck: 0
-								points: 0
-							}
-						}
-					}
-					count: 1
-					id: "artifacts:warp_drive"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1BC436F79227CA16"
-				item: { count: 1, id: "infinity:f4" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: -5.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["29D8CC82485AEB75"]

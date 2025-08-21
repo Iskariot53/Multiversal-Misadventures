@@ -37,6 +37,12 @@
       "containing": "bees",
       "results": "erase"
     },
+	{
+      "area": "trees",
+      "mod": "confluence",
+      "selector": "all",
+      "results": "erase"
+    },
     {
       "area": "fluids",
       "mod": "modern_industrialization",
@@ -52,6 +58,18 @@
     {
       "area": "structures",
       "mod": "alexscaves",
+      "selector": "all",
+      "results": "erase"
+    },
+	{
+      "area": "structures",
+      "mod": "confluence",
+      "selector": "all",
+      "results": "erase"
+    },
+	{
+      "area": "structures",
+      "mod": "swplanets",
       "selector": "all",
       "results": "erase"
     },

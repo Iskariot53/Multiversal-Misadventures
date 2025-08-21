@@ -2,15 +2,15 @@
 	#Allows you to change the the internal height of Pockets
 	# Default: 15
 	# Range: 15 ~ 255
-	internal_height = 15
+	internal_height = 25
 	#Allows you to change the the internal height of Pockets
 	# Default: 31
 	# Range: 31 ~ 255
-	internal_height_enhanced = 31
+	internal_height_enhanced = 255
 	#Allows you to change the the range of Dimensional Focus Jump Distance.
 	# Default: 12
 	# Range: 4 ~ 32
-	focus_jump_range = 12
+	focus_jump_range = 32
 	#Whether or not blocked Structures can be used inside of a Pocket
 	can_place_structures = false
 	#Whether or not blocked Items can be used inside of a Pocket

@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_base"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_beam"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_block"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_board"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_byte"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_byte_panel"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_cogwheel"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_corner_slice"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_door"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_fence"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_fence_gate"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_flat_pane"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_fluid_pipe"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_folding_door"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_ghost_block"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_glass_fluid_pipe"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_half_layer"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_half_panel"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_heavy_weighted_pressure_plate"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_iron_door"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_iron_trapdoor"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_ladder"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_large_cogwheel"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_layer"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_light_weighted_pressure_plate"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_pane"
 		},
 		{
@@ -267,7 +267,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_shaft"
 		},
 		{
@@ -277,7 +277,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_slab"
 		},
 		{
@@ -287,7 +287,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_slice"
 		},
 		{
@@ -297,7 +297,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_sliding_door"
 		},
 		{
@@ -307,7 +307,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_slope"
 		},
 		{
@@ -317,7 +317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_slope_layer"
 		},
 		{
@@ -327,7 +327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_stacked_half_layer"
 		},
 		{
@@ -337,7 +337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_stairs"
 		},
 		{
@@ -350,7 +350,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_stone_button"
 		},
 		{
@@ -360,7 +360,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_stone_pressure_plate"
 		},
 		{
@@ -370,7 +370,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_trapdoor"
 		},
 		{
@@ -380,7 +380,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_vertical_half_layer"
 		},
 		{
@@ -390,7 +390,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_vertical_slice"
 		},
 		{
@@ -400,7 +400,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_vertical_slope"
 		},
 		{
@@ -410,7 +410,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_vertical_stairs"
 		},
 		{
@@ -420,7 +420,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_vertical_step"
 		},
 		{
@@ -430,7 +430,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_wall"
 		},
 		{
@@ -443,7 +443,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_wooden_button"
 		},
 		{
@@ -453,7 +453,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:copycat_wooden_pressure_plate"
 		},
 		{
@@ -463,7 +463,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "copycats:wrapped_copycat"
 		}
 	]

@@ -1,12 +1,12 @@
 [Gameplay]
 	dropsMoney = true
 	autoStackGelsColor = true
-	returnPotionGlassBottle = false
+	returnPotionGlassBottle = true
 	rightClickRideMinecart = true
 	# Default: 128
 	# Range: > 0
 	announcementBoxDistance = 128
-	alertPlayerDungeon = false
+	alertPlayerDungeon = true
 	starPhase = false
 	ammoSlotsBlacklist = ["confluence:falling_star", "#c:seeds"]
 
@@ -34,7 +34,7 @@
 
 [PlayerDeath]
 	showMoneyDrops = true
-	dropsTombstone = true
+	dropsTombstone = false
 	# Default: 3
 	# Range: > 0
 	defaultRespawnTimeMin = 3
@@ -53,7 +53,7 @@
 	instantlyHardmodeConversion = false
 
 	[Compatibility.ArsNouveau]
-		convertArsNouveauMana = false
+		convertArsNouveauMana = true
 
 	[Compatibility.IronsSpell]
 		convertIronsSpellMana = false

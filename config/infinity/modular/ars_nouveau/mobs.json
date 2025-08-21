@@ -4,7 +4,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:alakarkinos"
 		},
 		{
@@ -39,42 +39,42 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:familiar_amethyst_golem"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:familiar_bookwyrm"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:familiar_drygmy"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:familiar_starbuncle"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:familiar_whirlisprig"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:familiar_wixie"
 		},
 		{
@@ -102,21 +102,21 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:summon_horse"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:summon_skeleton"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:summon_wolf"
 		},
 		{
@@ -137,7 +137,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:wilden_boss"
 		},
 		{

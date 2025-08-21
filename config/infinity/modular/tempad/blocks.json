@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:chronomark"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:metronome"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:timedoor_marker"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:timedoor_projector"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:workstation"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:workstation_child"
 		}
 	]

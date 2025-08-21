@@ -1,7 +1,7 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "fluxnetworks:admin_configurator"
 		},
 		{
@@ -37,11 +37,11 @@
 			"key": "fluxnetworks:flux_point"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "fluxnetworks:gargantuan_flux_storage"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "fluxnetworks:herculean_flux_storage"
 		}
 	]

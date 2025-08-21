@@ -4,56 +4,56 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:alien"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:alien_zombie"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:cheese_boss"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:martian_raptor"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mogler"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:pygro"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:pygro_brute"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:star_crawler"
 		}
 	]

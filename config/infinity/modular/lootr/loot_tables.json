@@ -39,7 +39,7 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "lootr:blocks/trophy"
 		},
 		{
@@ -53,7 +53,7 @@
 			"data": {
 				"Type": "chest"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "lootr:reward/trophy"
 		}
 	]
