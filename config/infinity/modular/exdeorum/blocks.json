@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_barrel"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_compressed_sieve"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_crucible"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_sieve"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:archwood_barrel"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:archwood_sieve"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_barrel"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_compressed_sieve"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_crucible"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_sieve"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_barrel"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_compressed_sieve"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_crucible"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_sieve"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:blue_archwood_compressed_sieve"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:blue_archwood_crucible"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_barrel"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_compressed_sieve"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_crucible"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_sieve"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_barrel"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_compressed_sieve"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_crucible"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_sieve"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_barrel"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_compressed_sieve"
 		},
 		{
@@ -267,7 +267,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_crucible"
 		},
 		{
@@ -277,7 +277,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_sieve"
 		},
 		{
@@ -287,7 +287,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_andesite"
 		},
 		{
@@ -297,7 +297,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_blackstone"
 		},
 		{
@@ -307,7 +307,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_cobbled_deepslate"
 		},
 		{
@@ -317,7 +317,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_cobblestone"
 		},
 		{
@@ -327,7 +327,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_blackstone"
 		},
 		{
@@ -337,7 +337,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_deepslate"
 		},
 		{
@@ -347,7 +347,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_end_stone"
 		},
 		{
@@ -357,7 +357,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_netherrack"
 		},
 		{
@@ -367,7 +367,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_deepslate"
 		},
 		{
@@ -377,7 +377,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_diorite"
 		},
 		{
@@ -387,7 +387,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_dirt"
 		},
 		{
@@ -397,7 +397,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_dust"
 		},
 		{
@@ -407,7 +407,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_end_stone"
 		},
 		{
@@ -417,7 +417,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_granite"
 		},
 		{
@@ -427,7 +427,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_gravel"
 		},
 		{
@@ -437,7 +437,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_moss_block"
 		},
 		{
@@ -447,7 +447,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_netherrack"
 		},
 		{
@@ -457,7 +457,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_red_sand"
 		},
 		{
@@ -467,7 +467,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_sand"
 		},
 		{
@@ -477,7 +477,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_soul_sand"
 		},
 		{
@@ -487,7 +487,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_barrel"
 		},
 		{
@@ -497,7 +497,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_compressed_sieve"
 		},
 		{
@@ -507,7 +507,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_crucible"
 		},
 		{
@@ -517,7 +517,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_sieve"
 		},
 		{
@@ -527,7 +527,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_blackstone"
 		},
 		{
@@ -537,7 +537,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_deepslate"
 		},
 		{
@@ -547,7 +547,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_end_stone"
 		},
 		{
@@ -557,7 +557,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_netherrack"
 		},
 		{
@@ -567,7 +567,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_barrel"
 		},
 		{
@@ -577,7 +577,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_compressed_sieve"
 		},
 		{
@@ -587,7 +587,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_crucible"
 		},
 		{
@@ -597,7 +597,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_sieve"
 		},
 		{
@@ -607,7 +607,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_barrel"
 		},
 		{
@@ -617,7 +617,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_compressed_sieve"
 		},
 		{
@@ -627,7 +627,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_crucible"
 		},
 		{
@@ -637,7 +637,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_sieve"
 		},
 		{
@@ -647,7 +647,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_barrel"
 		},
 		{
@@ -657,7 +657,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_compressed_sieve"
 		},
 		{
@@ -667,7 +667,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_crucible"
 		},
 		{
@@ -677,7 +677,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_sieve"
 		},
 		{
@@ -687,7 +687,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_barrel"
 		},
 		{
@@ -697,7 +697,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_compressed_sieve"
 		},
 		{
@@ -707,7 +707,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_crucible"
 		},
 		{
@@ -717,7 +717,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_sieve"
 		},
 		{
@@ -727,7 +727,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dust"
 		},
 		{
@@ -737,7 +737,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:end_cake"
 		},
 		{
@@ -747,7 +747,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_barrel"
 		},
 		{
@@ -757,7 +757,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_compressed_sieve"
 		},
 		{
@@ -767,7 +767,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_crucible"
 		},
 		{
@@ -777,7 +777,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_sieve"
 		},
 		{
@@ -787,7 +787,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_barrel"
 		},
 		{
@@ -797,7 +797,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_compressed_sieve"
 		},
 		{
@@ -807,7 +807,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_crucible"
 		},
 		{
@@ -817,7 +817,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_sieve"
 		},
 		{
@@ -827,7 +827,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_oak_compressed_sieve"
 		},
 		{
@@ -837,7 +837,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_oak_crucible"
 		},
 		{
@@ -847,7 +847,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:green_archwood_compressed_sieve"
 		},
 		{
@@ -857,7 +857,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:green_archwood_crucible"
 		},
 		{
@@ -867,7 +867,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_barrel"
 		},
 		{
@@ -877,7 +877,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_compressed_sieve"
 		},
 		{
@@ -887,7 +887,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_crucible"
 		},
 		{
@@ -897,7 +897,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_sieve"
 		},
 		{
@@ -910,7 +910,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:infested_leaves"
 		},
 		{
@@ -920,7 +920,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_barrel"
 		},
 		{
@@ -930,7 +930,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_compressed_sieve"
 		},
 		{
@@ -940,7 +940,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_crucible"
 		},
 		{
@@ -950,7 +950,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_sieve"
 		},
 		{
@@ -960,7 +960,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_barrel"
 		},
 		{
@@ -970,7 +970,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_compressed_sieve"
 		},
 		{
@@ -980,7 +980,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_crucible"
 		},
 		{
@@ -990,7 +990,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_sieve"
 		},
 		{
@@ -1000,7 +1000,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_barrel"
 		},
 		{
@@ -1010,7 +1010,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_compressed_sieve"
 		},
 		{
@@ -1020,7 +1020,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_crucible"
 		},
 		{
@@ -1030,7 +1030,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_sieve"
 		},
 		{
@@ -1040,7 +1040,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_barrel"
 		},
 		{
@@ -1050,7 +1050,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_compressed_sieve"
 		},
 		{
@@ -1060,7 +1060,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_crucible"
 		},
 		{
@@ -1070,7 +1070,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_sieve"
 		},
 		{
@@ -1080,7 +1080,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_barrel"
 		},
 		{
@@ -1090,7 +1090,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_compressed_sieve"
 		},
 		{
@@ -1100,7 +1100,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_crucible"
 		},
 		{
@@ -1110,7 +1110,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_sieve"
 		},
 		{
@@ -1120,7 +1120,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_barrel"
 		},
 		{
@@ -1130,7 +1130,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_compressed_sieve"
 		},
 		{
@@ -1140,7 +1140,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_crucible"
 		},
 		{
@@ -1150,7 +1150,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_sieve"
 		},
 		{
@@ -1160,7 +1160,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_barrel"
 		},
 		{
@@ -1170,7 +1170,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_compressed_sieve"
 		},
 		{
@@ -1180,7 +1180,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_crucible"
 		},
 		{
@@ -1190,7 +1190,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_sieve"
 		},
 		{
@@ -1200,7 +1200,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mechanical_hammer"
 		},
 		{
@@ -1210,7 +1210,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mechanical_sieve"
 		},
 		{
@@ -1220,7 +1220,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_barrel"
 		},
 		{
@@ -1230,7 +1230,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_compressed_sieve"
 		},
 		{
@@ -1240,7 +1240,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_crucible"
 		},
 		{
@@ -1250,7 +1250,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_sieve"
 		},
 		{
@@ -1260,7 +1260,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_barrel"
 		},
 		{
@@ -1270,7 +1270,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_compressed_sieve"
 		},
 		{
@@ -1280,7 +1280,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_crucible"
 		},
 		{
@@ -1290,7 +1290,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_sieve"
 		},
 		{
@@ -1300,7 +1300,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_crucible"
 		},
 		{
@@ -1310,7 +1310,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:purple_archwood_compressed_sieve"
 		},
 		{
@@ -1320,7 +1320,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:purple_archwood_crucible"
 		},
 		{
@@ -1330,7 +1330,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:red_archwood_compressed_sieve"
 		},
 		{
@@ -1340,7 +1340,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:red_archwood_crucible"
 		},
 		{
@@ -1350,7 +1350,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_barrel"
 		},
 		{
@@ -1360,7 +1360,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_compressed_sieve"
 		},
 		{
@@ -1370,7 +1370,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_crucible"
 		},
 		{
@@ -1380,7 +1380,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_sieve"
 		},
 		{
@@ -1390,7 +1390,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_barrel"
 		},
 		{
@@ -1400,7 +1400,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_compressed_sieve"
 		},
 		{
@@ -1410,7 +1410,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_crucible"
 		},
 		{
@@ -1420,7 +1420,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_sieve"
 		},
 		{
@@ -1430,7 +1430,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_barrel"
 		},
 		{
@@ -1440,7 +1440,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_compressed_sieve"
 		},
 		{
@@ -1450,7 +1450,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_crucible"
 		},
 		{
@@ -1460,7 +1460,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_sieve"
 		},
 		{
@@ -1470,7 +1470,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_barrel"
 		},
 		{
@@ -1480,7 +1480,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_compressed_sieve"
 		},
 		{
@@ -1490,7 +1490,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_crucible"
 		},
 		{
@@ -1500,7 +1500,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_sieve"
 		},
 		{
@@ -1510,7 +1510,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:stone_barrel"
 		},
 		{
@@ -1520,7 +1520,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_barrel"
 		},
 		{
@@ -1530,7 +1530,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_compressed_sieve"
 		},
 		{
@@ -1540,7 +1540,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_crucible"
 		},
 		{
@@ -1550,7 +1550,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_sieve"
 		},
 		{
@@ -1560,7 +1560,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:unfired_porcelain_crucible"
 		},
 		{
@@ -1570,7 +1570,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_barrel"
 		},
 		{
@@ -1580,7 +1580,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_compressed_sieve"
 		},
 		{
@@ -1590,7 +1590,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_crucible"
 		},
 		{
@@ -1600,7 +1600,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_sieve"
 		},
 		{
@@ -1610,7 +1610,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_barrel"
 		},
 		{
@@ -1620,7 +1620,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_compressed_sieve"
 		},
 		{
@@ -1630,7 +1630,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_crucible"
 		},
 		{
@@ -1640,7 +1640,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_sieve"
 		}
 	]

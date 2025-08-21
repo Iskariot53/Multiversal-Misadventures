@@ -39,7 +39,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "productivebees:configurable_bee"
 		},
 		{

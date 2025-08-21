@@ -662,7 +662,6 @@
 	quest.24F0F5CC858F9043.quest_desc: ["Steel ingots can be cut into rebar which can then be used for &8reinforced materials&r and &6screwdrivers&r"]
 	quest.24F0F5CC858F9043.quest_subtitle: "&6Stone Cutting"
 	quest.24F0F5CC858F9043.title: "&e&lRebar"
-	quest.251C9C344937FDC8.quest_subtitle: "In case you haven't found another way."
 	quest.25809A8312BEA45C.title: "&dStarbuncle Charm"
 	quest.259DA63A1DBCDAD7.quest_desc: ["Generates a moderate amount of source from nearby mob death and animal breeding. Additionally, the Vitalic Sourcelink will generate passive Source from nearby baby animals and will accelerate their growth."]
 	quest.25DD01A25EBDFE0A.quest_desc: [
@@ -1978,7 +1977,7 @@
 	quest.66745E8729240CF0.title: "&e&l32x Coal Coke"
 	quest.66DF51967E144FB5.quest_desc: ["&d&lSkyweave&r&r will display the skybox of the dimension it is placed in. To toggle the skybox and show the facade, cast Dispel on it. The facade may be set to another block like Mirrorweave."]
 	quest.670A459DA6A3D96B.title: "&9&lTurbine Blade"
-	quest.679BCEEEC6E1925A.quest_subtitle: "How to unlock The Crawling"
+	quest.679BCEEEC6E1925A.quest_subtitle: "How to unlock The Otherworld"
 	quest.67A58B04577F0602.quest_desc: ["&e&lFramed Inventory Cables&r&r and &e&lFramed Inventory Cable Connectors&r&r are used to create a storage system without compromising the aesthetics of your base. When these items are placed, you can use a &l&ePaint Kit&r&r. Simply shift-right-click any full-sized block with the &l&ePaint Kit&r&r, then right-click your cables and connectors to transform them into any other block, ensuring your building's appearance remains intact."]
 	quest.67A58B04577F0602.title: "&lFramed Cables and Cable Connectors"
 	quest.67C1B1AABD91D7BE.quest_desc: [

@@ -93,7 +93,7 @@
 	#.
 	#Select what mobs should ignore Deployers when attacked by them.
 	#Allowed Values: ALL, CREEPERS, NONE
-	ignoreDeployerAttacks = "CREEPERS"
+	ignoreDeployerAttacks = "ALL"
 	#.
 	#Game ticks between Kinetic Blocks checking whether their source is still valid.
 	# Default: 60
@@ -194,19 +194,19 @@
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "NO_PICKUP"
+		movableSpawners = "MOVABLE"
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		amethystMovement = "NO_PICKUP"
+		amethystMovement = "MOVABLE"
 		#.
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableObsidian = "UNMOVABLE"
+		movableObsidian = "MOVABLE"
 		#.
 		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
+		movableReinforcedDeepslate = "MOVABLE"
 		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true
@@ -346,7 +346,7 @@
 	#The amount of liquid a tank can hold per block.
 	# Default: 8
 	# Range: > 1
-	fluidTankCapacity = 8
+	fluidTankCapacity = 16
 	#.
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
@@ -378,7 +378,7 @@
 	#.
 	#Configure which fluids can be drained infinitely.
 	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
-	bottomlessFluidMode = "ALLOW_BY_TAG"
+	bottomlessFluidMode = "ALLOW_ALL"
 	#.
 	#Whether hose pulleys should be allowed to place fluid sources.
 	fluidFillPlaceFluidSourceBlocks = true
@@ -424,7 +424,7 @@
 	#The total amount of stacks a vault can hold per block in size.
 	# Default: 20
 	# Range: 1 ~ 2048
-	vaultCapacity = 20
+	vaultCapacity = 256
 	#.
 	#The amount of packages a chain conveyor can carry at a time.
 	# Default: 20
@@ -439,7 +439,7 @@
 	#The amount of ticks a factory gauge waits between requests.
 	# Default: 100
 	# Range: > 5
-	factoryGaugeTimer = 100
+	factoryGaugeTimer = 60
 	#.
 	#Whether hostile mobs walking near a seat will start riding it.
 	seatHostileMobs = true
@@ -481,12 +481,12 @@
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		# Default: 10
 		# Range: > 1
-		schematicannonDelay = 10
+		schematicannonDelay = 60
 		#.
 		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
 		# Default: 400
 		# Range: > 1
-		schematicannonShotsPerGunpowder = 400
+		schematicannonShotsPerGunpowder = 128
 
 #.
 #Equipment and gadgets added by Create
@@ -496,7 +496,7 @@
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
 	# Default: 50
 	# Range: > 10
-	maxSymmetryWandRange = 50
+	maxSymmetryWandRange = 128
 	#.
 	#The Maximum Distance a Block placed by Create's placement assist will have to its interaction point.
 	# Default: 12
@@ -511,22 +511,22 @@
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	# Default: 900
 	# Range: > 1
-	airInBacktank = 900
+	airInBacktank = 1800
 	#.
 	#The volume of Air added by each level of the backtanks Capacity Enchantment
 	# Default: 300
 	# Range: > 1
-	enchantedBacktankCapacity = 300
+	enchantedBacktankCapacity = 900
 	#.
 	#Amount of free Extendo Grip actions provided by one filled Copper Backtank. Set to 0 makes Extendo Grips unbreakable
 	# Default: 1000
 	# Range: > 0
-	maxExtendoGripActions = 1000
+	maxExtendoGripActions = 0
 	#.
 	#Amount of free Potato Cannon shots provided by one filled Copper Backtank. Set to 0 makes Potato Cannons unbreakable
 	# Default: 200
 	# Range: > 0
-	maxPotatoCannonShots = 200
+	maxPotatoCannonShots = 0
 
 #.
 #Create's builtin Railway systems
@@ -554,7 +554,7 @@
 	#Relative speed of a manually controlled Train compared to a Scheduled one.
 	# Default: 0.75
 	# Range: 0.0 ~ 3.4028234663852886E38
-	manualTrainSpeedModifier = 0.75
+	manualTrainSpeedModifier = 1.0
 
 	#.
 	#Standard Trains

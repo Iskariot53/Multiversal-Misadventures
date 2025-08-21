@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:apply_modifier_smithing_template"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:aquatic_dragon_scale"
 		},
 		{
@@ -37,7 +37,7 @@
 			"key": "forbidden_arcanus:arcane_crystal_ore"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:arcane_dragon_egg"
 		},
 		{
@@ -81,15 +81,15 @@
 			"key": "forbidden_arcanus:aureal_bottle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:aureal_tank"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:aureal_wardstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:aurealic_obsidian_skull"
 		},
 		{
@@ -165,7 +165,7 @@
 			"key": "forbidden_arcanus:black_quantum_catcher"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:blacksmith_gavel_head"
 		},
 		{
@@ -181,7 +181,7 @@
 			"key": "forbidden_arcanus:boom_arrow"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:boss_catcher"
 		},
 		{
@@ -229,7 +229,7 @@
 			"key": "forbidden_arcanus:corrupti_dust"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:cracked_obsidian_skull"
 		},
 		{
@@ -237,7 +237,7 @@
 			"key": "forbidden_arcanus:cracked_polished_darkstone_bricks"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:crescent_moon"
 		},
 		{
@@ -257,11 +257,11 @@
 			"key": "forbidden_arcanus:cyan_quantum_catcher"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:dark_matter"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:dark_nether_star"
 		},
 		{
@@ -333,11 +333,11 @@
 			"key": "forbidden_arcanus:desk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:diamond_blacksmith_gavel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:divine_pact"
 		},
 		{
@@ -345,11 +345,11 @@
 			"key": "forbidden_arcanus:draco_arcanus_arrow"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:draco_arcanus_axe"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:draco_arcanus_boots"
 		},
 		{
@@ -389,7 +389,7 @@
 			"key": "forbidden_arcanus:draco_arcanus_sword"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:dragon_scale"
 		},
 		{
@@ -493,7 +493,7 @@
 			"key": "forbidden_arcanus:essence_utrem_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:eternal_obsidian_skull"
 		},
 		{
@@ -501,7 +501,7 @@
 			"key": "forbidden_arcanus:eternal_stella"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:fading_obsidian_skull"
 		},
 		{
@@ -513,7 +513,7 @@
 			"key": "forbidden_arcanus:forbiddenomicon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:fragmented_obsidian_skull"
 		},
 		{
@@ -573,11 +573,11 @@
 			"key": "forbidden_arcanus:gilded_chiseled_polished_darkstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:golden_blacksmith_gavel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:golden_dragon_scale"
 		},
 		{
@@ -593,27 +593,27 @@
 			"key": "forbidden_arcanus:growing_edelwood"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_1"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_2"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_3"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_4"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_5"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:iron_blacksmith_gavel"
 		},
 		{
@@ -633,7 +633,7 @@
 			"key": "forbidden_arcanus:magenta_quantum_catcher"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:magic_wand"
 		},
 		{
@@ -641,11 +641,11 @@
 			"key": "forbidden_arcanus:magical_farmland"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:magnetized_darkstone_pedestal"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:maledictus_pact"
 		},
 		{
@@ -673,7 +673,7 @@
 			"key": "forbidden_arcanus:mundabitur_dust"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:netherite_blacksmith_gavel"
 		},
 		{
@@ -681,7 +681,7 @@
 			"key": "forbidden_arcanus:nuggety_aurum_leaves"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:obsidian_skull"
 		},
 		{
@@ -693,7 +693,7 @@
 			"key": "forbidden_arcanus:obsidiansteel_ingot"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:omega_arcoin"
 		},
 		{
@@ -765,11 +765,11 @@
 			"key": "forbidden_arcanus:quantum_catcher"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:quantum_core"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:quantum_injector"
 		},
 		{
@@ -781,7 +781,7 @@
 			"key": "forbidden_arcanus:reinforced_deorum_axe"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:reinforced_deorum_blacksmith_gavel"
 		},
 		{
@@ -833,15 +833,15 @@
 			"key": "forbidden_arcanus:runic_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:sea_prism"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:silver_dragon_scale"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:smelter_prism"
 		},
 		{
@@ -885,7 +885,7 @@
 			"key": "forbidden_arcanus:spawner_scrap"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:spectral_eye_amulet"
 		},
 		{
@@ -905,7 +905,7 @@
 			"key": "forbidden_arcanus:stellarite_piece"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:stone_blacksmith_gavel"
 		},
 		{
@@ -921,7 +921,7 @@
 			"key": "forbidden_arcanus:tentacle"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:terrastomp_prism"
 		},
 		{
@@ -957,7 +957,7 @@
 			"key": "forbidden_arcanus:wax"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:whirlwind_prism"
 		},
 		{
@@ -965,7 +965,7 @@
 			"key": "forbidden_arcanus:white_quantum_catcher"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "forbidden_arcanus:wooden_blacksmith_gavel"
 		},
 		{

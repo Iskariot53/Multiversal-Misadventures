@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_copper"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_diamond"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_emerald"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_gold"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_iron"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_netherite"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cobblegengalore:block_gen_stone"
 		}
 	]

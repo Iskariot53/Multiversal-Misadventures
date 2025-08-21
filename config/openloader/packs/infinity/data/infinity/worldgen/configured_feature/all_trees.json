@@ -3,9 +3,9 @@
 	"config": {
 		"features": [
 			{
-				"chance": 0.02631579,
+				"chance": 0.025641026,
 				"feature": {
-					"feature": "arphex:webbed_wasteland_tree",
+					"feature": "ars_elemental:natural_flashing_tree",
 					"placement": [
 						{
 							"count": 1,
@@ -31,7 +31,7 @@
 				}
 			},
 			{
-				"chance": 0.027027028,
+				"chance": 0.02631579,
 				"feature": {
 					"feature": "ars_nouveau:blazing_tree",
 					"placement": [
@@ -59,7 +59,7 @@
 				}
 			},
 			{
-				"chance": 0.027777778,
+				"chance": 0.027027028,
 				"feature": {
 					"feature": "ars_nouveau:cascading_tree",
 					"placement": [
@@ -87,7 +87,7 @@
 				}
 			},
 			{
-				"chance": 0.028571429,
+				"chance": 0.027777778,
 				"feature": {
 					"feature": "ars_nouveau:flourishing_tree",
 					"placement": [
@@ -115,7 +115,7 @@
 				}
 			},
 			{
-				"chance": 0.029411765,
+				"chance": 0.028571429,
 				"feature": {
 					"feature": "ars_nouveau:natural_blazing_tree",
 					"placement": [
@@ -143,7 +143,7 @@
 				}
 			},
 			{
-				"chance": 0.030303031,
+				"chance": 0.029411765,
 				"feature": {
 					"feature": "ars_nouveau:natural_cascading_tree",
 					"placement": [
@@ -171,7 +171,7 @@
 				}
 			},
 			{
-				"chance": 0.03125,
+				"chance": 0.030303031,
 				"feature": {
 					"feature": "ars_nouveau:natural_flourishing_tree",
 					"placement": [
@@ -199,7 +199,7 @@
 				}
 			},
 			{
-				"chance": 0.032258064,
+				"chance": 0.03125,
 				"feature": {
 					"feature": "ars_nouveau:natural_vexing_tree",
 					"placement": [
@@ -227,7 +227,7 @@
 				}
 			},
 			{
-				"chance": 0.033333335,
+				"chance": 0.032258064,
 				"feature": {
 					"feature": "ars_nouveau:vexing_tree",
 					"placement": [
@@ -255,7 +255,7 @@
 				}
 			},
 			{
-				"chance": 0.03448276,
+				"chance": 0.033333335,
 				"feature": {
 					"feature": "forbidden_arcanus:aurum",
 					"placement": [
@@ -283,7 +283,7 @@
 				}
 			},
 			{
-				"chance": 0.035714287,
+				"chance": 0.03448276,
 				"feature": {
 					"feature": "infinity:alphatree",
 					"placement": [
@@ -311,7 +311,7 @@
 				}
 			},
 			{
-				"chance": 0.037037037,
+				"chance": 0.035714287,
 				"feature": {
 					"feature": "infinity:neoforge-alphatree",
 					"placement": [
@@ -339,7 +339,7 @@
 				}
 			},
 			{
-				"chance": 0.04,
+				"chance": 0.037037037,
 				"feature": {
 					"feature": "minecraft:acacia",
 					"placement": [
@@ -367,7 +367,7 @@
 				}
 			},
 			{
-				"chance": 0.041666668,
+				"chance": 0.03846154,
 				"feature": {
 					"feature": "minecraft:azalea_tree",
 					"placement": [
@@ -395,7 +395,7 @@
 				}
 			},
 			{
-				"chance": 0.04347826,
+				"chance": 0.04,
 				"feature": {
 					"feature": "minecraft:birch",
 					"placement": [
@@ -423,7 +423,7 @@
 				}
 			},
 			{
-				"chance": 0.045454547,
+				"chance": 0.041666668,
 				"feature": {
 					"feature": "minecraft:cherry",
 					"placement": [
@@ -451,7 +451,7 @@
 				}
 			},
 			{
-				"chance": 0.04761905,
+				"chance": 0.04347826,
 				"feature": {
 					"feature": "minecraft:crimson_fungus",
 					"placement": [
@@ -479,7 +479,7 @@
 				}
 			},
 			{
-				"chance": 0.05,
+				"chance": 0.045454547,
 				"feature": {
 					"feature": "minecraft:crimson_fungus_planted",
 					"placement": [
@@ -507,7 +507,7 @@
 				}
 			},
 			{
-				"chance": 0.05263158,
+				"chance": 0.04761905,
 				"feature": {
 					"feature": "minecraft:dark_oak",
 					"placement": [
@@ -535,7 +535,7 @@
 				}
 			},
 			{
-				"chance": 0.055555556,
+				"chance": 0.05,
 				"feature": {
 					"feature": "minecraft:fancy_oak",
 					"placement": [
@@ -563,7 +563,7 @@
 				}
 			},
 			{
-				"chance": 0.05882353,
+				"chance": 0.05263158,
 				"feature": {
 					"feature": "minecraft:huge_brown_mushroom",
 					"placement": [
@@ -591,7 +591,7 @@
 				}
 			},
 			{
-				"chance": 0.0625,
+				"chance": 0.055555556,
 				"feature": {
 					"feature": "minecraft:huge_red_mushroom",
 					"placement": [
@@ -619,7 +619,7 @@
 				}
 			},
 			{
-				"chance": 0.06666667,
+				"chance": 0.05882353,
 				"feature": {
 					"feature": "minecraft:jungle_bush",
 					"placement": [
@@ -647,7 +647,7 @@
 				}
 			},
 			{
-				"chance": 0.071428575,
+				"chance": 0.0625,
 				"feature": {
 					"feature": "minecraft:jungle_tree",
 					"placement": [
@@ -675,7 +675,7 @@
 				}
 			},
 			{
-				"chance": 0.07692308,
+				"chance": 0.06666667,
 				"feature": {
 					"feature": "minecraft:jungle_tree_no_vine",
 					"placement": [
@@ -703,7 +703,7 @@
 				}
 			},
 			{
-				"chance": 0.083333336,
+				"chance": 0.071428575,
 				"feature": {
 					"feature": "minecraft:mangrove",
 					"placement": [
@@ -731,7 +731,7 @@
 				}
 			},
 			{
-				"chance": 0.09090909,
+				"chance": 0.07692308,
 				"feature": {
 					"feature": "minecraft:mega_jungle_tree",
 					"placement": [
@@ -759,7 +759,7 @@
 				}
 			},
 			{
-				"chance": 0.1,
+				"chance": 0.083333336,
 				"feature": {
 					"feature": "minecraft:mega_pine",
 					"placement": [
@@ -787,7 +787,7 @@
 				}
 			},
 			{
-				"chance": 0.11111111,
+				"chance": 0.09090909,
 				"feature": {
 					"feature": "minecraft:mega_spruce",
 					"placement": [
@@ -815,7 +815,7 @@
 				}
 			},
 			{
-				"chance": 0.125,
+				"chance": 0.1,
 				"feature": {
 					"feature": "minecraft:oak",
 					"placement": [
@@ -843,7 +843,7 @@
 				}
 			},
 			{
-				"chance": 0.14285715,
+				"chance": 0.11111111,
 				"feature": {
 					"feature": "minecraft:pine",
 					"placement": [
@@ -871,7 +871,7 @@
 				}
 			},
 			{
-				"chance": 0.16666667,
+				"chance": 0.125,
 				"feature": {
 					"feature": "minecraft:spruce",
 					"placement": [
@@ -899,7 +899,7 @@
 				}
 			},
 			{
-				"chance": 0.2,
+				"chance": 0.14285715,
 				"feature": {
 					"feature": "minecraft:swamp_oak",
 					"placement": [
@@ -927,7 +927,7 @@
 				}
 			},
 			{
-				"chance": 0.25,
+				"chance": 0.16666667,
 				"feature": {
 					"feature": "minecraft:tall_mangrove",
 					"placement": [
@@ -955,7 +955,7 @@
 				}
 			},
 			{
-				"chance": 0.33333334,
+				"chance": 0.2,
 				"feature": {
 					"feature": "minecraft:warped_fungus",
 					"placement": [
@@ -983,9 +983,65 @@
 				}
 			},
 			{
-				"chance": 0.5,
+				"chance": 0.25,
 				"feature": {
 					"feature": "minecraft:warped_fungus_planted",
+					"placement": [
+						{
+							"count": 1,
+							"type": "minecraft:count_on_every_layer"
+						},
+						{
+							"type": "minecraft:surface_water_depth_filter",
+							"max_water_depth": 8
+						},
+						{
+							"predicate": {
+								"offset": [
+									0,
+									-1,
+									0
+								],
+								"blocks": "minecraft:grass_block",
+								"type": "minecraft:matching_blocks"
+							},
+							"type": "minecraft:block_predicate_filter"
+						}
+					]
+				}
+			},
+			{
+				"chance": 0.33333334,
+				"feature": {
+					"feature": "occultism:tree_otherworld",
+					"placement": [
+						{
+							"count": 1,
+							"type": "minecraft:count_on_every_layer"
+						},
+						{
+							"type": "minecraft:surface_water_depth_filter",
+							"max_water_depth": 8
+						},
+						{
+							"predicate": {
+								"offset": [
+									0,
+									-1,
+									0
+								],
+								"blocks": "minecraft:grass_block",
+								"type": "minecraft:matching_blocks"
+							},
+							"type": "minecraft:block_predicate_filter"
+						}
+					]
+				}
+			},
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "occultism:tree_otherworld_natural",
 					"placement": [
 						{
 							"count": 1,
@@ -1012,7 +1068,7 @@
 			}
 		],
 		"default": {
-			"feature": "arphex:crawling_canopy_tree",
+			"feature": "ars_elemental:flashing_tree_sapling",
 			"placement": [
 				{
 					"count": 1,

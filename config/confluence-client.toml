@@ -3,7 +3,7 @@
 showWindParticles = 90
 achievementToast = true
 #Allowed Values: NEVER, EVERYWHERE, TRADE_SCREEN
-sellPriceDisplay = "EVERYWHERE"
+sellPriceDisplay = "TRADE_SCREEN"
 
 [HUD]
 	leftEffectIcon = true
@@ -48,6 +48,6 @@ sellPriceDisplay = "EVERYWHERE"
 [Entity]
 	bloodyEffect = true
 	#Allowed Values: OFF, CONFLUENCE, CONFLUENCE_VANILLA, ALL
-	goreEffect = "CONFLUENCE_VANILLA"
+	goreEffect = "ALL"
 	damageIndicator = true
 	healIndicator = true

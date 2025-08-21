@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_basin"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_bath"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_chair"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_crate"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_cutting_board"
 		},
 		{
@@ -60,7 +60,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_dark_ceiling_fan"
 		},
 		{
@@ -70,7 +70,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_desk"
 		},
 		{
@@ -80,7 +80,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_drawer"
 		},
 		{
@@ -90,7 +90,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_hedge"
 		},
 		{
@@ -100,7 +100,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_kitchen_cabinetry"
 		},
 		{
@@ -110,7 +110,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_kitchen_drawer"
 		},
 		{
@@ -120,7 +120,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_kitchen_sink"
 		},
 		{
@@ -130,7 +130,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_kitchen_storage_cabinet"
 		},
 		{
@@ -140,7 +140,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_lattice_fence"
 		},
 		{
@@ -150,7 +150,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_lattice_fence_gate"
 		},
 		{
@@ -163,7 +163,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_light_ceiling_fan"
 		},
 		{
@@ -173,7 +173,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_mail_box"
 		},
 		{
@@ -183,7 +183,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_storage_cabinet"
 		},
 		{
@@ -193,7 +193,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_storage_jar"
 		},
 		{
@@ -203,7 +203,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_table"
 		},
 		{
@@ -213,7 +213,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_toilet"
 		},
 		{
@@ -223,7 +223,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:andesite_stepping_stones"
 		},
 		{
@@ -233,7 +233,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:azalea_hedge"
 		},
 		{
@@ -243,7 +243,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_basin"
 		},
 		{
@@ -253,7 +253,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_bath"
 		},
 		{
@@ -263,7 +263,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_chair"
 		},
 		{
@@ -273,7 +273,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_crate"
 		},
 		{
@@ -283,7 +283,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_cutting_board"
 		},
 		{
@@ -296,7 +296,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_dark_ceiling_fan"
 		},
 		{
@@ -306,7 +306,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_desk"
 		},
 		{
@@ -316,7 +316,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_drawer"
 		},
 		{
@@ -326,7 +326,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_hedge"
 		},
 		{
@@ -336,7 +336,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_kitchen_cabinetry"
 		},
 		{
@@ -346,7 +346,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_kitchen_drawer"
 		},
 		{
@@ -356,7 +356,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_kitchen_sink"
 		},
 		{
@@ -366,7 +366,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_kitchen_storage_cabinet"
 		},
 		{
@@ -376,7 +376,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_lattice_fence"
 		},
 		{
@@ -386,7 +386,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_lattice_fence_gate"
 		},
 		{
@@ -399,7 +399,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_light_ceiling_fan"
 		},
 		{
@@ -409,7 +409,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_mail_box"
 		},
 		{
@@ -419,7 +419,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_storage_cabinet"
 		},
 		{
@@ -429,7 +429,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_storage_jar"
 		},
 		{
@@ -439,7 +439,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_table"
 		},
 		{
@@ -449,7 +449,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_toilet"
 		},
 		{
@@ -459,7 +459,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_basin"
 		},
 		{
@@ -469,7 +469,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_bath"
 		},
 		{
@@ -479,7 +479,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_cooler"
 		},
 		{
@@ -489,7 +489,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_grill"
 		},
 		{
@@ -499,7 +499,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_kitchen_cabinetry"
 		},
 		{
@@ -509,7 +509,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_kitchen_drawer"
 		},
 		{
@@ -519,7 +519,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_kitchen_sink"
 		},
 		{
@@ -529,7 +529,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_kitchen_storage_cabinet"
 		},
 		{
@@ -539,7 +539,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_lamp"
 		},
 		{
@@ -549,7 +549,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_sofa"
 		},
 		{
@@ -559,7 +559,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_stool"
 		},
 		{
@@ -569,7 +569,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_toilet"
 		},
 		{
@@ -579,7 +579,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_trampoline"
 		},
 		{
@@ -589,7 +589,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_basin"
 		},
 		{
@@ -599,7 +599,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_bath"
 		},
 		{
@@ -609,7 +609,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_cooler"
 		},
 		{
@@ -619,7 +619,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_grill"
 		},
 		{
@@ -629,7 +629,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_kitchen_cabinetry"
 		},
 		{
@@ -639,7 +639,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_kitchen_drawer"
 		},
 		{
@@ -649,7 +649,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_kitchen_sink"
 		},
 		{
@@ -659,7 +659,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_kitchen_storage_cabinet"
 		},
 		{
@@ -669,7 +669,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_lamp"
 		},
 		{
@@ -679,7 +679,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_sofa"
 		},
 		{
@@ -689,7 +689,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_stool"
 		},
 		{
@@ -699,7 +699,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_toilet"
 		},
 		{
@@ -709,7 +709,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_trampoline"
 		},
 		{
@@ -719,7 +719,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_basin"
 		},
 		{
@@ -729,7 +729,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_bath"
 		},
 		{
@@ -739,7 +739,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_cooler"
 		},
 		{
@@ -749,7 +749,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_grill"
 		},
 		{
@@ -759,7 +759,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_kitchen_cabinetry"
 		},
 		{
@@ -769,7 +769,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_kitchen_drawer"
 		},
 		{
@@ -779,7 +779,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_kitchen_sink"
 		},
 		{
@@ -789,7 +789,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_kitchen_storage_cabinet"
 		},
 		{
@@ -799,7 +799,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_lamp"
 		},
 		{
@@ -809,7 +809,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_sofa"
 		},
 		{
@@ -819,7 +819,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_stool"
 		},
 		{
@@ -829,7 +829,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_toilet"
 		},
 		{
@@ -839,7 +839,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_trampoline"
 		},
 		{
@@ -849,7 +849,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_basin"
 		},
 		{
@@ -859,7 +859,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_bath"
 		},
 		{
@@ -869,7 +869,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_chair"
 		},
 		{
@@ -879,7 +879,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_crate"
 		},
 		{
@@ -889,7 +889,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_cutting_board"
 		},
 		{
@@ -902,7 +902,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_dark_ceiling_fan"
 		},
 		{
@@ -912,7 +912,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_desk"
 		},
 		{
@@ -922,7 +922,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_drawer"
 		},
 		{
@@ -932,7 +932,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_hedge"
 		},
 		{
@@ -942,7 +942,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_kitchen_cabinetry"
 		},
 		{
@@ -952,7 +952,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_kitchen_drawer"
 		},
 		{
@@ -962,7 +962,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_kitchen_sink"
 		},
 		{
@@ -972,7 +972,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_kitchen_storage_cabinet"
 		},
 		{
@@ -982,7 +982,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_lattice_fence"
 		},
 		{
@@ -992,7 +992,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_lattice_fence_gate"
 		},
 		{
@@ -1005,7 +1005,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_light_ceiling_fan"
 		},
 		{
@@ -1015,7 +1015,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_mail_box"
 		},
 		{
@@ -1025,7 +1025,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_storage_cabinet"
 		},
 		{
@@ -1035,7 +1035,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_storage_jar"
 		},
 		{
@@ -1045,7 +1045,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_table"
 		},
 		{
@@ -1055,7 +1055,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_toilet"
 		},
 		{
@@ -1065,7 +1065,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:computer"
 		},
 		{
@@ -1075,7 +1075,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_basin"
 		},
 		{
@@ -1085,7 +1085,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_bath"
 		},
 		{
@@ -1095,7 +1095,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_chair"
 		},
 		{
@@ -1105,7 +1105,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_crate"
 		},
 		{
@@ -1115,7 +1115,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_cutting_board"
 		},
 		{
@@ -1128,7 +1128,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_dark_ceiling_fan"
 		},
 		{
@@ -1138,7 +1138,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_desk"
 		},
 		{
@@ -1148,7 +1148,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_drawer"
 		},
 		{
@@ -1158,7 +1158,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_kitchen_cabinetry"
 		},
 		{
@@ -1168,7 +1168,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_kitchen_drawer"
 		},
 		{
@@ -1178,7 +1178,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_kitchen_sink"
 		},
 		{
@@ -1188,7 +1188,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_kitchen_storage_cabinet"
 		},
 		{
@@ -1198,7 +1198,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_lattice_fence"
 		},
 		{
@@ -1208,7 +1208,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_lattice_fence_gate"
 		},
 		{
@@ -1221,7 +1221,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_light_ceiling_fan"
 		},
 		{
@@ -1231,7 +1231,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_mail_box"
 		},
 		{
@@ -1241,7 +1241,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_storage_cabinet"
 		},
 		{
@@ -1251,7 +1251,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_storage_jar"
 		},
 		{
@@ -1261,7 +1261,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_table"
 		},
 		{
@@ -1271,7 +1271,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_toilet"
 		},
 		{
@@ -1281,7 +1281,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_basin"
 		},
 		{
@@ -1291,7 +1291,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_bath"
 		},
 		{
@@ -1301,7 +1301,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_cooler"
 		},
 		{
@@ -1311,7 +1311,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_grill"
 		},
 		{
@@ -1321,7 +1321,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_kitchen_cabinetry"
 		},
 		{
@@ -1331,7 +1331,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_kitchen_drawer"
 		},
 		{
@@ -1341,7 +1341,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_kitchen_sink"
 		},
 		{
@@ -1351,7 +1351,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_kitchen_storage_cabinet"
 		},
 		{
@@ -1361,7 +1361,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_lamp"
 		},
 		{
@@ -1371,7 +1371,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_sofa"
 		},
 		{
@@ -1381,7 +1381,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_stool"
 		},
 		{
@@ -1391,7 +1391,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_toilet"
 		},
 		{
@@ -1401,7 +1401,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_trampoline"
 		},
 		{
@@ -1414,7 +1414,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_ceiling_light"
 		},
 		{
@@ -1424,7 +1424,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_electricity_generator"
 		},
 		{
@@ -1434,7 +1434,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_freezer"
 		},
 		{
@@ -1444,7 +1444,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_fridge"
 		},
 		{
@@ -1457,7 +1457,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_lightswitch"
 		},
 		{
@@ -1467,7 +1467,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_microwave"
 		},
 		{
@@ -1477,7 +1477,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_basin"
 		},
 		{
@@ -1487,7 +1487,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_bath"
 		},
 		{
@@ -1497,7 +1497,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_chair"
 		},
 		{
@@ -1507,7 +1507,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_crate"
 		},
 		{
@@ -1517,7 +1517,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_cutting_board"
 		},
 		{
@@ -1530,7 +1530,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_dark_ceiling_fan"
 		},
 		{
@@ -1540,7 +1540,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_desk"
 		},
 		{
@@ -1550,7 +1550,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_drawer"
 		},
 		{
@@ -1560,7 +1560,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_hedge"
 		},
 		{
@@ -1570,7 +1570,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_kitchen_cabinetry"
 		},
 		{
@@ -1580,7 +1580,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_kitchen_drawer"
 		},
 		{
@@ -1590,7 +1590,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_kitchen_sink"
 		},
 		{
@@ -1600,7 +1600,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_kitchen_storage_cabinet"
 		},
 		{
@@ -1610,7 +1610,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_lattice_fence"
 		},
 		{
@@ -1620,7 +1620,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_lattice_fence_gate"
 		},
 		{
@@ -1633,7 +1633,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_light_ceiling_fan"
 		},
 		{
@@ -1643,7 +1643,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_mail_box"
 		},
 		{
@@ -1653,7 +1653,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_storage_cabinet"
 		},
 		{
@@ -1663,7 +1663,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_storage_jar"
 		},
 		{
@@ -1673,7 +1673,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_table"
 		},
 		{
@@ -1683,7 +1683,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_toilet"
 		},
 		{
@@ -1693,7 +1693,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_range_hood"
 		},
 		{
@@ -1706,7 +1706,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_stove"
 		},
 		{
@@ -1716,7 +1716,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_toaster"
 		},
 		{
@@ -1726,7 +1726,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:deepslate_stepping_stones"
 		},
 		{
@@ -1736,7 +1736,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:diorite_stepping_stones"
 		},
 		{
@@ -1746,7 +1746,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:door_mat"
 		},
 		{
@@ -1756,7 +1756,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:doorbell"
 		},
 		{
@@ -1769,7 +1769,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:frying_pan"
 		},
 		{
@@ -1779,7 +1779,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:granite_stepping_stones"
 		},
 		{
@@ -1789,7 +1789,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_basin"
 		},
 		{
@@ -1799,7 +1799,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_bath"
 		},
 		{
@@ -1809,7 +1809,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_cooler"
 		},
 		{
@@ -1819,7 +1819,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_grill"
 		},
 		{
@@ -1829,7 +1829,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_kitchen_cabinetry"
 		},
 		{
@@ -1839,7 +1839,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_kitchen_drawer"
 		},
 		{
@@ -1849,7 +1849,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_kitchen_sink"
 		},
 		{
@@ -1859,7 +1859,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_kitchen_storage_cabinet"
 		},
 		{
@@ -1869,7 +1869,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_lamp"
 		},
 		{
@@ -1879,7 +1879,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_sofa"
 		},
 		{
@@ -1889,7 +1889,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_stool"
 		},
 		{
@@ -1899,7 +1899,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_toilet"
 		},
 		{
@@ -1909,7 +1909,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_trampoline"
 		},
 		{
@@ -1919,7 +1919,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_basin"
 		},
 		{
@@ -1929,7 +1929,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_bath"
 		},
 		{
@@ -1939,7 +1939,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_cooler"
 		},
 		{
@@ -1949,7 +1949,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_grill"
 		},
 		{
@@ -1959,7 +1959,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_kitchen_cabinetry"
 		},
 		{
@@ -1969,7 +1969,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_kitchen_drawer"
 		},
 		{
@@ -1979,7 +1979,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_kitchen_sink"
 		},
 		{
@@ -1989,7 +1989,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_kitchen_storage_cabinet"
 		},
 		{
@@ -1999,7 +1999,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_lamp"
 		},
 		{
@@ -2009,7 +2009,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_sofa"
 		},
 		{
@@ -2019,7 +2019,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_stool"
 		},
 		{
@@ -2029,7 +2029,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_toilet"
 		},
 		{
@@ -2039,7 +2039,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_trampoline"
 		},
 		{
@@ -2049,7 +2049,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_basin"
 		},
 		{
@@ -2059,7 +2059,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_bath"
 		},
 		{
@@ -2069,7 +2069,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_chair"
 		},
 		{
@@ -2079,7 +2079,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_crate"
 		},
 		{
@@ -2089,7 +2089,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_cutting_board"
 		},
 		{
@@ -2102,7 +2102,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_dark_ceiling_fan"
 		},
 		{
@@ -2112,7 +2112,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_desk"
 		},
 		{
@@ -2122,7 +2122,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_drawer"
 		},
 		{
@@ -2132,7 +2132,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_hedge"
 		},
 		{
@@ -2142,7 +2142,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_kitchen_cabinetry"
 		},
 		{
@@ -2152,7 +2152,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_kitchen_drawer"
 		},
 		{
@@ -2162,7 +2162,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_kitchen_sink"
 		},
 		{
@@ -2172,7 +2172,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_kitchen_storage_cabinet"
 		},
 		{
@@ -2182,7 +2182,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_lattice_fence"
 		},
 		{
@@ -2192,7 +2192,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_lattice_fence_gate"
 		},
 		{
@@ -2205,7 +2205,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_light_ceiling_fan"
 		},
 		{
@@ -2215,7 +2215,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_mail_box"
 		},
 		{
@@ -2225,7 +2225,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_storage_cabinet"
 		},
 		{
@@ -2235,7 +2235,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_storage_jar"
 		},
 		{
@@ -2245,7 +2245,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_table"
 		},
 		{
@@ -2255,7 +2255,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_toilet"
 		},
 		{
@@ -2265,7 +2265,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_basin"
 		},
 		{
@@ -2275,7 +2275,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_bath"
 		},
 		{
@@ -2285,7 +2285,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_cooler"
 		},
 		{
@@ -2295,7 +2295,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_grill"
 		},
 		{
@@ -2305,7 +2305,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_kitchen_cabinetry"
 		},
 		{
@@ -2315,7 +2315,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_kitchen_drawer"
 		},
 		{
@@ -2325,7 +2325,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_kitchen_sink"
 		},
 		{
@@ -2335,7 +2335,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_kitchen_storage_cabinet"
 		},
 		{
@@ -2345,7 +2345,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_lamp"
 		},
 		{
@@ -2355,7 +2355,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_sofa"
 		},
 		{
@@ -2365,7 +2365,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_stool"
 		},
 		{
@@ -2375,7 +2375,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_toilet"
 		},
 		{
@@ -2385,7 +2385,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_trampoline"
 		},
 		{
@@ -2398,7 +2398,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_ceiling_light"
 		},
 		{
@@ -2408,7 +2408,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_electricity_generator"
 		},
 		{
@@ -2418,7 +2418,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_freezer"
 		},
 		{
@@ -2428,7 +2428,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_fridge"
 		},
 		{
@@ -2438,7 +2438,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_basin"
 		},
 		{
@@ -2448,7 +2448,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_bath"
 		},
 		{
@@ -2458,7 +2458,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_cooler"
 		},
 		{
@@ -2468,7 +2468,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_grill"
 		},
 		{
@@ -2478,7 +2478,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_kitchen_cabinetry"
 		},
 		{
@@ -2488,7 +2488,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_kitchen_drawer"
 		},
 		{
@@ -2498,7 +2498,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_kitchen_sink"
 		},
 		{
@@ -2508,7 +2508,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_kitchen_storage_cabinet"
 		},
 		{
@@ -2518,7 +2518,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_lamp"
 		},
 		{
@@ -2528,7 +2528,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_sofa"
 		},
 		{
@@ -2538,7 +2538,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_stool"
 		},
 		{
@@ -2548,7 +2548,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_toilet"
 		},
 		{
@@ -2558,7 +2558,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_trampoline"
 		},
 		{
@@ -2571,7 +2571,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_lightswitch"
 		},
 		{
@@ -2581,7 +2581,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_microwave"
 		},
 		{
@@ -2591,7 +2591,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_range_hood"
 		},
 		{
@@ -2604,7 +2604,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_stove"
 		},
 		{
@@ -2614,7 +2614,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_toaster"
 		},
 		{
@@ -2624,7 +2624,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_basin"
 		},
 		{
@@ -2634,7 +2634,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_bath"
 		},
 		{
@@ -2644,7 +2644,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_cooler"
 		},
 		{
@@ -2654,7 +2654,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_grill"
 		},
 		{
@@ -2664,7 +2664,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_kitchen_cabinetry"
 		},
 		{
@@ -2674,7 +2674,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_kitchen_drawer"
 		},
 		{
@@ -2684,7 +2684,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_kitchen_sink"
 		},
 		{
@@ -2694,7 +2694,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_kitchen_storage_cabinet"
 		},
 		{
@@ -2704,7 +2704,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_lamp"
 		},
 		{
@@ -2714,7 +2714,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_sofa"
 		},
 		{
@@ -2724,7 +2724,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_stool"
 		},
 		{
@@ -2734,7 +2734,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_toilet"
 		},
 		{
@@ -2744,7 +2744,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_trampoline"
 		},
 		{
@@ -2754,7 +2754,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_basin"
 		},
 		{
@@ -2764,7 +2764,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_bath"
 		},
 		{
@@ -2774,7 +2774,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_cooler"
 		},
 		{
@@ -2784,7 +2784,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_grill"
 		},
 		{
@@ -2794,7 +2794,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_kitchen_cabinetry"
 		},
 		{
@@ -2804,7 +2804,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_kitchen_drawer"
 		},
 		{
@@ -2814,7 +2814,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_kitchen_sink"
 		},
 		{
@@ -2824,7 +2824,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_kitchen_storage_cabinet"
 		},
 		{
@@ -2834,7 +2834,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_lamp"
 		},
 		{
@@ -2844,7 +2844,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_sofa"
 		},
 		{
@@ -2854,7 +2854,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_stool"
 		},
 		{
@@ -2864,7 +2864,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_toilet"
 		},
 		{
@@ -2874,7 +2874,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_trampoline"
 		},
 		{
@@ -2884,7 +2884,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_basin"
 		},
 		{
@@ -2894,7 +2894,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_bath"
 		},
 		{
@@ -2904,7 +2904,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_chair"
 		},
 		{
@@ -2914,7 +2914,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_crate"
 		},
 		{
@@ -2924,7 +2924,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_cutting_board"
 		},
 		{
@@ -2937,7 +2937,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_dark_ceiling_fan"
 		},
 		{
@@ -2947,7 +2947,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_desk"
 		},
 		{
@@ -2957,7 +2957,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_drawer"
 		},
 		{
@@ -2967,7 +2967,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_hedge"
 		},
 		{
@@ -2977,7 +2977,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_kitchen_cabinetry"
 		},
 		{
@@ -2987,7 +2987,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_kitchen_drawer"
 		},
 		{
@@ -2997,7 +2997,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_kitchen_sink"
 		},
 		{
@@ -3007,7 +3007,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_kitchen_storage_cabinet"
 		},
 		{
@@ -3017,7 +3017,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_lattice_fence"
 		},
 		{
@@ -3027,7 +3027,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_lattice_fence_gate"
 		},
 		{
@@ -3040,7 +3040,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_light_ceiling_fan"
 		},
 		{
@@ -3050,7 +3050,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_mail_box"
 		},
 		{
@@ -3060,7 +3060,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_storage_cabinet"
 		},
 		{
@@ -3070,7 +3070,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_storage_jar"
 		},
 		{
@@ -3080,7 +3080,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_table"
 		},
 		{
@@ -3090,7 +3090,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_toilet"
 		},
 		{
@@ -3100,7 +3100,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_basin"
 		},
 		{
@@ -3110,7 +3110,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_bath"
 		},
 		{
@@ -3120,7 +3120,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_chair"
 		},
 		{
@@ -3130,7 +3130,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_crate"
 		},
 		{
@@ -3140,7 +3140,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_cutting_board"
 		},
 		{
@@ -3153,7 +3153,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_dark_ceiling_fan"
 		},
 		{
@@ -3163,7 +3163,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_desk"
 		},
 		{
@@ -3173,7 +3173,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_drawer"
 		},
 		{
@@ -3183,7 +3183,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_hedge"
 		},
 		{
@@ -3193,7 +3193,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_kitchen_cabinetry"
 		},
 		{
@@ -3203,7 +3203,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_kitchen_drawer"
 		},
 		{
@@ -3213,7 +3213,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_kitchen_sink"
 		},
 		{
@@ -3223,7 +3223,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_kitchen_storage_cabinet"
 		},
 		{
@@ -3233,7 +3233,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_lattice_fence"
 		},
 		{
@@ -3243,7 +3243,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_lattice_fence_gate"
 		},
 		{
@@ -3256,7 +3256,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_light_ceiling_fan"
 		},
 		{
@@ -3266,7 +3266,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_mail_box"
 		},
 		{
@@ -3276,7 +3276,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_storage_cabinet"
 		},
 		{
@@ -3286,7 +3286,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_storage_jar"
 		},
 		{
@@ -3296,7 +3296,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_table"
 		},
 		{
@@ -3306,7 +3306,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_toilet"
 		},
 		{
@@ -3316,7 +3316,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_basin"
 		},
 		{
@@ -3326,7 +3326,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_bath"
 		},
 		{
@@ -3336,7 +3336,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_cooler"
 		},
 		{
@@ -3346,7 +3346,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_grill"
 		},
 		{
@@ -3356,7 +3356,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_kitchen_cabinetry"
 		},
 		{
@@ -3366,7 +3366,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_kitchen_drawer"
 		},
 		{
@@ -3376,7 +3376,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_kitchen_sink"
 		},
 		{
@@ -3386,7 +3386,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_kitchen_storage_cabinet"
 		},
 		{
@@ -3396,7 +3396,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_lamp"
 		},
 		{
@@ -3406,7 +3406,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_sofa"
 		},
 		{
@@ -3416,7 +3416,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_stool"
 		},
 		{
@@ -3426,7 +3426,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_toilet"
 		},
 		{
@@ -3436,7 +3436,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_trampoline"
 		},
 		{
@@ -3446,7 +3446,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_basin"
 		},
 		{
@@ -3456,7 +3456,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_bath"
 		},
 		{
@@ -3466,7 +3466,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_cooler"
 		},
 		{
@@ -3476,7 +3476,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_grill"
 		},
 		{
@@ -3486,7 +3486,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_kitchen_cabinetry"
 		},
 		{
@@ -3496,7 +3496,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_kitchen_drawer"
 		},
 		{
@@ -3506,7 +3506,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_kitchen_sink"
 		},
 		{
@@ -3516,7 +3516,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_kitchen_storage_cabinet"
 		},
 		{
@@ -3526,7 +3526,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_lamp"
 		},
 		{
@@ -3536,7 +3536,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_sofa"
 		},
 		{
@@ -3546,7 +3546,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_stool"
 		},
 		{
@@ -3556,7 +3556,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_toilet"
 		},
 		{
@@ -3566,7 +3566,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_trampoline"
 		},
 		{
@@ -3576,7 +3576,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:plate"
 		},
 		{
@@ -3586,7 +3586,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:post_box"
 		},
 		{
@@ -3596,7 +3596,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_basin"
 		},
 		{
@@ -3606,7 +3606,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_bath"
 		},
 		{
@@ -3616,7 +3616,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_cooler"
 		},
 		{
@@ -3626,7 +3626,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_grill"
 		},
 		{
@@ -3636,7 +3636,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_kitchen_cabinetry"
 		},
 		{
@@ -3646,7 +3646,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_kitchen_drawer"
 		},
 		{
@@ -3656,7 +3656,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_kitchen_sink"
 		},
 		{
@@ -3666,7 +3666,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_kitchen_storage_cabinet"
 		},
 		{
@@ -3676,7 +3676,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_lamp"
 		},
 		{
@@ -3686,7 +3686,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_sofa"
 		},
 		{
@@ -3696,7 +3696,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_stool"
 		},
 		{
@@ -3706,7 +3706,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_toilet"
 		},
 		{
@@ -3716,7 +3716,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_trampoline"
 		},
 		{
@@ -3726,7 +3726,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:recycle_bin"
 		},
 		{
@@ -3736,7 +3736,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_basin"
 		},
 		{
@@ -3746,7 +3746,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_bath"
 		},
 		{
@@ -3756,7 +3756,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_cooler"
 		},
 		{
@@ -3766,7 +3766,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_grill"
 		},
 		{
@@ -3776,7 +3776,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_kitchen_cabinetry"
 		},
 		{
@@ -3786,7 +3786,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_kitchen_drawer"
 		},
 		{
@@ -3796,7 +3796,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_kitchen_sink"
 		},
 		{
@@ -3806,7 +3806,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_kitchen_storage_cabinet"
 		},
 		{
@@ -3816,7 +3816,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_lamp"
 		},
 		{
@@ -3826,7 +3826,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_sofa"
 		},
 		{
@@ -3836,7 +3836,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_stool"
 		},
 		{
@@ -3846,7 +3846,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_toilet"
 		},
 		{
@@ -3856,7 +3856,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_trampoline"
 		},
 		{
@@ -3866,7 +3866,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_basin"
 		},
 		{
@@ -3876,7 +3876,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_bath"
 		},
 		{
@@ -3886,7 +3886,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_chair"
 		},
 		{
@@ -3896,7 +3896,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_crate"
 		},
 		{
@@ -3906,7 +3906,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_cutting_board"
 		},
 		{
@@ -3919,7 +3919,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_dark_ceiling_fan"
 		},
 		{
@@ -3929,7 +3929,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_desk"
 		},
 		{
@@ -3939,7 +3939,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_drawer"
 		},
 		{
@@ -3949,7 +3949,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_hedge"
 		},
 		{
@@ -3959,7 +3959,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_kitchen_cabinetry"
 		},
 		{
@@ -3969,7 +3969,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_kitchen_drawer"
 		},
 		{
@@ -3979,7 +3979,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_kitchen_sink"
 		},
 		{
@@ -3989,7 +3989,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_kitchen_storage_cabinet"
 		},
 		{
@@ -3999,7 +3999,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_lattice_fence"
 		},
 		{
@@ -4009,7 +4009,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_lattice_fence_gate"
 		},
 		{
@@ -4022,7 +4022,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_light_ceiling_fan"
 		},
 		{
@@ -4032,7 +4032,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_mail_box"
 		},
 		{
@@ -4042,7 +4042,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_storage_cabinet"
 		},
 		{
@@ -4052,7 +4052,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_storage_jar"
 		},
 		{
@@ -4062,7 +4062,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_table"
 		},
 		{
@@ -4072,7 +4072,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_toilet"
 		},
 		{
@@ -4082,7 +4082,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:stone_stepping_stones"
 		},
 		{
@@ -4092,7 +4092,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:television"
 		},
 		{
@@ -4102,7 +4102,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_basin"
 		},
 		{
@@ -4112,7 +4112,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_bath"
 		},
 		{
@@ -4122,7 +4122,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_chair"
 		},
 		{
@@ -4132,7 +4132,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_crate"
 		},
 		{
@@ -4142,7 +4142,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_cutting_board"
 		},
 		{
@@ -4155,7 +4155,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_dark_ceiling_fan"
 		},
 		{
@@ -4165,7 +4165,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_desk"
 		},
 		{
@@ -4175,7 +4175,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_drawer"
 		},
 		{
@@ -4185,7 +4185,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_kitchen_cabinetry"
 		},
 		{
@@ -4195,7 +4195,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_kitchen_drawer"
 		},
 		{
@@ -4205,7 +4205,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_kitchen_sink"
 		},
 		{
@@ -4215,7 +4215,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_kitchen_storage_cabinet"
 		},
 		{
@@ -4225,7 +4225,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_lattice_fence"
 		},
 		{
@@ -4235,7 +4235,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_lattice_fence_gate"
 		},
 		{
@@ -4248,7 +4248,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_light_ceiling_fan"
 		},
 		{
@@ -4258,7 +4258,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_mail_box"
 		},
 		{
@@ -4268,7 +4268,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_storage_cabinet"
 		},
 		{
@@ -4278,7 +4278,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_storage_jar"
 		},
 		{
@@ -4288,7 +4288,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_table"
 		},
 		{
@@ -4298,7 +4298,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_toilet"
 		},
 		{
@@ -4308,7 +4308,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_basin"
 		},
 		{
@@ -4318,7 +4318,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_bath"
 		},
 		{
@@ -4328,7 +4328,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_cooler"
 		},
 		{
@@ -4338,7 +4338,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_grill"
 		},
 		{
@@ -4348,7 +4348,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_kitchen_cabinetry"
 		},
 		{
@@ -4358,7 +4358,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_kitchen_drawer"
 		},
 		{
@@ -4368,7 +4368,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_kitchen_sink"
 		},
 		{
@@ -4378,7 +4378,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_kitchen_storage_cabinet"
 		},
 		{
@@ -4388,7 +4388,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_lamp"
 		},
 		{
@@ -4398,7 +4398,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_sofa"
 		},
 		{
@@ -4408,7 +4408,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_stool"
 		},
 		{
@@ -4418,7 +4418,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_toilet"
 		},
 		{
@@ -4428,7 +4428,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_trampoline"
 		},
 		{
@@ -4438,7 +4438,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:workbench"
 		},
 		{
@@ -4448,7 +4448,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_basin"
 		},
 		{
@@ -4458,7 +4458,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_bath"
 		},
 		{
@@ -4468,7 +4468,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_cooler"
 		},
 		{
@@ -4478,7 +4478,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_grill"
 		},
 		{
@@ -4488,7 +4488,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_kitchen_cabinetry"
 		},
 		{
@@ -4498,7 +4498,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_kitchen_drawer"
 		},
 		{
@@ -4508,7 +4508,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_kitchen_sink"
 		},
 		{
@@ -4518,7 +4518,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_kitchen_storage_cabinet"
 		},
 		{
@@ -4528,7 +4528,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_lamp"
 		},
 		{
@@ -4538,7 +4538,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_sofa"
 		},
 		{
@@ -4548,7 +4548,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_stool"
 		},
 		{
@@ -4558,7 +4558,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_toilet"
 		},
 		{
@@ -4568,7 +4568,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_trampoline"
 		}
 	]

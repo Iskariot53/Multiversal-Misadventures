@@ -17,7 +17,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "fluxnetworks:flux_block"
 		},
 		{

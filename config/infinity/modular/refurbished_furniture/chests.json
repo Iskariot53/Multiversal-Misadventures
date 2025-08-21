@@ -1,583 +1,583 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:acacia_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:birch_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:black_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:blue_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:brown_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cherry_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:crimson_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:cyan_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_electricity_generator"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_freezer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_fridge"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_microwave"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_oak_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_stove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:dark_toaster"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:frying_pan"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:gray_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:green_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:jungle_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_blue_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_electricity_generator"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_freezer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_fridge"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_gray_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_microwave"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_stove"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:light_toaster"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:lime_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:magenta_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:mangrove_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:oak_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:orange_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:pink_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:plate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:post_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:purple_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:recycle_bin"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:red_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:spruce_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_cutting_board"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_mail_box"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:warped_storage_jar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:white_kitchen_storage_cabinet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:workbench"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_cooler"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_kitchen_drawer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "refurbished_furniture:yellow_kitchen_storage_cabinet"
 		}
 	]

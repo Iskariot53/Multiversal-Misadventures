@@ -18,7 +18,7 @@
     "avgDimensionHeight": 256,
     "iridescenceContactLevel": 0,
     "iridescencePotionLevel": 4,
-    "resetChargeCooldown": 6000
+    "resetChargeCooldown": 3000
   },
   "disabledDimensions": ["ant", "bash", "checkerboard",
     "missing", "notes", "perfection", "terminal"],

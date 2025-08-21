@@ -545,7 +545,7 @@
 			"key": "industrialforegoing:stasis_chamber"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:straw"
 		},
 		{
@@ -569,7 +569,7 @@
 			"key": "industrialforegoing:wither_builder"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:world_transporter_type"
 		},
 		{

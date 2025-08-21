@@ -6,7 +6,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_cave_maps"
 		},
 		{
@@ -15,7 +15,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_cave_maps_harmful"
 		},
 		{
@@ -24,7 +24,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_entity_radar"
 		},
 		{
@@ -33,7 +33,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_entity_radar_harmful"
 		},
 		{
@@ -42,7 +42,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_minimap"
 		},
 		{
@@ -51,7 +51,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_minimap_harmful"
 		},
 		{
@@ -60,7 +60,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_waypoints"
 		},
 		{
@@ -69,7 +69,7 @@
 				"Color": -16777216,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "xaerominimap:no_waypoints_harmful"
 		}
 	]

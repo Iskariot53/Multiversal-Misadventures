@@ -57,6 +57,24 @@
 			{
 				"weight": 1,
 				"minCount": 1,
+				"type": "ars_elemental:siren_entity",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:siren_familiar",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:summon_dolphin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
 				"type": "minecraft:dolphin",
 				"maxCount": 1
 			},
@@ -81,6 +99,18 @@
 				"minCount": 1,
 				"type": "minecraft:bat",
 				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "swplanets:bantha",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "swplanets:jawa",
+				"maxCount": 1
 			}
 		],
 		"axolotls": [
@@ -95,7 +125,49 @@
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "ars_nouveau:alakarkinos",
+				"type": "ars_elemental:firenando_entity",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:firenando_familiar",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:flashing_weald_walker",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:summon_camel",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:summon_direwolf",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:summon_skelehorse",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:summon_strider",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "ars_elemental:summon_wskeleton",
 				"maxCount": 1
 			},
 			{
@@ -125,42 +197,6 @@
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "ars_nouveau:familiar_amethyst_golem",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:familiar_bookwyrm",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:familiar_drygmy",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:familiar_starbuncle",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:familiar_whirlisprig",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:familiar_wixie",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
 				"type": "ars_nouveau:flourishing_weald_walker",
 				"maxCount": 1
 			},
@@ -174,24 +210,6 @@
 				"weight": 1,
 				"minCount": 1,
 				"type": "ars_nouveau:starbuncle",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:summon_horse",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:summon_skeleton",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:summon_wolf",
 				"maxCount": 1
 			},
 			{
@@ -425,13 +443,505 @@
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "tombstone:grave_guardian",
+				"type": "mutantmonsters:spider_pig",
 				"maxCount": 1
 			},
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "tombstone:spectral_wolf",
+				"type": "productivebees:ashy_mining_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:blue_banded_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:bumble_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:chocolate_mining_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:collector_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:creeper_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:cupid_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:digger_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:dye_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:farmer_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:green_carpenter_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:hoarder_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:leafcutter_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:lumber_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:mason_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:neon_cuckoo_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:nomad_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:quarry_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:rancher_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:reed_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:resin_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:sweat_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "productivebees:yellow_black_carpenter_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:angler",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:arms_dealer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:bird",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:blue_jay",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:boom_bunny",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:bunny",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:butterfly",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:cardinal",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:chester",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:clothier",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:crab",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:demolitionist",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:dragonfly",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:dryad",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:duck",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:dye_trader",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:fairy",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:fealing",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:female_angler",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:finch_baby",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:glowing_snail",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_tinkerer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:grasshopper",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:grubby",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:guide",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:hell_butterfly",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:hornet_baby",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:i_32_iron_golem",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:jewel_bunny",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:jewel_squirrel",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:ladybug",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:little_hornet",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:maggot",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:magma_snail",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:mechanic",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:merchant",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:nurse",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:old_man",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:painter",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:party_girl",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:piggy_bank",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:scorpion",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:sculk_wisp",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:slime_baby",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:sluggy",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:snail",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:squirrel",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_diamond_sword",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_golden_sword",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_imp",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_iron_sword",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_netherite_sword",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_snow_flinx",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_stone_sword",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:summon_wooden_sword",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:traveling_merchant",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:truffle",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:witch_doctor",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:worm",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:yoyos_projectile",
 				"maxCount": 1
 			}
 		],
@@ -465,643 +975,31 @@
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "arphex:ant_arsonist",
+				"type": "ars_elemental:air_mage",
 				"maxCount": 1
 			},
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "arphex:ant_arsonist_alate_queen",
+				"type": "ars_elemental:earth_mage",
 				"maxCount": 1
 			},
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "arphex:ant_arsonist_drone",
+				"type": "ars_elemental:fire_mage",
 				"maxCount": 1
 			},
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "arphex:ant_arsonist_soldier",
+				"type": "ars_elemental:summon_vhex",
 				"maxCount": 1
 			},
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "arphex:ant_arsonist_worker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:arthropleura_abomination",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:beetle_bulwark",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:beetle_tick_mite",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:blood_worm",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:butterfly_bewitcher",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:butterfly_bewitcher_giant",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:centipede_evictor",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:centipede_evictor_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:centipede_stalker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:crab_constrictor",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:crab_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:crawling_random",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:draconic_clone",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:draconic_fly_stalk",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:draconic_voidlasher",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:dragonfly_dreadnought",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:dungeon_trigger",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:dweller_sleep_spawner",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:enormous_spider_hallucination",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:fly_festerer",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:flytrap",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:giant_web",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:hornet_harbinger",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:hornet_harbinger_giant",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:invisible_stalker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:locust_landscourge",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:long_legs",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:long_legs_fly",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:long_legs_tiny",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:maggot_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:mantis_mutilator",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:millipede_marauder",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:mosquito_morbidity",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:moth_moontracker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:moth_shadow_clone",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:pure_stalking",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:random_ar_ph_ex",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:random_termite",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:repellant",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:roach_riverspawn",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:rush_scare",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scarab_summon",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpioid_bloodluster",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpioid_chaser_hallucination",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpioid_clone",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpioid_initial",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpioid_shadow_clone",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpion_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:scorpion_striker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:segmented_body",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:silverfish_spectre",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:sky_stalker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:small_torment_sphere",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:small_web",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:solifuge_skulker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_ambusher",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_brood",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_flat",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_funnel",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_goliath",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_infestor",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_jump",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_larvae_tiny",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_lurker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_moth",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_moth_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_moth_summon",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_moth_summon_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_prowler",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_reaper",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:spider_snatcher",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:summon_sun_blast",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tamed_tarantula",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:teleport_ghost",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:teleport_ghost_projectile",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:termite_tunneler_alate",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:termite_tunneler_king",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:termite_tunneler_queen",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:termite_tunneler_soldier",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:termite_tunneler_worker",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tiny_centipede_breacher",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_caterpillar",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_display_anim",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_initial",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_larvae",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_low_display",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_low_display_anim",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_moth_summon",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_scorpioid_summon",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_sphere",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_summon",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_tendril",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:tormentor_voidlasher_summon",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:venus_flytrap",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:voidlasher_shadow_clone",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:wasp_nemesis",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:web_funnel",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:web_harness",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "arphex:web_harness_down",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "ars_nouveau:wilden_boss",
+				"type": "ars_elemental:water_mage",
 				"maxCount": 1
 			},
 			{
@@ -1125,19 +1023,7 @@
 			{
 				"weight": 1,
 				"minCount": 1,
-				"type": "hordes:drowned_player",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "hordes:husk_player",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "hordes:zombie_player",
+				"type": "create_things_and_misc:balloon_blaze",
 				"maxCount": 1
 			},
 			{
@@ -1168,396 +1054,6 @@
 				"weight": 1,
 				"minCount": 1,
 				"type": "infinity:chaos_slime",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:class_d",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:mekhane_the_broken_god",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:sc_pchair",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_001_scarlet_king",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_001_wondertainment",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_003_fr",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_008_fr",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_011_statue",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_035entity",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_040",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_042_es",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_053",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_054",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_058",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_066",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_072_th",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1027",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1035_ru",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1048",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1048_a",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1048_b",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1048_c",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1057",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_106",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1167",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_131_a",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_131_b",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_14391",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1529",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1544",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1609",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1678_a",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_1678_b",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_173",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_217_infected",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_2191slash_1",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_2295",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_2316",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_2396",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_266",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_2790",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_280",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_3114",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_3114_with_skin",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_347",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_36681",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_371",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_457",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_477",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_550",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_550_tongue_out",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_569",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_6101",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_610form_2",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_610form_3",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_610form_4",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_682",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_701slash_1",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_811",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_835jp",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_895",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_899_child",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_999",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_honey_man",
-				"maxCount": 1
-			},
-			{
-				"weight": 1,
-				"minCount": 1,
-				"type": "mgames_scps_last_foundation:scp_security_guard",
 				"maxCount": 1
 			},
 			{
@@ -1792,6 +1288,606 @@
 				"weight": 1,
 				"minCount": 1,
 				"type": "minecraft:zombified_piglin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "mutantmonsters:endersoul_clone",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "mutantmonsters:mutant_creeper",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "mutantmonsters:mutant_enderman",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "mutantmonsters:mutant_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "mutantmonsters:mutant_zombie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_bogged",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_cave_spider",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_horde_creeper",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_horde_drowned",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_horde_husk",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_horde_silverfish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_hunt_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_hunt_wither_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_husk",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_silverfish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_spider",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_stray",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "occultism:wild_zombie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:anger_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:anger_goblin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:antlion_swarmer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:base_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:big_anger_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:big_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:big_helmet_anger_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:big_muscle_anger_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:black_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:blood_crawler",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:blood_tumors",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:blood_zombie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:bloody_spore",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:blue_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:cave_bat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:corrupt_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:crimson_kemera",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:crimson_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:cursed_skull",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:dark_caster",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:decayeder",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:demon",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:demon_eye",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:desert_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:dungeon_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:evil_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:face_monster",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:fire_imp",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:flying_fish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:ghost",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:giant_antlion_swarmer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:giant_shelly",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:giant_worm",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_archer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_peon",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_scout",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_sorcerer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_thief",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:goblin_warrior",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:golden_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:granite_elemental",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:green_dumpling_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:green_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:harpy",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:hat_spore_zombie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:hell_bat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:honey_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:hornet",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:ice_bat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:ice_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:jungle_bat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:jungle_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:lava_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:leech",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:luminous_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:man_eater",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:nymph",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:pink_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:piranha",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:pixie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:purple_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:red_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:rideable_bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:rideable_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:short_bones",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:snatcher",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:snow_flinx",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:spore_bat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:spore_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:spore_zombie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:swamp_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:the_hungry",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:tomb_crawler",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:tropic_slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:undead_viking",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:visual_neuron",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:voodoo_demon",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:wandering_eye_fish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:wyvern",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "terra_entity:yellow_slime",
 				"maxCount": 1
 			}
 		]

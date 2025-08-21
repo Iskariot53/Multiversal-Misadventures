@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.refurbished_furniture.dance_music"
+	},
+	"length_in_seconds": 3.84,
+	"description": {
+		"translate": "infinity:subtitles.disc.refurbished_furniture.dance_music"
+	},
+	"comparator_output": 15
+}

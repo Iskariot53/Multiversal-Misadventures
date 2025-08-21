@@ -1,5 +1,5 @@
 # A list of registry ids of dimensions players cannot travel to at all.
-disabledDimensions = ["minecraft:the_end"]
+disabledDimensions = []
 #
 # Whether to push the player back or not when not meeting the requirements to access a dimension.
-pushBackPlayer = false
+pushBackPlayer = true

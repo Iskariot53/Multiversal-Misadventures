@@ -1,35 +1,35 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:custom_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:custom_cake2"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:custom_cake3"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:end_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:lost_city_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:nether_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:overworld_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "telepastries:twilight_cake"
 		}
 	]

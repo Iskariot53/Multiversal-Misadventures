@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.swplanets.star_wars_opening_music"
+	},
+	"length_in_seconds": 89.25752,
+	"description": {
+		"translate": "infinity:subtitles.disc.swplanets.star_wars_opening_music"
+	},
+	"comparator_output": 15
+}

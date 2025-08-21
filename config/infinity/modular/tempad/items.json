@@ -1,87 +1,87 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:card_wallet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:chronomark"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:chronometer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:chronon_battery"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:chronon_cell"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:chronon_generator"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:creative_chronometer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:knowledge_projector"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:knowledge_repository_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:location_broadcaster"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:location_card"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:metronome"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:new_location_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:player_teleport_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:screening_device"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:tempad"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:time_steel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:time_twister"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:timedoor_marker"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:timedoor_projector"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "tempad:workstation"
 		}
 	]

@@ -157,7 +157,7 @@
 			"key": "terra_entity:dark_caster_spawn_egg"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:debug_item"
 		},
 		{

@@ -469,19 +469,19 @@
 			"key": "create:crafting_blueprint"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "create:creative_blaze_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "create:creative_crate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "create:creative_fluid_tank"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "create:creative_motor"
 		},
 		{

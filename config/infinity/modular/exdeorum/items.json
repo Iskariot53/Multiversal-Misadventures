@@ -1,943 +1,943 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:acacia_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:aluminum_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:andesite_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:archwood_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:archwood_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bamboo_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:basalt_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:birch_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:blackstone_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:blue_archwood_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:blue_archwood_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bluebright_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:bone_crook"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:boron_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:calcite_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cherry_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cobalt_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:comet_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_andesite"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_blackstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_cobbled_deepslate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_cobblestone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_blackstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_deepslate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_end_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_crushed_netherrack"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_deepslate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_diamond_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_diorite"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_dirt"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_dust"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_end_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_golden_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_granite"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_gravel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_iron_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_moss_block"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_netherite_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_netherrack"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_red_sand"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_sand"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_soul_sand"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_stone_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:compressed_wooden_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:cooked_silkworm"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:copper_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_nylium_spores"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crimson_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crook"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_blackstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_deepslate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_end_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crushed_netherrack"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:crystallized_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dark_oak_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dead_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:deepslate_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:diamond_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:diamond_mesh"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:diamond_watering_can"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:diorite_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dusk_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:dust"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:end_cake"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:fir_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:flint_mesh"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:frostbright_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:gold_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_mesh"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_oak_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_oak_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:golden_watering_can"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:granite_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:grass_seeds"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:green_archwood_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:green_archwood_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:hellbark_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:infested_leaves"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:iridium_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:iron_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:iron_mesh"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:iron_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:iron_watering_can"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jacaranda_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:jungle_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lead_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lithium_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:lunar_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magic_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:magnesium_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mahogany_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mangrove_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:maple_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mechanical_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mechanical_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:mycelium_spores"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:netherite_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:netherite_mesh"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:netherite_watering_can"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:nickel_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:oak_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:osmium_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:palm_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:platinum_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_clay_ball"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_lava_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_milk_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_water_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:porcelain_witch_water_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:purple_archwood_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:purple_archwood_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:random_armor_trim"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:random_pottery_sherd"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:red_archwood_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:red_archwood_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:redwood_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:sculk_core"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:silkworm"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:silver_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:skyroot_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:spruce_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:starlit_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:stone_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:stone_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:stone_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:stone_watering_can"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:string_mesh"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:thorium_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:tin_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:tuff_pebble"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:umbran_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:unfired_porcelain_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:unfired_porcelain_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:uranium_ore_chunk"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_nylium_spores"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:warped_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_compressed_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_crucible"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:willow_sieve"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:witch_water_bucket"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:wood_chippings"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:wooden_hammer"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:wooden_watering_can"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "exdeorum:zinc_ore_chunk"
 		}
 	]

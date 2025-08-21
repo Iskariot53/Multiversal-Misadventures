@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apothic_enchanting:ender_library"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "apothic_enchanting:library"
 		},
 		{

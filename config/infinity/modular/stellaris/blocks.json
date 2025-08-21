@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:antenna"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:chiseled_mars_stone_bricks"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:chiseled_mercury_stone"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:chiseled_moon_stone"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:chiseled_venus_stone"
 		},
 		{
@@ -120,7 +120,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:coal_torch"
 		},
 		{
@@ -130,7 +130,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:conglomorate"
 		},
 		{
@@ -140,7 +140,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:conglomorate_slab"
 		},
 		{
@@ -150,7 +150,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:conglomorate_stairs"
 		},
 		{
@@ -160,7 +160,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:cracked_mars_stone_bricks"
 		},
 		{
@@ -170,7 +170,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:cracked_mercury_stone_bricks"
 		},
 		{
@@ -180,7 +180,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:cracked_moon_stone_bricks"
 		},
 		{
@@ -190,7 +190,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:cracked_venus_sandstone_bricks"
 		},
 		{
@@ -200,7 +200,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:cracked_venus_stone_bricks"
 		},
 		{
@@ -210,7 +210,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:deepslate_steel_ore"
 		},
 		{
@@ -220,7 +220,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:desh_block"
 		},
 		{
@@ -230,7 +230,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:desh_pillar"
 		},
 		{
@@ -240,7 +240,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:desh_plating_block"
 		},
 		{
@@ -250,7 +250,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:desh_plating_slab"
 		},
 		{
@@ -260,7 +260,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:desh_plating_stairs"
 		},
 		{
@@ -273,7 +273,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:diesel_generator"
 		},
 		{
@@ -283,7 +283,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:earth_globe"
 		},
 		{
@@ -293,7 +293,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:flag"
 		},
 		{
@@ -306,7 +306,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:fuel_refinery"
 		},
 		{
@@ -316,7 +316,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:heavy_metal_casing"
 		},
 		{
@@ -326,7 +326,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:heavy_metal_plate"
 		},
 		{
@@ -336,7 +336,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:heavy_metal_slab"
 		},
 		{
@@ -346,7 +346,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:heavy_metal_stairs"
 		},
 		{
@@ -356,7 +356,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:infernal_spire"
 		},
 		{
@@ -366,7 +366,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:iron_pillar"
 		},
 		{
@@ -376,7 +376,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:iron_plating_block"
 		},
 		{
@@ -386,7 +386,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:iron_plating_slab"
 		},
 		{
@@ -396,7 +396,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:iron_plating_stairs"
 		},
 		{
@@ -406,7 +406,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:marcury_polished_stone_slab"
 		},
 		{
@@ -416,7 +416,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:marcury_stone_slab"
 		},
 		{
@@ -426,7 +426,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_cobblestone"
 		},
 		{
@@ -436,7 +436,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_crop"
 		},
 		{
@@ -446,7 +446,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_diamond_ore"
 		},
 		{
@@ -456,7 +456,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_globe"
 		},
 		{
@@ -466,7 +466,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_ice_shard_ore"
 		},
 		{
@@ -476,7 +476,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_iron_ore"
 		},
 		{
@@ -486,7 +486,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_ostrum_ore"
 		},
 		{
@@ -496,7 +496,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_pillar"
 		},
 		{
@@ -506,7 +506,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_plutonium_ore"
 		},
 		{
@@ -516,7 +516,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_polished_stone_slab"
 		},
 		{
@@ -526,7 +526,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_polished_stone_stairs"
 		},
 		{
@@ -536,7 +536,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_sand"
 		},
 		{
@@ -546,7 +546,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_stone"
 		},
 		{
@@ -556,7 +556,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_stone_brick_slab"
 		},
 		{
@@ -566,7 +566,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_stone_brick_stairs"
 		},
 		{
@@ -576,7 +576,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_stone_bricks"
 		},
 		{
@@ -586,7 +586,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_stone_slab"
 		},
 		{
@@ -596,7 +596,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_stone_stairs"
 		},
 		{
@@ -606,7 +606,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mars_tharsite_ore"
 		},
 		{
@@ -616,7 +616,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_cobblestone"
 		},
 		{
@@ -626,7 +626,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_globe"
 		},
 		{
@@ -636,7 +636,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_iron_ore"
 		},
 		{
@@ -646,7 +646,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_polished_stone_stairs"
 		},
 		{
@@ -656,7 +656,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_solerium_ore"
 		},
 		{
@@ -666,7 +666,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_stone"
 		},
 		{
@@ -676,7 +676,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_stone_brick_slab"
 		},
 		{
@@ -686,7 +686,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_stone_brick_stairs"
 		},
 		{
@@ -696,7 +696,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_stone_bricks"
 		},
 		{
@@ -706,7 +706,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_stone_pillar"
 		},
 		{
@@ -716,7 +716,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_stone_stairs"
 		},
 		{
@@ -726,7 +726,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:mercury_uranium_ore"
 		},
 		{
@@ -736,7 +736,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:meteorite"
 		},
 		{
@@ -746,7 +746,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_cobblestone"
 		},
 		{
@@ -756,7 +756,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_crop"
 		},
 		{
@@ -766,7 +766,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_deepslate"
 		},
 		{
@@ -776,7 +776,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_desh_ore"
 		},
 		{
@@ -786,7 +786,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_globe"
 		},
 		{
@@ -796,7 +796,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_ice_shard_ore"
 		},
 		{
@@ -806,7 +806,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_iron_ore"
 		},
 		{
@@ -816,7 +816,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_pillar"
 		},
 		{
@@ -826,7 +826,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_polished_stone_brick_slab"
 		},
 		{
@@ -836,7 +836,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_polished_stone_brick_stairs"
 		},
 		{
@@ -846,7 +846,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_sand"
 		},
 		{
@@ -856,7 +856,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_steel_ore"
 		},
 		{
@@ -866,7 +866,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone"
 		},
 		{
@@ -876,7 +876,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_brick_slab"
 		},
 		{
@@ -886,7 +886,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_brick_stairs"
 		},
 		{
@@ -896,7 +896,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_bricks"
 		},
 		{
@@ -906,7 +906,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_dust"
 		},
 		{
@@ -916,7 +916,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_pillar"
 		},
 		{
@@ -926,7 +926,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_slab"
 		},
 		{
@@ -936,7 +936,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_stone_stairs"
 		},
 		{
@@ -946,7 +946,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_vines"
 		},
 		{
@@ -956,7 +956,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:moon_vines_plant"
 		},
 		{
@@ -966,7 +966,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:neptunium_block"
 		},
 		{
@@ -979,7 +979,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:oxygen_distributor"
 		},
 		{
@@ -989,7 +989,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:pipe_t1"
 		},
 		{
@@ -999,7 +999,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:pipe_t2"
 		},
 		{
@@ -1009,7 +1009,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:pipe_t3"
 		},
 		{
@@ -1019,7 +1019,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:plutonium_block"
 		},
 		{
@@ -1029,7 +1029,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_conglomorate"
 		},
 		{
@@ -1039,7 +1039,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_conglomorate_slab"
 		},
 		{
@@ -1049,7 +1049,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_conglomorate_stairs"
 		},
 		{
@@ -1059,7 +1059,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_mars_stone"
 		},
 		{
@@ -1069,7 +1069,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_mercury_stone"
 		},
 		{
@@ -1079,7 +1079,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_moon_stone"
 		},
 		{
@@ -1089,7 +1089,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:polished_venus_stone"
 		},
 		{
@@ -1102,7 +1102,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:pumpjack"
 		},
 		{
@@ -1115,7 +1115,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:radioactive_generator"
 		},
 		{
@@ -1125,7 +1125,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:raw_desh_block"
 		},
 		{
@@ -1135,7 +1135,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:raw_steel_block"
 		},
 		{
@@ -1145,7 +1145,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:raw_uranium_block"
 		},
 		{
@@ -1158,7 +1158,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:rocket_launch_pad"
 		},
 		{
@@ -1168,7 +1168,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:rocket_station"
 		},
 		{
@@ -1178,7 +1178,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:solar_panel"
 		},
 		{
@@ -1188,7 +1188,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_block"
 		},
 		{
@@ -1198,7 +1198,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_ore"
 		},
 		{
@@ -1208,7 +1208,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_pillar"
 		},
 		{
@@ -1218,7 +1218,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_plating_block"
 		},
 		{
@@ -1228,7 +1228,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_plating_slab"
 		},
 		{
@@ -1238,7 +1238,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_plating_stairs"
 		},
 		{
@@ -1248,7 +1248,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_slab"
 		},
 		{
@@ -1258,7 +1258,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:steel_stairs"
 		},
 		{
@@ -1268,7 +1268,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t1_bank"
 		},
 		{
@@ -1278,7 +1278,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t1_tank"
 		},
 		{
@@ -1288,7 +1288,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t2_bank"
 		},
 		{
@@ -1298,7 +1298,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t2_tank"
 		},
 		{
@@ -1308,7 +1308,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t3_bank"
 		},
 		{
@@ -1318,7 +1318,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t3_tank"
 		},
 		{
@@ -1328,7 +1328,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t4_bank"
 		},
 		{
@@ -1338,7 +1338,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:t4_tank"
 		},
 		{
@@ -1348,7 +1348,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:upgrade_station"
 		},
 		{
@@ -1358,7 +1358,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:uranium_block"
 		},
 		{
@@ -1368,7 +1368,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vacuumator"
 		},
 		{
@@ -1378,7 +1378,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_coal_ore"
 		},
 		{
@@ -1388,7 +1388,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_cobblestone"
 		},
 		{
@@ -1398,7 +1398,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_corronium_ore"
 		},
 		{
@@ -1408,7 +1408,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_diamond_ore"
 		},
 		{
@@ -1418,7 +1418,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_globe"
 		},
 		{
@@ -1428,7 +1428,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_gold_ore"
 		},
 		{
@@ -1438,7 +1438,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_neptunium_ore"
 		},
 		{
@@ -1448,7 +1448,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_pillar"
 		},
 		{
@@ -1458,7 +1458,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_polished_stone_slab"
 		},
 		{
@@ -1468,7 +1468,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_polished_stone_stairs"
 		},
 		{
@@ -1478,7 +1478,7 @@
 				"float": false,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_sand"
 		},
 		{
@@ -1488,7 +1488,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_sandstone"
 		},
 		{
@@ -1498,7 +1498,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_sandstone_brick_slab"
 		},
 		{
@@ -1508,7 +1508,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_sandstone_brick_stairs"
 		},
 		{
@@ -1518,7 +1518,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_sandstone_bricks"
 		},
 		{
@@ -1528,7 +1528,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_smooth_sandstone"
 		},
 		{
@@ -1538,7 +1538,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_smooth_sandstone_brick"
 		},
 		{
@@ -1548,7 +1548,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_smooth_sandstone_brick_slab"
 		},
 		{
@@ -1558,7 +1558,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_smooth_sandstone_brick_stairs"
 		},
 		{
@@ -1568,7 +1568,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_smooth_sandstone_slab"
 		},
 		{
@@ -1578,7 +1578,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_smooth_sandstone_stairs"
 		},
 		{
@@ -1588,7 +1588,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_stone"
 		},
 		{
@@ -1598,7 +1598,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_stone_brick_slab"
 		},
 		{
@@ -1608,7 +1608,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_stone_brick_stairs"
 		},
 		{
@@ -1618,7 +1618,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_stone_bricks"
 		},
 		{
@@ -1628,7 +1628,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_stone_slab"
 		},
 		{
@@ -1638,7 +1638,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:venus_stone_stairs"
 		},
 		{
@@ -1648,7 +1648,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_desh_plating_slab"
 		},
 		{
@@ -1658,7 +1658,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_desh_slab"
 		},
 		{
@@ -1668,7 +1668,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_heavy_metal_plate_slab"
 		},
 		{
@@ -1678,7 +1678,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_iron_plating_slab"
 		},
 		{
@@ -1688,7 +1688,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_mars_slab"
 		},
 		{
@@ -1698,7 +1698,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_mercury_slab"
 		},
 		{
@@ -1708,7 +1708,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_moon_slab"
 		},
 		{
@@ -1718,7 +1718,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_steel_plating_slab"
 		},
 		{
@@ -1728,7 +1728,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_steel_slab"
 		},
 		{
@@ -1738,7 +1738,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:vertical_venus_slab"
 		},
 		{
@@ -1748,7 +1748,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:wall_coal_torch"
 		},
 		{
@@ -1758,7 +1758,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:water_pump"
 		},
 		{
@@ -1771,7 +1771,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:water_separator"
 		}
 	]

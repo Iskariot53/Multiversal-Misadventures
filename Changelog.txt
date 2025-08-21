@@ -8,8 +8,11 @@ Updated to NeoForge 21.1.194
 Mods Removed
 
 - Advanced Hook Launchers
+- Arthropod Phobia Expansions + Horror Bosses
 - Corail Tombstone
 - Forge Endertech
+- The Hordes
+- MonsterPlus
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
@@ -19,9 +22,9 @@ Mods Removed
 Mods Added
 
 
-- AtomicStryker's Infernal Mobs
 - Backpacked
 - Baguette Lib
+- Confluence Dimension Patch
 - Confluence Infernum Music
 - Confluence: Otherworld
 - Confluence: Otherworld Gun Fix
@@ -36,6 +39,7 @@ Mods Added
 - Create Train Utilities
 - E4MC
 - Inventory Tweaks - ReFoxed
+- Map Wormhole
  
 
 Mods Updated
@@ -99,7 +103,6 @@ Mods Updated
 - SmartBrainLib
 - Stellaris
 - Tesseract API
-- The Hordes
 - Toast Control
 - Tom's Simple Storage Mod
 - WATERMeDIA: Multimedia API
@@ -113,3 +116,6 @@ Changes
 
 - Changed starter kit
 - Changed dimensional core recipes to make pockets accessible earlier.
+- Removed crawling dimension and arthropods replaced with confluence and the "Otherworld" dimension. 
+- Ars Nouveau and Confluence source/mana are now compatible and work for each others purposes.
+- Added recipes for Time in a Bottle, Creative motor and Creative Blaze Cake

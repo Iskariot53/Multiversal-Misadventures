@@ -10,7 +10,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:allthemodium_furnace"
 		},
 		{
@@ -23,7 +23,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:copper_furnace"
 		},
 		{
@@ -36,7 +36,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:crystal_furnace"
 		},
 		{
@@ -49,7 +49,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:diamond_furnace"
 		},
 		{
@@ -62,7 +62,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:emerald_furnace"
 		},
 		{
@@ -75,7 +75,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:gold_furnace"
 		},
 		{
@@ -85,7 +85,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:heater"
 		},
 		{
@@ -98,7 +98,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:iron_furnace"
 		},
 		{
@@ -111,7 +111,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:million_furnace"
 		},
 		{
@@ -124,7 +124,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:netherite_furnace"
 		},
 		{
@@ -137,7 +137,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:obsidian_furnace"
 		},
 		{
@@ -150,7 +150,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:silver_furnace"
 		},
 		{
@@ -163,7 +163,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:unobtainium_furnace"
 		},
 		{
@@ -176,7 +176,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ironfurnaces:vibranium_furnace"
 		}
 	]

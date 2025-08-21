@@ -5,27 +5,17 @@
 	filename: "the_blockheads_guide_to_the_galaxy"
 	group: "15777B88F460CFED"
 	icon: {
-		id: "arphex:crawling_compass"
+		id: "ars_elemental:mark_of_mastery"
 	}
 	id: "2DFE8C1B57381947"
-	images: [
-		{
-			height: 8.0d
-			image: "stellaris:textures/gui/tablet/images/rocket_station.png"
-			rotation: 0.0d
-			width: 8.0d
-			x: 11.839285714285722d
-			y: 3.75d
-		}
-		{
-			height: 2.0d
-			image: "arphex:block/crawling_portal_block"
-			rotation: 0.0d
-			width: 2.0d
-			x: 6.5d
-			y: 12.0d
-		}
-	]
+	images: [{
+		height: 8.0d
+		image: "stellaris:textures/gui/tablet/images/rocket_station.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: 11.839285714285722d
+		y: 3.75d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -235,7 +225,7 @@
 			id: "2DBDA7525E7A514E"
 			tasks: [{
 				id: "6E886129151D1DA5"
-				item: { count: 1, id: "arphex:core_of_eternal_suffering" }
+				item: { count: 1, id: "confluence_dimension_patch:terrarium" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -424,160 +414,6 @@
 			}]
 			x: 6.5d
 			y: 12.0d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "712B92970C4C085C"
-			tasks: [{
-				id: "5238B58EF009549F"
-				item: { count: 1, id: "arphex:bane_of_the_darkness" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: 11.0d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "6D35ABEA9AD3E086"
-			tasks: [{
-				id: "665CD0880B4671ED"
-				item: { count: 1, id: "arphex:mantle_of_vitality" }
-				type: "item"
-			}]
-			x: 9.5d
-			y: 11.0d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "12FD4B0CBDFA271E"
-			tasks: [{
-				id: "6A561BAD2BAFA46E"
-				item: { count: 1, id: "arphex:warp_staff" }
-				type: "item"
-			}]
-			x: 8.5d
-			y: 12.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "6D374A6D33A3CA55"
-			tasks: [{
-				id: "0C2ED9AB3B610510"
-				item: { count: 1, id: "arphex:staff_of_vitality" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: 12.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "00A06AEF6BEB775F"
-			tasks: [{
-				id: "42B204DABF1D922D"
-				item: { count: 1, id: "arphex:ethereal_staff" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: 13.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "0A1CDE9B06586F1F"
-			tasks: [{
-				id: "6782C01E5888B9FB"
-				item: { count: 1, id: "arphex:ascendant_staff" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 13.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "20B84C6E88E329F1"
-			tasks: [{
-				id: "402455D555FB6B09"
-				item: { count: 1, id: "arphex:ascended_cube" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 16.0d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "7E8F3F6140105F43"
-			tasks: [{
-				id: "72504F0BCE99420B"
-				item: { count: 1, id: "arphex:tormented_wrath" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 17.0d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "527E79ECF5C1573F"
-			tasks: [{
-				id: "3B0AD0633ED602BA"
-				item: { count: 1, id: "arphex:abyssal_axe" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 16.0d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "7143E22C1B517D42"
-			tasks: [{
-				id: "46167C08C7A0D678"
-				item: { count: 1, id: "arphex:ant_commander" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 13.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "1264E3792F083BCD"
-			tasks: [{
-				id: "686A8FAEFB3B0857"
-				item: { count: 1, id: "arphex:abyssal_blade" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 17.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "489923C9FC4CE032"
-			tasks: [{
-				id: "27FC449E5C302290"
-				item: { count: 1, id: "arphex:abyss_atomiser" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 18.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "11B2F9A987F13EE1"
-			tasks: [{
-				id: "1C16192E52F72A84"
-				item: { count: 1, id: "arphex:abyssal_pickaxe" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 17.5d
-		}
-		{
-			dependencies: ["251C9C344937FDC8"]
-			id: "1427C5FB052ED072"
-			tasks: [{
-				id: "6FABF629032CC6A1"
-				item: { count: 1, id: "arphex:abyssal_dagger" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 16.0d
 		}
 		{
 			dependencies: [

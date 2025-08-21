@@ -8,7 +8,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:at_act"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:at_act"
 		},
 		{
@@ -19,7 +19,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:at_at"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:at_at"
 		},
 		{
@@ -30,7 +30,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:at_st"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:at_st"
 		},
 		{
@@ -41,7 +41,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:endor_outpost"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:endor_outpost"
 		},
 		{
@@ -52,7 +52,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:endor_trees"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:endor_trees"
 		},
 		{
@@ -74,7 +74,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:jawa_crawler"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:jawa_crawler"
 		},
 		{
@@ -85,7 +85,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:tatooine_houses"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:tatooine_houses"
 		},
 		{
@@ -96,7 +96,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:tatooine_village"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:tatooine_village"
 		},
 		{
@@ -107,7 +107,7 @@
 				"step": "surface_structures",
 				"id": "swplanets:tie_fighter"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:tie_fighter"
 		}
 	]

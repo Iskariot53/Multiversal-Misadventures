@@ -1,19 +1,19 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:alien_crops"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:antenna_replaceable"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:energy_block"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "stellaris:incorrect_for_steel_tools"
 		}
 	]

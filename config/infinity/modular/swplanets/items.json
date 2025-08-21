@@ -1,131 +1,131 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:beskar"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:beskar_armor_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:beskar_armor_chestplate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:beskar_armor_helmet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:beskar_armor_leggings"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:beskar_ore_sandstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:blaster"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:blaster_explosion_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:blaster_upgrader"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:blaster_zoom_upgrade"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:darksaber"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:kyber_crystal"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:kyber_crystal_ore"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:kyber_crystal_ore_sandstone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:laser_item"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_base"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_blue"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_dark_maul"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_green"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_kylo_ren"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_red"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:light_saber_violet"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:mustafar_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:pistol_blaster"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:plastic_plate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:stormtrooper_boots"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:stormtrooper_chestplate"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:stormtrooper_leggings"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:stormtrooper_mask"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:tatooine_stone"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:tatooine_stone_slab"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "swplanets:tatooine_stone_stairs"
 		}
 	]

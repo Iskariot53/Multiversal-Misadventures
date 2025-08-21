@@ -6,7 +6,7 @@
 				"Color": 8080895,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:enderference"
 		},
 		{
@@ -15,7 +15,7 @@
 				"Color": 0,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:enthralled"
 		},
 		{
@@ -24,7 +24,7 @@
 				"Color": 0,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:frozen"
 		},
 		{
@@ -33,7 +33,7 @@
 				"Color": 14981690,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:hellfire"
 		},
 		{
@@ -42,7 +42,7 @@
 				"Color": 0,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:hymn_of_order"
 		},
 		{
@@ -51,7 +51,7 @@
 				"Color": 1,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:life_link"
 		},
 		{
@@ -60,7 +60,7 @@
 				"Color": 47359,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:mana_shield"
 		},
 		{
@@ -69,7 +69,7 @@
 				"Color": 16776960,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:repel"
 		},
 		{
@@ -78,7 +78,7 @@
 				"Color": 16776960,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:static_charged"
 		},
 		{
@@ -87,7 +87,7 @@
 				"Color": 8889187,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:venom"
 		},
 		{
@@ -96,7 +96,7 @@
 				"Color": 47359,
 				"Instant": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_elemental:watery_grave"
 		}
 	]
