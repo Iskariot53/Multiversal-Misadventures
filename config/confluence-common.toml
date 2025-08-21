@@ -37,10 +37,10 @@
 	dropsTombstone = false
 	# Default: 3
 	# Range: > 0
-	defaultRespawnTimeMin = 3
+	defaultRespawnTimeMin = 0
 	# Default: 8
 	# Range: > 0
-	defaultRespawnTimeMax = 8
+	defaultRespawnTimeMax = 0
 	# Default: 9
 	# Range: > 0
 	bossRespawnTimeMin = 9

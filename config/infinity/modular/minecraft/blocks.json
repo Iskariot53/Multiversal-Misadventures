@@ -1675,7 +1675,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:chain_command_block"
 		},
 		{
@@ -2151,7 +2151,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:command_block"
 		},
 		{
@@ -8313,7 +8313,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:repeating_command_block"
 		},
 		{
