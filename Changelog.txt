@@ -1,123 +1,31 @@
-Multiversal Misadventures 1.1.2 Change Log
+Multiversal Misadventures 2.0.1 Change Log
 
-
-Updated to NeoForge 21.1.194
 
 
 
 Mods Removed
 
-- Advanced Hook Launchers
-- Arthropod Phobia Expansions + Horror Bosses
-- Corail Tombstone
-- Forge Endertech
-- The Hordes
-- MonsterPlus
-- Sophisticated Backpacks
-- Sophisticated Core
-- Sophisticated Storage
+
+- Iron Furnaces
+- Iron Jetpacks
 
  
 
 Mods Added
 
 
-- Backpacked
-- Baguette Lib
-- Confluence Dimension Patch
-- Confluence Infernum Music
-- Confluence: Otherworld
-- Confluence: Otherworld Gun Fix
-- Confluent Enchantments
-- Corpse
-- Corpse x Curios API Compat 
-- Create: Copycats+
-- Create: Hypertubes
-- Create : Misc & Things
-- Create Railways Navigator
-- Create Stock Bridge
-- Create Train Utilities
-- E4MC
-- Inventory Tweaks - ReFoxed
+- 
  
+
 
 Mods Updated
 
 
-- Access Denied
-- Almost Unified
-- Apothic Attributes
-- Apothic Enchanting
-- Apothic Spawners
-- Applied Energistics 2
-- Applied Energistics 2 Wireless Terminals
-- Ars Elemental
-- Ars Nouveau
-- Ars Ocultas
-- Ars Technica
-- Artifacts
-- Balm
-- BucketLib
-- Cobblegen Galore
-- Cosmos Library
-- Crafting Tweaks
-- Create Crafts & Additions
-- CreativeCore
-- Dimensional Pockets II
-- FancyMenu
-- Forbidden and Arcanus
-- FTB Filter System
-- FTB Library
-- FTB Quests
-- FTB Ultimine
-- FTB XMod Compat
-- Fusion
-- GuideME
-- Hostile Neural Networks
-- Immersive UI
-- Infinite Dimensions
-- Jade
-- Just Enough Items
-- MEGA Cells
-- Mekanism
-- Mekanism Generators
-- Mekanism Tools
-- ModernFix
-- Modonomicon
-- Modular Routers
-- OctoLib
-- Oritech
-- oωo
-- Patchouli
-- Placebo
-- Polymorph
-- Powah! (Rearchitected)
-- Productive Bees
-- Productive Metalworks
-- Puzzles Lib
-- Relics
-- Relics: Artifacts Compat
-- Reliquified Ars Nouveau
-- Savage Ender Dragon
-- SmartBrainLib
-- Stellaris
-- Tesseract API
-- Toast Control
-- Tom's Simple Storage Mod
-- WATERMeDIA: Multimedia API
-- Waystones
-- Xaero's Minimap
-- Xaero's World Map
+- 
+
 
 
 Changes
 
 
-- Changed starter kit
-- Changed dimensional core recipes to make pockets accessible earlier.
-- Removed crawling dimension and arthropods replaced with confluence and the "Otherworld" dimension. 
-- Ars Nouveau and Confluence source/mana are now compatible and work for each others purposes.
-- Added recipes for Time in a Bottle, Creative motor and Creative Blaze Cake.
-- Increased the internal height of dimensional pockets to 25 and 255 for basic and advanced respectively.
-- Increased the internal capacity of create tanks and item vaults.
-- Buffed the ender dragon.
+- Edited dimension generation parameters.

@@ -253,7 +253,7 @@
 			"key": "minecraft:barrel"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:barrier"
 		},
 		{
@@ -269,7 +269,7 @@
 			"key": "minecraft:beacon"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:bedrock"
 		},
 		{
@@ -2409,7 +2409,7 @@
 			"key": "minecraft:jack_o_lantern"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:jigsaw"
 		},
 		{
@@ -4629,11 +4629,11 @@
 			"key": "minecraft:stripped_warped_stem"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:structure_block"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:structure_void"
 		},
 		{

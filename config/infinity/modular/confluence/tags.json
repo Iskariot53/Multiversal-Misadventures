@@ -9,7 +9,7 @@
 			"key": "confluence:bloodthirst_crystall_base_block"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "confluence:coins"
 		},
 		{
@@ -29,7 +29,7 @@
 			"key": "confluence:corrupted_tundra_blocks"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "confluence:corruption_blocks"
 		},
 		{
@@ -73,7 +73,7 @@
 			"key": "confluence:corruption_conversion_short_grass"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "confluence:crimson_blocks"
 		},
 		{

@@ -17,6 +17,7 @@
 	chapter.4C2BE1D77E3FCF3D.title: "Mekanism"
 	chapter.5063740556FEA9F4.title: "&aStellaris"
 	chapter.50F5082DF03F979A.title: "Tom's Simple Storage"
+	chapter.5158AF3E98971970.title: "&aDimensional Pockets"
 	chapter.5200A7E0422864C0.title: "&aIron Furnaces"
 	chapter.5E8B386358D2260F.title: "&aTom's Simple Storage"
 	chapter.61AB2C589897DF17.title: "Sophisticated Storage"
@@ -1770,6 +1771,8 @@
 		"&lItems Processed:&r 1 item"
 	]
 	quest.5C725D0B1B56CF39.title: "&lTier 4"
+	quest.5CFD7FD3066A70C3.quest_subtitle: "Building in a Void Cube"
+	quest.5CFD7FD3066A70C3.title: "Welcome to Dimensional Pockets 2!"
 	quest.5D21774751A2BED4.quest_desc: ["Operates similar to the Source Relay, but will &ddeposit to jars it is not linked to within 5 blocks&r. See the instructions on the Source Relay for use."]
 	quest.5D3397CDD49AAAE4.quest_desc: ["Breed a resin bee with a lumber bee."]
 	quest.5D3397CDD49AAAE4.quest_subtitle: "&eBee Breeding"
@@ -2592,6 +2595,7 @@
 	task.586BD2D4D08A8E51.title: "Acquire a dragonsteel bee"
 	task.592A374CAA69628B.title: "Acquire a copper bee"
 	task.59F410BC625C550E.title: "Leggings"
+	task.5C220927EF4658A8.title: "Dimensional Pockets"
 	task.5D047184D670680F.title: "Acquire an enderium bee"
 	task.5DC5BEF9ABD696F5.title: "Acquire a platinum bee"
 	task.5EF41BEDBCCCCC54.title: "Find a sugarbag bee"

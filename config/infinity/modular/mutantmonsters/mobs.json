@@ -4,28 +4,28 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 4.0,
+			"weight": 0.0,
 			"key": "mutantmonsters:endersoul_clone"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 4.0,
+			"weight": 3.0,
 			"key": "mutantmonsters:mutant_creeper"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 4.0,
+			"weight": 2.0,
 			"key": "mutantmonsters:mutant_enderman"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 4.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton"
 		},
 		{
@@ -39,7 +39,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 4.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:spider_pig"
 		}
 	]

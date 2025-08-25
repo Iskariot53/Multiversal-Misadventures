@@ -1,79 +1,79 @@
 {
 	"elements": [
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:architects_staff"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:archmage_glove"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:ballistarian_bracer"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:cloak_of_concealment"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:emblem_of_assault"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:emblem_of_defense"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:emblem_of_devotion"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:flaming_bracer"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:horn_of_the_wild_hunter"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:illusionists_mantle"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:mana_ring"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:quantum_bubble"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:ring_of_last_will"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:ring_of_the_spectral_walker"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:ring_of_thrift"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:spiked_cloak"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:whirling_broom"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:whirlisprig_petals"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "reliquified_ars_nouveau:wing_of_the_wild_stalker"
 		}
 	]

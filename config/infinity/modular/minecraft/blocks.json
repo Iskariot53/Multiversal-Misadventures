@@ -539,7 +539,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:barrier"
 		},
 		{
@@ -569,7 +569,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:bedrock"
 		},
 		{
@@ -4606,7 +4606,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:jigsaw"
 		},
 		{
@@ -9348,7 +9348,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:structure_block"
 		},
 		{
@@ -9358,7 +9358,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:structure_void"
 		},
 		{
