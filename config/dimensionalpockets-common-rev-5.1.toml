@@ -24,7 +24,7 @@
 	#Whether if reducing the Internal Height of Pocket that is larger will make it smaller
 	internal_replace = false
 	#Whether or not Hostile Mobs should be stopped from spawning
-	stop_hostile_spawns = true
+	stop_hostile_spawns = false
 	#Whether or not the Mod will create backups on world load
 	create_backups = false
 

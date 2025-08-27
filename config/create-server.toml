@@ -414,7 +414,7 @@
 	#Maximum possible range in blocks of redstone link connections.
 	# Default: 256
 	# Range: > 1
-	linkRange = 256
+	linkRange = 200
 	#.
 	#Maximum possible distance in blocks between display links and their target.
 	# Default: 64
