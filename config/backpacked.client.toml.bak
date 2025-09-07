@@ -1,0 +1,3 @@
+# If enabled, hides the config button from the backpack screen
+# Valid values: true, false
+hideConfigButton = false

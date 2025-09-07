@@ -45,6 +45,12 @@
 	# Default: 0.35
 	# Range: 0.0 ~ 1.0
 	hardGearChance = 0.35
+	#Full armor sets near surface. Accepts either a String "[mod:helmet, mod:chest, mod:legs, mod:boots, 25]" or a list ["mod:helmet","mod:chest","mod:legs","mod:boots",25]. Percent: 25->25%, 0.5->0.5%.
+	surfaceArmorSets = ["[minecraft:leather_helmet, minecraft:leather_chestplate, minecraft:leather_leggings, minecraft:leather_boots, 1]"]
+	#Full armor sets in caves. Same formats as surfaceArmorSets.
+	caveArmorSets = ["[minecraft:iron_helmet, minecraft:iron_chestplate, minecraft:iron_leggings, minecraft:iron_boots, 1]"]
+	#Full armor sets in deep caves. Same formats as surfaceArmorSets.
+	deepCaveArmorSets = ["[minecraft:diamond_helmet, minecraft:diamond_chestplate, minecraft:diamond_leggings, minecraft:diamond_boots, 1]"]
 
 ["Equipment Settings"]
 	#Chance for mob to get a weapon.

@@ -21,11 +21,38 @@ Mods Added
 Mods Updated
 
 
-- 
-
+- AE2 Universal Press
+- Ars Nouveau
+- Apotheosis
+- Apothic Enchanting
+- Applied Energistics 2 Wireless Terminals
+- Backpacked
+- Bookshelf
+- Cobblegen Galore
+- Constant Music
+- CraftTweaker
+- Create: Diesel Generators
+- CreativeCore
+- Dangerous - Just A Difficulty Mod
+- Dimensional Pockets II
+- Ex Deorum
+- Ex Machinis: Divitiae Deorum
+- FancyMenu
+- Fusion
+- Immersive Aircraft
+- Occultism
+- Placebo
+- Prickle
+- Productive Bees
+- Productive Metalworks
+- Potentials
+- Stellaris
+- Tesseract API
+- WATERMeDIA: Multimedia API
 
 
 Changes
 
 
+- BACK UP/EMPTY YOUR BACKPACKS BEFORE UPDATING.
 - Edited dimension generation parameters.

@@ -1,0 +1,75 @@
+["General Settings"]
+	#Enable or disable chat announcements from the mod.
+	enableChatAnnouncements = true
+
+["Health Multiplier Settings"]
+	#Base health multiplier for enemies.
+	# Default: 1.0
+	# Range: 0.1 ~ 100.0
+	baseHealthMultiplier = 1.0
+	#Maximum health multiplier for enemies.
+	# Default: 2.0
+	# Range: 0.1 ~ 10.0
+	maxHealthMultiplier = 2.0
+	#Increment to increase health multiplier after reaching certain amount of days.
+	# Default: 0.2
+	# Range: 0.1 ~ 10.0
+	healthMultiplierIncrement = 0.2
+	#How many in-game days it takes for the health multiplier to increment.
+	# Default: 24
+	# Range: 1 ~ 100
+	daysPerIncrement = 24
+
+["Gear Spawn Chances"]
+	#List of armor mobs can spawn with near the surface.
+	surfaceArmor = ["minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots", "minecraft:leather_helmet", "minecraft:leather_chestplate", "minecraft:leather_leggings", "minecraft:leather_boots"]
+	#List of weapons mobs can spawn with near the surface.
+	surfaceWeapons = ["minecraft:stone_sword", "minecraft:stone_axe", "minecraft:iron_sword", "minecraft:iron_axe"]
+	#List of armor mobs can spawn with in caves.
+	caveArmor = ["minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots"]
+	#List of weapons mobs can spawn with in caves.
+	caveWeapons = ["minecraft:iron_sword", "minecraft:iron_axe"]
+	#List of armor mobs can spawn with in deep caves.
+	deepCaveArmor = ["minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots", "minecraft:golden_helmet", "minecraft:golden_chestplate", "minecraft:golden_leggings", "minecraft:golden_boots", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots"]
+	#List of weapons mobs can spawn with in deep caves.
+	deepCaveWeapons = ["minecraft:iron_sword", "minecraft:iron_axe", "minecraft:diamond_sword", "minecraft:diamond_axe"]
+	#Chance for mobs to spawn with gear in EASY mode.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	easyGearChance = 0.1
+	#Chance for mobs to spawn with gear in NORMAL mode.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	normalGearChance = 0.2
+	#Chance for mobs to spawn with gear in HARD mode.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	hardGearChance = 0.35
+
+["Equipment Settings"]
+	#Chance for mob to get a weapon.
+	# Default: 0.18
+	# Range: 0.0 ~ 1.0
+	weaponChance = 0.18
+	#Chance for item to get enchanted.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	enchantmentChance = 0.25
+	#Enchantments available for bows.
+	availableBowEnchantments = ["minecraft:power", "minecraft:infinity", "minecraft:flame", "minecraft:punch"]
+	#Enchantments available for melee weapons.
+	availableWeaponEnchantments = ["minecraft:sharpness", "minecraft:smite", "minecraft:fire_aspect", "minecraft:unbreaking", "minecraft:knockback", "apotheosis:deep_wounds"]
+	#Enchantments available for armor.
+	availableArmorEnchantments = ["minecraft:protection", "minecraft:unbreaking", "minecraft:fire_protection", "minecraft:projectile_protection"]
+
+["Creeper Speed Settings"]
+	#Multiplier to increase Creeper movement speed.
+	# Default: 1.4
+	# Range: 1.0 ~ 5.0
+	creeperSpeedMultiplier = 1.4
+
+["Spider Speed Settings"]
+	#Multiplier to increase Spider movement speed.
+	# Default: 1.25
+	# Range: 1.0 ~ 5.0
+	spiderSpeedMultiplier = 1.25
