@@ -1,0 +1,16 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "type": "apotheosis:gem",
+      "purity": "flawless"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 6,
+      "id": "apotheosis:gem_dust"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "create:cardboard"
+    },
+    "matter": [
+        {
+            "type": "replication:organic",
+            "amount": 64.0
+        },
+        {
+            "type": "replication:earth",
+            "amount": 64.0
+        }
+    ]
+}

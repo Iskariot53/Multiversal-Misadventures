@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "createdieselgenerators:diesel",
+    "createdieselgenerators:flowing_diesel",
+	"oritech:diesel",
+	"stellaris:diesel"
+
+  ]
+}

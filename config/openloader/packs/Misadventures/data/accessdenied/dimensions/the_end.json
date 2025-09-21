@@ -1,0 +1,1 @@
+{ "dimension": "minecraft:the_end", "messages": [ "Obtain a Nether Star to prove yourself worthy of access" ], "requirements": { "items": [ { "item": "minecraft:nether_star", "count": 1 } ] } }

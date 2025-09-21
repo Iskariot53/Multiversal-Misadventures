@@ -1,0 +1,1 @@
+{ "dimension": "minecraft:the_nether", "messages": [ "Obtain an F4 to prove yourself worthy of access" ], "requirements": { "items": [ { "item": "Infinity:f4", "count": 1 } ] } }

@@ -1,0 +1,1 @@
+{ "dimension": "confluence_dimension_patch:otherworld", "messages": [ "Obtain a Cosmo Coffee to prove yourself worthy of access" ], "requirements": { "items": [ { "item": "stellaris:cosmo_coffee", "count": 1 } ] } }

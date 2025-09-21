@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cake",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "telepastries:block/cities/cake_bottom",
+    "particle": "telepastries:block/cities/cake_side",
+    "side": "telepastries:block/cities/cake_side",
+    "top": "telepastries:block/cities/cake_top"
+  }
+}

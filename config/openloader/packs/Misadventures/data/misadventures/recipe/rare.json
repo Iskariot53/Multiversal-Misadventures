@@ -1,0 +1,17 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "type": "apotheosis:affix",
+	"rarity": "apotheosis:rare"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "maxRange": 1,
+      "stack": {
+        "count": 3,
+        "id": "apotheosis:rare_material"
+      }
+    }
+  ]
+}

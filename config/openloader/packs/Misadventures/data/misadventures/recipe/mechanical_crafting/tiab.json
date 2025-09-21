@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "occultism:spirit_attuned_gem"
+    },
+    "B": {
+      "item": "create:rotation_speed_controller"
+    },
+    "C": {
+      "item": "mekanism:alloy_reinforced"
+    },
+	"D": {
+      "item": "minecraft:clock"
+    },
+	"E": {
+      "item": "forbidden_arcanus:deorum_glass"
+    }
+  },
+  "pattern": [
+    "AEEEA",
+    "EBCBE",
+    "ECDCE",
+    "EBCBE",
+    "AEEEA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tiab:time_in_a_bottle"
+  },
+  "show_notification": false
+}

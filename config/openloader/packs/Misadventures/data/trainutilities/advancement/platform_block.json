@@ -1,0 +1,34 @@
+{
+  "parent": "create:display_board_0",
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{
+          "tag": "trainutilities:platform_blocks"
+        }]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "frame": "task",
+    "show_toast": false,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.trainutilities.platform_block.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "trainutilities:de_platform_block"
+    },
+    "title": {
+      "translate": "advancement.trainutilities.platform_block"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

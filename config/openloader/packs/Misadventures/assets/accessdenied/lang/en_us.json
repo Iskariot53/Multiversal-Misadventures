@@ -1,0 +1,10 @@
+{ "accessdenied.message.version.text": "%s | %s",
+ "accessdenied.warning.text" : "§c§oYou are not worthy of entering this realm...", 
+ "accessdenied.message.divider.text" : "-----------------------------------------------------", 
+ "accessdenied.requirements.text" : "§6Requirements", 
+ "accessdenied.requirement.levels.text" : "Levels", 
+ "accessdenied.requirement.bounty.text" : "Killed", 
+ "accessdenied.requirement.placed.text" : "Blocks Placed", 
+ "accessdenied.requirement.mined.text" : "Blocks Mined", 
+ "accessdenied.requirement.kills.text" : "Mobs Killed", 
+ "accessdenied.requirement.advancement.text" : "Advancement" }

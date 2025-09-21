@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:ingot_refined_glowstone"
+    },
+    "matter": [
+        {
+            "type": "replication:quantum",
+            "amount": 8.0
+        },
+        {
+            "type": "replication:metallic",
+            "amount": 20.0
+        },
+        {
+            "type": "replication:earth",
+            "amount": 12.0
+        },
+        {
+            "type": "replication:precious",
+            "amount": 1.0
+        },
+        {
+            "type": "replication:nether",
+            "amount": 2.0
+        }
+    ]
+}

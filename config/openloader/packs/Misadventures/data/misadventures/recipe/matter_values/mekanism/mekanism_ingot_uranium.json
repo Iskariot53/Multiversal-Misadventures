@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:ingot_uranium"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "amount": 12.0
+        },
+        {
+            "type": "replication:earth",
+            "amount": 8.0
+        }
+    ]
+}

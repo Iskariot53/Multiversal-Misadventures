@@ -1,0 +1,16 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "item": "forbidden_arcanus:elementarium"
+  },
+  "matter": [
+    {
+      "type": "replication:precious",
+      "amount": 32.0
+    },
+    {
+      "type": "replication:quantum",
+      "amount": 16.0
+    }
+  ]
+}

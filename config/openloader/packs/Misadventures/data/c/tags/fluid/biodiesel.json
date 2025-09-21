@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "createdieselgenerators:biodiesel",
+    "createdieselgenerators:flowing_biodiesel",
+	"oritech:still_biofuel",
+	"industrialforegoing:biofuel"
+	
+
+  ]
+}

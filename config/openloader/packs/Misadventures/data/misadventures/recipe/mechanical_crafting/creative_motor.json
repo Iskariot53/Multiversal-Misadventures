@@ -1,0 +1,40 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:brass_casing"
+    },
+    "B": {
+      "item": "ars_technica:source_motor"
+    },
+    "C": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+	"D": {
+      "item": "create:factory_gauge"
+    },
+	"E": {
+      "item": "create:steam_engine"
+    },
+	"F": {
+      "item": "mekanism:alloy_atomic"
+    }
+	
+  },
+  "pattern": [
+    "  AAA  ",
+    " AADAA ",
+    "AABCBAA",
+    "AECFCEA",
+    "AABCBAA",
+    " AADAA ",
+	"  AAA  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:creative_motor"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processing_time": 450,
+  "results": [
+    {
+      "id": "exdeorum:dust"
+    }
+  ]
+}

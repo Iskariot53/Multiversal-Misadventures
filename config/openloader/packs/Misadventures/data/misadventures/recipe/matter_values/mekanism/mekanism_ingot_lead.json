@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:ingot_lead"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "amount": 6.0
+        },
+        {
+            "type": "replication:earth",
+            "amount": 4.0
+        }
+    ]
+}

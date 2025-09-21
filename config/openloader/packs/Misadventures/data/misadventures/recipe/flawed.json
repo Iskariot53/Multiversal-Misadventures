@@ -1,0 +1,17 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "type": "apotheosis:gem",
+	"purity": "flawed"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "maxRange": 1,
+      "stack": {
+        "count": 4,
+        "id": "apotheosis:gem_dust"
+      }
+    }
+  ]
+}

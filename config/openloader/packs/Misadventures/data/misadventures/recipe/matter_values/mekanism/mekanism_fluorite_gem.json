@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:fluorite_gem"
+    },
+    "matter": [
+        {
+            "type": "replication:precious",
+            "amount": 1.33
+        },
+        {
+            "type": "replication:earth",
+            "amount": 0.67
+        }
+    ]
+}

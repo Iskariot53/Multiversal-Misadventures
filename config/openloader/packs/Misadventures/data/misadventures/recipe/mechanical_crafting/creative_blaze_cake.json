@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    "B": {
+      "item": "create:blaze_cake"
+    },
+    "C": {
+      "item": "occultism:chalk_purple"
+    },
+	"D": {
+      "item": "forbidden_arcanus:eternal_stella"
+    },
+	"E": {
+      "item": "ars_technica:calibrated_precision_mechanism"
+    }
+	
+  },
+  "pattern": [
+    "  AAAAA  ",
+    "AABBBBBAA",
+    "ABCDEDCBA",
+    "AABBBBBAA",
+    "  AAAAA  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:creative_blaze_cake"
+  },
+  "show_notification": false
+}

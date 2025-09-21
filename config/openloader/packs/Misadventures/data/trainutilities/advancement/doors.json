@@ -1,0 +1,35 @@
+{
+  "parent": "trainutilities:door_ingrediants",
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{
+          "tag": "trainutilities:db_doors",
+          "tag": "trainutilities:sf_doors"
+        }]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "frame": "task",
+    "show_toast": false,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.trainutilities.doors.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "trainutilities:door_ic2"
+    },
+    "title": {
+      "translate": "advancement.trainutilities.doors"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

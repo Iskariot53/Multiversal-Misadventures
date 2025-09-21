@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+	"B": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "AAA",
+	"ABA",
+	"AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae2:engineering_processor_press"
+  }
+}

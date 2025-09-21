@@ -1,0 +1,1 @@
+{ "dimension": "minecraft:overworld", "messages": [ "Obtain The Obsidian Skull to prove yourself worthy of access" ], "requirements": { "items": [ { "item": "confluence_dimension_patch:terrarium", "count": 1 } ] } }

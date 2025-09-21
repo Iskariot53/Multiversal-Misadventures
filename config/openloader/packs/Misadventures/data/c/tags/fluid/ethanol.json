@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "createdieselgenerators:ethanol",
+    "createdieselgenerators:flowing_ethanol",
+	"createaddition:bioethanol",
+	"mekanismgenerators:bioethanol"
+
+  ]
+}

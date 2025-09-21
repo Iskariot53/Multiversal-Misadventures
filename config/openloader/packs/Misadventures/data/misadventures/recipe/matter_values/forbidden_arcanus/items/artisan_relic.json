@@ -1,0 +1,16 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "item": "forbidden_arcanus:artisan_relic"
+  },
+  "matter": [
+    {
+      "type": "replication:precious",
+      "amount": 16.0
+    },
+    {
+      "type": "replication:quantum",
+      "amount": 8.0
+    }
+  ]
+}

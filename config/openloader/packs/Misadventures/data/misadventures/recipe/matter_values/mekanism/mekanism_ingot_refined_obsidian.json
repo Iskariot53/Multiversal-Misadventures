@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:ingot_refined_obsidian"
+    },
+    "matter": [
+        {
+            "type": "replication:precious",
+            "amount": 38.0
+        },
+        {
+            "type": "replication:earth",
+            "amount": 4.0
+        }
+    ]
+}

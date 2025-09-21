@@ -1,0 +1,16 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "type": "apotheosis:affix",
+      "rarity": "apotheosis:common"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 3,
+      "id": "apotheosis:common_material"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "oritech:industrial_glass_block"
+    },
+    "B": {
+      "item": "confluence:cloud_block"
+    },
+    "C": {
+      "item": "confluence:yellow_willow_sapling"
+    },
+	"D": {
+      "item": "occultism:otherflower"
+    },
+	"E": {
+      "item": "infinity:iridescence_bucket"
+    },
+	"F": {
+      "item": "mekanism:hdpe_sheet"
+    },
+	"G": {
+      "item": "minecraft:grass_block"
+    }
+	
+  },
+  "pattern": [
+    "  AAAAA  ",
+    "AABBBBBAA",
+    "ABCDEDCBA",
+    "AGGGGGGGA",
+    "FFFFFFFFF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "confluence_dimension_patch:terrarium"
+  },
+  "show_notification": false
+}
