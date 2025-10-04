@@ -10,7 +10,7 @@ frame_skip_recipe = false
 	#Adjust this value to define how much the matching spell cost gets discounted by the greater focus
 	# Default: 0.25
 	# Range: 0.0 ~ 0.99
-	elemental_maj_focus_discount = 0.25
+	elemental_maj_focus_discount = 0.50
 
 #Adjust these values to balance how much a spell gets amplified by the matching spell focus, doubled for major foci.
 ["Elemental Spell Foci - Amplify"]
@@ -38,11 +38,11 @@ frame_skip_recipe = false
 	#Max mana bonus for each elemental armor piece
 	# Default: 100
 	# Range: 0 ~ 10000
-	armorMaxMana = 100
+	armorMaxMana = 150
 	#Mana regen bonus for each elemental armor piece
 	# Default: 4
 	# Range: 0 ~ 100
-	armorManaRegen = 4
+	armorManaRegen = 6
 
 ["Mermaid Fishing"]
 	#How much source mermaids consume per generation

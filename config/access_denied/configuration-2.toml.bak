@@ -5,7 +5,7 @@ disabledDimensions = []
 pushBackPlayer = true
 #
 # Message displayed when the player cannot access the dimension.
-accessDeniedMessage = "You are not yet worthy!"
+accessDeniedMessage = "Access Denied!"
 #
 # This is the list of Strings that form the message with the missing requirements. You can modify each part to translate it or change text, but mesculating their order or deleting an entry will break the functionality. If it happens, delete the config file.
 #There will now be a list of the requirements in the order of Strings they appear.
@@ -25,6 +25,3 @@ accessDeniedMessage = "You are not yet worthy!"
 #15. jumps
 #16. timesFished
 requirementsMessageBuilder = ["You need to:", "Break another %missingBlocksBroken% blocks", "Place another %missingBlocksPlaced% blocks", "Get another %missingXpLevels% experience levels", "Kill another %missingPlayerKills% players", "Kill another %missingMobKills% mobs", "Play for another %missingPlayTime% seconds", "Have the items %missingItems%", "Have the effects %missingEffects%", "Have another %missingHealth% hearts", "Die another %missingDeaths% times", "Try again! You have a %chance% chance", "Complete the advancements %missingAdvancements%", "Complete the Quests %missingFtbQuests%", "Jump another %missingJumps% times", "Fish another %missingFishingCount% times", "to enter this dimension."]
-#
-# Whether to consume the items specified in the itemsKey requirement.
-consumeItems = false

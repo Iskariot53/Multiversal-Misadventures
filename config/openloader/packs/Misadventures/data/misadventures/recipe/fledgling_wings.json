@@ -1,0 +1,10 @@
+{
+  "type": "infinity:collision_iridescence",
+  "input": {
+    "item": "minecraft:feather"
+  },
+  "output": {
+    "id": "confluence:fledgling_wings"
+  },
+  "lore": "empty"
+}

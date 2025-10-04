@@ -262,7 +262,11 @@
 	]
 	quest.0E890DBF19049A6D.quest_subtitle: "&eGo see if the ender dragon's nice enough to help"
 	quest.0E890DBF19049A6D.title: "&6&lDraconic Bee"
-	quest.0EA26A98DCF1F119.quest_desc: ["Throw a Star of Lang into Iridescence"]
+	quest.0EA26A98DCF1F119.quest_desc: [
+		"Throw a Star of Lang into Iridescence, after jumping in yourself. You'd be surprised what answers and secrets this process can yield, they do not appear in JEI so don't bother trying to find them that way."
+		""
+		"(Hint: Chickens might be able to provide something worth trying, not like we would know.)"
+	]
 	quest.0EE55D55C22ADEDB.quest_desc: ["When supplied with power, bottles and the required ingredients, the potion brewer functions as an automated version of the vanilla brewing stand."]
 	quest.0EE55D55C22ADEDB.quest_subtitle: "&9Brewing v2.0"
 	quest.0EE55D55C22ADEDB.title: "&3&lPotion Brewer"

@@ -1,0 +1,5 @@
+# A list of registry ids of dimensions players cannot travel to at all.
+disabledDimensions = []
+#
+# Whether to push the player back or not when not meeting the requirements to access a dimension.
+pushBackPlayer = true

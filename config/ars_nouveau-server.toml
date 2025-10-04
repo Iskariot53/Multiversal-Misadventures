@@ -67,7 +67,7 @@
 #Infinite Spells Mode
 [spell_length]
 	#If Enabled, the value below will be added to the base glyph limit for spellbooks.
-	infiniteSpells = false
+	infiniteSpells = true
 	#Only used if infinite spells is true, increases or decreases the spell length limit in spellbooks..
 	# Default: 30
 	# Range: -9 ~ 1000

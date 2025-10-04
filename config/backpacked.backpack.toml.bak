@@ -69,15 +69,6 @@
 		# 
 		# Valid values: LINEAR, SQUARED, CUBIC
 		costInterpolateFunction = "LINEAR"
-		# The type of payment to use to unlock backpack slots. By default this value is set to EXPERIENCE,
-		# which will use the players experience levels are used to unlock new slots. If value is set to
-		# ITEM, this will instead consume a specified item from the player's inventory (including anything
-		# placed in the backpack) to unlock new slots.
-		# Valid values: EXPERIENCE, ITEM
-		paymentType = "EXPERIENCE"
-		# Only applicable if paymentType is set to ITEM. This option will control the item used when paying
-		# to unlock new slots.
-		paymentItem = "minecraft:emerald"
 
 # Inventory related properties
 [inventory]
@@ -162,15 +153,6 @@
 			# 
 			# Valid values: LINEAR, SQUARED, CUBIC
 			costInterpolateFunction = "CUBIC"
-			# The type of payment to use to unlock backpack slots. By default this value is set to EXPERIENCE,
-			# which will use the players experience levels are used to unlock new slots. If value is set to
-			# ITEM, this will instead consume a specified item from the player's inventory (including anything
-			# placed in the backpack) to unlock new slots.
-			# Valid values: EXPERIENCE, ITEM
-			paymentType = "EXPERIENCE"
-			# Only applicable if paymentType is set to ITEM. This option will control the item used when paying
-			# to unlock new slots.
-			paymentItem = "minecraft:emerald"
 
 # Cosmetic related properties
 [cosmetics]

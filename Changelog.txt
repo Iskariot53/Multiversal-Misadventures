@@ -1,58 +1,35 @@
-Multiversal Misadventures 2.0.1 Change Log
+Multiversal Misadventures 2.0.2 Change Log
 
-
-
-
-Mods Removed
-
-
-- Iron Furnaces
-- Iron Jetpacks
 
  
 
 Mods Added
 
 
-- 
+- AdvancedAE
  
 
 
 Mods Updated
 
 
-- AE2 Universal Press
+- Access Denied
+- Applied Energistics 2
 - Ars Nouveau
-- Apotheosis
-- Apothic Enchanting
-- Applied Energistics 2 Wireless Terminals
-- Backpacked
-- Bookshelf
-- Cobblegen Galore
-- Constant Music
-- CraftTweaker
-- Create: Diesel Generators
-- CreativeCore
-- Dangerous - Just A Difficulty Mod
-- Dimensional Pockets II
-- Ex Deorum
-- Ex Machinis: Divitiae Deorum
-- FancyMenu
-- Fusion
 - Immersive Aircraft
-- Occultism
-- Placebo
-- Prickle
-- Productive Bees
-- Productive Metalworks
-- Potentials
-- Stellaris
-- Tesseract API
-- WATERMeDIA: Multimedia API
-
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
 
 Changes
 
 
 - BACK UP/EMPTY YOUR BACKPACKS BEFORE UPDATING.
 - Edited dimension generation parameters.
+- Fixed dimension locks
+- Added recipe for fledgling wings.
+- Reduced spawn frequency of mutants.
+- updated quest information for accuracy.
+- Increased the maximum number of glyphs usable in a spell to 30.
+- Source discount when using matching focus boosted 25%
+- Elemental armor source buff increased 50%
