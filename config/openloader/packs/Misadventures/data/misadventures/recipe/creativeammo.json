@@ -1,0 +1,10 @@
+{
+  "type": "infinity:collision_iridescence",
+  "input": {
+    "item": "pointblank:printer"
+  },
+  "output": {
+    "id": "pointblank:ammocreative"
+  },
+  "lore": "empty"
+}

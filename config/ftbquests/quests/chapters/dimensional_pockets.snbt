@@ -7,15 +7,114 @@
 		id: "dimensionalpocketsii:block_pocket_enhanced"
 	}
 	id: "5158AF3E98971970"
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
-	quests: [{
-		id: "5CFD7FD3066A70C3"
-		tasks: [{
-			id: "5C220927EF4658A8"
-			type: "checkmark"
-		}]
-		x: 0.0d
-		y: -1.5d
-	}]
+	quests: [
+		{
+			id: "5CFD7FD3066A70C3"
+			tasks: [{
+				id: "5C220927EF4658A8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5CFD7FD3066A70C3"]
+			id: "75B1263BA2F94FA5"
+			tasks: [{
+				count: 32L
+				id: "65CC28C9F8E456F3"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_shard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75B1263BA2F94FA5"]
+			id: "39C5481171CC5EA2"
+			tasks: [{
+				id: "10E24DD8F852CEE2"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["39C5481171CC5EA2"]
+			id: "761966F84DD356A4"
+			tasks: [{
+				id: "7EC8B54BE2299E0C"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_wrench" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["75B1263BA2F94FA5"]
+			id: "64F5E1ACA0C69D8C"
+			tasks: [{
+				count: 32L
+				id: "57F96F63048575B4"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_dust" }
+				type: "item"
+			}]
+			x: 0.8214285714285694d
+			y: 1.0714285714285765d
+		}
+		{
+			dependencies: ["64F5E1ACA0C69D8C"]
+			id: "73CE0DF6CBFF0543"
+			tasks: [{
+				id: "3EEA038760820918"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_gem" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"73CE0DF6CBFF0543"
+				"39C5481171CC5EA2"
+			]
+			hide_dependency_lines: true
+			id: "7340A20D73205FD0"
+			tasks: [{
+				id: "02D36E9770638DC9"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_device_base" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"73CE0DF6CBFF0543"
+				"39C5481171CC5EA2"
+			]
+			hide_dependency_lines: true
+			id: "64B95E57827B0FBA"
+			tasks: [{
+				id: "4311523259726213"
+				item: { count: 1, id: "dimensionalpocketsii:module_base" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "7ABAD97387A02200"
+			tasks: [{
+				id: "0C1BE39D76A9D024"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_energy_cell" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+	]
 }

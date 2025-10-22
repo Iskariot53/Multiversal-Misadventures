@@ -9,10 +9,16 @@
   "catalyst": {
     "item": "infinity:star_of_lang"
   },
-  "entity": "infinity:bishop",
+  "entity_data": {
+    "data": {},
+    "display": "",
+    "entity": {
+      "type": "infinity:bishop"
+    }
+  },
   "output": {
     "amount": 10,
-    "id": "infinity:iridescence"
+    "fluid": "infinity:iridescence"
   },
   "rarity": [
     {

@@ -660,7 +660,7 @@
 			tasks: [{
 				count: 26L
 				id: "54B7C56B08F83B66"
-				item: { count: 26, id: "mekanismgenerators:fission_reactor_casing" }
+				item: { count: 1, id: "mekanismgenerators:fission_reactor_casing" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -678,7 +678,7 @@
 			tasks: [{
 				count: 4L
 				id: "23FCFCE4E771291C"
-				item: { count: 4, id: "mekanismgenerators:fission_reactor_port" }
+				item: { count: 1, id: "mekanismgenerators:fission_reactor_port" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -764,7 +764,7 @@
 			tasks: [{
 				count: 64L
 				id: "57F6D748C71CD672"
-				item: { count: 64, id: "mekanismgenerators:turbine_casing" }
+				item: { count: 1, id: "mekanismgenerators:turbine_casing" }
 				type: "item"
 			}]
 			x: 13.0d
@@ -918,7 +918,7 @@
 			tasks: [{
 				count: 32L
 				id: "00A6DC1090C8DAA0"
-				item: { count: 32, id: "mekanism:thermal_evaporation_block" }
+				item: { count: 1, id: "mekanism:thermal_evaporation_block" }
 				type: "item"
 			}]
 			x: -7.0d
@@ -936,7 +936,7 @@
 			tasks: [{
 				count: 2L
 				id: "7F01B50006D93B61"
-				item: { count: 2, id: "mekanism:thermal_evaporation_valve" }
+				item: { count: 1, id: "mekanism:thermal_evaporation_valve" }
 				type: "item"
 			}]
 			x: -7.0d
@@ -1043,7 +1043,7 @@
 			tasks: [{
 				count: 40L
 				id: "249D4A314332532A"
-				item: { count: 40, id: "mekanismgenerators:fusion_reactor_frame" }
+				item: { count: 1, id: "mekanismgenerators:fusion_reactor_frame" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -1061,7 +1061,7 @@
 			tasks: [{
 				count: 21L
 				id: "3D7F74049B9D05CE"
-				item: { count: 21, id: "mekanismgenerators:reactor_glass" }
+				item: { count: 1, id: "mekanismgenerators:reactor_glass" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1147,7 +1147,7 @@
 			tasks: [{
 				count: 3L
 				id: "46D9881DAA97F364"
-				item: { count: 3, id: "mekanismgenerators:fusion_reactor_port" }
+				item: { count: 1, id: "mekanismgenerators:fusion_reactor_port" }
 				type: "item"
 			}]
 			x: -5.0d
@@ -1186,7 +1186,7 @@
 			tasks: [{
 				count: 32L
 				id: "158514DFD07A91B4"
-				item: { count: 32, id: "mekanism:induction_casing" }
+				item: { count: 1, id: "mekanism:induction_casing" }
 				type: "item"
 			}]
 			x: -9.5d
@@ -1238,7 +1238,7 @@
 			tasks: [{
 				count: 2L
 				id: "0C5CBB944B7A500E"
-				item: { count: 2, id: "mekanism:induction_port" }
+				item: { count: 1, id: "mekanism:induction_port" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -1290,7 +1290,7 @@
 			tasks: [{
 				count: 3L
 				id: "658743D327EBE73D"
-				item: { count: 3, id: "mekanism:sps_port" }
+				item: { count: 1, id: "mekanism:sps_port" }
 				type: "item"
 			}]
 			x: 0.5d

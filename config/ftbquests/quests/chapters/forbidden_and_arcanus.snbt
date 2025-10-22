@@ -285,13 +285,13 @@
 				{
 					count: 17L
 					id: "3CD5810E6142D9FA"
-					item: { count: 17, id: "forbidden_arcanus:polished_darkstone_bricks" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone_bricks" }
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "36A094C218BF54E9"
-					item: { count: 8, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 			]
@@ -498,13 +498,13 @@
 				{
 					count: 4L
 					id: "603CF3EA7CB0E39A"
-					item: { count: 4, id: "forbidden_arcanus:chiseled_arcane_polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:chiseled_arcane_polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 48L
 					id: "43B3B5F08F5B9A1A"
-					item: { count: 48, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
@@ -580,7 +580,7 @@
 				{
 					count: 2L
 					id: "702AF0469871AD0B"
-					item: { count: 2, id: "forbidden_arcanus:arcane_crystal_block" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_crystal_block" }
 					type: "item"
 				}
 			]
@@ -675,13 +675,13 @@
 				{
 					count: 4L
 					id: "4AA54476E4F323AD"
-					item: { count: 4, id: "forbidden_arcanus:spawner_scrap" }
+					item: { count: 1, id: "forbidden_arcanus:spawner_scrap" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "4DE659E580A7A7F4"
-					item: { count: 4, id: "forbidden_arcanus:arcane_crystal" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_crystal" }
 					type: "item"
 				}
 				{
@@ -709,13 +709,13 @@
 				{
 					count: 4L
 					id: "25D9B46D26A6D610"
-					item: { count: 4, id: "forbidden_arcanus:deorum_ingot" }
+					item: { count: 1, id: "forbidden_arcanus:deorum_ingot" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "7D89568BD7906904"
-					item: { count: 4, id: "forbidden_arcanus:arcane_crystal" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_crystal" }
 					type: "item"
 				}
 				{
@@ -743,13 +743,13 @@
 				{
 					count: 4L
 					id: "3187498DD9C152E3"
-					item: { count: 4, id: "forbidden_arcanus:stellarite_piece" }
+					item: { count: 1, id: "forbidden_arcanus:stellarite_piece" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "4C8DE159E0558D41"
-					item: { count: 4, id: "forbidden_arcanus:rune" }
+					item: { count: 1, id: "forbidden_arcanus:rune" }
 					type: "item"
 				}
 				{
@@ -781,13 +781,13 @@
 				{
 					count: 4L
 					id: "3B7E15DE2BF9079A"
-					item: { count: 4, id: "minecraft:sculk_catalyst" }
+					item: { count: 1, id: "minecraft:sculk_catalyst" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "160A5EDA415E0925"
-					item: { count: 2, id: "forbidden_arcanus:dragon_scale" }
+					item: { count: 1, id: "forbidden_arcanus:dragon_scale" }
 					type: "item"
 				}
 				{

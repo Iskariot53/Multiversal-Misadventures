@@ -6,3 +6,5 @@ bobbingDisabled = true
 customHoldAnim = true
 #Whether boots should emit particles when used
 bootEffects = true
+#Allows aiming guns by holding right click
+aimingDownSights = true

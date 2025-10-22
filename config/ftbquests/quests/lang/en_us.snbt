@@ -18,7 +18,6 @@
 	chapter.5063740556FEA9F4.title: "&aStellaris"
 	chapter.50F5082DF03F979A.title: "Tom's Simple Storage"
 	chapter.5158AF3E98971970.title: "&aDimensional Pockets"
-	chapter.5200A7E0422864C0.title: "&aIron Furnaces"
 	chapter.5E8B386358D2260F.title: "&aTom's Simple Storage"
 	chapter.61AB2C589897DF17.title: "Sophisticated Storage"
 	chapter.6594504242CFDEF0.title: "&aProductive Metalworks"
@@ -424,7 +423,7 @@
 		""
 		"Iridescense can also be made renewable by capturing a Bishop of Lang within the range of a stasis chamber, and harvesting it from the bishop via fluid laser drills."
 		""
-		"This requires an Iridescent Star as a catalyst, therefor, you must both summon and defeat the bishop at least once to obtain the Star of Lang as well as find iridescence on your own at least once, in order to create the Iridescent Star by throwing one into the other.  "
+		"This requires a Star of Lang as a catalyst, therefor, you must summon and/or encounter and defeat the bishop at least once before this becomes an option. It is worth noting that you must submerge yourself in iridescence, and obtain the iridescent effect, in order to craft with it by throwing items into it. "
 	]
 	quest.17E0B0EAF32A462F.quest_subtitle: "Ooooh pretty"
 	quest.18612C429179D483.quest_desc: ["The &dEnchanting Apparatus&r and &dArcane core&r are used in conjunction with up to eight pedestals for crafting special machines, curios, and equipment used to progress in Ars Nouveau."]
@@ -821,6 +820,7 @@
 	]
 	quest.2DFAB367F1A7D350.quest_subtitle: "&6We'll need this"
 	quest.2DFAB367F1A7D350.title: "&e&lWelcome to Create!"
+	quest.2E2865BD3B706077.title: "Polished Darkstone"
 	quest.2ED038A81358A49E.quest_desc: [
 		"Getting started with Applied Energistics 2, from here on referred to as \"ae2\". Craft yourself a quartz wrench, and over the course of the next few chapters we'll cover the basics. "
 		""
@@ -929,7 +929,7 @@
 	quest.3578C10DCCFB62AB.quest_subtitle: "&6Rotational Power Generation"
 	quest.3578C10DCCFB62AB.title: "&e&lGenerator Coil"
 	quest.35B45A3C14BFE4EF.quest_desc: [
-		"The Stone block generator can be used to generate any stone recipe that would otherwise happen form the occurence of things like lava and water interacting."
+		"The stone block generator can be used to generate any stone recipe that would otherwise happen from blocks and fluids like lava and water interacting."
 		""
 		"Using those an example, you can place the generator. A bucket of water on one side of it. A bucket of lava on the other. Lastly, place an inventory on top and the generator will begin to make and push cobblestone into the container."
 	]
@@ -1182,12 +1182,12 @@
 	quest.40F6AE83FEC2D255.quest_subtitle: "&6Ignores Spawn Conditions"
 	quest.40F6AE83FEC2D255.title: "&e&lIrradium Bar"
 	quest.41DB1765A1A5EFC0.quest_desc: [
-		"Just in case, in order to provide a means of reliable resource generation. A quite a few compatibility mods and recipes have been added or made to both add and diversify a means of obtaining a steady supply of resources, should finding them be strenuous. Anyone familiar with sky, stone, whatever-block packs will recognize them. Most of them revolve around Ex Deorum compatibility and a means of crushing resources, you have a quite a few options."
+		"Just in case, in order to provide a means of reliable resource generation. Quite a few compatibilities and recipes have been implemented to both add and diversify a means of obtaining a steady supply of resources, should finding them be strenuous. Anyone familiar with sky, stone... \"whatever-block\" packs will recognize them. Most of them revolve around Ex Deorum style compatibilities and a means of crushing/sifting resources, you have a quite a few options."
 		""
 		""
 		"{@pagebreak}"
 		""
-		"Please note that this is really just the first round of compatibility recipes, what was viewed as the bare minimum to get a player started and stable. More compat recipes and tweaks are sure to come but more importantly, we'd love to hear your opinions! If you have any suggestions, please, let us know."
+		"Please note that this is really just the first round of compatibility recipes and integrations. What was viewed as the bare minimum to get a player started and stable with a range of options for how they get there. More compat recipes and tweaks are sure to come but more importantly, we'd love to hear your opinions! If you have any suggestions, please, let us know! "
 	]
 	quest.41DB1765A1A5EFC0.quest_subtitle: "Just in case."
 	quest.420795AD09FFD406.quest_desc: ["This spell focus is attuned to the &dSchool of Water&r. While equipped, glyphs from this school will be amplified and discounted, enhancing water-based spells. The lesser focus, as a drawback, weakens glyphs from the other elemental schools. The major focus grants Mana Regen I &ewhen the wearer is wet&r, and further boosts this to Mana Regen II and Dolphin's Grace &ewhile swimming&r, making it ideal for aquatic mages or those frequently near water."]
@@ -1253,9 +1253,9 @@
 		""
 		"{@pagebreak}"
 		""
-		"Portals. The answer to your problem is almost always \"another dimension\". Or it may be the catalyst of your next misadventure! The next few quest points will give you some good goals and objectives to help guide you through the basics of what you have to work with, and towards."
+		"Portals. The answer to your problem is almost always \"another dimension\". Or it may be the catalyst of your next misadventure! The next few quest points will give you some goals and objectives to help guide you through the basics of what you have to work with, and towards."
 		""
-		"As for now, to get started and a taste of what you're in for. Try constructing a &dnether portal&r within the library.  "
+		"As for now? To get started and a taste of what you're in for. Try constructing a &dnether portal&r within the library.  "
 		""
 		"&6Shift + R click&r any one of the limitless shelves to choose from around you to receive a book. &6Throw that book into the portal&r to generate any one of billions of possible destinations. You can eventually find and gather almost anything you need this way or you will find that there are also alterior means of getting the resources necessary to move forward with your goals. Leaving you to find and choose your own methods for getting a handle on things is an integral part of game play."
 		""
@@ -1775,6 +1775,13 @@
 		"&lItems Processed:&r 1 item"
 	]
 	quest.5C725D0B1B56CF39.title: "&lTier 4"
+	quest.5CFD7FD3066A70C3.quest_desc: [
+		"For multiple reasons, from TPS to the simple fact that being able to \"carry your base\" any where you go is pretty nice, setting up a dimensional pocket for your primary base of options can be a wise endeavor. "
+		""
+		"{@pagebreak}"
+		""
+		"Anything from items, to fluids, to FE can be piped into or out of a pocket, and they come with advanced features for everything from access security, mob spawn control and even wall mounted benches and upgrade modules!"
+	]
 	quest.5CFD7FD3066A70C3.quest_subtitle: "Building in a Void Cube"
 	quest.5CFD7FD3066A70C3.title: "Welcome to Dimensional Pockets 2!"
 	quest.5D21774751A2BED4.quest_desc: ["Operates similar to the Source Relay, but will &ddeposit to jars it is not linked to within 5 blocks&r. See the instructions on the Source Relay for use."]

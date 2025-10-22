@@ -9,10 +9,9 @@
   "catalyst": {
     "item": "industrialforegoing:black_laser_lens"
   },
-  "entity": "minecraft:empty",
   "output": {
     "amount": 50,
-    "id": "oritech:still_oil"
+    "fluid": "oritech:still_oil"
   },
   "rarity": [
     {

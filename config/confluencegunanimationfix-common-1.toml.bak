@@ -1,0 +1,8 @@
+#Whether recoil animations are enabled
+recoilEnabled = true
+#Whether hand bobbing is disabled when holding a gun
+bobbingDisabled = true
+#Whether the hands use a custom animation for holding guns
+customHoldAnim = true
+#Whether boots should emit particles when used
+bootEffects = true

@@ -8,14 +8,24 @@
 		id: "ars_elemental:mark_of_mastery"
 	}
 	id: "2DFE8C1B57381947"
-	images: [{
-		height: 8.0d
-		image: "stellaris:textures/gui/tablet/images/rocket_station.png"
-		rotation: 0.0d
-		width: 8.0d
-		x: 11.839285714285722d
-		y: 3.75d
-	}]
+	images: [
+		{
+			height: 8.0d
+			image: "stellaris:textures/gui/tablet/images/rocket_station.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 11.839285714285722d
+			y: 3.75d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/the_blockheads_guide_to_the_galaxy.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: 8.0d
+			y: -7.0d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -72,7 +82,7 @@
 			tasks: [{
 				count: 3L
 				id: "2A95091ED71486DA"
-				item: { count: 3, id: "replication:matter_network_pipe" }
+				item: { count: 1, id: "replication:matter_network_pipe" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -264,7 +274,7 @@
 			tasks: [{
 				count: 9L
 				id: "286C59E94C16AD04"
-				item: { count: 9, id: "stellaris:rocket_launch_pad" }
+				item: { count: 1, id: "stellaris:rocket_launch_pad" }
 				type: "item"
 			}]
 			x: 6.5d
@@ -287,7 +297,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 2.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["3368F0162D2E8B19"]
@@ -303,11 +313,11 @@
 			tasks: [{
 				count: 4L
 				id: "713A21ACB7AA0199"
-				item: { count: 4, id: "stellaris:rocket_fin" }
+				item: { count: 1, id: "stellaris:rocket_fin" }
 				type: "item"
 			}]
 			x: 6.5d
-			y: 3.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["3368F0162D2E8B19"]
@@ -326,7 +336,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 4.0d
+			y: 3.5d
 		}
 		{
 			dependencies: [
@@ -350,7 +360,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: 8.0d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -374,7 +384,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 8.0d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -398,7 +408,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 9.0d
+			y: 8.5d
 		}
 		{
 			dependencies: [
@@ -413,7 +423,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 12.0d
+			y: 10.5d
 		}
 		{
 			dependencies: [

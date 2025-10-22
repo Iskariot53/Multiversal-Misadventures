@@ -57,16 +57,24 @@
 	# Default: 0.18
 	# Range: 0.0 ~ 1.0
 	weaponChance = 0.18
-	#Chance for item to get enchanted.
-	# Default: 0.25
-	# Range: 0.0 ~ 1.0
-	enchantmentChance = 0.25
 	#Enchantments available for bows.
 	availableBowEnchantments = ["minecraft:power", "minecraft:infinity", "minecraft:flame", "minecraft:punch"]
 	#Enchantments available for melee weapons.
 	availableWeaponEnchantments = ["minecraft:sharpness", "minecraft:smite", "minecraft:fire_aspect", "minecraft:unbreaking", "minecraft:knockback", "apotheosis:deep_wounds"]
 	#Enchantments available for armor.
 	availableArmorEnchantments = ["minecraft:protection", "minecraft:unbreaking", "minecraft:fire_protection", "minecraft:projectile_protection"]
+	#Chance for item to receive 1 enchantment. (0.35 = 35%)
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	enchantCountLevel1 = 0.35
+	#Chance for item to receive 2 enchantments. (0.15 = 15%)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	enchantCountLevel2 = 0.15
+	#Chance for item to receive 3 enchantments. (0.05 = 5%)
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	enchantCountLevel3 = 0.05
 
 ["Creeper Speed Settings"]
 	#Multiplier to increase Creeper movement speed.

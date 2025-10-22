@@ -1,35 +1,80 @@
-Multiversal Misadventures 2.0.2 Change Log
+Multiversal Misadventures 2.0.3 Change Log
 
 
+- Updated to Neoforge 21.1.209
  
+
 
 Mods Added
 
 
-- AdvancedAE
- 
+- Refined Storage
+- Refined Storage - Curios Integration
+- Refined Storage - JEI Integration
+- Refined Storage - Mekanism Integration
+- Refined Storage - Quartz Arsenal
+- Refined Types
+
 
 
 Mods Updated
 
 
-- Access Denied
-- Applied Energistics 2
+- AdvancedAE
+- Applied Mekanistics
+- Ars Elemental
 - Ars Nouveau
-- Immersive Aircraft
+- Artifacts
+- BaguetteLib
+- Balm
+- Bookshelf
+- Collective
+- Confluence: Otherworld Gun Fix
+- Confluent Enchantments
+- Connectivity
+- Cooking for Blockheads
+- Corpse
+- Corpse x Curios API Compat
+- Create Crafts & Additions
+- Create: Filters Anywhere
+- Create: Hypertubes
+- CreativeCore
+- Dangerous - Just A Difficulty Mod
+- Farming for Blockheads
+- Forgified Fabric API
+- FTB Chunks
+- FTB Essentials
+- FTB Library
+- FTB Quests
+- FTB Teams
+- FTB Ultimine
+- FTB XMod Compat
+- Fusion (Connected Textures)
+- GeckoLib
+- GuideME
+- Industrial Foregoing
+- Kotlin for Forge
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
+- Modonomicon
+- MrCrayfish's Furniture Mod: Refurbished
+- Occultism
+- OctoLib
+- Oritech
+- Productive Metalworks
+- SmartBrainLib
+- Stellaris
+- Tesseract API (NeoForge)
+- WATERFrAMES: Multimedia Displays
+- WATERMeDIA: Multimedia API
+- Waystones
+
+
 
 Changes
 
 
-- BACK UP/EMPTY YOUR BACKPACKS BEFORE UPDATING.
-- Edited dimension generation parameters.
-- Fixed dimension locks
-- Added recipe for fledgling wings.
-- Reduced spawn frequency of mutants.
-- updated quest information for accuracy.
-- Increased the maximum number of glyphs usable in a spell to 30.
-- Source discount when using matching focus boosted 25%
-- Elemental armor source buff increased 50%
+- Removed Dimensional Ejector
+- Updated quest book formatting/imaging, as well as typos.
+- Fixed typo in Overworld dimensional lock error return messaging.

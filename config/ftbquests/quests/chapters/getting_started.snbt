@@ -731,8 +731,11 @@
 			rewards: [{
 				id: "345039838CF177B2"
 				item: {
+					components: {
+						"ftbquests:missing_item": "ironfurnaces:rainbow_coal"
+					}
 					count: 1
-					id: "ironfurnaces:rainbow_coal"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

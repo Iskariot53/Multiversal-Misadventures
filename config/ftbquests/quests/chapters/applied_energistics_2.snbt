@@ -5,14 +5,14 @@
 	filename: "applied_energistics_2"
 	group: "010D48DD05987800"
 	icon: {
-		id: "ae2:singularity"
+		id: "ae2:charger"
 	}
 	id: "34633DCECF1920EB"
 	images: [{
-		height: 3.0d
+		height: 2.0d
 		image: "ftbquests:textures/ae2.png"
 		rotation: 0.0d
-		width: 6.0d
+		width: 16.0d
 		x: 0.0d
 		y: -3.5d
 	}]
