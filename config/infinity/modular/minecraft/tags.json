@@ -62,6 +62,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:bars"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:base_stone_nether"
 		},
 		{
@@ -298,7 +302,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:grass_block"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:guarded_by_piglins"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:hoglin_repellent"
 		},
 		{
 			"weight": 1.0,
@@ -699,10 +711,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:wart_blocks"
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:water"
 		},
 		{
 			"weight": 1.0,

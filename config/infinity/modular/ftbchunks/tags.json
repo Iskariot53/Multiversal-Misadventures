@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ftbchunks:edit_whitelist"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ftbchunks:interact_whitelist"
 		}
 	]

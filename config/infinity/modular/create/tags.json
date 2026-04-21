@@ -26,10 +26,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "create:fallback_mounted_storage_blacklist"
-		},
-		{
-			"weight": 1.0,
 			"key": "create:fan_processing_catalysts/blasting"
 		},
 		{
@@ -39,10 +35,6 @@
 		{
 			"weight": 1.0,
 			"key": "create:fan_processing_catalysts/smoking"
-		},
-		{
-			"weight": 1.0,
-			"key": "create:fan_processing_catalysts/splashing"
 		},
 		{
 			"weight": 1.0,
@@ -58,19 +50,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "create:non_breakable"
-		},
-		{
-			"weight": 1.0,
 			"key": "create:non_harvestable"
 		},
 		{
 			"weight": 1.0,
 			"key": "create:non_movable"
-		},
-		{
-			"weight": 1.0,
-			"key": "create:ore_override_stone"
 		},
 		{
 			"weight": 1.0,

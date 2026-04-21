@@ -4,7 +4,7 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "modularrouters:blocks/modular_router"
 		}
 	]

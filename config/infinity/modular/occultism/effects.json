@@ -48,6 +48,24 @@
 		{
 			"data": {
 				"Category": "beneficial",
+				"Color": 16552194,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "occultism:pumpkin_head"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 3402751,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "occultism:step_blocked"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
 				"Color": 3402751,
 				"Instant": false
 			},

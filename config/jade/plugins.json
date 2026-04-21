@@ -178,10 +178,15 @@
     "mob_jar": true
   },
   "toms_storage": {
+    "inventory_hopper": true,
     "inventory_config": true,
     "inventory_connector": true
   },
   "corpse": {
     "corpse": true
+  },
+  "modular_machinery_reborn": {
+    "machine_component_provider": true,
+    "hatch_component_provider": true
   }
 }

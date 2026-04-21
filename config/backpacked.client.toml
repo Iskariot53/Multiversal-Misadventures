@@ -16,3 +16,6 @@ unlockableSlotMode = "ENABLED"
 # Very secret feature, do not enable if you don't want your screen filled with particle effects
 # Valid values: true, false
 glitterBomb = false
+# If enabled, hides the call to action at the bottom of the customisation menu which links out to community addons and a guide.
+# Valid values: true, false
+hideAddonsCallToAction = false

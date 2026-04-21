@@ -2,6 +2,14 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:shockwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:shockwave_small"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:spark"
 		},
 		{

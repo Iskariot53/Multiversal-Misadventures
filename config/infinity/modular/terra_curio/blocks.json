@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "terra_curio:workshop"
+		}
+	]
+}

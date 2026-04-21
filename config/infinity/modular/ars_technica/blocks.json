@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_technica:precise_relay"
 		},
 		{
@@ -17,8 +17,18 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_technica:source_motor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_technica:transmutation_turret"
 		}
 	]
 }

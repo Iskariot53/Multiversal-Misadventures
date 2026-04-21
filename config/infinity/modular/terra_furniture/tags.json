@@ -2,7 +2,79 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "terra_furniture:acacia_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:ash_wood_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:balloon_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:bamboo_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:baobab_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:bathtubs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:birch_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:bone_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:cactus_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:cherry_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:crimson_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:dark_oak_furniture"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_furniture:dungeon_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:duskware_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:dynasty_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:ebonwood_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:faywood_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:flinx_fur_furniture"
 		},
 		{
 			"weight": 1.0,
@@ -10,7 +82,83 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_furniture:gold_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:house_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:house_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:jungle_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:mangrove_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:marble_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:mushroom_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:oak_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:obsidian_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:pearlwood_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:pine_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:polished_blackstone_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:shadewood_furniture"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_furniture:sinks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:skyware_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:spooky_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:spruce_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:stone_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:warped_furniture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:wooden_furniture"
 		}
 	]
 }

@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "createdieselgenerators:crude_oil",
-	"stellaris:oil",
 	"oritech:still_oil"
   ]
 }

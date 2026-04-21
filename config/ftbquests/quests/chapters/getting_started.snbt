@@ -109,88 +109,9 @@
 			dependencies: ["458329839B21BF7B"]
 			icon: {
 				components: {
-					"akashictome:is_morphed": 1b
-					"akashictome:tool_content": [
-						{
-							components: {
-								"akashictome:defined_mod": "ftbquests"
-							}
-							count: 1
-							id: "ftbquests:book"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "dimensionalpocketsii"
-							}
-							count: 1
-							id: "dimensionalpocketsii:dimensional_tome"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "apotheosis"
-								"patchouli:book": "apotheosis:apoth_chronicle"
-							}
-							count: 1
-							id: "patchouli:guide_book"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "securitycraft"
-							}
-							count: 1
-							id: "securitycraft:sc_manual"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "industrialforegoing"
-								"patchouli:book": "industrialforegoing:industrial_foregoing"
-							}
-							count: 1
-							id: "patchouli:guide_book"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "powah"
-							}
-							count: 1
-							id: "powah:book"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "ars_nouveau"
-							}
-							count: 1
-							id: "ars_nouveau:worn_notebook"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "ae2"
-							}
-							count: 1
-							id: "ae2:guide"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "productivemetalworks"
-								"akashictome:is_morphed": 1b
-								"akashictome:og_display_name": "{\"translate\":\"book.productivemetalworks.name\"}"
-								"minecraft:custom_name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Big Book of Metallurgy\"}]}"
-								"patchouli:book": "productivemetalworks:guide"
-							}
-							count: 1
-							id: "patchouli:guide_book"
-						}
-						{
-							components: {
-								"akashictome:defined_mod": "productivebees"
-								"patchouli:book": "productivebees:guide"
-							}
-							count: 1
-							id: "patchouli:guide_book"
-						}
-					]
+					"ftbquests:missing_item": "akashictome:tome"
 				}
-				id: "akashictome:tome"
+				id: "ftbquests:missing_item"
 			}
 			id: "0B3DC4B76699852B"
 			rewards: [{
@@ -227,13 +148,6 @@
 								}
 								count: 1
 								id: "securitycraft:sc_manual"
-							}
-							{
-								components: {
-									"akashictome:defined_mod": "powah"
-								}
-								count: 1
-								id: "powah:book"
 							}
 							{
 								components: {
@@ -642,7 +556,7 @@
 			}]
 			tasks: [{
 				id: "014CFF9588F091F4"
-				item: { count: 1, id: "pointblank:printer" }
+				item: { components: { "ftbquests:missing_item": "pointblank:printer" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d

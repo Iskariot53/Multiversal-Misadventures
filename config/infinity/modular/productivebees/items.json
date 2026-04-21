@@ -5,11 +5,11 @@
 			"key": "productivebees:acacia_wood_nest"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "productivebees:adv_breed_all_bees"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "productivebees:adv_breed_bee"
 		},
 		{
@@ -787,62 +787,6 @@
 		{
 			"weight": 1.0,
 			"key": "productivebees:treat_on_a_stick"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_anti_teleport"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_base"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_bee_sampler"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_breeding"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_comb_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_filter"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_not_babee"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_productivity"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_productivity_2"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_productivity_3"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_productivity_4"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_range"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_simulator"
-		},
-		{
-			"weight": 1.0,
-			"key": "productivebees:upgrade_time"
 		},
 		{
 			"weight": 1.0,

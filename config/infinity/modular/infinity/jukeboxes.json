@@ -6,6 +6,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:a_last_first_last_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:a_last_first_last_stereo"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:aerie"
 		},
 		{
@@ -22,11 +30,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:aria_math"
+			"key": "infinity:arcana"
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:axolot1"
+			"key": "infinity:aria_math"
 		},
 		{
 			"weight": 1.0,
@@ -35,6 +43,26 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:ballad_of_the_cats"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:bee_laxing_with_the_hom_bees"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:bee_ware_of_the_temple_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:bee_ware_of_the_temple_stereo"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:beenna_box_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:beenna_box_stereo"
 		},
 		{
 			"weight": 1.0,
@@ -58,18 +86,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:calm1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:calm2"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:calm3"
-		},
-		{
-			"weight": 1.0,
 			"key": "infinity:challenger"
 		},
 		{
@@ -78,7 +94,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:cirrus"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:clark"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:cloud_skipper"
 		},
 		{
 			"weight": 1.0,
@@ -90,31 +114,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:creative1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:creative2"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:creative3"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:creative4"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:creative5"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:creative6"
-		},
-		{
-			"weight": 1.0,
 			"key": "infinity:crescent_dunes"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dance_music"
 		},
 		{
 			"weight": 1.0,
@@ -138,6 +142,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:drowning_in_despair_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:drowning_in_despair_stereo"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:dry_hands"
 		},
 		{
@@ -154,11 +166,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:eterna"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:featherfall"
 		},
 		{
 			"weight": 1.0,
 			"key": "infinity:firebugs"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:flight_of_the_bumblebee_rimsky_korsakov"
 		},
 		{
 			"weight": 1.0,
@@ -170,27 +194,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:glide"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:glimmer"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:haggstrom"
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:hal1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:hal2"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:hal3"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:hal4"
-		},
-		{
-			"weight": 1.0,
 			"key": "infinity:haunt_muskie"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:honey_bee_rat_faced_boy"
 		},
 		{
 			"weight": 1.0,
@@ -206,7 +226,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:knowing_renren_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:knowing_renren_stereo"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:komorebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:la_bee_da_loca"
 		},
 		{
 			"weight": 1.0,
@@ -218,23 +250,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:life_renren_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:life_renren_stereo"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:living_mice"
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:menu1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:menu2"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:menu3"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:menu4"
+			"key": "infinity:mammatus"
 		},
 		{
 			"weight": 1.0,
@@ -254,47 +282,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:nether1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:nether2"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:nether3"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:nether4"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:nuance1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:nuance2"
-		},
-		{
-			"weight": 1.0,
 			"key": "infinity:one_more_day"
 		},
 		{
 			"weight": 1.0,
 			"key": "infinity:oxygene"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:piano1"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:piano2"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:piano3"
 		},
 		{
 			"weight": 1.0,
@@ -306,7 +298,31 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:quanta"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:radiance_renren_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:radiance_renren_stereo"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:rivers_of_honey_moserao_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:rivers_of_honey_moserao_stereo"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:rubedo"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:shimmer"
 		},
 		{
 			"weight": 1.0,
@@ -319,10 +335,6 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:stand_tall"
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:star_wars_opening_music"
 		},
 		{
 			"weight": 1.0,
@@ -355,6 +367,10 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:wet_hands"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:windstream"
 		},
 		{
 			"weight": 1.0,

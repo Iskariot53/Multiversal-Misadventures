@@ -1,0 +1,620 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_compound_eyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_compound_eyes_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_compound_eyes_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_diamond_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax_diamond_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_arrows"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_bee"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_eyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_honeycombs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_peace"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_pluses"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:banner_pattern_swords"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_queen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:beehemoth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:beehive_beeswax"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumble_bee_chestplate_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumble_bee_chestplate_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumble_bee_chestplate_trans_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumble_bee_chestplate_trans_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:buzzing_briefcase"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carpenter_bee_boots_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carpenter_bee_boots_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_chains"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_music"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carvable_wax_wavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:crystal_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:crystalline_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:dirt_pellet"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:empty_honeycomb_brood_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_calming"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_continuity"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_knowing"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_life"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_of_the_bees"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_radiance"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_raging"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:filled_porous_honeycomb_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:flower_headwear"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:glistering_honey_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:heavy_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_bee_leggings_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_bee_leggings_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_cocoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_crystal_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_crystal_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honeycomb_brood_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_channel_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_corner_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax_node_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_a_last_first_last"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_bee_laxing_with_the_hom_bees"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_bee_ware_of_the_temple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_beenna_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_drowning_in_despair"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_flight_of_the_bumblebee_rimsky_korsakov"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_honey_bee_rat_faced_boy"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_knowing_renren"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_la_bee_da_loca"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_life_renren"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_radiance_renren"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:music_disc_rivers_of_honey_moserao"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pile_of_pollen"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pile_of_pollen_suspicious"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pollen_puff"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:porous_honeycomb_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:potion_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:redstone_honey_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:rootmin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:royal_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:royal_jelly_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:royal_jelly_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sentry_watcher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sticky_honey_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sticky_honey_residue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:stinger_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:stingless_bee_helmet_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:stingless_bee_helmet_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtain_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_infused_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_infused_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:variant_bee_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:windy_air"
+		}
+	]
+}

@@ -1,55 +1,83 @@
 {
 	"elements": [
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:barrels"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:chests"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:containers"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:convert/barrels"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:convert/blacklist"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:convert/blocks"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:convert/chests"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:convert/custom_eligible"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "lootr:convert/gravels"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:convert/pots"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:convert/sands"
+		},
+		{
+			"weight": 1.0,
 			"key": "lootr:convert/shulkers"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:convert/trapped_chests"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "lootr:gravels"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:interact_whitelist_blocks"
+		},
+		{
+			"weight": 1.0,
 			"key": "lootr:non_blocking"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "lootr:pots"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:sands"
+		},
+		{
+			"weight": 1.0,
 			"key": "lootr:shulkers"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:trapped_chests"
 		}
 	]

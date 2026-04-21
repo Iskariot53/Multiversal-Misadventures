@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "offroad:borehead_bearing"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:large_tire"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:monstrous_tire"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:rockcutting_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:small_tire"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:tire"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:wheel_mount"
+		}
+	]
+}

@@ -51,7 +51,7 @@
 		x: -2.5d
 		y: -16.5d
 	}]
-	order_index: 7
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -3804,7 +3804,7 @@
 			}]
 			tasks: [{
 				id: "750C1438D59D33CC"
-				item: { count: 1, id: "ars_elemental:anima_essence" }
+				item: { count: 1, id: "sauce:anima_essence" }
 				type: "item"
 			}]
 			x: -8.5d

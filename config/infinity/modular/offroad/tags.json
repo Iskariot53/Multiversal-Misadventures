@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "offroad:borehead_effective"
+		},
+		{
+			"weight": 1.0,
+			"key": "offroad:borehead_super_effective"
+		}
+	]
+}

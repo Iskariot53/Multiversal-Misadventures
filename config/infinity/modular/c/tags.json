@@ -30,6 +30,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:cactus"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:chains"
 		},
 		{
@@ -158,6 +162,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:enchanting_tables"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:end_stones"
 		},
 		{
@@ -222,23 +230,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ices"
-		},
-		{
-			"weight": 1.0,
-			"key": "c:ices/blue"
-		},
-		{
-			"weight": 1.0,
-			"key": "c:ices/dry"
-		},
-		{
-			"weight": 1.0,
-			"key": "c:ices/ice"
-		},
-		{
-			"weight": 1.0,
-			"key": "c:ices/packed"
+			"key": "c:iron_bars"
 		},
 		{
 			"weight": 1.0,
@@ -302,7 +294,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/adamantite"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/amethyst"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/black_quartz"
 		},
 		{
 			"weight": 1.0,
@@ -310,11 +322,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/cobalt"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/copper"
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/desh"
+			"key": "c:ores/crimtane"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/demonite"
 		},
 		{
 			"weight": 1.0,
@@ -334,11 +354,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/hellstone"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/iesnium"
 		},
 		{
 			"weight": 1.0,
 			"key": "c:ores/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/jade"
 		},
 		{
 			"weight": 1.0,
@@ -350,7 +378,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/neptunium"
+			"key": "c:ores/meteorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:ores/mythril"
 		},
 		{
 			"weight": 1.0,
@@ -362,11 +394,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/orichalcum"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/osmium"
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/ostrum"
+			"key": "c:ores/palladium"
 		},
 		{
 			"weight": 1.0,
@@ -386,15 +422,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:ores/ruby"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:ores/runic"
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/silver"
+			"key": "c:ores/sapphire"
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/steel"
+			"key": "c:ores/silver"
 		},
 		{
 			"weight": 1.0,
@@ -406,19 +446,15 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/uraninite"
+			"key": "c:ores/titanium"
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/uraninite_dense"
+			"key": "c:ores/topaz"
 		},
 		{
 			"weight": 1.0,
-			"key": "c:ores/uraninite_poor"
-		},
-		{
-			"weight": 1.0,
-			"key": "c:ores/uraninite_regular"
+			"key": "c:ores/tungsten"
 		},
 		{
 			"weight": 1.0,
@@ -451,6 +487,10 @@
 		{
 			"weight": 1.0,
 			"key": "c:player_workstations/furnaces"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:pollens"
 		},
 		{
 			"weight": 1.0,
@@ -546,11 +586,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/adamantite"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/aluminum"
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/amber"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/andesite"
 		},
 		{
 			"weight": 1.0,
@@ -574,6 +626,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/black_quartz"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/blutonium"
 		},
 		{
@@ -591,6 +647,10 @@
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/cardboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/cast_iron"
 		},
 		{
 			"weight": 1.0,
@@ -614,7 +674,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/cold_crystal"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/copronickel"
 		},
 		{
 			"weight": 1.0,
@@ -622,7 +694,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/crimtane"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/demonite"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/deorum"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/diamatine_crystal"
 		},
 		{
 			"weight": 1.0,
@@ -642,7 +726,35 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/emeradic_crystal"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/empowered_diamatine_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/empowered_emeradic_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/empowered_enori_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/empowered_palis_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/empowered_restonia_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/empowered_void_crystal"
 		},
 		{
 			"weight": 1.0,
@@ -654,6 +766,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/enori_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/floating_wheat_bale"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/fluorite"
 		},
 		{
@@ -662,7 +782,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/gelstone"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/hastelloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/hellstone"
 		},
 		{
 			"weight": 1.0,
@@ -674,11 +806,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/inconel"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/industrial_iron"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/iridium"
 		},
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/jade"
 		},
 		{
 			"weight": 1.0,
@@ -694,7 +838,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/meteorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/monel"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/mythril"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/nethersteel"
 		},
 		{
 			"weight": 1.0,
@@ -706,7 +866,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/opal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/orichalcum"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/palis_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/palladium"
 		},
 		{
 			"weight": 1.0,
@@ -722,11 +898,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/quantum_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_adamantite"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_aluminum"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_cobalt"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/raw_copper"
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/raw_crimtane"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_demonite"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/raw_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_hellstone"
 		},
 		{
 			"weight": 1.0,
@@ -742,11 +946,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/raw_meteorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_mythril"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/raw_nickel"
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/raw_orichalcum"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/raw_osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_palladium"
 		},
 		{
 			"weight": 1.0,
@@ -763,6 +983,14 @@
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/raw_tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/raw_tungsten"
 		},
 		{
 			"weight": 1.0,
@@ -786,7 +1014,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/reinforced_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/replica"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/restonia_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/ruby"
 		},
 		{
 			"weight": 1.0,
@@ -830,6 +1070,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:storage_blocks/sturdy_fossil"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:storage_blocks/sulfur"
 		},
 		{
@@ -842,11 +1086,23 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "c:storage_blocks/uraninite"
+			"key": "c:storage_blocks/topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/tungsten"
 		},
 		{
 			"weight": 1.0,
 			"key": "c:storage_blocks/uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/uranium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:storage_blocks/void_crystal"
 		},
 		{
 			"weight": 1.0,
@@ -870,7 +1126,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "c:tombstone"
+		},
+		{
+			"weight": 1.0,
 			"key": "c:villager_job_sites"
+		},
+		{
+			"weight": 1.0,
+			"key": "c:vines"
 		}
 	]
 }

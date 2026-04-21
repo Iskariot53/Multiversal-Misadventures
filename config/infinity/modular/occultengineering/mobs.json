@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "occultengineering:puca"
+		}
+	]
+}

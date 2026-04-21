@@ -27,6 +27,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_elemental:flourishing_forest"
+		},
+		{
+			"data": {
+				"Color": 8535186
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:vexing_caves"
 		}
 	]
 }

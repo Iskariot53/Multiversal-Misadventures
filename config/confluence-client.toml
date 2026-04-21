@@ -1,9 +1,9 @@
 # Default: 90
 # Range: 0 ~ 100
 showWindParticles = 90
-achievementToast = true
-#Allowed Values: NEVER, EVERYWHERE, TRADE_SCREEN
-sellPriceDisplay = "TRADE_SCREEN"
+# Default: 10
+# Range: 0 ~ 100
+minEctoMistEffectRadius = 10
 
 [HUD]
 	leftEffectIcon = true
@@ -51,3 +51,11 @@ sellPriceDisplay = "TRADE_SCREEN"
 	goreEffect = "ALL"
 	damageIndicator = true
 	healIndicator = true
+
+[GUI]
+	achievementToast = true
+	#Allowed Values: NEVER, EVERYWHERE, TRADE_SCREEN
+	sellPriceDisplay = "EVERYWHERE"
+	# Default: 71
+	# Range: 0 ~ 1000
+	customTitle = 71

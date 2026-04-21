@@ -4,6 +4,17 @@
 			"data": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "ars_nouveau:starbuncle",
+								"maxCount": 3
+							}
+						]
+					}
 				},
 				"step": "surface_structures",
 				"id": "ars_elemental:starbuncle_shrine"

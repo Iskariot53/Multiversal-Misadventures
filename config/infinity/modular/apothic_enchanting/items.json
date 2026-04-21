@@ -126,6 +126,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "apothic_enchanting:music_disc_arcana"
+		},
+		{
+			"weight": 1.0,
+			"key": "apothic_enchanting:music_disc_eterna"
+		},
+		{
+			"weight": 1.0,
+			"key": "apothic_enchanting:music_disc_quanta"
+		},
+		{
+			"weight": 1.0,
 			"key": "apothic_enchanting:occult_ender_lead"
 		},
 		{

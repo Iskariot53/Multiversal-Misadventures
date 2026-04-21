@@ -1,7 +1,8 @@
 {
-  "infinity_version": 2004005,
+  "infinity_version": 2006000,
   "aliases": "origin",
   "options": {
+    "solar_tilt": 0,
     "portal_color": 65535,
     "star_size_base": 0.25,
     "star_size_modifier": 0.25,

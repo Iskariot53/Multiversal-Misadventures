@@ -1,11 +1,11 @@
 {
 	"elements": [
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:augmenting_table"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:boss_summoner"
 		},
 		{
@@ -18,11 +18,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "apotheosis:ender_gem_case"
+		},
+		{
+			"weight": 1.0,
 			"key": "apotheosis:epic_material"
 		},
 		{
 			"weight": 1.0,
 			"key": "apotheosis:gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:gem_case"
 		},
 		{
 			"weight": 1.0,
@@ -46,10 +54,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "apotheosis:music_disc_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_glimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_shimmer"
+		},
+		{
+			"weight": 1.0,
 			"key": "apotheosis:mythic_material"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:potion_charm"
 		},
 		{
@@ -57,11 +77,11 @@
 			"key": "apotheosis:rare_material"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:reforging_table"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:salvaging_table"
 		},
 		{
@@ -82,6 +102,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "apotheosis:sigil_of_supremacy"
+		},
+		{
+			"weight": 1.0,
 			"key": "apotheosis:sigil_of_unnaming"
 		},
 		{
@@ -89,7 +113,7 @@
 			"key": "apotheosis:sigil_of_withdrawal"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:simple_reforging_table"
 		},
 		{

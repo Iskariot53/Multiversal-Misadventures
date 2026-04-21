@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "paraglider:statues"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:statues/goddess"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:wind_can_pass_through"
+		}
+	]
+}

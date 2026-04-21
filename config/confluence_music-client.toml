@@ -1,0 +1,7 @@
+musicType = "confluence_music:confluence"
+# Default: 100
+# Range: 0 ~ 100
+lastSongFadeOutTime = 100
+# Default: 2400
+# Range: 10 ~ 18000
+nextSongDelay = 2400

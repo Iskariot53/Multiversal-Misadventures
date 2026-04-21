@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:dust_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:moving_wind_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pollen_puff_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:royal_jelly_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sparkle_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:wind_particle"
+		}
+	]
+}

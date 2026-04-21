@@ -117,11 +117,11 @@
 			"key": "dimensionalpocketsii:block_wall_crafter"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_creative_energy"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_creative_fluid"
 		},
 		{
@@ -147,6 +147,10 @@
 		{
 			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_wall_generator_automated"
 		},
 		{
 			"weight": 1.0,
@@ -357,11 +361,11 @@
 			"key": "dimensionalpocketsii:module_crafter"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:module_creative_energy"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:module_creative_fluid"
 		},
 		{
@@ -383,6 +387,10 @@
 		{
 			"weight": 1.0,
 			"key": "dimensionalpocketsii:module_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:module_generator_automated"
 		},
 		{
 			"weight": 1.0,

@@ -1,0 +1,2 @@
+// Compost colors for ars_affinity. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ritual_amnesia, #ab9aac

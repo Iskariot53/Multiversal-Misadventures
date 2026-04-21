@@ -12,6 +12,13 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
+			"key": "ars_elemental:blocks/air_relay"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:blocks/air_turret"
 		},
 		{
@@ -26,6 +33,13 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
+			"key": "ars_elemental:blocks/earth_relay"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:blocks/earth_turret"
 		},
 		{
@@ -34,6 +48,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_elemental:blocks/everfull_urn"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/fire_relay"
 		},
 		{
 			"data": {
@@ -89,6 +110,20 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
+			"key": "ars_elemental:blocks/source_vines"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/source_vines_plant"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:blocks/sparkflower"
 		},
 		{
@@ -118,6 +153,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_elemental:blocks/stripped_yellow_archwood_log"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:blocks/water_relay"
 		},
 		{
 			"data": {

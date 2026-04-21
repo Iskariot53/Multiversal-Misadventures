@@ -18,7 +18,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:air_boots_heavy"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:air_caster_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:air_chestplate"
 		},
 		{
 			"weight": 1.0,
@@ -30,11 +38,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:air_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:air_hood"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:air_leggings"
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:air_leggings_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:air_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:air_relay"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:air_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:air_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:air_tunic"
 		},
 		{
 			"weight": 1.0,
@@ -54,11 +90,15 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "ars_elemental:anima_essence"
+			"key": "ars_elemental:aqua_boots"
 		},
 		{
 			"weight": 1.0,
-			"key": "ars_elemental:aqua_boots"
+			"key": "ars_elemental:aqua_boots_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:aqua_chestplate"
 		},
 		{
 			"weight": 1.0,
@@ -66,11 +106,35 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:aqua_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:aqua_hood"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:aqua_leggings"
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:aqua_leggings_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:aqua_pants"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:aqua_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:aqua_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:aqua_tunic"
 		},
 		{
 			"weight": 1.0,
@@ -110,7 +174,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:earth_boots_heavy"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:earth_caster_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:earth_chestplate"
 		},
 		{
 			"weight": 1.0,
@@ -122,11 +194,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:earth_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:earth_hood"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:earth_leggings"
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:earth_leggings_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:earth_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:earth_relay"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:earth_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:earth_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:earth_tunic"
 		},
 		{
 			"weight": 1.0,
@@ -146,7 +246,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:fire_boots_heavy"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:fire_caster_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:fire_chestplate"
 		},
 		{
 			"weight": 1.0,
@@ -158,11 +266,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:fire_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:fire_hood"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:fire_leggings"
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:fire_leggings_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:fire_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:fire_relay"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:fire_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:fire_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:fire_tunic"
 		},
 		{
 			"weight": 1.0,
@@ -175,6 +311,18 @@
 		{
 			"weight": 1.0,
 			"key": "ars_elemental:firenando_familiar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:flashjack_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:flashjack_familiar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:flashjack_shards"
 		},
 		{
 			"weight": 1.0,
@@ -195,6 +343,14 @@
 		{
 			"weight": 1.0,
 			"key": "ars_elemental:glyph_bubble_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:glyph_cauterize"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:glyph_cavitate"
 		},
 		{
 			"weight": 1.0,
@@ -222,6 +378,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:glyph_geyser"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:glyph_homing_projectile"
 		},
 		{
@@ -231,6 +391,10 @@
 		{
 			"weight": 1.0,
 			"key": "ars_elemental:glyph_life_link"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:glyph_mist"
 		},
 		{
 			"weight": 1.0,
@@ -262,6 +426,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:glyph_oxidize"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:glyph_phantom_grasp"
 		},
 		{
@@ -278,6 +446,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:glyph_rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:glyph_slip_feet"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:glyph_spark"
 		},
 		{
@@ -286,11 +462,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:glyph_summon_bee"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:glyph_summon_filter"
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_elemental:glyph_summon_slime"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_elemental:glyph_undead_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:glyph_water_jet"
 		},
 		{
 			"weight": 1.0,
@@ -363,6 +551,10 @@
 		{
 			"weight": 1.0,
 			"key": "ars_elemental:ritual_detection"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:ritual_pollination"
 		},
 		{
 			"weight": 1.0,
@@ -439,6 +631,10 @@
 		{
 			"weight": 1.0,
 			"key": "ars_elemental:water_focus"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_elemental:water_relay"
 		},
 		{
 			"weight": 1.0,

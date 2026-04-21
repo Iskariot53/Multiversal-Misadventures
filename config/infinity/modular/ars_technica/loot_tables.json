@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_technica:blocks/transmutation_turret"
+		}
+	]
+}

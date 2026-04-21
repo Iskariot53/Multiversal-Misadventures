@@ -2,59 +2,123 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_bathtub"
+			"key": "terra_furniture:acacia_table"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_candelabras"
+			"key": "terra_furniture:ash_wood_table"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_candle"
+			"key": "terra_furniture:balloon_table"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_chair"
+			"key": "terra_furniture:bamboo_table"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_chandelier"
+			"key": "terra_furniture:baobab_table"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_clock"
+			"key": "terra_furniture:birch_table"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_door"
+			"key": "terra_furniture:blue_dungeon_bathtub"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_lamp"
+			"key": "terra_furniture:blue_dungeon_candelabras"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_lantern"
+			"key": "terra_furniture:blue_dungeon_candle"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_sink"
+			"key": "terra_furniture:blue_dungeon_chair"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_sofa"
+			"key": "terra_furniture:blue_dungeon_chandelier"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_table"
+			"key": "terra_furniture:blue_dungeon_clock"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_furniture:blue_brick_toilet"
+			"key": "terra_furniture:blue_dungeon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:blue_dungeon_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:bone_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:cactus_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:cherry_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:crimson_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:duskware_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:dynasty_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:ebonwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:feywood_table"
 		},
 		{
 			"weight": 1.0,
 			"key": "terra_furniture:fish_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:flinx_fur_bed"
 		},
 		{
 			"weight": 1.0,
@@ -118,7 +182,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_furniture:gold_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:hanging_pot"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_furniture:ice_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:jungle_table"
 		},
 		{
 			"weight": 1.0,
@@ -130,7 +206,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_furniture:mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:marble_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:mushroom_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:obsidian_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:pearlwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:pin_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:pine_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_furniture:plastic_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:polished_blackstone_table"
 		},
 		{
 			"weight": 1.0,
@@ -138,7 +246,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_furniture:shadewood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:skyware_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:spooky_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:stone_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_furniture:trash_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:warped_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:wooden_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_furniture:wooden_table"
 		}
 	]
 }

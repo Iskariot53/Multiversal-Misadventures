@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -16720045,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "paraglider:stamina_efficiency"
+		}
+	]
+}

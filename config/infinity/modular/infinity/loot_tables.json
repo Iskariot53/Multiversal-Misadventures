@@ -89,21 +89,7 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
-			"key": "infinity:blocks/netherite_slab"
-		},
-		{
-			"data": {
-				"Type": "block"
-			},
-			"weight": 1.0,
 			"key": "infinity:blocks/netherite_stairs"
-		},
-		{
-			"data": {
-				"Type": "block"
-			},
-			"weight": 1.0,
-			"key": "infinity:blocks/notes_block"
 		},
 		{
 			"data": {

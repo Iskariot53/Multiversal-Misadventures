@@ -1,87 +1,87 @@
 {
 	"elements": [
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:creeper_minion_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:creeper_minion_tracker"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:creeper_shard"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:endersoul_hand"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:hulk_hammer"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_creeper_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_enderman_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_arms"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_boots"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_chestplate"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_leggings"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_limb"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_pelvis"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_rib"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_rib_cage"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_shoulder_pad"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_skull"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_skeleton_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_snow_golem_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:mutant_zombie_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "mutantmonsters:spider_pig_spawn_egg"
 		}
 	]

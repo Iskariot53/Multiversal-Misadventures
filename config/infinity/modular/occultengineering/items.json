@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "occultengineering:book_of_binding_bound_puca"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:book_of_binding_puca"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:brass_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:chalk_brass"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:chalk_brass_impure"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:chalk_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:chalk_copper_impure"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:chalk_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:chalk_zinc_impure"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:combined_goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:empty_pentacle_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:encyclopedia_of_souls"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:fan_enspirit_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:mechanical_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:mechanical_pulverizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:mechanical_upgrade_afrit"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:mechanical_upgrade_djinni"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:mechanical_upgrade_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:mechanical_upgrade_marid"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:otherworld_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:pentacle_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:pentacle_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:phlogiport"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:phlogiston"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:puca_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:pucalith"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:ritual_dummy_craft_mechanical_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:ritual_dummy_craft_mechanical_upgrade_afrit"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:ritual_dummy_craft_mechanical_upgrade_djinni"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:ritual_dummy_craft_mechanical_upgrade_marid"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:ritual_dummy_craft_otherworld_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:ritual_dummy_craft_phlogiport"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:silver_phlogistate"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:spirit_solution_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:sterling_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:sterling_silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:sterling_silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "occultengineering:zinc_dust"
+		}
+	]
+}

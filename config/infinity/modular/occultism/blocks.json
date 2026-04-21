@@ -3,11 +3,21 @@
 		{
 			"data": {
 				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:celestial_chalice"
+		},
+		{
+			"data": {
+				"top": true,
 				"laggy": false,
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_black"
 		},
 		{
@@ -17,7 +27,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_blue"
 		},
 		{
@@ -27,7 +37,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_brown"
 		},
 		{
@@ -37,7 +47,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_cyan"
 		},
 		{
@@ -47,7 +57,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_gold"
 		},
 		{
@@ -57,7 +67,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_gray"
 		},
 		{
@@ -67,7 +77,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_green"
 		},
 		{
@@ -77,7 +87,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_light_blue"
 		},
 		{
@@ -87,7 +97,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_light_gray"
 		},
 		{
@@ -97,7 +107,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_lime"
 		},
 		{
@@ -107,7 +117,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_magenta"
 		},
 		{
@@ -117,7 +127,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_orange"
 		},
 		{
@@ -127,7 +137,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_pink"
 		},
 		{
@@ -137,7 +147,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_purple"
 		},
 		{
@@ -147,7 +157,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_rainbow"
 		},
 		{
@@ -157,7 +167,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_red"
 		},
 		{
@@ -167,7 +177,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_void"
 		},
 		{
@@ -177,8 +187,18 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:chalk_glyph_white"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "occultism:chiseled_otherrock_bricks"
 		},
 		{
 			"data": {
@@ -197,8 +217,18 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:copper_sacrificial_bowl"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "occultism:cracked_otherrock_bricks"
 		},
 		{
 			"data": {
@@ -212,12 +242,62 @@
 		},
 		{
 			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:dark_copper_sacrificial_bowl"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:dark_golden_sacrificial_bowl"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:dark_iesnium_sacrificial_bowl"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:dark_sacrificial_bowl"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:dark_silver_sacrificial_bowl"
+		},
+		{
+			"data": {
 				"top": false,
 				"laggy": false,
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:datura"
 		},
 		{
@@ -227,7 +307,27 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:dimensional_battlefield"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:dimensional_extractor"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:dimensional_mineshaft"
 		},
 		{
@@ -237,7 +337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:eldritch_chalice"
 		},
 		{
@@ -247,7 +347,27 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:entity_wormhole"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:entity_wormhole_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:golden_sacrificial_bowl"
 		},
 		{
@@ -257,7 +377,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:iesnium_anvil"
 		},
 		{
@@ -297,7 +417,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:iesnium_sacrificial_bowl"
 		},
 		{
@@ -528,8 +648,48 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:lighted_air"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "occultism:othercobblerock"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:othercobblerock_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:othercobblerock_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:othercobblerock_wall"
 		},
 		{
 			"data": {
@@ -752,6 +912,119 @@
 				"full": true
 			},
 			"weight": 1.0,
+			"key": "occultism:otherrock"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_bricks"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_bricks_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_bricks_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_bricks_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_button"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_natural"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_pressure_plate"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:otherrock_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
 			"key": "occultism:otherstone"
 		},
 		{
@@ -961,6 +1234,46 @@
 				"full": true
 			},
 			"weight": 1.0,
+			"key": "occultism:polished_otherrock"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:polished_otherrock_slab"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:polished_otherrock_stairs"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:polished_otherrock_wall"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
 			"key": "occultism:polished_otherstone"
 		},
 		{
@@ -1030,7 +1343,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:sacrificial_bowl"
 		},
 		{
@@ -1070,7 +1383,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:silver_sacrificial_bowl"
 		},
 		{
@@ -1080,7 +1393,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:skeleton_skull_dummy"
 		},
 		{
@@ -1090,7 +1403,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:spirit_attuned_crystal"
 		},
 		{
@@ -1103,7 +1416,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:spirit_campfire"
 		},
 		{
@@ -1115,6 +1428,19 @@
 			},
 			"weight": 1.0,
 			"key": "occultism:spirit_fire"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:spirit_grindstone"
 		},
 		{
 			"data": {
@@ -1153,7 +1479,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:stable_wormhole"
 		},
 		{
@@ -1163,7 +1489,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:stable_wormhole_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:storage_controller"
 		},
 		{
@@ -1173,18 +1509,8 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:storage_controller_base"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"full": false
-			},
-			"weight": 0.0,
-			"key": "occultism:storage_controller_stabilized"
 		},
 		{
 			"data": {
@@ -1193,7 +1519,47 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:storage_controller_base_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:storage_controller_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:storage_controller_stabilized"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:storage_controller_stabilized_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:storage_stabilizer_tier0"
 		},
 		{
@@ -1203,7 +1569,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier0_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:storage_stabilizer_tier1"
 		},
 		{
@@ -1213,7 +1589,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier1_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:storage_stabilizer_tier2"
 		},
 		{
@@ -1223,7 +1609,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier2_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:storage_stabilizer_tier3"
 		},
 		{
@@ -1233,8 +1629,48 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier3_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "occultism:storage_stabilizer_tier4"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier4_dark"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier5"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "occultism:storage_stabilizer_tier5_dark"
 		},
 		{
 			"data": {
@@ -1283,7 +1719,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "occultism:wither_skeleton_skull_dummy"
 		}
 	]

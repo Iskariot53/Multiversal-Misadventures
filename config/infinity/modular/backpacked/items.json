@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "backpacked:acacia_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:backpack_dock"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:birch_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:cherry_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:crimson_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:dark_oak_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:jungle_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:oak_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:spruce_backpack_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:unlock_token"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:warped_backpack_shelf"
+		}
+	]
+}

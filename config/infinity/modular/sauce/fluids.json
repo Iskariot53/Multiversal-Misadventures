@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "sauce:source_fluid"
+			},
+			"weight": 1.0,
+			"key": "sauce:source_fluid_block"
+		}
+	]
+}

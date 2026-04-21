@@ -2,6 +2,10 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "terra_entity:abeemination"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:amazon"
 		},
 		{
@@ -27,6 +31,10 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:antlion_swarmer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:arapaima_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -70,7 +78,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:blood_mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:blood_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bloody_spine"
 		},
 		{
 			"weight": 1.0,
@@ -82,11 +98,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:blue_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:blue_slime_spawn_egg"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_entity:boom_bunny_spawn_egg"
+			"key": "terra_entity:bone_serpent_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -122,11 +142,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:clothier_voodoo_doll"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:code_1"
 		},
 		{
 			"weight": 1.0,
 			"key": "terra_entity:combat_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:corrupt_mimic_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -138,11 +166,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:crawdad_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:crimera_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:crimslime_spawn_egg"
 		},
 		{
 			"weight": 1.0,
-			"key": "terra_entity:crimson_kemera_spawn_egg"
+			"key": "terra_entity:crimson_mimic_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -157,12 +193,24 @@
 			"key": "terra_entity:dark_caster_spawn_egg"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "terra_entity:dark_lamia_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dark_mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:debug_item"
 		},
 		{
 			"weight": 1.0,
 			"key": "terra_entity:decayeder_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:deerclops_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -175,6 +223,10 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:demon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:derpling_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -195,6 +247,10 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:dragonfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dreamer_ghoul_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -238,6 +294,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:explosive_bunny_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:face_monster_spawn_egg"
 		},
 		{
@@ -270,6 +330,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:firecracker"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:flamarang"
 		},
 		{
@@ -279,6 +343,10 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:ghost_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:ghoul_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -326,6 +394,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:golden_mimic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:golden_slime_spawn_egg"
 		},
 		{
@@ -342,6 +414,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:green_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:green_slime_spawn_egg"
 		},
 		{
@@ -351,6 +427,18 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:guide_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:guide_voodoo_doll_hill"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:guide_voodoo_doll_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hallowed_mimic_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -367,6 +455,14 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:hell_butterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:herpling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:hill_of_flesh_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -402,6 +498,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:ice_mimic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:ice_slime_spawn_egg"
 		},
 		{
@@ -430,6 +530,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:jungle_mimic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:jungle_slime_spawn_egg"
 		},
 		{
@@ -447,6 +551,14 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:leather_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:light_lamia_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:light_mummy_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -474,6 +586,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:meteor_head_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:nurse_spawn_egg"
 		},
 		{
@@ -494,6 +614,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:pink_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:pink_slime_spawn_egg"
 		},
 		{
@@ -503,6 +627,34 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:pixie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:plantera_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:possess_armor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:possessed_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:possessed_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:possessed_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:possessed_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:prismatic_lacewing_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -522,7 +674,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:retinazer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:ruby_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:sand_poacher_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -538,6 +698,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:shadow_mimic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:shark_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:short_bones_spawn_egg"
 		},
 		{
@@ -546,7 +714,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:skeletron_prime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:skeletron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:slime_crown"
 		},
 		{
 			"weight": 1.0,
@@ -570,6 +746,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:snapthorn"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:snatcher_spawn_egg"
 		},
 		{
@@ -579,6 +759,26 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:snow_flinx_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spazmatism_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spiked_ice_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spiked_jungle_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spiked_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:spinal_tap"
 		},
 		{
 			"weight": 1.0,
@@ -622,6 +822,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:suspicious_looking_eye"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:swamp_slime_spawn_egg"
 		},
 		{
@@ -630,7 +834,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:tainted_ghoul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:terraprisma"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:the_destroyer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:the_twins_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -666,6 +882,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:vile_ghoul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:voodoo_demon_spawn_egg"
 		},
 		{
@@ -686,7 +906,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:wither_bone_serpent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wizard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:wood_boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wooden_mimic_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -694,7 +926,31 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:worm_food"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:worm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wraith_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wraith_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wraith_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wraith_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wraith_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -703,6 +959,10 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:yellow_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:zoologist_spawn_egg"
 		}
 	]
 }

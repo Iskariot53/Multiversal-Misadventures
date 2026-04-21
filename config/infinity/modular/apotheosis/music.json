@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_glimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:music_disc_shimmer"
+		}
+	]
+}

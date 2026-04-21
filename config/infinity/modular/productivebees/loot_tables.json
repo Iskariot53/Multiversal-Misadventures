@@ -33,6 +33,55 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_atmospheric_aspen_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_atmospheric_grimwood_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_atmospheric_kousa_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_atmospheric_morado_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_atmospheric_rosewood_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_atmospheric_yucca_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_autumnity_maple_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
 			"key": "productivebees:blocks/advanced_bamboo_beehive"
 		},
 		{
@@ -509,6 +558,20 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_upgrade_aquatic_driftwood_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/advanced_upgrade_aquatic_river_beehive"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
 			"key": "productivebees:blocks/advanced_warped_beehive"
 		},
 		{
@@ -706,6 +769,55 @@
 			},
 			"weight": 1.0,
 			"key": "productivebees:blocks/expansion_box_aspen_canvas"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_atmospheric_aspen"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_atmospheric_grimwood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_atmospheric_kousa"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_atmospheric_morado"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_atmospheric_rosewood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_atmospheric_yucca"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_autumnity_maple"
 		},
 		{
 			"data": {
@@ -1182,6 +1294,20 @@
 			},
 			"weight": 1.0,
 			"key": "productivebees:blocks/expansion_box_umbran_canvas"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_upgrade_aquatic_driftwood"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "productivebees:blocks/expansion_box_upgrade_aquatic_river"
 		},
 		{
 			"data": {

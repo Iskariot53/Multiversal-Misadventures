@@ -24,3 +24,7 @@ foundryCollectItems = true
 foundryCoolingModifier = 4.0
 #Should an active foundry render its inventory inside the multiblock
 foundryRenderInventory = true
+#How many ticks between attempts at sharing fluid with tanks below it
+# Default: 21
+# Range: > 1
+foundryTankTickRate = 21

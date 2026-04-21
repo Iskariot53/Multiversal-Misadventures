@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:advanced_prism"
 		},
 		{
@@ -17,7 +17,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "ars_elemental:air_relay"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:air_turret"
 		},
 		{
@@ -27,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:air_upstream"
 		},
 		{
@@ -37,7 +47,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "ars_elemental:earth_relay"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:earth_turret"
 		},
 		{
@@ -47,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:everfull_urn"
 		},
 		{
@@ -57,7 +77,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "ars_elemental:fire_relay"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:fire_turret"
 		},
 		{
@@ -77,7 +107,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:magma_upstream"
 		},
 		{
@@ -87,7 +117,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:manipulation_turret"
 		},
 		{
@@ -97,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:mermaid_rock"
 		},
 		{
@@ -119,6 +149,26 @@
 			},
 			"weight": 1.0,
 			"key": "ars_elemental:potted_yellow_archwood_sapling"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:source_vines"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:source_vines_plant"
 		},
 		{
 			"data": {
@@ -177,7 +227,17 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "ars_elemental:water_relay"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "ars_elemental:water_turret"
 		},
 		{
@@ -187,7 +247,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_elemental:water_upstream"
 		},
 		{

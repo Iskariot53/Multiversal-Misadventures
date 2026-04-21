@@ -1,0 +1,37 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "paraglider:nether_horned_statue"
+			},
+			"weight": 1.0,
+			"key": "paraglider:nether_horned_statue"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "lakes",
+				"id": "paraglider:tarrey_town_goddess_statue"
+			},
+			"weight": 1.0,
+			"key": "paraglider:tarrey_town_goddess_statue"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "paraglider:underground_horned_statue"
+			},
+			"weight": 1.0,
+			"key": "paraglider:underground_horned_statue"
+		}
+	]
+}

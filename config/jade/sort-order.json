@@ -101,6 +101,10 @@
   "modern_industrialization:machine": null,
   "modern_industrialization:overclock": null,
   "modern_industrialization:pipe": null,
+  "modular_machinery_reborn:hatch_component_provider": null,
+  "modular_machinery_reborn:hatch_server_data_provider": null,
+  "modular_machinery_reborn:machine_component_provider": null,
+  "modular_machinery_reborn:machine_server_data_provider": null,
   "modularrouters:router": null,
   "occultism:foliot": null,
   "occultism:sacrificial": null,
@@ -124,5 +128,6 @@
   "tombstone:graves": null,
   "toms_storage:inventory_config": null,
   "toms_storage:inventory_connector": null,
+  "toms_storage:inventory_hopper": null,
   "waystones:waystone": null
 }

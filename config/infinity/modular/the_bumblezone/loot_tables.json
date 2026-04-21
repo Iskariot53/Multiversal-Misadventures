@@ -1,0 +1,1103 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:advancements/queens_desire"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/ancient_shrine_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/battle_cubes_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/cell_maze_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/pollinated_field_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/pollinated_stream_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/sempiternal_sanctum_blue_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/sempiternal_sanctum_green_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/sempiternal_sanctum_purple_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/sempiternal_sanctum_red_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/sempiternal_sanctum_white_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/sempiternal_sanctum_yellow_suspicious"
+		},
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:archaeology/subway_suspicious"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_bricks"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_bricks_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_bricks_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_compound_eyes"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_compound_eyes_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_compound_eyes_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_diamond"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_diamond_slab"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/ancient_wax_diamond_stairs"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/beehive_beeswax"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/carvable_wax"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/crystalline_flower"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/empty_honeycomb_brood_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/filled_porous_honeycomb_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/glistering_honey_crystal"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/honey_cocoon"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/honey_crystal"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/honey_web"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/honeycomb_brood_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_channel_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_corner_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/luminescent_wax_node_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/pile_of_pollen"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/porous_honeycomb_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/redstone_honey_web"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/royal_jelly_block"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/sticky_honey_redstone"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/sticky_honey_residue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/string_curtain_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/sugar_infused_cobblestone"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/sugar_infused_stone"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_black"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_brown"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_cyan"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_green"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_light_blue"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_light_gray"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_lime"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_magenta"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_orange"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_pink"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_purple"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_red"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_white"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_base_yellow"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:blocks/super_candle_wick"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/bee_queen"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/bee_stinger_drops"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/beehemoth"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/cosmic_crystal"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/honey_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/rootmin"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:entities/variant_bee"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:fluids/sugar_water_evaporates"
+		},
+		{
+			"data": {
+				"Type": "fishing"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/fishing"
+		},
+		{
+			"data": {
+				"Type": "fishing"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/fishing/junk"
+		},
+		{
+			"data": {
+				"Type": "fishing"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/fishing/treasure"
+		},
+		{
+			"data": {
+				"Type": "advancement_reward"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/rewards/blue_arena_victory"
+		},
+		{
+			"data": {
+				"Type": "advancement_reward"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/rewards/green_arena_victory"
+		},
+		{
+			"data": {
+				"Type": "advancement_reward"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/rewards/purple_arena_victory"
+		},
+		{
+			"data": {
+				"Type": "advancement_reward"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/rewards/red_arena_victory"
+		},
+		{
+			"data": {
+				"Type": "advancement_reward"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/rewards/white_arena_victory"
+		},
+		{
+			"data": {
+				"Type": "advancement_reward"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:gameplay/rewards/yellow_arena_victory"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/ancient_hoops"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/battle_cubes"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/bee_dungeon"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/bee_house"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/bumbling_beepartments/housing"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/bumbling_beepartments/shop_cash_drawer"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/candle_parkour"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/candle_parkour_top"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/cannon_range"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/cell_maze/common"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/cell_maze/rare"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/cell_maze/throne"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/floaters"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/flowers"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/gazebuzz_cluster/flower_pots_reward"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/gazebuzz_cluster/gem_pot_reward"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/gazebuzz_cluster/gold_plates_reward"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/gazebuzz_cluster/potions_reward"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/gazebuzz_cluster/targets_reward"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/hive_temple"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/hive_voyager"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/honey_cave_room"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/honitel"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/mite_fortress_barrel"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/phantasm_aviary/tips"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/pirate_ship/captain"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/pirate_ship/storage"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/pirate_ship/storage_compass"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/blue_generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/compasses"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/green_generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/guarantee_compasses"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/purple_generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/puzzle_treasure"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/red_generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/sentry_puzzle_treasure"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/sudoku_failed"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/sudoku_success"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/white_generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/sempiternal_sanctum/yellow_generic"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/spider_infested_bee_dungeon"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/subway_end"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/subway_tunnel"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/throne_pillar"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/tree_dungeon"
+		}
+	]
+}

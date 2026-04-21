@@ -1,0 +1,288 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "strangematter:anomalous_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:anomaly_resonator"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:chrono_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:chrono_shard_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:chrono_shard_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:chrono_shard_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:chrono_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule_echoing_shadow"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule_energetic"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule_gravity"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule_temporal_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule_thoughtwell"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:containment_capsule_warp_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:echo_vacuum"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:echoform_imprinter"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energetic_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energetic_shard_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energetic_shard_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energetic_shard_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energetic_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:fancy_resonite_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:field_scanner"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:gravitic_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:gravitic_shard_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:gravitic_shard_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:gravitic_shard_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:gravitic_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:graviton_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:hoverboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:insight_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:insight_shard_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:insight_shard_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:insight_shard_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:insight_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:levitation_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:paradoxical_energy_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:raw_resonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:reality_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_notes"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonance_condenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonant_burner"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonant_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonant_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonant_conduit"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:resonite_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:rift_stabilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:shade_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:shade_shard_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:shade_shard_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:shade_shard_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:shade_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:spatial_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:spatial_shard_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:spatial_shard_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:spatial_shard_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:spatial_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:stabilized_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:stasis_projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:warp_gun"
+		}
+	]
+}

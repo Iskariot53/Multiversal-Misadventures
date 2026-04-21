@@ -122,10 +122,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "infinity:notes_block"
-		},
-		{
-			"weight": 1.0,
 			"key": "infinity:star_of_lang"
 		},
 		{

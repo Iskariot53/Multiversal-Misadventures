@@ -84,16 +84,6 @@
 			"data": {
 				"top": true,
 				"laggy": false,
-				"float": true,
-				"full": false
-			},
-			"weight": 1.0,
-			"key": "infinity:haunted_air"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
 				"float": false,
 				"full": false
 			},
@@ -159,16 +149,6 @@
 			},
 			"weight": 1.0,
 			"key": "infinity:netherite_stairs"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 1.0,
-			"key": "infinity:notes_block"
 		},
 		{
 			"data": {

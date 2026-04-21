@@ -57,7 +57,7 @@ craftingTable.addJsonRecipe("misadventures.respawn_pointer",
         "id": "respawn_pointer:respawn_pointer"
     }
 });
-craftingTable.addJsonRecipe("misadventures.crawling_cake",
+craftingTable.addJsonRecipe("misadventures.otherworld_cake",
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
@@ -70,7 +70,7 @@ craftingTable.addJsonRecipe("misadventures.crawling_cake",
             "item": "minecraft:cake"
         },
         "B": {
-            "item": "stellaris:mars_fruit"
+            "item": "minecraft:stone"
         }
     },
     "result": {

@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "strangematter:warp_gate_anomaly"
+			},
+			"weight": 1.0,
+			"key": "strangematter:warp_gate_anomaly"
+		}
+	]
+}

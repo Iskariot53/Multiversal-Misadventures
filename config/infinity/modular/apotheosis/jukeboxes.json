@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:glimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:shimmer"
+		}
+	]
+}

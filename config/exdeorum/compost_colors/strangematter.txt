@@ -1,0 +1,25 @@
+// Compost colors for strangematter. You may add your own colors, change existing ones, or remove colors that aren't needed.
+anomaly_resonator, #9882be
+chrono_shard, #ffffe0
+containment_capsule, #f7ffff
+containment_capsule_echoing_shadow, #e1e7e8
+containment_capsule_energetic, #f0ffff
+containment_capsule_gravity, #f0ffff
+containment_capsule_temporal_bloom, #f2ffff
+containment_capsule_thoughtwell, #f1ffff
+containment_capsule_warp_gate, #e7f7ff
+energetic_shard, #d0ffff
+field_scanner, #eef4f2
+gravitic_shard, #ffbfae
+insight_shard, #ffffff
+raw_resonite, #ffffff
+research_notes, #ffffff
+research_tablet, #9689af
+resonant_circuit, #849b9d
+resonant_coil, #f1ebf4
+resonite_door, #d6e3e7
+resonite_ingot, #c5c3c8
+resonite_nugget, #ffffff
+shade_shard, #fadeff
+spatial_shard, #b5fcff
+stabilized_core, #89abb5

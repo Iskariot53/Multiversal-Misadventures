@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:arcane_crystal_block"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:arcane_dragon_egg"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:arcane_edelwood_door"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:arcane_edelwood_trapdoor"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:aurealic_obsidian_skull"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:aurealic_obsidian_wall_skull"
 		},
 		{
@@ -283,7 +283,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:black_hole"
 		},
 		{
@@ -323,7 +323,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:clibano_center"
 		},
 		{
@@ -333,7 +333,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:clibano_core"
 		},
 		{
@@ -343,7 +343,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:clibano_corner"
 		},
 		{
@@ -353,7 +353,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:clibano_main_part"
 		},
 		{
@@ -363,7 +363,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:clibano_side_horizontal"
 		},
 		{
@@ -373,7 +373,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:clibano_side_vertical"
 		},
 		{
@@ -383,7 +383,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:corrupted_arcane_crystal_block"
 		},
 		{
@@ -393,7 +393,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:corrupted_arcane_crystal_obelisk"
 		},
 		{
@@ -403,7 +403,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:cracked_obsidian_skull"
 		},
 		{
@@ -413,7 +413,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:cracked_obsidian_wall_skull"
 		},
 		{
@@ -593,7 +593,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:desk"
 		},
 		{
@@ -726,7 +726,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:essence_utrem_jar"
 		},
 		{
@@ -736,7 +736,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:eternal_obsidian_skull"
 		},
 		{
@@ -746,7 +746,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:eternal_obsidian_wall_skull"
 		},
 		{
@@ -756,7 +756,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:fading_obsidian_skull"
 		},
 		{
@@ -766,7 +766,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:fading_obsidian_wall_skull"
 		},
 		{
@@ -776,7 +776,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:forbiddenomicon"
 		},
 		{
@@ -786,7 +786,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:fragmented_obsidian_skull"
 		},
 		{
@@ -796,7 +796,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:fragmented_obsidian_wall_skull"
 		},
 		{
@@ -959,7 +959,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_1"
 		},
 		{
@@ -969,7 +969,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_2"
 		},
 		{
@@ -979,7 +979,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_3"
 		},
 		{
@@ -989,7 +989,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_4"
 		},
 		{
@@ -999,7 +999,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:hephaestus_forge_tier_5"
 		},
 		{
@@ -1019,7 +1019,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:magnetized_darkstone_pedestal"
 		},
 		{
@@ -1029,7 +1029,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:mortar"
 		},
 		{
@@ -1052,7 +1052,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:obsidian_skull"
 		},
 		{
@@ -1062,7 +1062,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:obsidian_wall_skull"
 		},
 		{
@@ -1255,7 +1255,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:quantum_core"
 		},
 		{
@@ -1265,7 +1265,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:quantum_injector"
 		},
 		{
@@ -1275,7 +1275,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:research_desk"
 		},
 		{
@@ -1285,7 +1285,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:rune_block"
 		},
 		{
@@ -1445,7 +1445,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:upwind"
 		},
 		{
@@ -1455,7 +1455,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:utrem_jar"
 		},
 		{
@@ -1465,7 +1465,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:whirlwind"
 		},
 		{
@@ -1475,7 +1475,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "forbidden_arcanus:yellow_orchid"
 		}
 	]

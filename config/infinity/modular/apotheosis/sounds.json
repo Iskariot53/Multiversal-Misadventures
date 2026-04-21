@@ -2,6 +2,22 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "apotheosis:invader_epic"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_mythic"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_rare"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:invader_uncommon"
+		},
+		{
+			"weight": 1.0,
 			"key": "apotheosis:malice"
 		},
 		{

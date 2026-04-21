@@ -102,6 +102,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_nouveau:archwood_boat"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_nouveau:archwood_button"
 		},
 		{
@@ -883,6 +887,14 @@
 		{
 			"weight": 1.0,
 			"key": "ars_nouveau:pierce_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_nouveau:planarium"
+		},
+		{
+			"weight": 1.0,
+			"key": "ars_nouveau:planarium_projector"
 		},
 		{
 			"weight": 1.0,

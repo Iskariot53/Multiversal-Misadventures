@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_dimensional_core"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_dimensional_core_enhanced"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_dimensional_focus"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_pocket"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_pocket_enhanced"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_anvil"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_armour_workbench"
 		},
 		{
@@ -190,7 +190,7 @@
 				},
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_blast_furnace"
 		},
 		{
@@ -200,7 +200,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_charger"
 		},
 		{
@@ -210,7 +210,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_connector"
 		},
 		{
@@ -220,7 +220,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_crafter"
 		},
 		{
@@ -230,7 +230,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_creative_energy"
 		},
 		{
@@ -240,7 +240,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_creative_fluid"
 		},
 		{
@@ -250,7 +250,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_door"
 		},
 		{
@@ -260,7 +260,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_edge"
 		},
 		{
@@ -270,7 +270,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_energy_display"
 		},
 		{
@@ -280,7 +280,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_fluid_display"
 		},
 		{
@@ -293,7 +293,7 @@
 				},
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_furnace"
 		},
 		{
@@ -303,8 +303,18 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_generator"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "dimensionalpocketsii:block_wall_generator_automated"
 		},
 		{
 			"data": {
@@ -313,7 +323,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_glass"
 		},
 		{
@@ -323,7 +333,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_smithing_table"
 		},
 		{
@@ -333,7 +343,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "dimensionalpocketsii:block_wall_upgrade_station"
 		}
 	]

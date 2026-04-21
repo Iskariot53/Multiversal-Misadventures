@@ -1,0 +1,739 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blocks/figure"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blocks/figure2"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:blocks/figure3"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/anger_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/anger_goblin"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/antlion_swarmer"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/base_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/big_anger_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/big_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/big_helmet_anger_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/big_muscle_anger_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/bird"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/black_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/blood_crawler"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/blood_zombie"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/bloody_spore"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/blue_jay"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/blue_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/brain_of_cthulhu"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/bunny"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/cardinal"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/corrupt_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/crimera"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/crimson_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/cursed_skull"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/dark_caster"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/decayeder"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/demon"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/demon_eye"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/desert_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/devourer"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/drippler"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/eater_of_souls"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/eater_of_worlds"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/evil_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/eye_of_cthulhu"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/fire_imp"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/flying_fish"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/giant_antlion_swarmer"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/giant_shelly"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/goblin_archer"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/goblin_peon"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/goblin_scout"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/goblin_sorcerer"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/goblin_thief"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/goblin_warrior"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/green_dumpling_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/green_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/harpy"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/hell_bat"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/hill_of_flesh"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/honey_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/hornet"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/ice_bat"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/ice_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/jewel_bunny"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/jewel_squirrel"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/jungle_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/king_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/lava_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/luminous_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/man_eater"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/nymph"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/pink_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/piranha"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/purple_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/queen_bee"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/red_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/short_bones"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/skeletron_hand"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/snatcher"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/snow_flinx"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/spore_skeleton"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/spore_zombie"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/squirrel"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/swamp_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/tomb_crawler"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/tropic_slime"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/undead_viking"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/voodoo_demon"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/wall_of_flesh"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/wandering_eye_fish"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:entities/yellow_slime"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/chest/spawn_iron_sword_staff"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/chest/spawn_sculk_wisp_staff"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/chest/spawn_stone_sword_staff"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/chest/spawn_wooden_sword_staff"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_bezoar"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_bone_glove"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_brain_of_confusion"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_compass"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_depth_meter"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_diamond_sword_staff"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_fast_clock"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_giant_shelly"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_hive_pack"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_magma_stone"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_metal_detector"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_obsidian_rose"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_royal_gel"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_shield_of_cthulhu"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_tally_counter"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/entities/spawn_worm_scarf"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:modifier/gameplay/spawn_golden_sword_staff"
+		},
+		{
+			"data": {
+				"Type": "empty"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:npc/angler"
+		}
+	]
+}

@@ -24,22 +24,22 @@
 						"spawns": [
 						]
 					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
 					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"monster": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
 					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -461,22 +461,22 @@
 						"spawns": [
 						]
 					},
-					"water_ambient": {
-						"bounding_box": "piece",
-						"spawns": [
-						]
-					},
 					"creature": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
 					},
-					"monster": {
+					"water_ambient": {
 						"bounding_box": "piece",
 						"spawns": [
 						]
 					},
 					"misc": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"monster": {
 						"bounding_box": "piece",
 						"spawns": [
 						]

@@ -1,0 +1,49 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2026-04-20 12:55:10.619 EDT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Faulting application name: minecraft.exe, version: 1.0.1.0, time stamp: 0x692f2fb8
+  Faulting module name: minecraft.exe, version: 1.0.1.0, time stamp: 0x692f2fb8
+  Exception code: 0xc0000409
+  Fault offset: 0x00111b35
+  Faulting process id: 0x4CE4
+  Faulting application start time: 0x1DCD0DAE4364207
+  Faulting application path: C:\Users\tftbe\curseforge\minecraft\Install\minecraft.exe
+  Faulting module path: C:\Users\tftbe\curseforge\minecraft\Install\minecraft.exe
+  Report Id: bbc03555-e9bb-4ba1-b2da-04d6a2c645a5
+  Faulting package full name: 
+  Faulting package-relative application ID:
+
+
+Details:
+  - AppName: minecraft.exe
+  - AppVersion: 1.0.1.0
+  - AppTimeStamp: 692f2fb8
+  - ModuleName: minecraft.exe
+  - ModuleVersion: 1.0.1.0
+  - ModuleTimeStamp: 692f2fb8
+  - ExceptionCode: c0000409
+  - FaultingOffset: 00111b35
+  - Process ID: 19684 [0x4ce4]
+  - ProcessCreationTime: 0x1dcd0dae4364207
+  - AppPath: C:\Users\tftbe\curseforge\minecraft\Install\minecraft.exe
+  - ModulePath: C:\Users\tftbe\curseforge\minecraft\Install\minecraft.exe
+  - IntegratorReportId: bbc03555-e9bb-4ba1-b2da-04d6a2c645a5
+  - Process ID: 19684 [0x4CE4]
+  - Start Time: 2026-04-20 11:32:26.448 EDT [0x1DCD0DAE4364207]
+  - Exception Code: 3221226505 [0xc0000409]
+-----------------------
+

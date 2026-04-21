@@ -1,0 +1,424 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:air_like"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax/full_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax/slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:ancient_wax/stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_aggression_in_dimension/wrath_activating_blocks_when_mined"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bee_dungeon/possible_candles"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:biomes/disallowed_floral_meadow_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:biomes/disallowed_floral_meadow_rootmin_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:biomes/floral_meadow_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:biomes/floral_meadow_rootmin_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumbling_beepartments/recreational_center/allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:bumbling_beepartments/recreational_center/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:candle_bases"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:candle_wicks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:candles"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carpenter_bee_boots/climbables"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:carpenter_bee_boots/mineables"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:crystalline_flower/can_be_placed_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:dimension_teleportation/disallowed_teleportable_beehive_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:dimension_teleportation/forced_allowed_teleportable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:dimension_teleportation/required_blocks_under_beehive_to_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:disable_block_placing_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/arena_does_not_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/knowing/block_entity_forced_highlighting"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/knowing/block_entity_prevent_highlighting"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/knowing/block_forced_highlighting"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/knowing/block_prevent_highlighting"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/dead_bush_revives_to"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/force_disallowed_dead_bush_revives_to"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/force_disallowed_grow_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/grow_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/is_dead_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/three_high_pillar_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:floaters/luminescent_channels_to_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:floaters/overridable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:floaters/overruling_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:gazebuzz_cluster/allowed_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:gazebuzz_cluster/forced_disallowed_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/allowed_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/allowed_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/allowed_tall_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/forced_disallowed_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/forced_disallowed_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/forced_disallowed_tall_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_bee_leggings/removes_pollen"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_compass/beehives_disallowed_from_position_tracking"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honey_compass/forced_allowed_position_tracking"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honitel/allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:honitel/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax/channels"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax/corners"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax/light_channels"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax/light_corners"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax/light_nodes"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:luminescent_wax/nodes"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:phantasm_aviary/allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:phantasm_aviary/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pollen"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pollen_puff/multiplying_allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:pollen_puff/multiplying_forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:rootmin/allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:rootmin/default_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:rootmin/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_blue_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_fancy_tree_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_fancy_tree_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_green_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_purple_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_red_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_thin_tree_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_thin_tree_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_white_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/allowed_yellow_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_blue_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_fancy_tree_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_fancy_tree_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_green_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_purple_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_red_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_thin_tree_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_thin_tree_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_white_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_yellow_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sentry_watcher/always_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sentry_watcher/forced_never_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:spider_infested_bee_dungeon/possible_candles"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:string_curtains"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:structures/dont_replace_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water/downward_bubble_column_causing"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water/forced_disallow_waterlogging_blocks_when_placed_in_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water/grows_plant_faster"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water/upward_bubble_column_causing"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sugar_water/waterloggable_blocks_when_placed_in_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:super_candle_bases"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:tree_dungeon/allowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:tree_dungeon/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:two_tone_spikes/honey_tipped_allowed_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:two_tone_spikes/stone_tipped_allowed_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:two_tone_spikes/wax_tipped_allowed_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:worldgen_checks/cave_edge_blocks_for_modded_compats"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:worldgen_checks/force_cave_to_not_carve"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:worldgen_checks/honeycombs_that_features_can_carve"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"confluence:space_gun"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"terra_guns:hand_gun"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunFireMode":"SEMI","HasBulletInBarrel":1,"GunId":"tacz:fn_fal","GunCurrentAmmoCount":20}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

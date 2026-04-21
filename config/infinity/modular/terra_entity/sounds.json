@@ -2,6 +2,34 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "terra_entity:antlion_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:antlion_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:antlion_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:antlion_swarmer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:antlion_swarmer_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bat_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:beetle_death"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:blood_crawler_death"
 		},
 		{
@@ -14,6 +42,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:blood_jelly_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:blood_jelly_free"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:bloody_spore_death"
 		},
 		{
@@ -23,6 +59,10 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:bloody_spore_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:bone_serpent_death"
 		},
 		{
 			"weight": 1.0,
@@ -42,6 +82,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:demon_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:demon_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:demon_hurt"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:dig_sound"
 		},
 		{
@@ -51,6 +103,18 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:drippler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dungeon_spirit_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dungeon_spirit_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:dungeon_spirit_hurt"
 		},
 		{
 			"weight": 1.0,
@@ -74,7 +138,31 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:granite_golem_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:granite_golem_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:granite_golem_hurt"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:hurried_roaring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jellyfish_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jellyfish_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:jellyfish_hurt"
 		},
 		{
 			"weight": 1.0,
@@ -83,6 +171,18 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:metal_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:pixie_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:pixie_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:pixie_hurt"
 		},
 		{
 			"weight": 1.0,
@@ -102,6 +202,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:sand_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:soul_death"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:summon_eye"
 		},
 		{
@@ -114,11 +222,35 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:summon_money_trough"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:the_hungry_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:the_hungry_hurt"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:tr_skeleton_hurt"
 		},
 		{
 			"weight": 1.0,
 			"key": "terra_entity:tr_zombie_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:tr_zombie_free"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:unicorn_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:unicorn_hurt"
 		},
 		{
 			"weight": 1.0,
@@ -134,11 +266,31 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "terra_entity:wall_of_flesh_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wall_of_flesh_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wall_of_flesh_summon"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:waving"
 		},
 		{
 			"weight": 1.0,
 			"key": "terra_entity:whip_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wyvern_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:wyvern_hurt"
 		}
 	]
 }

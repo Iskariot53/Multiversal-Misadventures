@@ -8,3 +8,5 @@ asyncStructureUpgrade = false
 displayStructureUpgradeMessage = false
 #Fix multiple issues caused by mods caching objects that prevent the correct disposal of dimensions and integrated servers.
 fixMemoryIssues = true
+#Set of mod IDs whose datapack functions should be removed.
+removeFunctionDatapacks = []

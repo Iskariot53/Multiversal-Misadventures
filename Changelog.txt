@@ -1,80 +1,135 @@
-Multiversal Misadventures 2.0.3 Change Log
+Multiversal Misadventures 3.0.0 Change Log
+
+This up date *will not* be compatible with any prior versions of the pack.
+
+The gameplay progression (quest/story) loop is undergoing a complete overhaul, For now the primary focus is ironing out wrinkles between new mechanics as well as the addition of custom multiblocks, while that is conceptualized and composed.
+For now? Any information left in the questbook is still relevant.
+
+Updated to NeoForge 21.1.222
 
 
-- Updated to Neoforge 21.1.209
+Mods Removed
+
+
+- Confluence Dimension Patch
+- Create Railways Nvagiator
+- FTB Ultimine
+- Stellaris
+- Star Wars Planets Stellaris
+- Xaero's MiniMap
+- Xaero's World Map
+
+
  
-
-
 Mods Added
 
 
-- Refined Storage
-- Refined Storage - Curios Integration
-- Refined Storage - JEI Integration
-- Refined Storage - Mekanism Integration
-- Refined Storage - Quartz Arsenal
-- Refined Types
+- Actually Additions
+- Ars Affinity
+- Ars Unification
+- The Bumblezone
+- Confluence Music
+- Crash Assistant
+- Create Aeronautics
+- Create Aeronautics: Dyeable Components
+- Create Big Cannons
+- Create: Central Kitchen
+- Create : Creating Space
+- Create: Enchantment Industry
+- Create: Occult Engineering
+- Create Slice & Dice
+- Dyson Cube Project
+- Immersive Furniture
+- Immersive Melodies
+- Immersive Paintings
+- Lite Map
+- Little Big Redstone
+- Modular Bees
+- Modular Machinery Reborn
+- Oracle Index
+- Oritech
+- Paragliders
+- Questlog
+- Sable
+- Strange Matter
 
 
 
 Mods Updated
 
 
+- Access Denied
 - AdvancedAE
-- Applied Mekanistics
+- AE2: Crafting Tree
+- Apotheosis
+- Apothic Enchanting
+- Applied Energistics 2 Wireless Terminals
 - Ars Elemental
 - Ars Nouveau
-- Artifacts
-- BaguetteLib
+- Ars Technica
+- Athena
+- Backpacked
 - Balm
+- BaguetteLib
 - Bookshelf
+- Cobblegen Galore
 - Collective
-- Confluence: Otherworld Gun Fix
-- Confluent Enchantments
-- Connectivity
-- Cooking for Blockheads
-- Corpse
-- Corpse x Curios API Compat
+- Confluence Dimension Patch
+- Confluence: Otherworld
+- CraftTweaker
+- Create
+- Create Better FPS
+- Create: Copycats+
 - Create Crafts & Additions
+- Create: Diesel Generators
 - Create: Filters Anywhere
 - Create: Hypertubes
-- CreativeCore
-- Dangerous - Just A Difficulty Mod
+- Create Railways Navigator
+- Create Train Utilities
+- e4mc
+- Ex Deorum
+- ExperienceLib
 - Farming for Blockheads
-- Forgified Fabric API
+- Framework
 - FTB Chunks
 - FTB Essentials
+- FTB Filter System
 - FTB Library
 - FTB Quests
 - FTB Teams
-- FTB Ultimine
 - FTB XMod Compat
-- Fusion (Connected Textures)
-- GeckoLib
-- GuideME
+- Fusion
+- ImmediatelyFast
 - Industrial Foregoing
-- Kotlin for Forge
-- Mekanism
-- Mekanism Generators
-- Mekanism Tools
-- Modonomicon
-- MrCrayfish's Furniture Mod: Refurbished
+- Infinite Dimensions
+- Lootr
+- ModernFix
+- Mutant Monsters
 - Occultism
-- OctoLib
 - Oritech
+- Powah! (Rearchitected)
+- Puzzles Lib
+- Productive Bees
 - Productive Metalworks
-- SmartBrainLib
+- Refined Storage - Mekanism Integration
+- Refined Types
+- Security Craft
+- Spice of Life: Carrot Edition
 - Stellaris
-- Tesseract API (NeoForge)
-- WATERFrAMES: Multimedia Displays
+- Tesseract API
+- Time in a bottle
+- Tom's Simple Storage Mod
+- Tool Belt
+- Torchmaster
 - WATERMeDIA: Multimedia API
 - Waystones
+- Yet Another Memory Optimization
+- Xaero's Minimap
+- Xaero's World Map
 
 
 
 Changes
 
 
-- Removed Dimensional Ejector
-- Updated quest book formatting/imaging, as well as typos.
-- Fixed typo in Overworld dimensional lock error return messaging.
+- Literally everything Stellaris related has been removed, in favor of leaning into "creating space" for space exploration content.

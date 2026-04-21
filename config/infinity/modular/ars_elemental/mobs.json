@@ -44,6 +44,20 @@
 		},
 		{
 			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:flashjack_entity"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:flashjack_familiar"
+		},
+		{
+			"data": {
 				"Category": "water_creature"
 			},
 			"weight": 1.0,
@@ -55,6 +69,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_elemental:siren_familiar"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:summon_bee"
 		},
 		{
 			"data": {
@@ -83,6 +104,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_elemental:summon_skelehorse"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "ars_elemental:summon_slime"
 		},
 		{
 			"data": {

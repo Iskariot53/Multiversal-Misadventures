@@ -1,0 +1,1624 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:1024b_fluid_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:1024b_fluid_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:1024b_fluid_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:16k_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:16k_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:16k_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:1k_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:1k_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:1k_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:256b_fluid_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:256b_fluid_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:256b_fluid_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:4096b_fluid_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:4096b_fluid_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:4096b_fluid_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:4k_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:4k_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:4k_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:64b_fluid_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:64b_fluid_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:64b_fluid_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:64k_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:64k_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:64k_storage_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:advanced_processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:autocrafting_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:basic_processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:black_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:blue_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:brown_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:configuration_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:construction_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_fluid_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_fluid_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_portable_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_range_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_storage_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_storage_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_wireless_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:creative_wireless_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:cyan_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:debug_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:destruction_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:disk_drive"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:fallback_security_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:fortune_1_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:fortune_2_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:fortune_3_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:gray_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:green_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:improved_processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_blue_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_blue_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_blue_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_blue_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_blue_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_blue_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:light_gray_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:lime_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:machine_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:magenta_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:network_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:orange_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:pink_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:portable_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:processor_binding"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:purple_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:quartz_enriched_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:quartz_enriched_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:range_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:raw_advanced_processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:raw_basic_processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:raw_improved_processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:red_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:regulator_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:security_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:silicon"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:silk_touch_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:speed_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:stack_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_housing"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:white_wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:wireless_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:wireless_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:wireless_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_autocrafter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_autocrafter_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_autocrafting_monitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_constructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_crafting_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_creative_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_destructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_disk_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_exporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_external_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_importer"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_network_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_network_transmitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_pattern_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_security_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:yellow_wireless_transmitter"
+		}
+	]
+}

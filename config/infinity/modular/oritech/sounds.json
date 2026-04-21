@@ -2,6 +2,10 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "oritech:bedrock_extractor"
+		},
+		{
+			"weight": 1.0,
 			"key": "oritech:cable_moving"
 		},
 		{

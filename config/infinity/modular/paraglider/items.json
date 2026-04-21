@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "paraglider:anti_vessel"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:deku_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:enduring_elixir_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:enduring_elixir_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:enduring_elixir_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:enduring_mixture"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:energizing_elixir_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:energizing_elixir_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:energizing_elixir_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:energizing_mixture"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:goddess_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:goron_goddess_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:heart_container"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:horned_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:kakariko_goddess_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:paraglider"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:rito_goddess_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:spirit_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "paraglider:stamina_vessel"
+		}
+	]
+}

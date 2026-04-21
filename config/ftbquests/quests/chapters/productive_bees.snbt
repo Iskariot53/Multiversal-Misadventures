@@ -883,7 +883,10 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				id: "productivebees:upgrade_productivity_4"
+				components: {
+					"ftbquests:missing_item": "productivebees:upgrade_productivity_4"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "3825DE01F400EA4D"
 			size: 2.0d

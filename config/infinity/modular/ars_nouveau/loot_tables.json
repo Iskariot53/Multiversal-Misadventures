@@ -96,6 +96,13 @@
 				"Type": "block"
 			},
 			"weight": 1.0,
+			"key": "ars_nouveau:blocks/archwood_hanging_wall_sign"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
 			"key": "ars_nouveau:blocks/archwood_planks"
 		},
 		{
@@ -139,6 +146,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_nouveau:blocks/archwood_trapdoor"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_nouveau:blocks/archwood_wall_sign"
 		},
 		{
 			"data": {
@@ -207,7 +221,7 @@
 			"data": {
 				"Type": "block"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "ars_nouveau:blocks/creative_source_jar"
 		},
 		{
@@ -468,6 +482,13 @@
 			},
 			"weight": 1.0,
 			"key": "ars_nouveau:blocks/orange_sbed"
+		},
+		{
+			"data": {
+				"Type": "block"
+			},
+			"weight": 1.0,
+			"key": "ars_nouveau:blocks/planarium"
 		},
 		{
 			"data": {

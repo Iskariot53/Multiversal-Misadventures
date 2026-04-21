@@ -1,0 +1,264 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:biomes.beehive_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.crystalline_flower.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_cocoon.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_crystal_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_crystal_block.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_crystal_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_crystal_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_crystal_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.honey_crystal_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.royal_jelly_block.slide"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.super_candle_wick.lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.washing_honey_residues"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:block.the_bumblezone.windy_air.blows"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.bee_queen.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.bee_queen.happy"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.bee_queen.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.bee_queen.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.bee_stinger.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.beehemoth.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.beehemoth.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.beehemoth.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.cosmic_crystal_entity.crash_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.cosmic_crystal_entity.crashes"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.cosmic_crystal_entity.laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.cosmic_crystal_entity.laser_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.cosmic_crystal_entity.spawn_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.cosmic_crystal_entity.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.dirt_pellet.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.dirt_pellet.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.electric_ring.passed"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_crystal_shard.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_crystal_shard.shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.death_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.hurt_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.jump_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.squish"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.honey_slime.squish_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.pollen_puff.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.rootmin.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.rootmin.curious"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.rootmin.cursing"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.rootmin.embarrassed"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.rootmin.shock"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.rootmin.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.sentry_watcher.activating"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.sentry_watcher.crash"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.sentry_watcher.moving"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.stinger_spear.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.stinger_spear.hit_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.stinger_spear.return"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:entity.the_bumblezone.stinger_spear.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.bee_cannon.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.bumble_bee_chestplate.fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.buzzing_briefcase.releases"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.crystal_cannon.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.essence_of_the_bees.consumed"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.essence_of_the_bees.consuming"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.honey_compass.block_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.honey_compass.structure_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.royal_jelly_bottle.drink"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:item.the_bumblezone.sugar_water_bottle.drink"
+		}
+	]
+}

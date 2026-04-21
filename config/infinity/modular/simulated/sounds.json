@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simulated:block.absorber.eats"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.auger_shaft.encase"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.docking_connector.dock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.docking_connector.extend"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.docking_connector.retract"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.linked_typewriter.ding"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.linked_typewriter.tap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.linked_typewriter.untap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.physics_assembler.assemble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.physics_assembler.disassemble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.physics_assembler.fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.physics_assembler.shift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.physics_assembler.tick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.plunger.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.portable_engine.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.portable_engine.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.portable_engine.puff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:block.rope_winch.stretch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gui.contraption_diagram.check"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gui.contraption_diagram.erase"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gui.contraption_diagram.tap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.honey_glue.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.physics_staff.extinguish"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.physics_staff.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.physics_staff.ignite"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.physics_staff.lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.physics_staff.unlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.plunger_launcher.fwoomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:item.plunger_launcher.release"
+		}
+	]
+}

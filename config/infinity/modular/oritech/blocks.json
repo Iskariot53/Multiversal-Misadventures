@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:accelerator_controller"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:accelerator_motor"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:accelerator_ring"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:accelerator_sensor"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:addon_indicator_block"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:advanced_augment_station"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:arcane_augment_station"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:assembler_block"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:atomic_forge_block"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:augment_application_block"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:basic_generator_block"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:big_solar_panel_block"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:bio_generator_block"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:black_hole_block"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:black_hole_inner"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:black_hole_middle"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:black_hole_outer"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:block_destroyer_head"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:block_fertilizer_head"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:block_placer_head"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:capacitor_addon_extender"
 		},
 		{
@@ -303,7 +303,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:ceiling_light_hanging"
 		},
 		{
@@ -313,7 +313,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:centrifuge_block"
 		},
 		{
@@ -323,7 +323,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:charger_block"
 		},
 		{
@@ -333,7 +333,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:cooler_block"
 		},
 		{
@@ -343,7 +343,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:creative_storage_block"
 		},
 		{
@@ -356,7 +356,7 @@
 				},
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:creative_tank_block"
 		},
 		{
@@ -366,7 +366,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:creative_tank_item_model"
 		},
 		{
@@ -379,7 +379,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:crop_filter_addon"
 		},
 		{
@@ -389,7 +389,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:deep_drill_block"
 		},
 		{
@@ -429,7 +429,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:destroyer_block"
 		},
 		{
@@ -439,7 +439,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:drone_port_block"
 		},
 		{
@@ -469,7 +469,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:enchanter_block"
 		},
 		{
@@ -479,7 +479,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:enchantment_catalyst_block"
 		},
 		{
@@ -509,7 +509,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:fertilizer_block"
 		},
 		{
@@ -529,7 +529,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:foundry_block"
 		},
 		{
@@ -539,7 +539,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:fragment_forge_block"
 		},
 		{
@@ -549,7 +549,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:frame_gantry_arm"
 		},
 		{
@@ -559,7 +559,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:framed_superconductor"
 		},
 		{
@@ -569,7 +569,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:framed_superconductor_connection"
 		},
 		{
@@ -579,8 +579,28 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:fuel_generator_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:hangar_door"
+		},
+		{
+			"data": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:hangar_door_helper"
 		},
 		{
 			"data": {
@@ -639,7 +659,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:item_filter_block"
 		},
 		{
@@ -649,7 +669,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:large_storage_block"
 		},
 		{
@@ -659,7 +679,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:laser_arm_block"
 		},
 		{
@@ -669,7 +689,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:lava_generator_block"
 		},
 		{
@@ -692,7 +712,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_acceptor_addon"
 		},
 		{
@@ -705,8 +725,34 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "oritech:machine_burst_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
 			"key": "oritech:machine_capacitor_addon"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:machine_combi_addon"
 		},
 		{
 			"data": {
@@ -715,7 +761,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_1"
 		},
 		{
@@ -725,7 +771,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_2"
 		},
 		{
@@ -735,7 +781,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_3"
 		},
 		{
@@ -745,7 +791,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_4"
 		},
 		{
@@ -755,7 +801,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_5"
 		},
 		{
@@ -765,7 +811,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_6"
 		},
 		{
@@ -775,7 +821,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_7"
 		},
 		{
@@ -785,7 +831,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_core_hidden"
 		},
 		{
@@ -798,7 +844,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_efficiency_addon"
 		},
 		{
@@ -808,7 +854,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_extender"
 		},
 		{
@@ -821,7 +867,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_fluid_addon"
 		},
 		{
@@ -844,7 +890,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_hunter_addon"
 		},
 		{
@@ -857,7 +903,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_inventory_proxy_addon"
 		},
 		{
@@ -910,7 +956,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_processing_addon"
 		},
 		{
@@ -923,7 +969,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_redstone_addon"
 		},
 		{
@@ -936,7 +982,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_silk_touch_addon"
 		},
 		{
@@ -949,7 +995,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_speed_addon"
 		},
 		{
@@ -962,7 +1008,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_ultimate_addon"
 		},
 		{
@@ -975,7 +1021,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:machine_yield_addon"
 		},
 		{
@@ -987,6 +1033,16 @@
 			},
 			"weight": 1.0,
 			"key": "oritech:metal_beam_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "oritech:metal_girder_block"
 		},
 		{
 			"data": {
@@ -1065,7 +1121,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:particle_collector_block"
 		},
 		{
@@ -1075,7 +1131,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:placer_block"
 		},
 		{
@@ -1103,12 +1159,22 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:power_pole_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
 				"Properties": {
 					"lit": "false"
 				},
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:powered_furnace_block"
 		},
 		{
@@ -1118,7 +1184,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:pulverizer_block"
 		},
 		{
@@ -1128,7 +1194,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:pump_block"
 		},
 		{
@@ -1138,7 +1204,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:pump_trunk_block"
 		},
 		{
@@ -1151,7 +1217,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:quarry_addon"
 		},
 		{
@@ -1161,28 +1227,8 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
-			"key": "oritech:quarry_beam_inner"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:quarry_beam_ring"
-		},
-		{
-			"data": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"full": true
-			},
-			"weight": 0.0,
-			"key": "oritech:quarry_beam_target"
 		},
 		{
 			"data": {
@@ -1207,11 +1253,21 @@
 		{
 			"data": {
 				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:raw_uranium_block"
+		},
+		{
+			"data": {
+				"top": true,
 				"laggy": true,
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_absorber_port"
 		},
 		{
@@ -1221,7 +1277,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_cold_indicator_block"
 		},
 		{
@@ -1231,7 +1287,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_condenser"
 		},
 		{
@@ -1241,7 +1297,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_controller"
 		},
 		{
@@ -1254,7 +1310,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_double_rod"
 		},
 		{
@@ -1264,7 +1320,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_energy_port"
 		},
 		{
@@ -1274,7 +1330,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_explosion_large"
 		},
 		{
@@ -1284,7 +1340,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_explosion_medium"
 		},
 		{
@@ -1294,7 +1350,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_explosion_small"
 		},
 		{
@@ -1304,7 +1360,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_fuel_port"
 		},
 		{
@@ -1314,7 +1370,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_hot_indicator_block"
 		},
 		{
@@ -1324,7 +1380,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_medium_indicator_block"
 		},
 		{
@@ -1337,7 +1393,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_quad_rod"
 		},
 		{
@@ -1347,7 +1403,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_redstone_port"
 		},
 		{
@@ -1357,7 +1413,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_reflector"
 		},
 		{
@@ -1370,7 +1426,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_rod"
 		},
 		{
@@ -1380,7 +1436,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_vent"
 		},
 		{
@@ -1390,7 +1446,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:reactor_wall"
 		},
 		{
@@ -1400,7 +1456,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:refinery_block"
 		},
 		{
@@ -1410,7 +1466,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:refinery_module_block"
 		},
 		{
@@ -1526,6 +1582,16 @@
 		{
 			"data": {
 				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:shrinker_block"
+		},
+		{
+			"data": {
+				"top": true,
 				"laggy": false,
 				"float": true,
 				"full": true
@@ -1540,7 +1606,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:simple_augment_station"
 		},
 		{
@@ -1550,7 +1616,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:small_storage_block"
 		},
 		{
@@ -1563,7 +1629,7 @@
 				},
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:small_tank_block"
 		},
 		{
@@ -1573,7 +1639,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:spawner_cage_block"
 		},
 		{
@@ -1583,7 +1649,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:spawner_controller_block"
 		},
 		{
@@ -1596,7 +1662,7 @@
 				},
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:steam_boiler_addon"
 		},
 		{
@@ -1606,7 +1672,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:steam_engine_block"
 		},
 		{
@@ -1626,7 +1692,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:superconductor"
 		},
 		{
@@ -1636,7 +1702,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:superconductor_connection"
 		},
 		{
@@ -1646,8 +1712,18 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:superconductor_duct_block"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:tainted_refinery_block"
 		},
 		{
 			"data": {
@@ -1656,7 +1732,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:tank_item_model"
 		},
 		{
@@ -1712,7 +1788,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:treefeller_block"
 		},
 		{
@@ -1722,7 +1798,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:unstable_container"
 		},
 		{
@@ -1737,12 +1813,22 @@
 		},
 		{
 			"data": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"full": true
+			},
+			"weight": 1.0,
+			"key": "oritech:uranium_dust_block"
+		},
+		{
+			"data": {
 				"top": false,
 				"laggy": false,
 				"float": false,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "oritech:wither_crop_block"
 		}
 	]

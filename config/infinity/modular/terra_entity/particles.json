@@ -2,6 +2,10 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "terra_entity:fire_bound"
+		},
+		{
+			"weight": 1.0,
 			"key": "terra_entity:item_gel"
 		},
 		{

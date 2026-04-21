@@ -3,8 +3,7 @@
   "values": [
     "createdieselgenerators:diesel",
     "createdieselgenerators:flowing_diesel",
-	"oritech:diesel",
-	"stellaris:diesel"
+	"oritech:diesel"
 
   ]
 }

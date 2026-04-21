@@ -3,6 +3,18 @@
 		{
 			"weight": 1.0,
 			"key": "terra_entity:honey"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:house_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:house_constitute"
+		},
+		{
+			"weight": 1.0,
+			"key": "terra_entity:house_table"
 		}
 	]
 }

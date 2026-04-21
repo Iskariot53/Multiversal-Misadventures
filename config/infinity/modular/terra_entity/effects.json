@@ -3,6 +3,15 @@
 		{
 			"data": {
 				"Category": "harmful",
+				"Color": 9109504,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "terra_entity:crimson_storm"
+		},
+		{
+			"data": {
+				"Category": "harmful",
 				"Color": 6113163,
 				"Instant": false
 			},
@@ -15,7 +24,7 @@
 				"Color": 12320767,
 				"Instant": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:frost_burn"
 		},
 		{
@@ -24,7 +33,7 @@
 				"Color": 11211042,
 				"Instant": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:hellfire"
 		},
 		{
@@ -42,7 +51,7 @@
 				"Color": 11250449,
 				"Instant": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:summon_mark"
 		},
 		{
@@ -51,7 +60,7 @@
 				"Color": 11211042,
 				"Instant": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:the_tongue"
 		}
 	]

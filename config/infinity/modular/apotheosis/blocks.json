@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:augmenting_table"
 		},
 		{
@@ -17,8 +17,28 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:boss_spawner"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "apotheosis:ender_gem_case"
+		},
+		{
+			"data": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"full": false
+			},
+			"weight": 1.0,
+			"key": "apotheosis:gem_case"
 		},
 		{
 			"data": {
@@ -27,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:gem_cutting_table"
 		},
 		{
@@ -37,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:reforging_table"
 		},
 		{
@@ -47,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:salvaging_table"
 		},
 		{
@@ -57,7 +77,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "apotheosis:simple_reforging_table"
 		}
 	]

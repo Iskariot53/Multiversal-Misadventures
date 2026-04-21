@@ -1,27 +1,39 @@
 {
 	"elements": [
 		{
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "lootr:decorated_pot"
+		},
+		{
+			"weight": 1.0,
 			"key": "lootr:lootr_barrel"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:lootr_chest"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:lootr_inventory"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:lootr_shulker"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "lootr:lootr_trapped_chest"
 		},
 		{
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "lootr:suspicious_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:suspicious_sand"
+		},
+		{
+			"weight": 1.0,
 			"key": "lootr:trophy"
 		}
 	]

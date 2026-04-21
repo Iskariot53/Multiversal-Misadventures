@@ -30,6 +30,13 @@
 		},
 		{
 			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:arapaima"
+		},
+		{
+			"data": {
 				"Category": "creature"
 			},
 			"weight": 1.0,
@@ -96,6 +103,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:blood_mummy"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:blood_tumors"
 		},
 		{
@@ -124,27 +138,34 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
-			"key": "terra_entity:blue_slime"
-		},
-		{
-			"data": {
-				"Category": "creature"
-			},
-			"weight": 1.0,
-			"key": "terra_entity:boom_bunny"
+			"key": "terra_entity:blue_jellyfish"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "terra_entity:blue_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:bone_serpent"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:brain_fake"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:brain_of_cthulhu"
 		},
 		{
@@ -194,6 +215,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:corrupt_mimic"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:corrupt_slime"
 		},
 		{
@@ -208,7 +236,21 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
-			"key": "terra_entity:crimson_kemera"
+			"key": "terra_entity:crawdad"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:crimera"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:crimson_mimic"
 		},
 		{
 			"data": {
@@ -236,7 +278,28 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:dark_lamia"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:dark_mummy"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:decayeder"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:deerclops"
 		},
 		{
 			"data": {
@@ -264,13 +327,20 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:derpling"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:desert_slime"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:devourer"
 		},
 		{
@@ -284,7 +354,14 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
+			"key": "terra_entity:dreamer_ghoul"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:drippler"
 		},
 		{
@@ -305,7 +382,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:dungeon_guardian"
 		},
 		{
@@ -326,21 +403,21 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:eater_of_souls"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:eater_of_worlds"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:eater_of_worlds_segment"
 		},
 		{
@@ -352,9 +429,16 @@
 		},
 		{
 			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:explosive_bunny"
+		},
+		{
+			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:eye_of_cthulhu"
 		},
 		{
@@ -404,6 +488,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:flesh_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:flying_fish"
 		},
 		{
@@ -412,6 +503,13 @@
 			},
 			"weight": 1.0,
 			"key": "terra_entity:ghost"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:ghoul"
 		},
 		{
 			"data": {
@@ -495,6 +593,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:golden_mimic"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:golden_slime"
 		},
 		{
@@ -523,6 +628,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:green_jellyfish"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:green_slime"
 		},
 		{
@@ -538,6 +650,13 @@
 			},
 			"weight": 1.0,
 			"key": "terra_entity:guide"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hallowed_mimic"
 		},
 		{
 			"data": {
@@ -566,6 +685,27 @@
 			},
 			"weight": 1.0,
 			"key": "terra_entity:hell_butterfly"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:herpling"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hill_hungry"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:hill_of_flesh"
 		},
 		{
 			"data": {
@@ -607,6 +747,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:ice_mimic"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:ice_slime"
 		},
 		{
@@ -635,13 +782,20 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:jungle_mimic"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:jungle_slime"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:king_slime"
 		},
 		{
@@ -664,6 +818,20 @@
 			},
 			"weight": 1.0,
 			"key": "terra_entity:leech"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:light_lamia"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:light_mummy"
 		},
 		{
 			"data": {
@@ -716,6 +884,20 @@
 		},
 		{
 			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:meteor_head"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:mummy"
+		},
+		{
+			"data": {
 				"Category": "creature"
 			},
 			"weight": 1.0,
@@ -761,6 +943,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:pink_jellyfish"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:pink_slime"
 		},
 		{
@@ -782,13 +971,55 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:plantera"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:plantera_hook"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:plantera_tentacle"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:possess_armor"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:possess_armor_void_vessel"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:prismatic_lacewing"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:purple_slime"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:queen_bee"
 		},
 		{
@@ -803,6 +1034,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:retinazer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:rideable_bee"
 		},
 		{
@@ -811,6 +1049,13 @@
 			},
 			"weight": 1.0,
 			"key": "terra_entity:rideable_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:sand_poacher"
 		},
 		{
 			"data": {
@@ -831,21 +1076,56 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:servant_of_cthulhu"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:shadow_mimic"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:shark"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:short_bones"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:skeletron"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:skeletron_hand"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:skeletron_prime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:skeletron_prime_part"
 		},
 		{
 			"data": {
@@ -881,6 +1161,34 @@
 			},
 			"weight": 1.0,
 			"key": "terra_entity:snow_flinx"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spazmatism"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spiked_ice_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spiked_jungle_slime"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:spiked_slime"
 		},
 		{
 			"data": {
@@ -975,9 +1283,16 @@
 		},
 		{
 			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:tainted_ghoul"
+		},
+		{
+			"data": {
 				"Category": "creature"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:terraprisma"
 		},
 		{
@@ -985,7 +1300,35 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:the_destroyer"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:the_destroyer_part"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:the_destroyer_probe"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:the_hungry"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:the_twins"
 		},
 		{
 			"data": {
@@ -1027,6 +1370,13 @@
 				"Category": "monster"
 			},
 			"weight": 1.0,
+			"key": "terra_entity:vile_ghoul"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
 			"key": "terra_entity:visual_neuron"
 		},
 		{
@@ -1040,22 +1390,8 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 0.0,
+			"weight": 1.0,
 			"key": "terra_entity:wall_of_flesh"
-		},
-		{
-			"data": {
-				"Category": "monster"
-			},
-			"weight": 0.0,
-			"key": "terra_entity:wall_of_flesh_eye"
-		},
-		{
-			"data": {
-				"Category": "monster"
-			},
-			"weight": 0.0,
-			"key": "terra_entity:wall_of_flesh_mouth"
 		},
 		{
 			"data": {
@@ -1073,10 +1409,38 @@
 		},
 		{
 			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:wither_bone_serpent"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:wizard"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:wooden_mimic"
+		},
+		{
+			"data": {
 				"Category": "creature"
 			},
 			"weight": 1.0,
 			"key": "terra_entity:worm"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "terra_entity:wraith"
 		},
 		{
 			"data": {
@@ -1097,7 +1461,7 @@
 				"Category": "creature"
 			},
 			"weight": 1.0,
-			"key": "terra_entity:yoyos_projectile"
+			"key": "terra_entity:zoologist"
 		}
 	]
 }

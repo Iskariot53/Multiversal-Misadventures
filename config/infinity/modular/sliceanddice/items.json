@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sliceanddice:fertilizer_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "sliceanddice:slicer"
+		},
+		{
+			"weight": 1.0,
+			"key": "sliceanddice:sprinkler"
+		}
+	]
+}

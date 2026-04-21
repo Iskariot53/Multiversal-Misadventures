@@ -62,6 +62,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "ars_nouveau:intangible_blacklist"
+		},
+		{
+			"weight": 1.0,
 			"key": "ars_nouveau:interact_blacklist"
 		},
 		{

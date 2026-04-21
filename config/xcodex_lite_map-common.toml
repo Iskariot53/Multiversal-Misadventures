@@ -1,0 +1,48 @@
+["Mini Map Settings"]
+	#GUI Scale in normal (minimized) mode. Set 0 for default, > 0 to enlarge, and < 0 to reduce.
+	# Default: 0
+	# Range: > -2147483647
+	mapGUIScaleStep = 0
+	#GUI Scale in expanded mode: this parameter acts as an incremental adjustment to the normal (minimized) GUI Scale.
+	# Default: 1
+	# Range: > 1
+	mapGUIScaleStepExpandIncrement = 1
+	#The base size of mini map. Larger values can impact performance, increasing CPU and GPU load as well as requiring more RAM and VRAM. Be cautious—excessively large values might cause crashes on insufficient hardware.
+	# Default: 100
+	# Range: > 1
+	mapSizeBase = 400
+	#Arrow Direction Scale. Set 0.0 for default, > 0.0 to enlarge, and < 0.0 to reduce.
+	# Default: 0.0
+	# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	arrowDirectionScaleIncrement = 0.0
+	#Exploration Render Distance. Determines the rendering range for uncovering new areas.
+	# Default: 0
+	# Range: > 0
+	mapExplorationRenderDistance = 0
+	#Data Storage Mode, 0: FileMode, 1: DatabaseMode
+	# Default: 1
+	# Range: 0 ~ 1
+	dataStorageMode = 1
+	# Default: 0
+	# Range: > -2147483647
+	miniMapPosX = 860
+	# Default: 0
+	# Range: > -2147483647
+	miniMapPosY = 0
+	# Default: 0
+	# Range: > -2147483647
+	frameWidth = 960
+	# Default: 0
+	# Range: > -2147483647
+	frameHeight = 496
+
+["Key Binds"]
+	# Default: 267
+	# Range: > 0
+	miniMapZoomIn = 267
+	# Default: 266
+	# Range: > 0
+	miniMapZoomOut = 266
+	# Default: 280
+	# Range: > 0
+	miniMapExpand = 261

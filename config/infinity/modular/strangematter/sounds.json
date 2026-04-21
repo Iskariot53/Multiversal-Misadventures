@@ -1,0 +1,164 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "strangematter:echo_vacuum_charge_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:echo_vacuum_charge_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:echo_vacuum_contain"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:echo_vacuum_fire_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:echoing_shadow_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energetic_rift_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energy_button_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energy_dial_toggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energy_wave_align"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:energy_wave_misalign"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:field_scanner_scan"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:graviton_chargeup"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:gravity_anomaly_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:hoverboard_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:hoverboard_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:minigame_stable"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:minigame_unstable"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:reality_forge_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:reality_forge_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_begin_research"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_failure"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_idle_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_instability_critical"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_instability_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_note_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_note_reject"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_machine_success"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_node_locked_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_note_create"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_tablet_node_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_tablet_node_hover"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_tablet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:research_tablet_page_turn"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:stasis_projector_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:stasis_projector_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:temporal_bloom_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:thoughtwell_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:warp_gate_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "strangematter:warp_gun_shoot"
+		}
+	]
+}

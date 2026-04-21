@@ -34,6 +34,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "oritech:refinery/arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:refinery/sculk"
+		},
+		{
+			"weight": 1.0,
 			"key": "oritech:resource_nodes"
 		},
 		{

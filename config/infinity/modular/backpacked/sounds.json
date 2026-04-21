@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "backpacked:augment.backpacked.lootbound.take_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "backpacked:item.backpack.place"
+		}
+	]
+}

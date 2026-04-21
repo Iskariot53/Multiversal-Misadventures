@@ -1,5 +1,6 @@
 {
-  "infinity_version": 2004002,
+  "infinity_version": 2004005,
+  "aliases": "colours",
   "options": {
     "portal_color": {
       "type": "random_hue"

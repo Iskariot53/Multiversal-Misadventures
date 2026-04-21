@@ -1,0 +1,348 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simulated:altitude_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:analog_transmission"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:auger_cog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:auger_shaft"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:black_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:black_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:black_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:blue_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:blue_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:blue_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:brown_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:brown_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:brown_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:contraption_diagram"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:copper_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:creative_physics_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:cyan_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:cyan_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:cyan_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:directional_gearshift"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:directional_linked_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:docking_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:engine_assembly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gimbal_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gray_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gray_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gray_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:green_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:green_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:green_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:gyroscopic_mechanism"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:honey_glue"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:incomplete_engine_assembly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:incomplete_gyroscopic_mechanism"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:iron_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:laser_pointer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:laser_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:light_blue_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:light_blue_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:light_blue_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:light_gray_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:light_gray_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:light_gray_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:lime_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:lime_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:lime_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:linked_typewriter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:magenta_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:magenta_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:magenta_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:modulating_linked_receiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:navigation_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:optical_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:orange_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:orange_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:orange_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:physics_assembler"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:pink_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:pink_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:pink_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:plunger_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:purple_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:purple_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:purple_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:red_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:red_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:red_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:redstone_accumulator"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:redstone_inductor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:redstone_magnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:rope_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:rope_coupling"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:rope_winch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:spring"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:steering_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:swivel_bearing"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:throttle_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:torsion_spring"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:velocity_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:white_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:white_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:white_portable_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:white_symmetric_sail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:yellow_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:yellow_nameplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simulated:yellow_portable_engine"
+		}
+	]
+}
