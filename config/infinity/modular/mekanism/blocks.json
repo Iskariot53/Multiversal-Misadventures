@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_bin"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_chemical_tank"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_combining_factory"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_compressing_factory"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_crushing_factory"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_energy_cube"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_enriching_factory"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_fluid_tank"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_induction_cell"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_induction_provider"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_infusing_factory"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_injecting_factory"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_logistical_transporter"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_mechanical_pipe"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_pressurized_tube"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_purifying_factory"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_sawing_factory"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_smelting_factory"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_thermodynamic_conductor"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:advanced_universal_cable"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:antiprotonic_nucleosynthesizer"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_bin"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_chemical_tank"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_combining_factory"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_compressing_factory"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_crushing_factory"
 		},
 		{
@@ -267,7 +267,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_energy_cube"
 		},
 		{
@@ -277,7 +277,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_enriching_factory"
 		},
 		{
@@ -287,7 +287,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_fluid_tank"
 		},
 		{
@@ -297,7 +297,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_induction_cell"
 		},
 		{
@@ -307,7 +307,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_induction_provider"
 		},
 		{
@@ -317,7 +317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_infusing_factory"
 		},
 		{
@@ -327,7 +327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_injecting_factory"
 		},
 		{
@@ -337,7 +337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_logistical_transporter"
 		},
 		{
@@ -347,7 +347,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_mechanical_pipe"
 		},
 		{
@@ -357,7 +357,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_pressurized_tube"
 		},
 		{
@@ -367,7 +367,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_purifying_factory"
 		},
 		{
@@ -377,7 +377,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_sawing_factory"
 		},
 		{
@@ -387,7 +387,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_smelting_factory"
 		},
 		{
@@ -397,7 +397,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_thermodynamic_conductor"
 		},
 		{
@@ -407,7 +407,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:basic_universal_cable"
 		},
 		{
@@ -577,7 +577,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:boiler_casing"
 		},
 		{
@@ -587,7 +587,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:boiler_valve"
 		},
 		{
@@ -597,7 +597,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:bounding_block"
 		},
 		{
@@ -607,7 +607,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:cardboard_box"
 		},
 		{
@@ -617,7 +617,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chargepad"
 		},
 		{
@@ -627,7 +627,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chemical_crystallizer"
 		},
 		{
@@ -637,7 +637,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chemical_dissolution_chamber"
 		},
 		{
@@ -647,7 +647,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chemical_infuser"
 		},
 		{
@@ -657,7 +657,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chemical_injection_chamber"
 		},
 		{
@@ -667,7 +667,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chemical_oxidizer"
 		},
 		{
@@ -677,7 +677,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:chemical_washer"
 		},
 		{
@@ -687,7 +687,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:combiner"
 		},
 		{
@@ -697,7 +697,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_bin"
 		},
 		{
@@ -707,7 +707,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_chemical_tank"
 		},
 		{
@@ -717,7 +717,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_energy_cube"
 		},
 		{
@@ -727,7 +727,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_fluid_tank"
 		},
 		{
@@ -737,7 +737,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:crusher"
 		},
 		{
@@ -797,7 +797,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:digital_miner"
 		},
 		{
@@ -807,7 +807,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:dimensional_stabilizer"
 		},
 		{
@@ -817,7 +817,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:diversion_transporter"
 		},
 		{
@@ -827,7 +827,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:dynamic_tank"
 		},
 		{
@@ -837,7 +837,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:dynamic_valve"
 		},
 		{
@@ -847,7 +847,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:electric_pump"
 		},
 		{
@@ -857,7 +857,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:electrolytic_separator"
 		},
 		{
@@ -867,7 +867,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_bin"
 		},
 		{
@@ -877,7 +877,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_chemical_tank"
 		},
 		{
@@ -887,7 +887,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_combining_factory"
 		},
 		{
@@ -897,7 +897,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_compressing_factory"
 		},
 		{
@@ -907,7 +907,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_crushing_factory"
 		},
 		{
@@ -917,7 +917,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_energy_cube"
 		},
 		{
@@ -927,7 +927,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_enriching_factory"
 		},
 		{
@@ -937,7 +937,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_fluid_tank"
 		},
 		{
@@ -947,7 +947,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_induction_cell"
 		},
 		{
@@ -957,7 +957,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_induction_provider"
 		},
 		{
@@ -967,7 +967,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_infusing_factory"
 		},
 		{
@@ -977,7 +977,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_injecting_factory"
 		},
 		{
@@ -987,7 +987,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_logistical_transporter"
 		},
 		{
@@ -997,7 +997,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_mechanical_pipe"
 		},
 		{
@@ -1007,7 +1007,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_pressurized_tube"
 		},
 		{
@@ -1017,7 +1017,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_purifying_factory"
 		},
 		{
@@ -1027,7 +1027,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_sawing_factory"
 		},
 		{
@@ -1037,7 +1037,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_smelting_factory"
 		},
 		{
@@ -1047,7 +1047,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_thermodynamic_conductor"
 		},
 		{
@@ -1057,7 +1057,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:elite_universal_cable"
 		},
 		{
@@ -1067,7 +1067,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:energized_smelter"
 		},
 		{
@@ -1077,7 +1077,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:enrichment_chamber"
 		},
 		{
@@ -1087,7 +1087,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:fluidic_plenisher"
 		},
 		{
@@ -1107,7 +1107,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:formulaic_assemblicator"
 		},
 		{
@@ -1117,7 +1117,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:fuelwood_heater"
 		},
 		{
@@ -1127,7 +1127,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:induction_casing"
 		},
 		{
@@ -1137,7 +1137,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:induction_port"
 		},
 		{
@@ -1147,7 +1147,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:industrial_alarm"
 		},
 		{
@@ -1157,7 +1157,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:isotopic_centrifuge"
 		},
 		{
@@ -1167,7 +1167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:laser"
 		},
 		{
@@ -1177,7 +1177,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:laser_amplifier"
 		},
 		{
@@ -1187,7 +1187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:laser_tractor_beam"
 		},
 		{
@@ -1207,7 +1207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:logistical_sorter"
 		},
 		{
@@ -1217,7 +1217,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:metallurgic_infuser"
 		},
 		{
@@ -1227,7 +1227,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:modification_station"
 		},
 		{
@@ -1237,7 +1237,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:nutritional_liquifier"
 		},
 		{
@@ -1247,7 +1247,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:oredictionificator"
 		},
 		{
@@ -1257,7 +1257,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:osmium_compressor"
 		},
 		{
@@ -1277,7 +1277,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:painting_machine"
 		},
 		{
@@ -1287,7 +1287,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:personal_barrel"
 		},
 		{
@@ -1297,7 +1297,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:personal_chest"
 		},
 		{
@@ -1307,7 +1307,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:pigment_extractor"
 		},
 		{
@@ -1317,7 +1317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:pigment_mixer"
 		},
 		{
@@ -1327,7 +1327,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:precision_sawmill"
 		},
 		{
@@ -1337,7 +1337,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:pressure_disperser"
 		},
 		{
@@ -1347,7 +1347,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:pressurized_reaction_chamber"
 		},
 		{
@@ -1357,7 +1357,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:purification_chamber"
 		},
 		{
@@ -1367,7 +1367,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:qio_dashboard"
 		},
 		{
@@ -1377,7 +1377,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:qio_drive_array"
 		},
 		{
@@ -1387,7 +1387,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:qio_exporter"
 		},
 		{
@@ -1397,7 +1397,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:qio_importer"
 		},
 		{
@@ -1407,7 +1407,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:qio_redstone_adapter"
 		},
 		{
@@ -1417,7 +1417,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:quantum_entangloporter"
 		},
 		{
@@ -1427,7 +1427,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:radioactive_waste_barrel"
 		},
 		{
@@ -1437,7 +1437,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:resistive_heater"
 		},
 		{
@@ -1447,7 +1447,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:restrictive_transporter"
 		},
 		{
@@ -1457,7 +1457,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:rotary_condensentrator"
 		},
 		{
@@ -1467,7 +1467,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:security_desk"
 		},
 		{
@@ -1477,7 +1477,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:seismic_vibrator"
 		},
 		{
@@ -1487,7 +1487,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:solar_neutron_activator"
 		},
 		{
@@ -1497,7 +1497,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:sps_casing"
 		},
 		{
@@ -1507,7 +1507,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:sps_port"
 		},
 		{
@@ -1527,7 +1527,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:structural_glass"
 		},
 		{
@@ -1537,7 +1537,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:supercharged_coil"
 		},
 		{
@@ -1547,7 +1547,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:superheating_element"
 		},
 		{
@@ -1557,7 +1557,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:teleporter"
 		},
 		{
@@ -1567,7 +1567,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:teleporter_frame"
 		},
 		{
@@ -1577,7 +1577,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:thermal_evaporation_block"
 		},
 		{
@@ -1587,7 +1587,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:thermal_evaporation_controller"
 		},
 		{
@@ -1597,7 +1597,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:thermal_evaporation_valve"
 		},
 		{
@@ -1617,7 +1617,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_bin"
 		},
 		{
@@ -1627,7 +1627,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_chemical_tank"
 		},
 		{
@@ -1637,7 +1637,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_combining_factory"
 		},
 		{
@@ -1647,7 +1647,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_compressing_factory"
 		},
 		{
@@ -1657,7 +1657,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_crushing_factory"
 		},
 		{
@@ -1667,7 +1667,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_energy_cube"
 		},
 		{
@@ -1677,7 +1677,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_enriching_factory"
 		},
 		{
@@ -1687,7 +1687,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_fluid_tank"
 		},
 		{
@@ -1697,7 +1697,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_induction_cell"
 		},
 		{
@@ -1707,7 +1707,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_induction_provider"
 		},
 		{
@@ -1717,7 +1717,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_infusing_factory"
 		},
 		{
@@ -1727,7 +1727,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_injecting_factory"
 		},
 		{
@@ -1737,7 +1737,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_logistical_transporter"
 		},
 		{
@@ -1747,7 +1747,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_mechanical_pipe"
 		},
 		{
@@ -1757,7 +1757,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_pressurized_tube"
 		},
 		{
@@ -1767,7 +1767,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_purifying_factory"
 		},
 		{
@@ -1777,7 +1777,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_sawing_factory"
 		},
 		{
@@ -1787,7 +1787,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_smelting_factory"
 		},
 		{
@@ -1797,7 +1797,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_thermodynamic_conductor"
 		},
 		{
@@ -1807,7 +1807,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:ultimate_universal_cable"
 		},
 		{

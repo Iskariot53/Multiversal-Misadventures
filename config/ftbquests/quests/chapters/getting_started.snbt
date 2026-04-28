@@ -54,6 +54,9 @@
 	quest_links: [ ]
 	quests: [
 		{
+			icon: {
+				id: "confluence:question_mark_statue"
+			}
 			id: "458329839B21BF7B"
 			rewards: [{
 				id: "2B459FF6EDE8127C"
@@ -63,12 +66,13 @@
 				}
 				type: "item"
 			}]
+			size: 2.0d
 			tasks: [{
 				id: "036F57122D593FF1"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: -8.5d
+			x: -7.105427357601002E-15d
+			y: -8.392857142857139d
 		}
 		{
 			dependencies: ["458329839B21BF7B"]
@@ -109,13 +113,139 @@
 			dependencies: ["458329839B21BF7B"]
 			icon: {
 				components: {
-					"ftbquests:missing_item": "akashictome:tome"
+					"akashictome:is_morphed": 1b
+					"akashictome:tool_content": [
+						{
+							components: {
+								"akashictome:defined_mod": "ftbquests"
+							}
+							count: 1
+							id: "ftbquests:book"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "dimensionalpocketsii"
+							}
+							count: 1
+							id: "dimensionalpocketsii:dimensional_tome"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "apotheosis"
+								"patchouli:book": "apotheosis:apoth_chronicle"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "securitycraft"
+							}
+							count: 1
+							id: "securitycraft:sc_manual"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "modularrouters"
+								"patchouli:book": "modularrouters:book"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "ae2"
+							}
+							count: 1
+							id: "ae2:guide"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "industrialforegoing"
+								"patchouli:book": "industrialforegoing:industrial_foregoing"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "ars_nouveau"
+							}
+							count: 1
+							id: "ars_nouveau:worn_notebook"
+						}
+						{
+							components: {
+								"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+								"akashictome:defined_mod": "occultism"
+							}
+							count: 1
+							id: "occultism:dictionary_of_spirits"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "mahoutsukai"
+							}
+							count: 1
+							id: "mahoutsukai:guidebook"
+						}
+						{
+							components: {
+								"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+								"akashictome:defined_mod": "confluence"
+								"patchouli:book": "confluence:otherworld_note"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+								"akashictome:defined_mod": "productivemetalworks"
+								"patchouli:book": "productivemetalworks:guide"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+								"akashictome:defined_mod": "productivebees"
+								"patchouli:book": "productivebees:guide"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "modularbees"
+								"patchouli:book": "modularbees:modular_guide"
+							}
+							count: 1
+							id: "patchouli:guide_book"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "spaceploitation"
+							}
+							count: 1
+							id: "spaceploitation:guide"
+						}
+						{
+							components: {
+								"akashictome:defined_mod": "strangematter"
+							}
+							count: 1
+							id: "strangematter:research_tablet"
+						}
+					]
+					"minecraft:custom_name": "{\"translate\":\"item.akashictome.tome\"}"
 				}
-				id: "ftbquests:missing_item"
+				id: "akashictome:tome"
 			}
 			id: "0B3DC4B76699852B"
 			rewards: [{
-				id: "55B6000280318783"
+				id: "544DDFE6E99A853B"
 				item: {
 					components: {
 						"akashictome:is_morphed": 1b
@@ -166,22 +296,6 @@
 							}
 							{
 								components: {
-									"akashictome:defined_mod": "productivemetalworks"
-									"patchouli:book": "productivemetalworks:guide"
-								}
-								count: 1
-								id: "patchouli:guide_book"
-							}
-							{
-								components: {
-									"akashictome:defined_mod": "productivebees"
-									"patchouli:book": "productivebees:guide"
-								}
-								count: 1
-								id: "patchouli:guide_book"
-							}
-							{
-								components: {
 									"akashictome:defined_mod": "industrialforegoing"
 									"patchouli:book": "industrialforegoing:industrial_foregoing"
 								}
@@ -197,12 +311,70 @@
 							}
 							{
 								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
 									"akashictome:defined_mod": "occultism"
 								}
 								count: 1
 								id: "occultism:dictionary_of_spirits"
 							}
+							{
+								components: {
+									"akashictome:defined_mod": "mahoutsukai"
+								}
+								count: 1
+								id: "mahoutsukai:guidebook"
+							}
+							{
+								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+									"akashictome:defined_mod": "confluence"
+									"patchouli:book": "confluence:otherworld_note"
+								}
+								count: 1
+								id: "patchouli:guide_book"
+							}
+							{
+								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+									"akashictome:defined_mod": "productivemetalworks"
+									"patchouli:book": "productivemetalworks:guide"
+								}
+								count: 1
+								id: "patchouli:guide_book"
+							}
+							{
+								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+									"akashictome:defined_mod": "productivebees"
+									"patchouli:book": "productivebees:guide"
+								}
+								count: 1
+								id: "patchouli:guide_book"
+							}
+							{
+								components: {
+									"akashictome:defined_mod": "modularbees"
+									"patchouli:book": "modularbees:modular_guide"
+								}
+								count: 1
+								id: "patchouli:guide_book"
+							}
+							{
+								components: {
+									"akashictome:defined_mod": "spaceploitation"
+								}
+								count: 1
+								id: "spaceploitation:guide"
+							}
+							{
+								components: {
+									"akashictome:defined_mod": "strangematter"
+								}
+								count: 1
+								id: "strangematter:research_tablet"
+							}
 						]
+						"minecraft:custom_name": "{\"translate\":\"item.akashictome.tome\"}"
 					}
 					count: 1
 					id: "akashictome:tome"
@@ -513,15 +685,26 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				entity: "minecraft:wither"
-				icon: {
-					id: "minecraft:wither_rose"
+			tasks: [
+				{
+					entity: "cataclysm:netherite_monstrosity"
+					icon: {
+						id: "cataclysm:monstrous_helm"
+					}
+					id: "7C4749EC27A72F37"
+					type: "kill"
+					value: 1L
 				}
-				id: "7C4749EC27A72F37"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					entity: "cataclysm:ignis"
+					icon: {
+						id: "cataclysm:ignitium_ingot"
+					}
+					id: "246E2E300C77A00A"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: 2.5d
 			y: -7.0d
 		}
@@ -556,7 +739,7 @@
 			}]
 			tasks: [{
 				id: "014CFF9588F091F4"
-				item: { components: { "ftbquests:missing_item": "pointblank:printer" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "relics:researching_table" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -928,6 +1111,17 @@
 				type: "item"
 			}]
 			x: -5.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["458329839B21BF7B"]
+			id: "5F6CCE0C727A2EAC"
+			tasks: [{
+				id: "31859BA1E261464E"
+				item: { count: 1, id: "morphtool:tool" }
+				type: "item"
+			}]
+			x: 3.5d
 			y: -9.5d
 		}
 	]

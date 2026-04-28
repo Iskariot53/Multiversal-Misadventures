@@ -223,7 +223,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:ancient_debris"
 		},
 		{
@@ -539,7 +539,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:barrier"
 		},
 		{
@@ -1675,7 +1675,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:chain_command_block"
 		},
 		{
@@ -2151,7 +2151,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:command_block"
 		},
 		{
@@ -3492,7 +3492,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:dragon_egg"
 		},
 		{
@@ -3502,7 +3502,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:dragon_head"
 		},
 		{
@@ -3512,7 +3512,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:dragon_wall_head"
 		},
 		{
@@ -4606,7 +4606,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:jigsaw"
 		},
 		{
@@ -6105,7 +6105,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:netherite_block"
 		},
 		{
@@ -8313,7 +8313,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:repeating_command_block"
 		},
 		{
@@ -9348,7 +9348,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:structure_block"
 		},
 		{
@@ -9358,7 +9358,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "minecraft:structure_void"
 		},
 		{

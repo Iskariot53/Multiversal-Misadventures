@@ -11,5 +11,35 @@
     },
     "done": true
   },
+  "confluence:achievements/benched": {
+    "criteria": {
+      "requirement": "2026-04-21 23:54:40 -0400"
+    },
+    "done": true
+  },
+  "confluence:achievements/hold_on_tight": {
+    "criteria": {
+      "never": "2026-04-22 01:01:39 -0400"
+    },
+    "done": true
+  },
+  "confluence:achievements/i_am_loot": {
+    "criteria": {
+      "requirement": "2026-04-22 23:33:56 -0400"
+    },
+    "done": true
+  },
+  "confluence:achievements/timber": {
+    "criteria": {
+      "requirement": "2026-04-23 12:47:28 -0400"
+    },
+    "done": true
+  },
+  "confluence:achievements/ooo_shinny": {
+    "criteria": {
+      "requirement": "2026-04-24 01:52:28 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

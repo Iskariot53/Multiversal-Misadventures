@@ -162,6 +162,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:enderguardian_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:enderguardian_theme_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:enderguardian_theme_2"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:endless"
 		},
 		{
@@ -206,6 +218,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:harbinger_theme"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:haunt_muskie"
 		},
 		{
@@ -215,6 +231,22 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:hope_instilled"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:ignis_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:ignis_theme_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:ignis_theme_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:ignis_theme_3"
 		},
 		{
 			"weight": 1.0,
@@ -250,6 +282,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:leviathan_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:leviathan_theme_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:leviathan_theme_2"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:life_renren_mono"
 		},
 		{
@@ -262,6 +306,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:maledictus_theme"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:mammatus"
 		},
 		{
@@ -271,6 +319,10 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:minecraft"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:monstrosity_theme"
 		},
 		{
 			"weight": 1.0,
@@ -310,6 +362,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:remnant_theme"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:rivers_of_honey_moserao_mono"
 		},
 		{
@@ -319,6 +375,10 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:rubedo"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:scylla_theme"
 		},
 		{
 			"weight": 1.0,
@@ -347,6 +407,10 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:taswell"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:the_cataclysmfarer"
 		},
 		{
 			"weight": 1.0,

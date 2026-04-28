@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:animal_baby_separator"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:animal_feeder"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:animal_rancher"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:biofuel_generator"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:bioreactor"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:block_breaker"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:block_placer"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:conveyor"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:dissolution_chamber"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:dye_mixer"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:enchantment_applicator"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:enchantment_extractor"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:enchantment_factory"
 		},
 		{
@@ -137,7 +137,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:enchantment_sorter"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:fermentation_station"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:fluid_collector"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:fluid_extractor"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:fluid_laser_base"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:fluid_placer"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:fluid_sieving_machine"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:hydroponic_bed"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:infinity_backpack_block"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:infinity_charger"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:laser_drill"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:latex_processing_unit"
 		},
 		{
@@ -297,7 +297,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:marine_fisher"
 		},
 		{
@@ -307,7 +307,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:material_stonework_factory"
 		},
 		{
@@ -317,7 +317,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mechanical_dirt"
 		},
 		{
@@ -327,7 +327,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mob_crusher"
 		},
 		{
@@ -337,7 +337,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mob_detector"
 		},
 		{
@@ -347,7 +347,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mob_duplicator"
 		},
 		{
@@ -357,7 +357,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mob_slaughter_factory"
 		},
 		{
@@ -367,7 +367,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_crimed"
 		},
 		{
@@ -377,7 +377,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_culinary"
 		},
 		{
@@ -387,7 +387,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_death"
 		},
 		{
@@ -397,7 +397,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_disenchantment"
 		},
 		{
@@ -407,7 +407,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_ender"
 		},
 		{
@@ -417,7 +417,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_explosive"
 		},
 		{
@@ -427,7 +427,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_frosty"
 		},
 		{
@@ -437,7 +437,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_furnace"
 		},
 		{
@@ -447,7 +447,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_halitosis"
 		},
 		{
@@ -457,7 +457,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_magma"
 		},
 		{
@@ -467,7 +467,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_meatallurgic"
 		},
 		{
@@ -477,7 +477,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_netherstar"
 		},
 		{
@@ -487,7 +487,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_pink"
 		},
 		{
@@ -497,7 +497,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_potion"
 		},
 		{
@@ -507,7 +507,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_reactor"
 		},
 		{
@@ -517,7 +517,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_rocket"
 		},
 		{
@@ -527,7 +527,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:mycelial_slimey"
 		},
 		{
@@ -537,7 +537,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:ore_laser_base"
 		},
 		{
@@ -557,7 +557,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:pitiful_generator"
 		},
 		{
@@ -567,7 +567,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:plant_fertilizer"
 		},
 		{
@@ -577,7 +577,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:plant_gatherer"
 		},
 		{
@@ -587,7 +587,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:plant_sower"
 		},
 		{
@@ -597,7 +597,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:potion_brewer"
 		},
 		{
@@ -607,7 +607,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:resourceful_furnace"
 		},
 		{
@@ -617,7 +617,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:sewage_composter"
 		},
 		{
@@ -627,7 +627,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:sewer"
 		},
 		{
@@ -637,7 +637,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:simulated_hydroponic_bed"
 		},
 		{
@@ -647,7 +647,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:sludge_refiner"
 		},
 		{
@@ -657,7 +657,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:spores_recreator"
 		},
 		{
@@ -667,7 +667,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:stasis_chamber"
 		},
 		{
@@ -677,7 +677,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:transporter"
 		},
 		{
@@ -687,7 +687,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:washing_factory"
 		},
 		{
@@ -697,7 +697,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:water_condensator"
 		},
 		{
@@ -707,7 +707,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "industrialforegoing:wither_builder"
 		}
 	]

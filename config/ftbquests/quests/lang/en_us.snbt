@@ -17,7 +17,6 @@
 	chapter.4C2BE1D77E3FCF3D.title: "Mekanism"
 	chapter.50F5082DF03F979A.title: "Tom's Simple Storage"
 	chapter.5158AF3E98971970.title: "&aDimensional Pockets"
-	chapter.5E8B386358D2260F.title: "&aTom's Simple Storage"
 	chapter.61AB2C589897DF17.title: "Sophisticated Storage"
 	chapter.6594504242CFDEF0.title: "&aProductive Metalworks"
 	chapter.6C3D1E20198408D6.title: "&aApotheosis"
@@ -665,6 +664,8 @@
 	quest.24F0F5CC858F9043.quest_desc: ["Steel ingots can be cut into rebar which can then be used for &8reinforced materials&r and &6screwdrivers&r"]
 	quest.24F0F5CC858F9043.quest_subtitle: "&6Stone Cutting"
 	quest.24F0F5CC858F9043.title: "&e&lRebar"
+	quest.251C9C344937FDC8.quest_desc: ["This is a temporary placeholder yet to be re-worked."]
+	quest.251C9C344937FDC8.quest_subtitle: "You see nothing..."
 	quest.25809A8312BEA45C.title: "&dStarbuncle Charm"
 	quest.259DA63A1DBCDAD7.quest_desc: ["Generates a moderate amount of source from nearby mob death and animal breeding. Additionally, the Vitalic Sourcelink will generate passive Source from nearby baby animals and will accelerate their growth."]
 	quest.25DD01A25EBDFE0A.quest_desc: [
@@ -770,6 +771,7 @@
 		"Have fun with that. <3"
 	]
 	quest.2BDAF6D7BFD2E441.quest_subtitle: "How to unlock The End"
+	quest.2BDAF6D7BFD2E441.title: "Nether Bosses"
 	quest.2BED6C43652B3BBC.quest_desc: ["This augment will allow recipes to cook twice as fast, with the cost of having the furnace burn up twice the amount of fuel. Simply place this augment into the desired furnace's augment slot."]
 	quest.2BF51756FD95A460.quest_desc: [
 		"The bioreactor will intake organic materials and output biofuel, it is not a generator in terms of making FE. it's sole purpose is generating biofuel to convert into FE. The amount of biofuel produced is proportionate to the diversity of items provided to convert, meaning, providing it 3 different item types to convert will produce more fuel per item than using 2 item sources to produce your biofuel."
@@ -881,7 +883,7 @@
 	quest.328AA822DBA16B9C.quest_subtitle: "&6Need a hand?"
 	quest.328AA822DBA16B9C.title: "&e&lDeployer"
 	quest.32ECF4EB1E70E4AE.quest_desc: ["A much more effective, albeit less efficently produced, reduction of &2Demon's Dream&r. However, it  proviides a stronger, faster acting healing effect."]
-	quest.3368F0162D2E8B19.quest_desc: ["Holding a Dragon Egg will allow access to other planets in the galaxy."]
+	quest.3368F0162D2E8B19.quest_desc: ["Placeholder, nothing currently stops the player from going to space at any point."]
 	quest.3368F0162D2E8B19.quest_subtitle: "How to unlock The Solar System"
 	quest.33B295CC0DBBE25D.quest_desc: ["Industrial foregoing is another tech and automation. Many of its blocks, such as the Marine Fisher and Laser Drills, can make obatining a steady supply of otherwise hard to obtain resources much easier."]
 	quest.33B295CC0DBBE25D.quest_subtitle: "&9Industrialize The World!"
@@ -1018,6 +1020,7 @@
 	]
 	quest.3825DE01F400EA4D.quest_subtitle: "&eThis is the way"
 	quest.3825DE01F400EA4D.title: "&6&lSo Which Is Best?"
+	quest.386409DB093A3893.quest_subtitle: "How to reach the Overworld"
 	quest.3879E9D45E33BE3A.title: "&9&lFission Fuel Assembly"
 	quest.38A6143F44837211.quest_desc: ["The block upgrade causes bees to provide their combs in block form rather than just singular combs."]
 	quest.38A6143F44837211.quest_subtitle: "&eComb blocks"
@@ -1765,7 +1768,7 @@
 	]
 	quest.5C725D0B1B56CF39.title: "&lTier 4"
 	quest.5CFD7FD3066A70C3.quest_desc: [
-		"For multiple reasons, from TPS to the simple fact that being able to \"carry your base\" any where you go is pretty nice, setting up a dimensional pocket for your primary base of options can be a wise endeavor. "
+		"For multiple reasons, from TPS to the simple fact that being able to \"carry your base\" any where you go is pretty nice, setting up a dimensional pocket for your primary base of operations can be a wise endeavor. "
 		""
 		"{@pagebreak}"
 		""
@@ -1844,6 +1847,7 @@
 	quest.5F358699277E5DC6.quest_desc: ["&eEnergizers&r are used to create many different electrical components, as well as used in many recipe and assemply lines where RF is needed to complete the recipe. "]
 	quest.5F358699277E5DC6.quest_subtitle: "&6Used for.... Energizing!"
 	quest.5F358699277E5DC6.title: "&e&lBasic Energizer"
+	quest.5F6CCE0C727A2EAC.quest_subtitle: "Universal Wrench"
 	quest.5FA58A68858C6A9A.quest_desc: ["Breed a reed bee with a nomad bee."]
 	quest.5FA58A68858C6A9A.quest_subtitle: "&eBee Conversion"
 	quest.5FA58A68858C6A9A.title: "&6&lAcquire a Silicon Bee"
@@ -2151,7 +2155,7 @@
 	quest.70ED44A55B50B2D5.quest_desc: [
 		"Telepastries have been added just in case it becomes too problematic trying to locate a dimension where something such as crawling portal blocks spawn. Worst comes to worst their will always be an alternate way to get to where you're going. Simply look up the recipe in &aJEI&r for the respective dimensions cake recipe."
 		""
-		"Ex: \"Overworld Cake\", \"Crawling Cake\" etc."
+		"Ex: \"Overworld Cake\", \"End Cake\" etc."
 	]
 	quest.70ED44A55B50B2D5.quest_subtitle: "TelePastries"
 	quest.71070D1348F6EBF2.quest_desc: ["As with any other playthrough in a pack involving Mekanism, start off by gathering some osmium ingots."]
@@ -2247,6 +2251,7 @@
 	quest.7551EF4FE53DDAC8.quest_subtitle: "&eKeep the hive nice and dark!"
 	quest.7551EF4FE53DDAC8.title: "&6&lSkeletal Bee"
 	quest.757A217506F440A2.quest_desc: [""]
+	quest.75B1263BA2F94FA5.quest_subtitle: "Basic dimensional resources"
 	quest.75C3922C0CD49188.quest_desc: ["A special Sacrificial Bowl used to initiate any given ritual performed by a pentacle. This is the bowl you should palce the activation item in."]
 	quest.75FFB0BEB9094C7A.quest_desc: [
 		"While for the most part fully intercompatible, there are some slight differences between blaze burners, states and fuels. Here is a quick run down of each, for clarities sake."

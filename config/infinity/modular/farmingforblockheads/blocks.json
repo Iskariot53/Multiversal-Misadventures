@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "farmingforblockheads:chicken_nest"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "farmingforblockheads:feeding_trough"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "farmingforblockheads:market"
 		}
 	]

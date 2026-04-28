@@ -1,5 +1,5 @@
 {
-	autofocus_id: "276806024BA21F30"
+	autofocus_id: "386409DB093A3893"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "the_blockheads_guide_to_the_galaxy"
@@ -37,24 +37,24 @@
 				item: { count: 1, id: "replication:disintegrator" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -4.0d
+			x: 14.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2BDAF6D7BFD2E441"]
 			hide_until_deps_complete: true
 			id: "3368F0162D2E8B19"
 			tasks: [{
-				entity: "minecraft:ender_dragon"
+				entity: "terra_entity:skeletron_prime"
 				icon: {
-					id: "minecraft:dragon_head"
+					id: "terra_entity:skeletron_spawn_egg"
 				}
 				id: "05FF38C515B1CF77"
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -4.0d
+			x: 8.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["2E970BDC60CEAADD"]
@@ -75,8 +75,8 @@
 				item: { count: 1, id: "replication:matter_network_pipe" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -4.0d
+			x: 15.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2E970BDC60CEAADD"]
@@ -96,8 +96,8 @@
 				item: { count: 1, id: "replication:matter_tank" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -4.0d
+			x: 16.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2E970BDC60CEAADD"]
@@ -117,8 +117,8 @@
 				item: { count: 1, id: "replication:identification_chamber" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -4.0d
+			x: 18.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["219ACCA7DD59FE25"]
@@ -137,8 +137,8 @@
 				item: { count: 1, id: "replication:chip_storage" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -1.0d
+			x: 18.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["351F184E542BC4E1"]
@@ -157,8 +157,8 @@
 				item: { count: 1, id: "replication:memory_chip" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -2.5d
+			x: 18.0d
+			y: -0.5d
 		}
 		{
 			dependencies: [
@@ -183,8 +183,8 @@
 				item: { count: 1, id: "replication:replicator" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -2.5d
+			x: 15.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["2E970BDC60CEAADD"]
@@ -204,18 +204,22 @@
 				item: { count: 1, id: "replication:replication_terminal" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -4.0d
+			x: 13.5d
+			y: -2.0d
 		}
 		{
+			dependencies: ["386409DB093A3893"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
 			id: "251C9C344937FDC8"
 			tasks: [{
 				id: "70C820C5B3E04C99"
 				item: { count: 1, id: "telepastries:custom_cake" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 1.0d
+			x: 9.5d
+			y: 19.0d
 		}
 		{
 			dependencies: [
@@ -230,8 +234,8 @@
 				item: { count: 1, id: "tempad:knowledge_projector" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: -4.0d
+			x: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["215090D9A64FB34F"]
@@ -241,8 +245,8 @@
 				item: { count: 1, id: "tempad:chronon_battery" }
 				type: "item"
 			}]
-			x: 14.5d
-			y: -0.5d
+			x: 2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["096B6973DC9B1B13"]
@@ -252,8 +256,8 @@
 				item: { count: 1, id: "tempad:chronon_cell" }
 				type: "item"
 			}]
-			x: 14.5d
-			y: -2.5d
+			x: 1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["67E6306D8145814A"]
@@ -263,8 +267,8 @@
 				item: { count: 1, id: "tempad:card_wallet" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -0.5d
+			x: 2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["096B6973DC9B1B13"]
@@ -274,19 +278,48 @@
 				item: { count: 1, id: "tempad:location_card" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -2.5d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["133AF298DA4ABF3B"]
 			id: "102B5D6B8FFA17D9"
+			size: 1.5d
 			tasks: [{
 				id: "048A83BBC5A9722D"
 				item: { count: 1, id: "tempad:tempad" }
 				type: "item"
 			}]
-			x: 14.5d
-			y: 1.5d
+			x: 1.750000000000007d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2BDAF6D7BFD2E441"]
+			hide_until_deps_complete: true
+			id: "386409DB093A3893"
+			size: 2.0d
+			tasks: [
+				{
+					entity: "cataclysm:ender_guardian"
+					icon: {
+						id: "cataclysm:gauntlet_of_guard"
+					}
+					id: "1AF60748B9E194A8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "cataclysm:ender_golem"
+					icon: {
+						id: "cataclysm:void_core"
+					}
+					id: "5D8B50642CFDD956"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 8.0d
+			y: 0.0d
 		}
 	]
 }

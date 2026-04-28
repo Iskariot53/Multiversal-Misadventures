@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:agronomic_sourcelink"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:alakarkinos_hat"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:alchemical_sourcelink"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:alteration_table"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:arcane_core"
 		},
 		{
@@ -57,7 +57,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:arcane_pedestal"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:arcane_platform"
 		},
 		{
@@ -80,7 +80,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:archwood_button"
 		},
 		{
@@ -90,7 +90,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:archwood_chest"
 		},
 		{
@@ -170,7 +170,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:archwood_pressure_plate"
 		},
 		{
@@ -180,7 +180,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:archwood_sconce"
 		},
 		{
@@ -240,7 +240,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:basic_spell_turret"
 		},
 		{
@@ -250,7 +250,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:bastion_pod"
 		},
 		{
@@ -303,7 +303,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:blue_sbed"
 		},
 		{
@@ -313,7 +313,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:bombegranate_pod"
 		},
 		{
@@ -323,7 +323,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:brazier_relay"
 		},
 		{
@@ -333,7 +333,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:creative_source_jar"
 		},
 		{
@@ -343,7 +343,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:decor_blossom"
 		},
 		{
@@ -353,7 +353,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:dim_boundary"
 		},
 		{
@@ -363,7 +363,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:drygmy_stone"
 		},
 		{
@@ -373,7 +373,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:enchanting_apparatus"
 		},
 		{
@@ -383,7 +383,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:falseweave"
 		},
 		{
@@ -393,7 +393,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:frostaya_pod"
 		},
 		{
@@ -403,7 +403,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:ghostweave"
 		},
 		{
@@ -563,7 +563,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:gold_grate"
 		},
 		{
@@ -616,7 +616,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:green_sbed"
 		},
 		{
@@ -626,7 +626,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:imbuement_chamber"
 		},
 		{
@@ -636,7 +636,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:intangible_air"
 		},
 		{
@@ -646,7 +646,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:item_detector"
 		},
 		{
@@ -656,7 +656,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:light_block"
 		},
 		{
@@ -666,7 +666,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:mage_block"
 		},
 		{
@@ -696,7 +696,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:magelight_torch"
 		},
 		{
@@ -706,7 +706,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:magic_fire"
 		},
 		{
@@ -716,7 +716,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:mendosteen_pod"
 		},
 		{
@@ -726,7 +726,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:mirrorweave"
 		},
 		{
@@ -736,7 +736,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:mob_jar"
 		},
 		{
@@ -746,7 +746,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:mycelial_sourcelink"
 		},
 		{
@@ -756,7 +756,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:orange_sbed"
 		},
 		{
@@ -766,7 +766,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:particle_block"
 		},
 		{
@@ -776,7 +776,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:planarium"
 		},
 		{
@@ -786,7 +786,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:planarium_projector"
 		},
 		{
@@ -796,7 +796,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:polished_sconce"
 		},
 		{
@@ -806,7 +806,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:portal"
 		},
 		{
@@ -816,7 +816,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:potion_diffuser"
 		},
 		{
@@ -826,7 +826,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:potion_jar"
 		},
 		{
@@ -836,7 +836,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:potion_melder"
 		},
 		{
@@ -939,7 +939,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:purple_sbed"
 		},
 		{
@@ -992,7 +992,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:red_sbed"
 		},
 		{
@@ -1002,7 +1002,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:redstone_relay"
 		},
 		{
@@ -1012,7 +1012,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:relay"
 		},
 		{
@@ -1022,7 +1022,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:relay_collector"
 		},
 		{
@@ -1032,7 +1032,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:relay_deposit"
 		},
 		{
@@ -1042,7 +1042,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:relay_splitter"
 		},
 		{
@@ -1052,7 +1052,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:relay_warp"
 		},
 		{
@@ -1062,7 +1062,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:repository"
 		},
 		{
@@ -1072,7 +1072,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:repository_controller"
 		},
 		{
@@ -1082,7 +1082,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:ritual_brazier"
 		},
 		{
@@ -1092,7 +1092,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:rotating_spell_turret"
 		},
 		{
@@ -1102,7 +1102,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:rune"
 		},
 		{
@@ -1112,7 +1112,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:sconce"
 		},
 		{
@@ -1122,7 +1122,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:scribes_table"
 		},
 		{
@@ -1132,7 +1132,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:scryers_crystal"
 		},
 		{
@@ -1142,7 +1142,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:scryers_oculus"
 		},
 		{
@@ -1152,7 +1152,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:sky_block"
 		},
 		{
@@ -1512,7 +1512,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:source_jar"
 		},
 		{
@@ -1525,7 +1525,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:source_lamp"
 		},
 		{
@@ -1625,7 +1625,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:sourcestone_grate"
 		},
 		{
@@ -1695,7 +1695,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:sourcestone_sconce"
 		},
 		{
@@ -1755,7 +1755,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:spell_prism"
 		},
 		{
@@ -1765,7 +1765,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:spell_sensor"
 		},
 		{
@@ -1775,7 +1775,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:spell_turret"
 		},
 		{
@@ -1785,7 +1785,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:storage_lectern"
 		},
 		{
@@ -1875,7 +1875,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:temporary_block"
 		},
 		{
@@ -1885,7 +1885,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:temporary_light_block"
 		},
 		{
@@ -1895,7 +1895,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:timer_spell_turret"
 		},
 		{
@@ -1905,7 +1905,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:vitalic_sourcelink"
 		},
 		{
@@ -1915,7 +1915,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:void_prism"
 		},
 		{
@@ -1925,7 +1925,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:volcanic_sourcelink"
 		},
 		{
@@ -1935,7 +1935,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:whirlisprig_flower"
 		},
 		{
@@ -1945,7 +1945,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:wixie_cauldron"
 		},
 		{
@@ -1955,7 +1955,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "ars_nouveau:yellow_sbed"
 		}
 	]

@@ -177,11 +177,11 @@
 			"key": "oritech:copper_nugget"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "oritech:creative_storage_block"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "oritech:creative_tank_block"
 		},
 		{

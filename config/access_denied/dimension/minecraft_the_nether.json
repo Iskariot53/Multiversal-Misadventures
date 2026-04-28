@@ -1,0 +1,7 @@
+{
+  "dimension": "minecraft:the_nether",
+  "portalAction": 2,
+  "itemsKey": {
+    "infinity:f4": false
+  }
+}

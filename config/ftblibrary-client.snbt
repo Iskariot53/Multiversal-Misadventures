@@ -30,7 +30,7 @@
 			}
 			"ftbessentials:trash_can": {
 				enabled: true
-				x: 1
+				x: 0
 				y: 2
 			}
 			"ftbultimine:config": {

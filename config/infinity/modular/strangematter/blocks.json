@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:anomaly_spawn_marker"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:levitation_pad"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:paradoxical_energy_cell"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:reality_forge"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:research_machine"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:resonance_condenser"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:resonant_burner"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:resonant_conduit"
 		},
 		{
@@ -347,7 +347,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:rift_stabilizer"
 		},
 		{
@@ -437,7 +437,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "strangematter:stasis_projector"
 		}
 	]

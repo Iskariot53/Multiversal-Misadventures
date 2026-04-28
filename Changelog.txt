@@ -18,6 +18,7 @@ Mods Removed
 - Star Wars Planets Stellaris
 - Xaero's MiniMap
 - Xaero's World Map
+- Yamo
 
 
  
@@ -29,6 +30,8 @@ Mods Added
 - Ars Unification
 - The Bumblezone
 - Confluence Music
+- CC: Sable
+- CC: Tweaked
 - Crash Assistant
 - Create Aeronautics
 - Create Aeronautics: Dyeable Components
@@ -39,18 +42,24 @@ Mods Added
 - Create: Occult Engineering
 - Create Slice & Dice
 - Dyson Cube Project
+- Entangled 
 - Immersive Furniture
 - Immersive Melodies
 - Immersive Paintings
-- Lite Map
 - Little Big Redstone
+- Mahou Tsukai
+- Map Atlases
 - Modular Bees
 - Modular Machinery Reborn
 - Oracle Index
 - Oritech
 - Paragliders
+- Powah (Rearchitected)
 - Questlog
 - Sable
+- Sable Schematics
+- Schematic Energistics
+- SpacePloitation
 - Strange Matter
 
 
@@ -126,10 +135,3 @@ Mods Updated
 - Yet Another Memory Optimization
 - Xaero's Minimap
 - Xaero's World Map
-
-
-
-Changes
-
-
-- Literally everything Stellaris related has been removed, in favor of leaning into "creating space" for space exploration content.

@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_cabinet"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_connector"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_cooking_table"
 		},
 		{
@@ -37,7 +37,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_counter"
 		},
 		{
@@ -47,7 +47,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_fridge"
 		},
 		{
@@ -67,7 +67,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_oven"
 		},
 		{
@@ -77,7 +77,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:black_sink"
 		},
 		{
@@ -87,7 +87,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_cabinet"
 		},
 		{
@@ -97,7 +97,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_connector"
 		},
 		{
@@ -107,7 +107,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_cooking_table"
 		},
 		{
@@ -117,7 +117,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_counter"
 		},
 		{
@@ -127,7 +127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_fridge"
 		},
 		{
@@ -147,7 +147,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_oven"
 		},
 		{
@@ -157,7 +157,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:blue_sink"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_cabinet"
 		},
 		{
@@ -177,7 +177,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_connector"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_cooking_table"
 		},
 		{
@@ -197,7 +197,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_counter"
 		},
 		{
@@ -207,7 +207,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_fridge"
 		},
 		{
@@ -227,7 +227,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_oven"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:brown_sink"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cabinet"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:connector"
 		},
 		{
@@ -267,7 +267,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cooking_table"
 		},
 		{
@@ -277,7 +277,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:counter"
 		},
 		{
@@ -287,7 +287,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cow_jar"
 		},
 		{
@@ -297,7 +297,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cutting_board"
 		},
 		{
@@ -307,7 +307,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_cabinet"
 		},
 		{
@@ -317,7 +317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_connector"
 		},
 		{
@@ -327,7 +327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_cooking_table"
 		},
 		{
@@ -337,7 +337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_counter"
 		},
 		{
@@ -347,7 +347,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_fridge"
 		},
 		{
@@ -367,7 +367,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_oven"
 		},
 		{
@@ -377,7 +377,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:cyan_sink"
 		},
 		{
@@ -387,7 +387,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:fruit_basket"
 		},
 		{
@@ -397,7 +397,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_cabinet"
 		},
 		{
@@ -407,7 +407,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_connector"
 		},
 		{
@@ -417,7 +417,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_cooking_table"
 		},
 		{
@@ -427,7 +427,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_counter"
 		},
 		{
@@ -437,7 +437,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_fridge"
 		},
 		{
@@ -447,7 +447,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_kitchen_floor"
 		},
 		{
@@ -457,7 +457,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_oven"
 		},
 		{
@@ -467,7 +467,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:gray_sink"
 		},
 		{
@@ -477,7 +477,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_cabinet"
 		},
 		{
@@ -487,7 +487,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_connector"
 		},
 		{
@@ -497,7 +497,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_cooking_table"
 		},
 		{
@@ -507,7 +507,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_counter"
 		},
 		{
@@ -517,7 +517,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_fridge"
 		},
 		{
@@ -527,7 +527,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_kitchen_floor"
 		},
 		{
@@ -537,7 +537,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_oven"
 		},
 		{
@@ -547,7 +547,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:green_sink"
 		},
 		{
@@ -557,7 +557,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_cabinet"
 		},
 		{
@@ -567,7 +567,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_connector"
 		},
 		{
@@ -577,7 +577,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_cooking_table"
 		},
 		{
@@ -587,7 +587,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_counter"
 		},
 		{
@@ -597,7 +597,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_fridge"
 		},
 		{
@@ -617,7 +617,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_oven"
 		},
 		{
@@ -627,7 +627,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_blue_sink"
 		},
 		{
@@ -637,7 +637,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_cabinet"
 		},
 		{
@@ -647,7 +647,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_connector"
 		},
 		{
@@ -657,7 +657,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_cooking_table"
 		},
 		{
@@ -667,7 +667,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_counter"
 		},
 		{
@@ -677,7 +677,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_fridge"
 		},
 		{
@@ -697,7 +697,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_oven"
 		},
 		{
@@ -707,7 +707,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:light_gray_sink"
 		},
 		{
@@ -717,7 +717,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_cabinet"
 		},
 		{
@@ -727,7 +727,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_connector"
 		},
 		{
@@ -737,7 +737,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_cooking_table"
 		},
 		{
@@ -747,7 +747,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_counter"
 		},
 		{
@@ -757,7 +757,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_fridge"
 		},
 		{
@@ -777,7 +777,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_oven"
 		},
 		{
@@ -787,7 +787,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:lime_sink"
 		},
 		{
@@ -797,7 +797,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_cabinet"
 		},
 		{
@@ -807,7 +807,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_connector"
 		},
 		{
@@ -817,7 +817,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_cooking_table"
 		},
 		{
@@ -827,7 +827,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_counter"
 		},
 		{
@@ -837,7 +837,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_fridge"
 		},
 		{
@@ -847,7 +847,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_kitchen_floor"
 		},
 		{
@@ -857,7 +857,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_oven"
 		},
 		{
@@ -867,7 +867,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:magenta_sink"
 		},
 		{
@@ -877,7 +877,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:milk_jar"
 		},
 		{
@@ -887,7 +887,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_cabinet"
 		},
 		{
@@ -897,7 +897,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_connector"
 		},
 		{
@@ -907,7 +907,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_cooking_table"
 		},
 		{
@@ -917,7 +917,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_counter"
 		},
 		{
@@ -927,7 +927,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_fridge"
 		},
 		{
@@ -947,7 +947,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_oven"
 		},
 		{
@@ -957,7 +957,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:orange_sink"
 		},
 		{
@@ -967,7 +967,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_cabinet"
 		},
 		{
@@ -977,7 +977,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_connector"
 		},
 		{
@@ -987,7 +987,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_cooking_table"
 		},
 		{
@@ -997,7 +997,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_counter"
 		},
 		{
@@ -1007,7 +1007,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_fridge"
 		},
 		{
@@ -1027,7 +1027,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_oven"
 		},
 		{
@@ -1037,7 +1037,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:pink_sink"
 		},
 		{
@@ -1047,7 +1047,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_cabinet"
 		},
 		{
@@ -1057,7 +1057,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_connector"
 		},
 		{
@@ -1067,7 +1067,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_cooking_table"
 		},
 		{
@@ -1077,7 +1077,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_counter"
 		},
 		{
@@ -1087,7 +1087,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_fridge"
 		},
 		{
@@ -1107,7 +1107,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_oven"
 		},
 		{
@@ -1117,7 +1117,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:purple_sink"
 		},
 		{
@@ -1127,7 +1127,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_cabinet"
 		},
 		{
@@ -1137,7 +1137,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_connector"
 		},
 		{
@@ -1147,7 +1147,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_cooking_table"
 		},
 		{
@@ -1157,7 +1157,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_counter"
 		},
 		{
@@ -1167,7 +1167,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_fridge"
 		},
 		{
@@ -1187,7 +1187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_oven"
 		},
 		{
@@ -1197,7 +1197,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:red_sink"
 		},
 		{
@@ -1217,7 +1217,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:spice_rack"
 		},
 		{
@@ -1227,7 +1227,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:toaster"
 		},
 		{
@@ -1237,7 +1237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:tool_rack"
 		},
 		{
@@ -1247,7 +1247,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_cabinet"
 		},
 		{
@@ -1257,7 +1257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_connector"
 		},
 		{
@@ -1267,7 +1267,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_cooking_table"
 		},
 		{
@@ -1277,7 +1277,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_counter"
 		},
 		{
@@ -1287,7 +1287,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_fridge"
 		},
 		{
@@ -1307,7 +1307,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_oven"
 		},
 		{
@@ -1317,7 +1317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:white_sink"
 		},
 		{
@@ -1327,7 +1327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_cabinet"
 		},
 		{
@@ -1337,7 +1337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_connector"
 		},
 		{
@@ -1347,7 +1347,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_cooking_table"
 		},
 		{
@@ -1357,7 +1357,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_counter"
 		},
 		{
@@ -1367,7 +1367,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_fridge"
 		},
 		{
@@ -1377,7 +1377,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_kitchen_floor"
 		},
 		{
@@ -1387,7 +1387,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_oven"
 		},
 		{
@@ -1397,7 +1397,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "cookingforblockheads:yellow_sink"
 		}
 	]

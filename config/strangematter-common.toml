@@ -11,73 +11,73 @@
 		#Gravity Anomaly spawn rarity (1/N chance per chunk)
 		# Default: 500
 		# Range: 1 ~ 100000
-		gravityAnomalyRarity = 500
+		gravityAnomalyRarity = 1000
 		#Dimensions where Gravity Anomalies can spawn (empty list = all dimensions)
-		gravityAnomalyDimensions = ["minecraft:overworld"]
+		gravityAnomalyDimensions = []
 		#Per-dimension rarity overrides for Gravity Anomalies (format: namespace:dimension=rarity)
 		#Rarity overrides set the 1/N chance separately per dimension.
 		#Use a value <= 0 to disable spawning in that dimension.
-		gravityAnomalyDimensionRarityOverrides = ["minecraft:overworld=500"]
+		gravityAnomalyDimensionRarityOverrides = ["infinity:library=0"]
 		#Enable Temporal Bloom world generation
 		enableTemporalBloom = true
 		#Temporal Bloom spawn rarity (1/N chance per chunk)
 		# Default: 500
 		# Range: 1 ~ 100000
-		temporalBloomRarity = 500
+		temporalBloomRarity = 1000
 		#Dimensions where Temporal Blooms can spawn (empty list = all dimensions)
-		temporalBloomDimensions = ["minecraft:overworld"]
+		temporalBloomDimensions = []
 		#Per-dimension rarity overrides for Temporal Blooms (format: namespace:dimension=rarity)
 		#Rarity overrides set the 1/N chance separately per dimension.
 		#Use a value <= 0 to disable spawning in that dimension.
-		temporalBloomDimensionRarityOverrides = ["minecraft:overworld=500"]
+		temporalBloomDimensionRarityOverrides = ["infinity:library=0"]
 		#Enable Warp Gate world generation
 		enableWarpGate = true
 		#Warp Gate spawn rarity (1/N chance per chunk)
 		# Default: 500
 		# Range: 1 ~ 100000
-		warpGateRarity = 500
+		warpGateRarity = 1000
 		#Dimensions where Warp Gates can spawn (empty list = all dimensions)
-		warpGateDimensions = ["minecraft:overworld"]
+		warpGateDimensions = []
 		#Per-dimension rarity overrides for Warp Gates (format: namespace:dimension=rarity)
 		#Rarity overrides set the 1/N chance separately per dimension.
 		#Use a value <= 0 to disable spawning in that dimension.
-		warpGateDimensionRarityOverrides = ["minecraft:overworld=500"]
+		warpGateDimensionRarityOverrides = []
 		#Enable Energetic Rift world generation
 		enableEnergeticRift = true
 		#Energetic Rift spawn rarity (1/N chance per chunk)
 		# Default: 500
 		# Range: 1 ~ 100000
-		energeticRiftRarity = 500
+		energeticRiftRarity = 1000
 		#Dimensions where Energetic Rifts can spawn (empty list = all dimensions)
-		energeticRiftDimensions = ["minecraft:overworld"]
+		energeticRiftDimensions = []
 		#Per-dimension rarity overrides for Energetic Rifts (format: namespace:dimension=rarity)
 		#Rarity overrides set the 1/N chance separately per dimension.
 		#Use a value <= 0 to disable spawning in that dimension.
-		energeticRiftDimensionRarityOverrides = ["minecraft:overworld=500"]
+		energeticRiftDimensionRarityOverrides = ["infinity:library=0"]
 		#Enable Echoing Shadow world generation
 		enableEchoingShadow = true
 		#Echoing Shadow spawn rarity (1/N chance per chunk)
 		# Default: 500
 		# Range: 1 ~ 100000
-		echoingShadowRarity = 500
+		echoingShadowRarity = 1000
 		#Dimensions where Echoing Shadows can spawn (empty list = all dimensions)
-		echoingShadowDimensions = ["minecraft:overworld"]
+		echoingShadowDimensions = []
 		#Per-dimension rarity overrides for Echoing Shadows (format: namespace:dimension=rarity)
 		#Rarity overrides set the 1/N chance separately per dimension.
 		#Use a value <= 0 to disable spawning in that dimension.
-		echoingShadowDimensionRarityOverrides = ["minecraft:overworld=500"]
+		echoingShadowDimensionRarityOverrides = ["infinity:library=0"]
 		#Enable Thoughtwell world generation
 		enableThoughtwell = true
 		#Thoughtwell spawn rarity (1/N chance per chunk)
 		# Default: 500
 		# Range: 1 ~ 100000
-		thoughtwellRarity = 500
+		thoughtwellRarity = 1000
 		#Dimensions where Thoughtwells can spawn (empty list = all dimensions)
-		thoughtwellDimensions = ["minecraft:overworld"]
+		thoughtwellDimensions = []
 		#Per-dimension rarity overrides for Thoughtwells (format: namespace:dimension=rarity)
 		#Rarity overrides set the 1/N chance separately per dimension.
 		#Use a value <= 0 to disable spawning in that dimension.
-		thoughtwellDimensionRarityOverrides = ["minecraft:overworld=500"]
+		thoughtwellDimensionRarityOverrides = ["infinity:library=0"]
 
 	#Ore Generation Configuration
 	[worldgen.ores]
@@ -276,7 +276,7 @@
 		#Internal energy storage capacity (RE)
 		# Default: 50000
 		# Range: 100 ~ 1000000
-		energyStorage = 50000
+		energyStorage = 100000
 		#Energy transfer rate to adjacent blocks per tick (RE/t)
 		# Default: 800
 		# Range: 1 ~ 100000
@@ -291,7 +291,7 @@
 		#Internal energy storage capacity (RE)
 		# Default: 25000
 		# Range: 100 ~ 100000
-		energyStorage = 25000
+		energyStorage = 100000
 		#Ticks required to progress shard generation (lower = faster)
 		# Default: 15
 		# Range: 1 ~ 600
@@ -338,7 +338,7 @@
 		#Energy transfer rate per tick through conduits (RE/t)
 		# Default: 500
 		# Range: 1 ~ 100000
-		transferRate = 500
+		transferRate = 1000
 		#Network cache update interval in ticks (20 ticks = 1 second)
 		# Default: 20
 		# Range: 1 ~ 600

@@ -7,7 +7,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:celestial_chalice"
 		},
 		{
@@ -217,7 +217,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:copper_sacrificial_bowl"
 		},
 		{
@@ -247,7 +247,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dark_copper_sacrificial_bowl"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dark_golden_sacrificial_bowl"
 		},
 		{
@@ -267,7 +267,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dark_iesnium_sacrificial_bowl"
 		},
 		{
@@ -277,7 +277,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dark_sacrificial_bowl"
 		},
 		{
@@ -287,7 +287,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dark_silver_sacrificial_bowl"
 		},
 		{
@@ -307,7 +307,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dimensional_battlefield"
 		},
 		{
@@ -317,7 +317,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dimensional_extractor"
 		},
 		{
@@ -327,7 +327,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:dimensional_mineshaft"
 		},
 		{
@@ -337,7 +337,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:eldritch_chalice"
 		},
 		{
@@ -347,7 +347,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:entity_wormhole"
 		},
 		{
@@ -357,7 +357,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:entity_wormhole_dark"
 		},
 		{
@@ -367,7 +367,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:golden_sacrificial_bowl"
 		},
 		{
@@ -377,7 +377,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:iesnium_anvil"
 		},
 		{
@@ -417,7 +417,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:iesnium_sacrificial_bowl"
 		},
 		{
@@ -430,7 +430,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle"
 		},
 		{
@@ -443,7 +443,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_black"
 		},
 		{
@@ -456,7 +456,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_blue"
 		},
 		{
@@ -469,7 +469,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_brown"
 		},
 		{
@@ -482,7 +482,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_cyan"
 		},
 		{
@@ -495,7 +495,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_gray"
 		},
 		{
@@ -508,7 +508,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_green"
 		},
 		{
@@ -521,7 +521,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_light_blue"
 		},
 		{
@@ -534,7 +534,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_light_gray"
 		},
 		{
@@ -547,7 +547,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_lime"
 		},
 		{
@@ -560,7 +560,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_magenta"
 		},
 		{
@@ -573,7 +573,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_orange"
 		},
 		{
@@ -586,7 +586,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_pink"
 		},
 		{
@@ -599,7 +599,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_purple"
 		},
 		{
@@ -612,7 +612,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_red"
 		},
 		{
@@ -625,7 +625,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_white"
 		},
 		{
@@ -638,7 +638,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:large_candle_yellow"
 		},
 		{
@@ -648,7 +648,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:lighted_air"
 		},
 		{
@@ -758,7 +758,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:otherglass"
 		},
 		{
@@ -768,7 +768,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:otherglass_natural"
 		},
 		{
@@ -891,7 +891,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:otherplanks_wall_hanging_sign"
 		},
 		{
@@ -901,7 +901,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:otherplanks_wall_sign"
 		},
 		{
@@ -1097,7 +1097,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:otherstone_pedestal"
 		},
 		{
@@ -1107,7 +1107,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:otherstone_pedestal_silver"
 		},
 		{
@@ -1313,7 +1313,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:potted_otherflower"
 		},
 		{
@@ -1343,7 +1343,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:sacrificial_bowl"
 		},
 		{
@@ -1383,7 +1383,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:silver_sacrificial_bowl"
 		},
 		{
@@ -1393,7 +1393,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:skeleton_skull_dummy"
 		},
 		{
@@ -1403,7 +1403,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_attuned_crystal"
 		},
 		{
@@ -1416,7 +1416,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_campfire"
 		},
 		{
@@ -1426,7 +1426,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_fire"
 		},
 		{
@@ -1439,7 +1439,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_grindstone"
 		},
 		{
@@ -1449,7 +1449,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_lantern"
 		},
 		{
@@ -1459,7 +1459,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_torch"
 		},
 		{
@@ -1469,7 +1469,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:spirit_wall_torch"
 		},
 		{
@@ -1479,7 +1479,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:stable_wormhole"
 		},
 		{
@@ -1489,7 +1489,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:stable_wormhole_dark"
 		},
 		{
@@ -1499,7 +1499,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_controller"
 		},
 		{
@@ -1509,7 +1509,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_controller_base"
 		},
 		{
@@ -1519,7 +1519,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_controller_base_dark"
 		},
 		{
@@ -1529,7 +1529,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_controller_dark"
 		},
 		{
@@ -1539,7 +1539,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_controller_stabilized"
 		},
 		{
@@ -1549,7 +1549,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_controller_stabilized_dark"
 		},
 		{
@@ -1559,7 +1559,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier0"
 		},
 		{
@@ -1569,7 +1569,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier0_dark"
 		},
 		{
@@ -1579,7 +1579,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier1"
 		},
 		{
@@ -1589,7 +1589,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier1_dark"
 		},
 		{
@@ -1599,7 +1599,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier2"
 		},
 		{
@@ -1609,7 +1609,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier2_dark"
 		},
 		{
@@ -1619,7 +1619,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier3"
 		},
 		{
@@ -1629,7 +1629,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier3_dark"
 		},
 		{
@@ -1639,7 +1639,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier4"
 		},
 		{
@@ -1649,7 +1649,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier4_dark"
 		},
 		{
@@ -1659,7 +1659,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier5"
 		},
 		{
@@ -1669,7 +1669,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:storage_stabilizer_tier5_dark"
 		},
 		{
@@ -1719,7 +1719,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "occultism:wither_skeleton_skull_dummy"
 		}
 	]

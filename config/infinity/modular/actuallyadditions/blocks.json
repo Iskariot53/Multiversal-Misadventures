@@ -7,7 +7,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:atomic_reconstructor"
 		},
 		{
@@ -17,7 +17,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:battery_box"
 		},
 		{
@@ -27,7 +27,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:bio_reactor"
 		},
 		{
@@ -167,7 +167,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:breaker"
 		},
 		{
@@ -187,7 +187,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:canola_press"
 		},
 		{
@@ -237,7 +237,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:coal_generator"
 		},
 		{
@@ -257,7 +257,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:coffee_machine"
 		},
 		{
@@ -270,7 +270,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:crusher"
 		},
 		{
@@ -283,7 +283,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:crusher_double"
 		},
 		{
@@ -313,7 +313,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:display_stand"
 		},
 		{
@@ -323,7 +323,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:dropper"
 		},
 		{
@@ -353,7 +353,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_diamatine_crystal_block"
 		},
 		{
@@ -363,7 +363,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_emeradic_crystal_block"
 		},
 		{
@@ -373,7 +373,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_enori_crystal_block"
 		},
 		{
@@ -383,7 +383,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_palis_crystal_block"
 		},
 		{
@@ -393,7 +393,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_restonia_crystal_block"
 		},
 		{
@@ -403,7 +403,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_void_crystal_block"
 		},
 		{
@@ -413,7 +413,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowerer"
 		},
 		{
@@ -423,7 +423,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:ender_casing"
 		},
 		{
@@ -433,7 +433,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:energizer"
 		},
 		{
@@ -443,7 +443,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:enervator"
 		},
 		{
@@ -553,7 +553,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:farmer"
 		},
 		{
@@ -563,7 +563,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:feeder"
 		},
 		{
@@ -573,7 +573,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:fermenting_barrel"
 		},
 		{
@@ -583,7 +583,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:firework_box"
 		},
 		{
@@ -603,7 +603,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:fluid_collector"
 		},
 		{
@@ -613,7 +613,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:fluid_placer"
 		},
 		{
@@ -633,7 +633,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:heat_collector"
 		},
 		{
@@ -643,7 +643,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:hopping_item_interface"
 		},
 		{
@@ -663,7 +663,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:item_interface"
 		},
 		{
@@ -676,7 +676,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_black"
 		},
 		{
@@ -689,7 +689,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_blue"
 		},
 		{
@@ -702,7 +702,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_brown"
 		},
 		{
@@ -712,7 +712,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_controller"
 		},
 		{
@@ -725,7 +725,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_cyan"
 		},
 		{
@@ -738,7 +738,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_gray"
 		},
 		{
@@ -751,7 +751,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_green"
 		},
 		{
@@ -764,7 +764,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_light_blue"
 		},
 		{
@@ -777,7 +777,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_light_gray"
 		},
 		{
@@ -790,7 +790,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_lime"
 		},
 		{
@@ -803,7 +803,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_magenta"
 		},
 		{
@@ -816,7 +816,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_orange"
 		},
 		{
@@ -829,7 +829,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_pink"
 		},
 		{
@@ -842,7 +842,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_purple"
 		},
 		{
@@ -855,7 +855,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_red"
 		},
 		{
@@ -868,7 +868,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_white"
 		},
 		{
@@ -881,7 +881,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lamp_yellow"
 		},
 		{
@@ -891,7 +891,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:laser_relay"
 		},
 		{
@@ -901,7 +901,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:laser_relay_advanced"
 		},
 		{
@@ -911,7 +911,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:laser_relay_extreme"
 		},
 		{
@@ -921,7 +921,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:laser_relay_fluids"
 		},
 		{
@@ -931,7 +931,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:laser_relay_item"
 		},
 		{
@@ -941,7 +941,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:laser_relay_item_advanced"
 		},
 		{
@@ -951,7 +951,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lava_factory_casing"
 		},
 		{
@@ -961,7 +961,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:lava_factory_controller"
 		},
 		{
@@ -971,7 +971,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:leaf_generator"
 		},
 		{
@@ -981,7 +981,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:long_range_breaker"
 		},
 		{
@@ -991,7 +991,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:oil_generator"
 		},
 		{
@@ -1021,7 +1021,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_booster"
 		},
 		{
@@ -1031,7 +1031,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_breaker"
 		},
 		{
@@ -1041,7 +1041,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_energyface"
 		},
 		{
@@ -1051,7 +1051,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_itemface"
 		},
 		{
@@ -1061,7 +1061,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_liquiface"
 		},
 		{
@@ -1071,7 +1071,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_placer"
 		},
 		{
@@ -1081,7 +1081,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:phantom_redstoneface"
 		},
 		{
@@ -1091,7 +1091,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:placer"
 		},
 		{
@@ -1101,7 +1101,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:player_interface"
 		},
 		{
@@ -1114,7 +1114,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:powered_furnace"
 		},
 		{
@@ -1124,7 +1124,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:ranged_collector"
 		},
 		{
@@ -1164,7 +1164,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:shock_suppressor"
 		},
 		{
@@ -1214,7 +1214,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:tiny_torch"
 		},
 		{
@@ -1224,7 +1224,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:vertical_digger"
 		},
 		{
@@ -1264,7 +1264,7 @@
 				"float": true,
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:xp_solidifier"
 		}
 	]

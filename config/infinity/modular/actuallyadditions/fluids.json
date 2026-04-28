@@ -11,14 +11,14 @@
 			"data": {
 				"fluidName": "actuallyadditions:crystallized_oil"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:crystallized_oil"
 		},
 		{
 			"data": {
 				"fluidName": "actuallyadditions:empowered_oil"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "actuallyadditions:empowered_oil"
 		},
 		{

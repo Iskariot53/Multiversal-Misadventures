@@ -6,7 +6,6 @@
   {"ingredient":{"id":"minecraft:tuff_wall"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"productivebees:configurable_comb","components":{"productivebees:bee_type":"productivebees:crimson"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:stripped_birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"arphex:warp_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:stripped_oak_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:birch_fence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:spruce_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -24,5 +23,7 @@
   {"ingredient":{"id":"minecraft:stripped_oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:birch_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:spruce_button"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:oak_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:oak_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fluxnetworks:flux_point"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:carrot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

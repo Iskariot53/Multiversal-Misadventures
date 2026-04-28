@@ -68,6 +68,9 @@
   "apothic_spawners": {
     "spawner": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "exdeorum": {
     "infested_leaves": true,
     "barrel": true,
@@ -107,14 +110,6 @@
     "energy": true,
     "tooltip_renderer": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
-  "pipez": {
-    "pipe": true
-  },
   "productivemetalworks": {
     "casting": true
   },
@@ -138,6 +133,9 @@
   },
   "replication": {
     "matter_tank": true
+  },
+  "spaceploitation": {
+    "planet_simulator": true
   },
   "jade_access": {
     "held_item": true,
@@ -165,6 +163,10 @@
   "balm": {
     "jade": true
   },
+  "functionalstorage": {
+    "armory": true,
+    "drawer": true
+  },
   "productivebees": {
     "bee": true,
     "solitary_nest": true,
@@ -176,11 +178,6 @@
   },
   "ars_nouveau": {
     "mob_jar": true
-  },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
   },
   "corpse": {
     "corpse": true

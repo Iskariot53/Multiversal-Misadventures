@@ -1,0 +1,9 @@
+{
+  "dimension": "minecraft:the_end",
+  "portalAction": 2,
+  "xpLevel": 30,
+  "itemsKey": {
+    "cataclysm:ignitium_ingot": true,
+    "cataclysm:monstrous_horn": true
+  }
+}

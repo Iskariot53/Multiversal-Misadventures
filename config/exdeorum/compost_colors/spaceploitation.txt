@@ -1,0 +1,10 @@
+// Compost colors for spaceploitation. You may add your own colors, change existing ones, or remove colors that aren't needed.
+guide, #98a4b5
+raw_tantalum, #a5b4c6
+tantalum_ingot, #919eb1
+tantalum_nugget, #93a1b2
+tantalum_sheet, #9aa8bb
+tinted_planet_card, #9da4a8
+upgrade_energy, #8e9bae
+upgrade_luck, #8e9bae
+upgrade_speed, #8e9bae

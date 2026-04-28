@@ -1,0 +1,9 @@
+{
+  "dimension": "minecraft:overworld",
+  "portalAction": 2,
+  "xpLevel": 50,
+  "itemsKey": {
+    "cataclysm:void_core": false,
+    "cataclysm:gauntlet_of_guard": false
+  }
+}

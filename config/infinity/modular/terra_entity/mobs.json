@@ -18,7 +18,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:angler"
 		},
 		{
@@ -39,7 +39,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:arms_dealer"
 		},
 		{
@@ -158,14 +158,14 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:brain_fake"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:brain_of_cthulhu"
 		},
 		{
@@ -200,14 +200,14 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:chester"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:clothier"
 		},
 		{
@@ -298,14 +298,14 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:deerclops"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:demolitionist"
 		},
 		{
@@ -340,7 +340,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:devourer"
 		},
 		{
@@ -368,7 +368,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:dryad"
 		},
 		{
@@ -382,7 +382,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:dungeon_guardian"
 		},
 		{
@@ -396,28 +396,28 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:dye_trader"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:eater_of_souls"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:eater_of_worlds"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:eater_of_worlds_segment"
 		},
 		{
@@ -438,7 +438,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:eye_of_cthulhu"
 		},
 		{
@@ -466,7 +466,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:female_angler"
 		},
 		{
@@ -578,7 +578,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:goblin_tinkerer"
 		},
 		{
@@ -592,14 +592,14 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:golden_mimic"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:golden_slime"
 		},
 		{
@@ -648,14 +648,14 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:guide"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:hallowed_mimic"
 		},
 		{
@@ -704,7 +704,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:hill_of_flesh"
 		},
 		{
@@ -795,7 +795,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:king_slime"
 		},
 		{
@@ -872,14 +872,14 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:mechanic"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:merchant"
 		},
 		{
@@ -900,35 +900,35 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:nurse"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:nymph"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:old_man"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:painter"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:party_girl"
 		},
 		{
@@ -970,21 +970,21 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:plantera"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:plantera_hook"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:plantera_tentacle"
 		},
 		{
@@ -1005,7 +1005,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:prismatic_lacewing"
 		},
 		{
@@ -1019,7 +1019,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:queen_bee"
 		},
 		{
@@ -1075,14 +1075,14 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:servant_of_cthulhu"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:shadow_mimic"
 		},
 		{
@@ -1103,28 +1103,28 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:skeletron"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:skeletron_hand"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:skeletron_prime"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:skeletron_prime_part"
 		},
 		{
@@ -1222,56 +1222,56 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_diamond_sword"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_golden_sword"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_imp"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_iron_sword"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_netherite_sword"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_snow_flinx"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_stone_sword"
 		},
 		{
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:summon_wooden_sword"
 		},
 		{
@@ -1292,28 +1292,28 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:terraprisma"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:the_destroyer"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:the_destroyer_part"
 		},
 		{
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:the_destroyer_probe"
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:the_twins"
 		},
 		{
@@ -1341,7 +1341,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:traveling_merchant"
 		},
 		{
@@ -1355,7 +1355,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:truffle"
 		},
 		{
@@ -1390,7 +1390,7 @@
 			"data": {
 				"Category": "monster"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:wall_of_flesh"
 		},
 		{
@@ -1404,7 +1404,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:witch_doctor"
 		},
 		{
@@ -1418,7 +1418,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:wizard"
 		},
 		{
@@ -1460,7 +1460,7 @@
 			"data": {
 				"Category": "creature"
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_entity:zoologist"
 		}
 	]

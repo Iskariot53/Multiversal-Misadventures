@@ -1,0 +1,6 @@
+// Compost colors for reliquified_lenders_cataclysm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+scouring_eye, #542f73
+vacuum_glove, #612266
+void_bubble, #8636ae
+void_cloak, #6f5764
+void_vortex_in_bottle, #d2b9ff

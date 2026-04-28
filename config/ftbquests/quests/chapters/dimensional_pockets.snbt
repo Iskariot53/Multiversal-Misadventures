@@ -7,10 +7,11 @@
 		id: "dimensionalpocketsii:block_pocket_enhanced"
 	}
 	id: "5158AF3E98971970"
-	order_index: 4
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["458329839B21BF7B"]
 			id: "5CFD7FD3066A70C3"
 			tasks: [{
 				id: "5C220927EF4658A8"
@@ -39,8 +40,8 @@
 				item: { count: 1, id: "dimensionalpocketsii:dimensional_ingot" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 2.0d
+			x: -2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["39C5481171CC5EA2"]
@@ -50,8 +51,8 @@
 				item: { count: 1, id: "dimensionalpocketsii:dimensional_wrench" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 2.0d
+			x: -3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["75B1263BA2F94FA5"]
@@ -73,8 +74,8 @@
 				item: { count: 1, id: "dimensionalpocketsii:dimensional_gem" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 2.0d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -88,8 +89,8 @@
 				item: { count: 1, id: "dimensionalpocketsii:dimensional_device_base" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: -2.0d
+			y: 9.5d
 		}
 		{
 			dependencies: [
@@ -97,6 +98,7 @@
 				"39C5481171CC5EA2"
 			]
 			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "64B95E57827B0FBA"
 			tasks: [{
 				id: "4311523259726213"
@@ -104,9 +106,10 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.0d
+			y: 11.0d
 		}
 		{
+			dependencies: ["7340A20D73205FD0"]
 			id: "7ABAD97387A02200"
 			tasks: [{
 				id: "0C1BE39D76A9D024"
@@ -114,7 +117,312 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"73CE0DF6CBFF0543"
+				"39C5481171CC5EA2"
+			]
+			id: "29EBE6AFB6720143"
+			size: 1.5d
+			tasks: [{
+				id: "720D0BEA8655E0C6"
+				item: { count: 1, id: "dimensionalpocketsii:block_pocket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["63EF93F4F6AEBD38"]
+			id: "75B9D73064EC09A6"
+			size: 2.0d
+			tasks: [{
+				id: "75ADE64852C1A072"
+				item: { count: 1, id: "dimensionalpocketsii:block_pocket_enhanced" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["29EBE6AFB6720143"]
+			id: "1D57CA0B77F76D71"
+			tasks: [{
+				id: "6193C345A7AC6023"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_shifter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["63EF93F4F6AEBD38"]
+			id: "2F86022036C90F5C"
+			tasks: [{
+				id: "39734F9B523A2655"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_shifter_enhanced" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7ABAD97387A02200"]
+			id: "0176ED66BEC2459A"
+			tasks: [{
+				id: "3CF6D409A0F7686E"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_energy_cell_enhanced" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "31306D2AB672D4BD"
+			tasks: [{
+				id: "1B681AD13C34309B"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_screen" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "0B4E4221F6C64074"
+			tasks: [{
+				id: "0CF9FCE855F3DB37"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_shifter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "7A3EDE3B1DB14437"
+			tasks: [{
+				id: "21EC5CAC7660B31A"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_visor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "44029FECD95C8F4C"
+			tasks: [{
+				id: "437250AEFBEA440A"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_solar" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "09207F80BF714409"
+			tasks: [{
+				id: "7AC0F38A16BC6DF9"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_battery" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "62F0216BBADAD8EA"
+			tasks: [{
+				id: "0980F6002B96F656"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_ender_chest" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "7C99A366A8B9FE04"
+			tasks: [{
+				id: "08C4AF63697C5A9F"
+				item: { count: 1, id: "dimensionalpocketsii:armour_module_firework" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "34E877D89AA7C9D8"
+			tasks: [{
+				id: "6B5BAFCA681D47C6"
+				item: { count: 1, id: "dimensionalpocketsii:module_connector" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "6A14BABAE6C1FD4B"
+			tasks: [{
+				id: "6767E4ECAD95227B"
+				item: { count: 1, id: "dimensionalpocketsii:module_charger" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "17DDF94561F06DB4"
+			tasks: [{
+				id: "603D3830D53127D5"
+				item: { count: 1, id: "dimensionalpocketsii:module_crafter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "438D62E22D5AE7A1"
+			tasks: [{
+				id: "0ADC74DAF2FA94B9"
+				item: { count: 1, id: "dimensionalpocketsii:module_smithing_table" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "230D6C64A6CA6E82"
+			tasks: [{
+				id: "326F3513FAA99C90"
+				item: { count: 1, id: "dimensionalpocketsii:module_furnace" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "236AD64CD7E9FF9F"
+			tasks: [{
+				id: "4D2936DE1974765C"
+				item: { count: 1, id: "dimensionalpocketsii:module_blast_furnace" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "1796ACB63023EFB5"
+			tasks: [{
+				id: "44865DD4BCCFACA5"
+				item: { count: 1, id: "dimensionalpocketsii:module_energy_display" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "69DD92FFECED3B59"
+			tasks: [{
+				id: "2BFA2FA5235B3F24"
+				item: { count: 1, id: "dimensionalpocketsii:module_fluid_display" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "4656B509CBBFD1CF"
+			tasks: [{
+				id: "4F39C48D3877DDC7"
+				item: { count: 1, id: "dimensionalpocketsii:module_armour_workbench" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "3D4297C0212CBD27"
+			tasks: [{
+				id: "4E182A9C665E30DB"
+				item: { count: 1, id: "dimensionalpocketsii:module_generator" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "33D0C5C2F7FA7100"
+			tasks: [{
+				id: "429885D4C79474EF"
+				item: { count: 1, id: "dimensionalpocketsii:module_generator_automated" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "7F3F24E53323C565"
+			tasks: [{
+				id: "783E2891847520DD"
+				item: { count: 1, id: "dimensionalpocketsii:module_upgrade_station" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "1D3A598079457385"
+			tasks: [{
+				id: "4DA4F95477F0F19F"
+				item: { count: 1, id: "dimensionalpocketsii:module_anvil" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["64B95E57827B0FBA"]
+			id: "32736521BDA6A1F0"
+			tasks: [{
+				id: "7202D7C2B7002962"
+				item: { count: 1, id: "dimensionalpocketsii:module_glass" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 12.5d
+		}
+		{
+			dependencies: [
+				"73CE0DF6CBFF0543"
+				"39C5481171CC5EA2"
+			]
+			id: "63EF93F4F6AEBD38"
+			tasks: [{
+				id: "32F70031F1C12888"
+				item: { count: 1, id: "dimensionalpocketsii:dimensional_ingot_enhanced" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
 		}
 	]
 }

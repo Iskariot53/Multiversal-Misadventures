@@ -365,19 +365,19 @@
 			"key": "mekanism:crafting_formula"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_bin"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_chemical_tank"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_energy_cube"
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "mekanism:creative_fluid_tank"
 		},
 		{

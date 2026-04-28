@@ -103,7 +103,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:blue_dungeon_chair"
 		},
 		{
@@ -116,7 +116,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:blue_dungeon_chandelier"
 		},
 		{
@@ -126,7 +126,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:blue_dungeon_clock"
 		},
 		{
@@ -182,7 +182,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:blue_dungeon_sofa"
 		},
 		{
@@ -202,7 +202,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:blue_dungeon_toilet"
 		},
 		{
@@ -358,7 +358,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:glass_chair"
 		},
 		{
@@ -381,7 +381,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:glass_clock"
 		},
 		{
@@ -404,7 +404,7 @@
 				},
 				"full": true
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:glass_kiln"
 		},
 		{
@@ -450,7 +450,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:glass_sofa"
 		},
 		{
@@ -470,7 +470,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:glass_toilet"
 		},
 		{
@@ -503,7 +503,7 @@
 				},
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:hanging_pot"
 		},
 		{
@@ -603,7 +603,7 @@
 				"float": false,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:pin_wheel"
 		},
 		{
@@ -623,7 +623,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:plastic_chair"
 		},
 		{
@@ -703,7 +703,7 @@
 				"float": true,
 				"full": false
 			},
-			"weight": 1.0,
+			"weight": 0.0,
 			"key": "terra_furniture:trash_can"
 		},
 		{

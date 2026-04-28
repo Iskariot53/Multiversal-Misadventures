@@ -7,11 +7,12 @@
 		id: "minecraft:blast_furnace"
 	}
 	id: "6594504242CFDEF0"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["458329839B21BF7B"]
+			hide_until_deps_complete: true
 			id: "606DE715CCDAF062"
 			size: 1.5d
 			tasks: [{
