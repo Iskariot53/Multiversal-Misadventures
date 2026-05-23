@@ -1,21 +1,25 @@
 ["General Settings"]
 	#Enable or disable chat announcements from the mod.
 	enableChatAnnouncements = true
+	#Enable or disable debug logging from the mod. Disable this if the mod spams the console.
+	enableDebugLogging = false
+	#Enable or disable day-based mob health scaling. If false, mobs keep their normal health, but gear and armor features still work.
+	enableHealthScaling = true
 
 ["Health Multiplier Settings"]
-	#Base health multiplier for enemies.
+	#Base health multiplier for enemies. Only used when enableHealthScaling is true.
 	# Default: 1.0
 	# Range: 0.1 ~ 100.0
 	baseHealthMultiplier = 1.0
-	#Maximum health multiplier for enemies.
+	#Maximum health multiplier for enemies. Only used when enableHealthScaling is true.
 	# Default: 2.0
 	# Range: 0.1 ~ 10.0
 	maxHealthMultiplier = 2.0
-	#Increment to increase health multiplier after reaching certain amount of days.
+	#Increment to increase health multiplier after reaching certain amount of days. Only used when enableHealthScaling is true.
 	# Default: 0.2
 	# Range: 0.1 ~ 10.0
 	healthMultiplierIncrement = 0.2
-	#How many in-game days it takes for the health multiplier to increment.
+	#How many in-game days it takes for the health multiplier to increment. Only used when enableHealthScaling is true.
 	# Default: 24
 	# Range: 1 ~ 100
 	daysPerIncrement = 24

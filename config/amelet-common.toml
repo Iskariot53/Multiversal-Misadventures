@@ -1,0 +1,7 @@
+["Main Config"]
+	#Probabilidad en % por defecto para la activación del tótem normal, de 0.0 a 1.0, donde 1.0 es 100%.
+	valor = 1.0
+	#debugMessage
+	debugMessage = false
+	#Mostrar mensaje global cuando un jugador usa un tótem
+	showTotemMessage = false

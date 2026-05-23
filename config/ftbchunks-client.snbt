@@ -127,7 +127,7 @@
 		compass: true
 		
 		# Enable minimap
-		# Default: true
+		# Default: false
 		enabled: false
 		
 		# Show entities on minimap
@@ -138,84 +138,84 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"ars_elemental:flashing_weald_walker": true
-			"minecraft:sniffer": true
-			"minecraft:bat": true
 			"infinity:ant": true
-			"minecraft:wolf": true
-			"minecraft:skeleton_horse": true
-			"minecraft:cod": false
-			"minecraft:glow_squid": true
-			"minecraft:zombie": true
-			"minecraft:bee": true
-			"minecraft:guardian": true
-			"minecraft:creeper": true
-			"terra_entity:big_bones": true
-			"minecraft:spider": true
-			"minecraft:salmon": false
-			"minecraft:hoglin": true
-			"minecraft:dolphin": true
-			"minecraft:shulker": true
-			"minecraft:sheep": true
-			"minecraft:donkey": true
-			"productivebees:leafcutter_bee": true
-			"minecraft:piglin_brute": true
-			"minecraft:witch": true
-			"minecraft:piglin": true
-			"productivebees:reed_bee": true
-			"monsterplus:spectral_skull": true
-			"productivebees:neon_cuckoo_bee": true
-			"minecraft:ender_dragon": true
-			"forbidden_arcanus:lost_soul": true
-			"arphex:dungeon_trigger": true
-			"infinity:bishop": true
-			"minecraft:axolotl": true
-			"minecraft:cow": true
-			"minecraft:pig": true
-			"minecraft:chicken": true
-			"minecraft:squid": true
-			"minecraft:zombified_piglin": true
-			"minecraft:tropical_fish": false
-			"ars_nouveau:alakarkinos": true
-			"artifacts:mimic": true
-			"monsterplus:demon_eye": true
-			"arphex:ant_arsonist": true
-			"terra_entity:blue_slime": true
-			"productivebees:blue_banded_bee": true
-			"minecraft:villager": true
-			"mutantmonsters:mutant_zombie": true
-			"ars_nouveau:gift_starby": true
-			"minecraft:cat": true
-			"terra_entity:black_slime": true
-			"ars_nouveau:wilden_stalker": true
-			"minecraft:skeleton": true
-			"terra_entity:spore_skeleton": true
-			"minecraft:slime": true
-			"minecraft:enderman": true
-			"minecraft:iron_golem": true
-			"ars_nouveau:drygmy": true
-			"minecraft:llama": true
 			"ars_elemental:water_mage": true
-			"ars_nouveau:starbuncle": true
-			"minecraft:giant": true
-			"terra_entity:red_slime": true
-			"productivebees:bumble_bee": true
-			"terra_entity:wyvern": true
-			"mutantmonsters:mutant_skeleton": true
+			"productivebees:reed_bee": true
 			"mutantmonsters:mutant_creeper": true
-			"arphex:maggot_larvae": true
-			"minecraft:allay": true
-			"minecraft:pillager": true
-			"minecraft:zombie_villager": true
-			"minecraft:fox": true
-			"arphex:spider_jump": true
-			"minecraft:armadillo": true
-			"occultism:possessed_weak_shulker": true
-			"minecraft:horse": true
-			"swplanets:bantha": true
-			"ars_nouveau:whirlisprig": true
-			"arphex:spider_goliath": true
+			"minecraft:ender_dragon": true
+			"minecraft:cat": true
+			"minecraft:guardian": true
+			"terra_entity:black_slime": true
+			"minecraft:iron_golem": true
+			"minecraft:zombie": true
+			"monsterplus:demon_eye": true
+			"productivebees:neon_cuckoo_bee": true
 			"productivebees:creeper_bee": true
+			"minecraft:giant": true
+			"terra_entity:wyvern": true
+			"minecraft:pillager": true
+			"minecraft:spider": true
+			"minecraft:skeleton": true
+			"minecraft:hoglin": true
+			"minecraft:skeleton_horse": true
+			"minecraft:piglin": true
+			"ars_nouveau:starbuncle": true
+			"productivebees:leafcutter_bee": true
+			"minecraft:cow": true
+			"minecraft:fox": true
+			"minecraft:wolf": true
+			"mutantmonsters:mutant_skeleton": true
+			"ars_nouveau:drygmy": true
+			"ars_nouveau:wilden_stalker": true
+			"ars_nouveau:whirlisprig": true
+			"minecraft:dolphin": true
+			"productivebees:bumble_bee": true
+			"ars_elemental:flashing_weald_walker": true
+			"minecraft:sheep": true
+			"monsterplus:spectral_skull": true
+			"minecraft:bee": true
+			"ars_nouveau:alakarkinos": true
+			"minecraft:enderman": true
+			"arphex:ant_arsonist": true
+			"occultism:possessed_weak_shulker": true
+			"minecraft:salmon": false
+			"minecraft:horse": true
+			"terra_entity:red_slime": true
+			"minecraft:zombie_villager": true
+			"minecraft:zombified_piglin": true
+			"terra_entity:blue_slime": true
+			"arphex:spider_goliath": true
+			"minecraft:armadillo": true
+			"ars_nouveau:gift_starby": true
+			"minecraft:donkey": true
+			"minecraft:sniffer": true
+			"forbidden_arcanus:lost_soul": true
+			"arphex:spider_jump": true
+			"minecraft:piglin_brute": true
+			"productivebees:blue_banded_bee": true
+			"minecraft:glow_squid": true
+			"minecraft:slime": true
+			"mutantmonsters:mutant_zombie": true
+			"minecraft:allay": true
+			"minecraft:witch": true
+			"minecraft:villager": true
+			"minecraft:creeper": true
+			"minecraft:chicken": true
+			"infinity:bishop": true
+			"terra_entity:spore_skeleton": true
+			"arphex:dungeon_trigger": true
+			"minecraft:bat": true
+			"minecraft:shulker": true
+			"minecraft:pig": true
+			"minecraft:cod": false
+			"swplanets:bantha": true
+			"artifacts:mimic": true
+			"terra_entity:big_bones": true
+			"minecraft:llama": true
+			"minecraft:squid": true
+			"minecraft:axolotl": true
+			"arphex:maggot_larvae": true
+			"minecraft:tropical_fish": false
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

@@ -1,137 +1,16 @@
-Multiversal Misadventures 3.0.0 Change Log
-
-This up date *will not* be compatible with any prior versions of the pack.
-
-The gameplay progression (quest/story) loop is undergoing a complete overhaul, For now the primary focus is ironing out wrinkles between new mechanics as well as the addition of custom multiblocks, while that is conceptualized and composed.
-For now? Any information left in the questbook is still relevant.
-
-Updated to NeoForge 21.1.222
-
-
-Mods Removed
-
-
-- Confluence Dimension Patch
-- Create Railways Nvagiator
-- FTB Ultimine
-- Stellaris
-- Star Wars Planets Stellaris
-- Xaero's MiniMap
-- Xaero's World Map
-- Yamo
+Multiversal Misadventures 3.0.4 Change Log
 
 
  
 Mods Added
 
-
-- Actually Additions
-- Ars Affinity
-- Ars Unification
-- The Bumblezone
-- Confluence Music
-- CC: Sable
-- CC: Tweaked
-- Crash Assistant
-- Create Aeronautics
-- Create Aeronautics: Dyeable Components
-- Create Big Cannons
-- Create: Central Kitchen
-- Create : Creating Space
-- Create: Enchantment Industry
-- Create: Occult Engineering
-- Create Slice & Dice
-- Dyson Cube Project
-- Entangled 
-- Immersive Furniture
-- Immersive Melodies
-- Immersive Paintings
-- Little Big Redstone
-- Mahou Tsukai
-- Map Atlases
-- Modular Bees
-- Modular Machinery Reborn
-- Oracle Index
-- Oritech
-- Paragliders
-- Powah (Rearchitected)
-- Questlog
-- Sable
-- Sable Schematics
-- Schematic Energistics
-- SpacePloitation
-- Strange Matter
+- Bad WIther No Cookie - Reloaded
+- Colorwheel
+- Sinytra Connector - (for utilities/future additions.)
 
 
 
-Mods Updated
+Changes
 
 
-- Access Denied
-- AdvancedAE
-- AE2: Crafting Tree
-- Apotheosis
-- Apothic Enchanting
-- Applied Energistics 2 Wireless Terminals
-- Ars Elemental
-- Ars Nouveau
-- Ars Technica
-- Athena
-- Backpacked
-- Balm
-- BaguetteLib
-- Bookshelf
-- Cobblegen Galore
-- Collective
-- Confluence Dimension Patch
-- Confluence: Otherworld
-- CraftTweaker
-- Create
-- Create Better FPS
-- Create: Copycats+
-- Create Crafts & Additions
-- Create: Diesel Generators
-- Create: Filters Anywhere
-- Create: Hypertubes
-- Create Railways Navigator
-- Create Train Utilities
-- e4mc
-- Ex Deorum
-- ExperienceLib
-- Farming for Blockheads
-- Framework
-- FTB Chunks
-- FTB Essentials
-- FTB Filter System
-- FTB Library
-- FTB Quests
-- FTB Teams
-- FTB XMod Compat
-- Fusion
-- ImmediatelyFast
-- Industrial Foregoing
-- Infinite Dimensions
-- Lootr
-- ModernFix
-- Mutant Monsters
-- Occultism
-- Oritech
-- Powah! (Rearchitected)
-- Puzzles Lib
-- Productive Bees
-- Productive Metalworks
-- Refined Storage - Mekanism Integration
-- Refined Types
-- Security Craft
-- Spice of Life: Carrot Edition
-- Stellaris
-- Tesseract API
-- Time in a bottle
-- Tom's Simple Storage Mod
-- Tool Belt
-- Torchmaster
-- WATERMeDIA: Multimedia API
-- Waystones
-- Yet Another Memory Optimization
-- Xaero's Minimap
-- Xaero's World Map
+- Fixed incompatibility issues with Iris.

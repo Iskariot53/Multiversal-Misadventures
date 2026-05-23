@@ -33,6 +33,10 @@
 	# Default: 256
 	# Range: > 1
 	maxParallel = 256
+	#Defines the time between updates in dynamic extra tooltips
+	# Default: 20
+	# Range: > 1
+	dynamic_tooltip_interval = 20
 
 [Structure]
 	#Defines if it should break and place the non-matching blocks on trying to place structure. Default: true

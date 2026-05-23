@@ -15,6 +15,7 @@
 				air_liquefier = 500.0
 				catalyst_carrier = 8.0
 				mechanical_electrolyzer = 2000.0
+				oxygen_sealer = 8.0
 
 #.
 #
@@ -35,6 +36,10 @@
 	# Default: 1.5
 	# Range: 0.10000000149011612 ~ 3.4028234663852886E38
 	ISPModifier = 1.5
+	#.
+	#the type of measurement the flight recorder give for propellant quantities
+	#Allowed Values: VOLUMETRIC, MASS
+	recorder_measurement = "VOLUMETRIC"
 
 #.
 #config for the oxygen room

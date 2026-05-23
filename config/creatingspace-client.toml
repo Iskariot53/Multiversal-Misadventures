@@ -36,7 +36,3 @@
 	# Default: 0.5
 	# Range: 0.10000000149011612 ~ 20.0
 	zoomOut = 0.5
-	#.
-	#the type of measurement the flight recorder give for propellant quantities
-	#Allowed Values: VOLUMETRIC, MASS
-	recorder_measurement = "VOLUMETRIC"
