@@ -1,3 +1,5 @@
+import crafttweaker.api.ingredient.IIngredient;
+
 craftingTable.remove(<item:dimensionalpocketsii:dimensional_shifter>);
 craftingTable.addJsonRecipe("misadventures.dimensional_shifter",
 {
@@ -104,3 +106,5 @@ craftingTable.addJsonRecipe("misadventures.block_dimensional_core",
         "id": "dimensionalpocketsii:block_dimensional_core"
     }
 });
+
+<item:infinity:book_box>.setBurnTime(600);

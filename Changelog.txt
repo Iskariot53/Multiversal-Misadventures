@@ -1,16 +1,25 @@
-Multiversal Misadventures 3.0.4 Change Log
+Multiversal Misadventures 3.0.5 Changelog
 
 
  
-Mods Added
+Mods Updated
 
-- Bad WIther No Cookie - Reloaded
-- Colorwheel
-- Sinytra Connector - (for utilities/future additions.)
 
+- Almost Unified
+- Ars Creo
+- The Bumblezone
+- Bad Wither No Cookie - Reloaded
+- CreativeCore
+- Little Big Redstone
+- GuideME
+- ModernFix
+- Modular Bees
+- Puzzles Lib
+- Tesseract API
 
 
 Changes
 
 
-- Fixed incompatibility issues with Iris.
+- Adjusted dimension generation ammendments to improve stability and decrease the overall amount of problematic portals.
+- Fixed issue with mutant mobs crashes.

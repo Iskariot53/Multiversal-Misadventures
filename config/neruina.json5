@@ -1,5 +1,5 @@
 {
-	auto_kill_ticking_entities: false,
+	auto_kill_ticking_entities: true,
 	handle_ticking_block_entities: true,
 	handle_ticking_block_states: true,
 	handle_ticking_entities: true,
